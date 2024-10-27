@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gavin Warner</title>
-    <link>https://gavinwarner.digital/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Gavin Warner</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gavinwarner.digital/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pizza!!!!</title>
-      <link>https://gavinwarner.digital/posts/pizza/</link>
+      <link>http://localhost:1313/posts/pizza/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/posts/pizza/</guid>
-      <description>&lt;p&gt;Pizza is awesome&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Screenshot&#34; src=&#34;https://gavinwarner.digital/posts/pizza/screenshot.png&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/pizza/</guid>
+      <description>&lt;p&gt;Pizza is awesome&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Screenshot&#34; src=&#34;http://localhost:1313/posts/pizza/screenshot.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>https://gavinwarner.digital/posts/rich-content/</link>
+      <link>http://localhost:1313/posts/rich-content/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/posts/rich-content/</guid>
+      <guid>http://localhost:1313/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xD;&#xA;  &#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://gavinwarner.digital/posts/markdown-syntax/</link>
+      <link>http://localhost:1313/posts/markdown-syntax/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/posts/markdown-syntax/</guid>
+      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Autores de Hugo</title>
-      <link>https://gavinwarner.digital/autores/autores-de-hugo/</link>
+      <link>http://localhost:1313/autores/autores-de-hugo/</link>
       <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
-      <guid>https://gavinwarner.digital/autores/autores-de-hugo/</guid>
+      <guid>http://localhost:1313/autores/autores-de-hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>temas</title>
-      <link>https://gavinwarner.digital/categoria/temas/</link>
+      <link>http://localhost:1313/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
-      <guid>https://gavinwarner.digital/categoria/temas/</guid>
+      <guid>http://localhost:1313/categoria/temas/</guid>
       <description></description>
     </item>
     <item>
       <title>sintaxe</title>
-      <link>https://gavinwarner.digital/categoria/sintaxe/</link>
+      <link>http://localhost:1313/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
-      <guid>https://gavinwarner.digital/categoria/sintaxe/</guid>
+      <guid>http://localhost:1313/categoria/sintaxe/</guid>
       <description></description>
     </item>
     <item>
       <title>Códigos curtos</title>
-      <link>https://gavinwarner.digital/tags/shortcodes/_index.pt-br/</link>
+      <link>http://localhost:1313/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>https://gavinwarner.digital/tags/shortcodes/_index.pt-br/</guid>
+      <guid>http://localhost:1313/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>https://gavinwarner.digital/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://gavinwarner.digital/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;Follow me, @johndoe.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://gavinwarner.digital/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;</description>
     </item>
   </channel>
