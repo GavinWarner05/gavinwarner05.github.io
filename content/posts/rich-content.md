@@ -1,7 +1,7 @@
 +++
-authors = ["Lone Coder"]
+authors = ["Gavinator"]
 title = "Rich Content"
-date = "2023-07-12"
+date = "2024-10-26"
 description = "A brief description of Hugo Shortcodes"
 tags = [
     "hugo",
@@ -14,7 +14,6 @@ categories = [
     "theme demo",
     "syntax",
 ]
-series = ["Theme Demo"]
 +++
 
 Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.

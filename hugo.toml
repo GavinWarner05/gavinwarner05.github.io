@@ -5,9 +5,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 6
 enableEmoji = true
-
-[outputs]
-home = ["HTML"]
+publishDir = "docs"
 
 [services]
 [services.disqus]
