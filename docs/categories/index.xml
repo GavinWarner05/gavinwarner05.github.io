@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gavin Warner</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://www.example.com/categories/</link>
     <description>Recent content in Categories on Gavin Warner</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power Apps</title>
-      <link>http://localhost:1313/categories/power-apps/</link>
+      <link>https://www.example.com/categories/power-apps/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/power-apps/</guid>
+      <guid>https://www.example.com/categories/power-apps/</guid>
       <description></description>
     </item>
     <item>
       <title>Power Platform</title>
-      <link>http://localhost:1313/categories/power-platform/</link>
+      <link>https://www.example.com/categories/power-platform/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/power-platform/</guid>
+      <guid>https://www.example.com/categories/power-platform/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>http://localhost:1313/categories/food/</link>
+      <link>https://www.example.com/categories/food/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/food/</guid>
+      <guid>https://www.example.com/categories/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>http://localhost:1313/categories/syntax/</link>
+      <link>https://www.example.com/categories/syntax/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/syntax/</guid>
+      <guid>https://www.example.com/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Demo</title>
-      <link>http://localhost:1313/categories/theme-demo/</link>
+      <link>https://www.example.com/categories/theme-demo/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/theme-demo/</guid>
+      <guid>https://www.example.com/categories/theme-demo/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/categories/travel/</link>
+      <link>https://www.example.com/categories/travel/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/travel/</guid>
+      <guid>https://www.example.com/categories/travel/</guid>
       <description></description>
     </item>
   </channel>
