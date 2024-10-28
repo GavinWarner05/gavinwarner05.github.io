@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gavin Warner</title>
-    <link>https://www.example.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Gavin Warner</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power Apps</title>
-      <link>https://www.example.com/tags/power-apps/</link>
+      <link>http://localhost:1313/tags/power-apps/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/tags/power-apps/</guid>
+      <guid>http://localhost:1313/tags/power-apps/</guid>
       <description></description>
     </item>
     <item>
       <title>Power Platform</title>
-      <link>https://www.example.com/tags/power-platform/</link>
+      <link>http://localhost:1313/tags/power-platform/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/tags/power-platform/</guid>
+      <guid>http://localhost:1313/tags/power-platform/</guid>
       <description></description>
     </item>
     <item>
       <title>Cheese</title>
-      <link>https://www.example.com/tags/cheese/</link>
+      <link>http://localhost:1313/tags/cheese/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/tags/cheese/</guid>
+      <guid>http://localhost:1313/tags/cheese/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>https://www.example.com/tags/css/</link>
+      <link>http://localhost:1313/tags/css/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/tags/css/</guid>
+      <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Ffod</title>
-      <link>https://www.example.com/tags/ffod/</link>
+      <link>http://localhost:1313/tags/ffod/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/tags/ffod/</guid>
+      <guid>http://localhost:1313/tags/ffod/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://www.example.com/tags/html/</link>
+      <link>http://localhost:1313/tags/html/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/tags/html/</guid>
+      <guid>http://localhost:1313/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://www.example.com/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://www.example.com/tags/markdown/</link>
+      <link>http://localhost:1313/tags/markdown/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/tags/markdown/</guid>
+      <guid>http://localhost:1313/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Pizza</title>
-      <link>https://www.example.com/tags/pizza/</link>
+      <link>http://localhost:1313/tags/pizza/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/tags/pizza/</guid>
+      <guid>http://localhost:1313/tags/pizza/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://www.example.com/tags/shortcodes/</link>
+      <link>http://localhost:1313/tags/shortcodes/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/tags/shortcodes/</guid>
       <description></description>
     </item>
   </channel>

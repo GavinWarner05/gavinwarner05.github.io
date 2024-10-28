@@ -8,9 +8,10 @@ enableEmoji = true
 publishDir = "docs"
 
 [services]
+
 [services.disqus]
 # Enable Disqus comments
-# shortname = "yourdiscussshortname"
+shortname = "yourdiscussshortname"
 
 [markup.highlight]
 noClasses = false
