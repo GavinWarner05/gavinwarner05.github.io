@@ -11,7 +11,7 @@ publishDir = "docs"
 
 [services.disqus]
 # Enable Disqus comments
-shortname = "yourdiscussshortname"
+shortname = "gavinwarnerdigital"
 
 [markup.highlight]
 noClasses = false
