@@ -1,11 +1,12 @@
 +++
 authors = ["Gavin Warner"]
-title = "Test"
+title = "Make pop-up screen in power apps"
 date = "2024-10-28"
-description = "Adding this to turn into my first post"
+description = "How to create a pop-up screen in power apps"
 tags = [
     "Power Platform",
     "Power Apps",
+    "UI",
 ]
 categories = [
     "power apps",
