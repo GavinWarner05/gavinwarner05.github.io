@@ -23,15 +23,15 @@ categories = [
 
 ## Step-by-Step Instructions
 
-### Step 1: [First Step]
+### Step 1:
 - Detailed description of the first step.
 - Any tips or warnings.
 
-### Step 2: [Second Step]
+### Step 2:
 - Detailed description of the second step.
 - Any tips or warnings.
 
-### Step 3: [Third Step]
+### Step 3:
 - Detailed description of the third step.
 - Any tips or warnings.
 
