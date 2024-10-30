@@ -17,7 +17,6 @@ categories = [
 ## Introduction
 - Brief overview of what the guide will cover.
 - Importance or benefits of following this guide.
-![test](community-contributor-2024.png "test")
 ## Materials Needed
 - List of materials or tools required.
 
