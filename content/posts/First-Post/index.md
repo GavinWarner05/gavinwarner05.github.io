@@ -15,10 +15,9 @@ categories = [
 +++
 
 ## Introduction
-- Brief overview of what the guide will cover.
-- Importance or benefits of following this guide.
+- This guide will go over how to set up a pop up screen in power apps in two different ways.
 ## Materials Needed
-- List of materials or tools required.
+- Computer and access to power apps.
 
 ## Step-by-Step Instructions
 
