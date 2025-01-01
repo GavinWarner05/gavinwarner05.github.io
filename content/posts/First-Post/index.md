@@ -17,14 +17,13 @@ categories = [
 ## Introduction
 - This guide will go over how to set up a pop up screen in power apps in two different ways.
 ## Materials Needed
-- Computer and access to power apps.
+- Access to PowerApps
 
 ## Step-by-Step Instructions
 
 ### Step 1:
-- Detailed description of the first step.
-- Any tips or warnings.
-
+- First, you're gonna want to add a button to the screen
+![Adding Button](First-Post/Images/FirstStep.png)
 ### Step 2:
 - Detailed description of the second step.
 - Any tips or warnings.
