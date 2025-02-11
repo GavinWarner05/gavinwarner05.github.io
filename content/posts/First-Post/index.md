@@ -22,7 +22,7 @@ categories = [
 ## Step-by-Step Instructions
 
 ### Step 1:
-- First, you're gonna want to add a button to the screen
+- First, you're gonna want to add a button to the screen 1
 <img src="Images/FirstStep.png" alt="First Step adding button">
 ### Step 2:
 - Detailed description of the second step.
