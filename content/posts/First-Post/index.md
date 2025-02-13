@@ -23,7 +23,7 @@ categories = [
 
 ### Step 1:
 - First, you're gonna want to add a button to the screen 1
-<img src="https://github.com/GavinWarner05/gavinwarner05.github.io/blob/main/content/posts/First-Post/Images/FirstStep.png?raw=true" alt="First Step adding button">
+![First Step](https://github.com/GavinWarner05/gavinwarner05.github.io/blob/main/content/posts/First-Post/Images/FirstStep.png?raw=true)
 ### Step 2:
 - Detailed description of the second step.
 - Any tips or warnings.
