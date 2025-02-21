@@ -1,6 +1,6 @@
 +++
-title = "Uploads"
-slug = "uploads"
+title = "Contact"
+slug = "contact"
 +++
 
 Follow me, @GavinWarnerCA.
