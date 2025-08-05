@@ -14,7 +14,7 @@ categories = [
 ]
 +++
 
-
+![Spy vs Spy with Sharepoint and Microsfot forms Logo](Images/SpyForm.png)
 # Understanding the Difference Between SharePoint Forms and Microsoft Forms
 
 When it comes to collecting information or input from users in the Microsoft ecosystem, two popular tools often come up, **SharePoint Forms** and **Microsoft Forms**. While they may sound similar, they serve different purposes and shine in different scenarios. Here’s a quick breakdown of the key differences to help you choose the right tool for your needs.
