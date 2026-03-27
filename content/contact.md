@@ -3,4 +3,4 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, @GavinWarnerCA.
+Follow me, [linkedin.com/in/gavinwarnerca](https://www.linkedin.com/in/gavinwarnerca/)
