@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gavin Warner</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://gavinwarner.digital/tags/</link>
     <description>Recent content in Tags on Gavin Warner</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gavinwarner.digital/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forms</title>
-      <link>http://localhost:1313/tags/forms/</link>
+      <link>https://gavinwarner.digital/tags/forms/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/forms/</guid>
+      <guid>https://gavinwarner.digital/tags/forms/</guid>
       <description></description>
     </item>
     <item>
       <title>Microsoft</title>
-      <link>http://localhost:1313/tags/microsoft/</link>
+      <link>https://gavinwarner.digital/tags/microsoft/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/microsoft/</guid>
+      <guid>https://gavinwarner.digital/tags/microsoft/</guid>
       <description></description>
     </item>
     <item>
       <title>Sharepoint</title>
-      <link>http://localhost:1313/tags/sharepoint/</link>
+      <link>https://gavinwarner.digital/tags/sharepoint/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sharepoint/</guid>
+      <guid>https://gavinwarner.digital/tags/sharepoint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Copilot</title>
+      <link>https://gavinwarner.digital/tags/copilot/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://gavinwarner.digital/tags/copilot/</guid>
       <description></description>
     </item>
   </channel>
