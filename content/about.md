@@ -18,5 +18,5 @@ Outside of work I'm an active member of the Microsoft 365 & Power Platform Commu
 
 Oh, and I'm a proud Vikings fan. Skol!
 
-📧 Gavin@dwarnerii.com
-🔗 linkedin.com/in/gavinwarnerca
+📧 Gavin@dwarnerii.com 
+🔗 [linkedin.com/in/gavinwarnerca](https://www.linkedin.com/in/gavinwarnerca/)
