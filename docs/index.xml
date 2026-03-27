@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gavin Warner</title>
-    <link>https://gavinwarner.digital/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Gavin Warner</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gavinwarner.digital/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Form vs Form</title>
-      <link>https://gavinwarner.digital/posts/form-vs-form/</link>
+      <link>http://localhost:1313/posts/form-vs-form/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/posts/form-vs-form/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Spy vs Spy with Sharepoint and Microsfot forms Logo&#34; src=&#34;https://gavinwarner.digital/posts/form-vs-form/Images/SpyForm.png&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;understanding-the-difference-between-sharepoint-forms-and-microsoft-forms&#34;&gt;&#xD;&#xA;  Understanding the Difference Between SharePoint Forms and Microsoft Forms&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#understanding-the-difference-between-sharepoint-forms-and-microsoft-forms&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;When it comes to collecting information or input from users in the Microsoft ecosystem, two popular tools often come up, &lt;strong&gt;SharePoint Forms&lt;/strong&gt; and &lt;strong&gt;Microsoft Forms&lt;/strong&gt;. While they may sound similar, they serve different purposes and shine in different scenarios. Here’s a quick breakdown of the key differences to help you choose the right tool for your needs.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/form-vs-form/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Spy vs Spy with Sharepoint and Microsfot forms Logo&#34; src=&#34;http://localhost:1313/posts/form-vs-form/Images/SpyForm.png&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;understanding-the-difference-between-sharepoint-forms-and-microsoft-forms&#34;&gt;&#xD;&#xA;  Understanding the Difference Between SharePoint Forms and Microsoft Forms&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#understanding-the-difference-between-sharepoint-forms-and-microsoft-forms&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;When it comes to collecting information or input from users in the Microsoft ecosystem, two popular tools often come up, &lt;strong&gt;SharePoint Forms&lt;/strong&gt; and &lt;strong&gt;Microsoft Forms&lt;/strong&gt;. While they may sound similar, they serve different purposes and shine in different scenarios. Here’s a quick breakdown of the key differences to help you choose the right tool for your needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://gavinwarner.digital/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Gavin Warner, a Microsoft Power Platform developer based in Los Angeles, CA.&lt;/p&gt;&#xA;&lt;p&gt;I build low-code solutions using Power Apps, Power Automate, Dataverse, and Microsoft Copilot Studio — helping businesses automate workflows, connect data sources, and work smarter with the tools they already have.&lt;/p&gt;&#xA;&lt;p&gt;Currently I&amp;rsquo;m working as a Power Platform developer at Archer Travels, where I design and maintain dataflows that standardize booking and supplier data across the business. Before that I spent nearly two years as a consultant and intern at Smarter Consulting, delivering Power Platform solutions for business clients.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Copilot Agent Building</title>
+      <link>http://localhost:1313/projects/copilot-studio-bot/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/copilot-studio-bot/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;copilot logo&#34; src=&#34;http://localhost:1313/projects/copilot-studio-bot/Images/microsoft-copilot.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Autores de Hugo</title>
-      <link>https://gavinwarner.digital/autores/autores-de-hugo/</link>
+      <link>http://localhost:1313/autores/autores-de-hugo/</link>
       <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
-      <guid>https://gavinwarner.digital/autores/autores-de-hugo/</guid>
+      <guid>http://localhost:1313/autores/autores-de-hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>temas</title>
-      <link>https://gavinwarner.digital/categoria/temas/</link>
+      <link>http://localhost:1313/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
-      <guid>https://gavinwarner.digital/categoria/temas/</guid>
+      <guid>http://localhost:1313/categoria/temas/</guid>
       <description></description>
     </item>
     <item>
       <title>sintaxe</title>
-      <link>https://gavinwarner.digital/categoria/sintaxe/</link>
+      <link>http://localhost:1313/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
-      <guid>https://gavinwarner.digital/categoria/sintaxe/</guid>
+      <guid>http://localhost:1313/categoria/sintaxe/</guid>
       <description></description>
     </item>
     <item>
       <title>Códigos curtos</title>
-      <link>https://gavinwarner.digital/tags/shortcodes/_index.pt-br/</link>
+      <link>http://localhost:1313/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>https://gavinwarner.digital/tags/shortcodes/_index.pt-br/</guid>
+      <guid>http://localhost:1313/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://gavinwarner.digital/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;Follow me, &lt;a href=&#34;https://www.linkedin.com/in/gavinwarnerca/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/gavinwarnerca&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>https://gavinwarner.digital/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/projects/</guid>
-      <description>&lt;p&gt;Projects coming up&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
