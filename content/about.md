@@ -1,25 +1,22 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "About Me"
+date = "2025-6-1"
+aliases = ["about-us", "about-gavin", "contact"]
+author = "Gavin Warner"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I'm Gavin Warner, a Microsoft Power Platform developer based in Los Angeles, CA.
 
-Hugo makes use of a variety of open source projects including:
+I build low-code solutions using Power Apps, Power Automate, Dataverse, and Microsoft Copilot Studio — helping businesses automate workflows, connect data sources, and work smarter with the tools they already have.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Currently I'm working as a Power Platform developer at Archer Travels, where I design and maintain dataflows that standardize booking and supplier data across the business. Before that I spent nearly two years as a consultant and intern at Smarter Consulting, delivering Power Platform solutions for business clients.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I hold the Microsoft Certified: Power Platform Fundamentals (PL-900) certification and I'm actively working toward the Power Platform Solution Architect (PL-600). I'm also expanding into Microsoft Copilot Studio — building AI-powered conversational agents that extend the Power Platform.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Outside of work I'm an active member of the Microsoft 365 & Power Platform Community, where I completed the Copilot Camp: Make Path program. I believe in learning in public — this blog is where I share what I pick up along the way.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Oh, and I'm a proud Vikings fan. Skol!
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+📧 Gavin@dwarnerii.com
+🔗 linkedin.com/in/gavinwarnerca

@@ -5,7 +5,7 @@ date = "2025-07-26"
 description = "Discussing the difference between Sharepoint forms and Microsoft forms"
 tags = [
     "Sharepoint",
-    "Microsfot",
+    "Microsoft",
     "Forms",
 ]
 categories = [
