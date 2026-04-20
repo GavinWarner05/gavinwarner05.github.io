@@ -18,9 +18,9 @@ noClasses = false
 [params]
 author = "Gavin Warner"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Son of World Famous David Warner"
+description = "Power Platform developer building practical automation, apps, and copilots with Microsoft tools."
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["Power Platform Developer", "Power Apps, Automate, Dataverse, Copilot Studio"]
 avatarURL = "images/Viking_Photo.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -42,7 +42,7 @@ maxSeeAlsoItems = 5
 # Custom CSS
 customCSS = []
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-customSCSS = []
+customSCSS = ["scss/custom.scss"]
 
 # Custom JS
 customJS = []

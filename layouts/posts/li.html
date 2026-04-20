@@ -1,0 +1,28 @@
+<li class="post-list-item">
+  {{ $image := "" }}
+  {{ with .Params.featuredImage }}
+    {{ $image = $.Resources.GetMatch . }}
+  {{ end }}
+  {{ if not $image }}
+    {{ with .Resources.ByType "image" }}
+      {{ $image = index . 0 }}
+    {{ end }}
+  {{ end }}
+
+  {{ with $image }}
+    {{ $thumb := .Resize "88x" }}
+    <a class="post-list-thumb" href="{{ $.Params.externalLink | default $.RelPermalink }}">
+      <img
+        src="{{ $thumb.RelPermalink }}"
+        alt="{{ $.Title }}"
+        width="{{ $thumb.Width }}"
+        height="{{ $thumb.Height }}"
+      >
+    </a>
+  {{ end }}
+
+  <div class="post-list-copy">
+    <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+    <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+  </div>
+</li>
