@@ -20,7 +20,7 @@ author = "Gavin Warner"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Power Platform developer building practical automation, apps, and copilots with Microsoft tools."
 keywords = "blog,developer,personal"
-info = ["Power Platform Developer", "Power Apps, Automate, Dataverse, Copilot Studio"]
+info = ["Power Platform Developer", "Building apps, automations, and copilots with Microsoft tools"]
 avatarURL = "images/Viking_Photo.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -45,7 +45,7 @@ customCSS = []
 customSCSS = ["scss/custom.scss"]
 
 # Custom JS
-customJS = []
+customJS = ["js/favicon-theme.js"]
 
 # Custom remote JS files
 customRemoteJS = []
