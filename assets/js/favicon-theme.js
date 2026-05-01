@@ -1,10 +1,15 @@
 function setFaviconForTheme(theme) {
   const isDark = theme === "dark";
+  const faviconShortcut = document.getElementById("favicon-shortcut");
   const favicon32 = document.getElementById("favicon-32");
   const favicon16 = document.getElementById("favicon-16");
-  const version = "?v=2";
+  const version = "?v=4";
 
-  if (!favicon32 || !favicon16) return;
+  if (!faviconShortcut || !favicon32 || !favicon16) return;
+
+  faviconShortcut.href = isDark
+    ? "/images/favicons/favicon-dark-32.png" + version
+    : "/images/favicons/favicon-light-32.png" + version;
 
   favicon32.href = isDark
     ? "/images/favicons/favicon-dark-32.png" + version
