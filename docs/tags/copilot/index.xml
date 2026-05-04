@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Copilot on Gavin Warner</title>
-    <link>https://gavinwarner.digital/tags/copilot/</link>
+    <link>http://localhost:1313/tags/copilot/</link>
     <description>Recent content in Copilot on Gavin Warner</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gavinwarner.digital/tags/copilot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/copilot/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Copilot Agent Building</title>
-      <link>https://gavinwarner.digital/projects/copilot-studio-bot/</link>
+      <title>Building My First Copilot Studio Agent</title>
+      <link>http://localhost:1313/projects/copilot-studio-bot/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/projects/copilot-studio-bot/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://gavinwarner.digital/projects/copilot-studio-bot/Images/microsoft-copilot.png&#34; alt=&#34;copilot logo&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/copilot-studio-bot/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/projects/copilot-studio-bot/Images/microsoft-copilot.png&#34;&#xA;    alt=&#34;Copilot logo&#34; width=&#34;320&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h1 id=&#34;building-my-first-copilot-studio-agent&#34;&gt;&#xA;  Building My First Copilot Studio Agent&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#building-my-first-copilot-studio-agent&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;One of the tools I have been spending more time with recently is &lt;strong&gt;Microsoft Copilot Studio&lt;/strong&gt;. After getting hands-on with my first agent, I came away with a much better understanding of where it shines, where it still needs planning, and what I would do differently next time.&lt;/p&gt;&#xA;&lt;p&gt;This project page is a breakdown of that first build from a practical perspective.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

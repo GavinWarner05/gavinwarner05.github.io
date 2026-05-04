@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  SharePoint Lists vs Dataverse · Gavin Warner
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Gavin Warner">
+<meta name="description" content="A practical look at when to use Dataverse and when SharePoint Lists are enough.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="SharePoint Lists vs Dataverse">
+  <meta name="twitter:description" content="A practical look at when to use Dataverse and when SharePoint Lists are enough.">
+
+<meta property="og:url" content="http://localhost:1313/posts/dataverse-vs-sharepoint-lists/">
+  <meta property="og:site_name" content="Gavin Warner">
+  <meta property="og:title" content="SharePoint Lists vs Dataverse">
+  <meta property="og:description" content="A practical look at when to use Dataverse and when SharePoint Lists are enough.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-05-02T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-05-02T00:00:00+00:00">
+    <meta property="article:tag" content="Dataverse">
+    <meta property="article:tag" content="SharePoint">
+    <meta property="article:tag" content="Power Platform">
+    <meta property="article:tag" content="Microsoft">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/posts/dataverse-vs-sharepoint-lists/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+  
+  
+    
+    
+    <link rel="stylesheet" href="/scss/custom.css" media="screen">
+  
+
+
+
+<link id="favicon-shortcut" rel="shortcut icon" href="/images/favicons/favicon-dark-32.png?v=5">
+<link id="favicon-32" rel="icon" type="image/png" href="/images/favicons/favicon-dark-32.png?v=5" sizes="32x32">
+<link id="favicon-16" rel="icon" type="image/png" href="/images/favicons/favicon-dark-16.png?v=5" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/favicons/favicon-dark-source.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/favicon-dark-source.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
+      Gavin Warner
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/contact/">Contact me</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/posts/dataverse-vs-sharepoint-lists/">
+              SharePoint Lists vs Dataverse
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2026-05-02T00:00:00Z">
+                May 2, 2026
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              9-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/power-platform/">Power Platform</a>
+      <span class="separator">•</span>
+    <a href="/categories/microsoft/">Microsoft</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/dataverse/">Dataverse</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/sharepoint/">SharePoint</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/power-platform/">Power Platform</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/microsoft/">Microsoft</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        <h1 id="sharepoint-lists-vs-dataverse">
+  SharePoint Lists vs Dataverse
+  <a class="heading-link" href="#sharepoint-lists-vs-dataverse">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<p>One of the most common decisions in the Microsoft ecosystem is whether to store your data in <strong>SharePoint Lists</strong> or in <strong>Dataverse</strong>. Both can work well, and both are capable of powering useful business solutions. The problem is that they often get treated like they are interchangeable when they really are not.</p>
+<p>In a lot of projects, the real question is not &ldquo;Which one is better?&rdquo; It is &ldquo;Which one makes the most sense for the size and complexity of what I am building right now?&rdquo;</p>
+<p>This post looks at that decision in a practical way so you can choose the option that fits your project today without making life harder for yourself later.</p>
+<h2 id="the-short-version">
+  The Short Version
+  <a class="heading-link" href="#the-short-version">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>If the solution is relatively simple, team-focused, and needs to come together quickly, <strong>SharePoint Lists</strong> are often enough.</p>
+<p>If the solution is becoming a true <strong>Power Platform application</strong> with more structure, stronger security needs, and room to grow, <strong>Dataverse</strong> usually becomes the better long-term option.</p>
+<p>That sounds simple on paper, but in practice there is a gray area in the middle. A lot of solutions start small, and the challenge is figuring out whether you are building something that will stay lightweight or something that is quietly becoming a bigger application.</p>
+<h2 id="what-sharepoint-lists-are-great-for">
+  What SharePoint Lists Are Great For
+  <a class="heading-link" href="#what-sharepoint-lists-are-great-for">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Simple internal tracking</li>
+<li>Lightweight team processes</li>
+<li>Fast setup</li>
+<li>Small to medium business solutions</li>
+</ul>
+<p>SharePoint Lists are a great fit when you need something that is easy to spin up and easy for a team to understand. If the process already lives inside Microsoft 365 and the data structure is fairly straightforward, SharePoint Lists can get you very far without adding much overhead.</p>
+<p>They are especially useful when the solution is really a team tracking system with a bit of form logic and automation layered on top.</p>
+<p>That is why SharePoint Lists remain such a common starting point. They are familiar, they fit naturally into Microsoft 365, and they let you move quickly without needing to design a much heavier back end on day one.</p>
+<h2 id="what-dataverse-is-great-for">
+  What Dataverse Is Great For
+  <a class="heading-link" href="#what-dataverse-is-great-for">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Relational data</li>
+<li>More scalable Power Platform solutions</li>
+<li>Security roles and advanced governance</li>
+<li>Apps and automations that are expected to grow</li>
+</ul>
+<p>Dataverse starts to make more sense when the solution stops feeling like &ldquo;just a list&rdquo; and starts feeling like an actual application. If your data needs cleaner structure, stronger relationships, better security, or more room to scale, Dataverse gives you a stronger foundation.</p>
+<p>It also becomes more attractive when you already know the app is going to expand into multiple tables, multiple users, and multiple business rules.</p>
+<p>In other words, Dataverse becomes easier to justify when structure is not optional anymore. If the solution depends on clean relationships, stronger controls, and a more app-first foundation, Dataverse usually gives you fewer headaches later.</p>
+<h2 id="key-differences-at-a-glance">
+  Key Differences at a Glance
+  <a class="heading-link" href="#key-differences-at-a-glance">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>SharePoint Lists</th>
+          <th>Dataverse</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Setup speed</td>
+          <td>Fast</td>
+          <td>Slower</td>
+      </tr>
+      <tr>
+          <td>Cost</td>
+          <td>Often already included</td>
+          <td>May require premium licensing</td>
+      </tr>
+      <tr>
+          <td>Relationships</td>
+          <td>Basic</td>
+          <td>Strong</td>
+      </tr>
+      <tr>
+          <td>Security model</td>
+          <td>Simpler</td>
+          <td>Advanced</td>
+      </tr>
+      <tr>
+          <td>Scalability</td>
+          <td>Good for lighter solutions</td>
+          <td>Better for larger solutions</td>
+      </tr>
+      <tr>
+          <td>Best fit</td>
+          <td>Team tracking and lightweight apps</td>
+          <td>Structured business applications</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="where-the-decision-usually-starts">
+  Where the Decision Usually Starts
+  <a class="heading-link" href="#where-the-decision-usually-starts">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>In my experience, this decision usually starts with one of two project types:</p>
+<ul>
+<li>A team needs to track something quickly and wants a form or app in front of it</li>
+<li>A business process is growing and needs stronger structure behind it</li>
+</ul>
+<p>The first case often points toward <strong>SharePoint Lists</strong>.</p>
+<p>The second case often points toward <strong>Dataverse</strong>.</p>
+<p>That does not mean SharePoint Lists are &ldquo;basic&rdquo; and Dataverse is always &ldquo;advanced.&rdquo; It just means the shape of the solution matters. A lot of good Power Platform work comes from matching the storage choice to the real complexity of the process.</p>
+<p>Sometimes the wrong decision is not about technical ability at all. It is about choosing a platform that creates unnecessary complexity too early, or staying on a simpler platform too long because it feels familiar.</p>
+<h2 id="when-i-would-choose-sharepoint-lists">
+  When I Would Choose SharePoint Lists
+  <a class="heading-link" href="#when-i-would-choose-sharepoint-lists">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>When the solution needs to be simple and quick</li>
+<li>When the data model is straightforward</li>
+<li>When the audience is already working in Microsoft 365</li>
+<li>When premium licensing would be hard to justify</li>
+</ul>
+<p>I would usually start with SharePoint Lists when:</p>
+<ul>
+<li>the business needs something soon</li>
+<li>the data mostly lives in rows and columns without complex relationships</li>
+<li>the users are already comfortable in the Microsoft 365 environment</li>
+<li>the solution is more about visibility and tracking than deep application behavior</li>
+</ul>
+<p>For example, if I am building something like an internal request tracker, issue log, team inventory list, or simple approval intake process, SharePoint Lists are often a very reasonable place to begin.</p>
+<p>That is especially true if the solution may never need to become more than a good internal tool.</p>
+<p>I also think SharePoint Lists are a good fit when the business is still learning what it actually wants. If requirements are still shifting, starting lighter can be a smart move because it lets you prove value before investing in a more structured architecture.</p>
+<h2 id="when-i-would-choose-dataverse">
+  When I Would Choose Dataverse
+  <a class="heading-link" href="#when-i-would-choose-dataverse">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>When the app needs stronger relationships between tables</li>
+<li>When security and governance matter more</li>
+<li>When the solution is likely to expand over time</li>
+<li>When the project is clearly a Power Platform application, not just a list</li>
+</ul>
+<p>I would lean toward Dataverse when:</p>
+<ul>
+<li>the data model has multiple related tables</li>
+<li>different users need different levels of access</li>
+<li>the solution needs to scale cleanly over time</li>
+<li>I already know the app is becoming part of a larger business process</li>
+</ul>
+<p>Dataverse is often the better choice when the solution has moved beyond simple tracking and into something more structured, such as case management, service workflows, or any app where the data model matters just as much as the interface.</p>
+<p>It can take more planning up front, but that planning usually pays off when the app grows.</p>
+<p>This is especially true when the app is going to become something people depend on every day. Once a solution becomes important to operations, cleaner structure and stronger control start to matter much more.</p>
+<h2 id="real-world-examples">
+  Real-World Examples
+  <a class="heading-link" href="#real-world-examples">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>PTO request tracking: SharePoint Lists</li>
+<li>Simple asset inventory: SharePoint Lists</li>
+<li>Customer service case app: Dataverse</li>
+<li>Multi-table business process app: Dataverse</li>
+</ul>
+<p>Here is how I tend to think about these examples in practice:</p>
+<ul>
+<li><strong>PTO request tracking</strong>: usually a good SharePoint Lists candidate because the process is straightforward, the audience is internal, and the data structure is light.</li>
+<li><strong>Simple asset inventory</strong>: also often fine in SharePoint Lists if the goal is tracking items and ownership without a lot of complex logic.</li>
+<li><strong>Customer service case app</strong>: a stronger Dataverse candidate because cases, statuses, ownership, related records, and permissions usually get more complicated over time.</li>
+<li><strong>Multi-table business process app</strong>: almost always points more naturally toward Dataverse because the data relationships become part of the solution design.</li>
+</ul>
+<p>Another useful way to think about it is this:</p>
+<ul>
+<li>If the process mostly revolves around one list of items, SharePoint Lists may be enough.</li>
+<li>If the process revolves around multiple connected records and business rules, Dataverse is probably the better fit.</li>
+</ul>
+<h2 id="licensing-and-practical-tradeoffs">
+  Licensing and Practical Tradeoffs
+  <a class="heading-link" href="#licensing-and-practical-tradeoffs">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>This is one of the biggest reasons the decision is not purely technical.</p>
+<p>SharePoint Lists are attractive because many organizations are already living in Microsoft 365, and using a SharePoint-based solution can feel much easier to justify.</p>
+<p>Dataverse may be the better technical fit in some cases, but if premium licensing becomes a blocker, the &ldquo;best&rdquo; solution on paper may not be the best solution for the business.</p>
+<p>That is why I think the smartest approach is to balance:</p>
+<ul>
+<li>the technical needs of the app</li>
+<li>the expected future complexity</li>
+<li>the licensing reality</li>
+<li>the amount of governance the organization actually needs</li>
+</ul>
+<h2 id="performance-maintenance-and-growth">
+  Performance, Maintenance, and Growth
+  <a class="heading-link" href="#performance-maintenance-and-growth">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>This is another place where the decision matters more over time than it does on day one.</p>
+<p>SharePoint Lists can be great at the beginning because they are fast to stand up and easy to explain. But as the app grows, the friction can start showing up in less obvious ways:</p>
+<ul>
+<li>more complicated list structure</li>
+<li>more workarounds in Power Apps</li>
+<li>more careful handling around permissions and views</li>
+<li>more maintenance when business logic keeps expanding</li>
+</ul>
+<p>Dataverse can feel heavier at first, but it tends to reward you once the solution becomes more central to the business. It is easier to think in terms of tables, relationships, and app behavior instead of constantly stretching a list-based model into something bigger than it was meant to be.</p>
+<p>That does not mean Dataverse is always the better technical experience. It means it is often the better long-term experience once the solution reaches a certain level of complexity.</p>
+<h2 id="biggest-mistakes-to-avoid">
+  Biggest Mistakes to Avoid
+  <a class="heading-link" href="#biggest-mistakes-to-avoid">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Using Dataverse too early for a simple solution</li>
+<li>Using SharePoint Lists too long after the solution has clearly outgrown it</li>
+<li>Ignoring licensing and governance from the start</li>
+</ul>
+<p>The first mistake happens when people choose Dataverse because it feels more &ldquo;serious,&rdquo; even though the solution is still small and simple. That can add cost and complexity before the project has earned it.</p>
+<p>The second mistake happens when a SharePoint-based solution keeps growing and growing, but nobody wants to admit it has outgrown its original foundation.</p>
+<p>The third mistake is treating storage as just a technical checkbox. In real projects, licensing, governance, support, and growth all matter.</p>
+<p>I would add one more subtle mistake here: deciding too early based on preference instead of project needs. A lot of people already have a favorite. The better question is whether the data platform actually fits the solution you are trying to deliver.</p>
+<h2 id="questions-i-would-ask-before-choosing">
+  Questions I Would Ask Before Choosing
+  <a class="heading-link" href="#questions-i-would-ask-before-choosing">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>If I were deciding between the two, these are the questions I would ask first:</p>
+<ul>
+<li>How many tables or connected entities will this solution really need?</li>
+<li>Does the business need stronger role-based access?</li>
+<li>Is this expected to stay lightweight, or is it likely to grow?</li>
+<li>Are premium licensing costs realistic for this project?</li>
+<li>Is the team mainly looking for quick tracking, or are they really asking for an application?</li>
+</ul>
+<p>You do not need every answer perfectly up front, but even a rough answer to those questions usually makes the right direction much clearer.</p>
+<h2 id="my-rule-of-thumb">
+  My Rule of Thumb
+  <a class="heading-link" href="#my-rule-of-thumb">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>If the solution is basically a <strong>team list with a front end</strong>, SharePoint Lists are often enough. If the solution is becoming a <strong>real business application</strong>, Dataverse usually becomes the stronger choice.</p>
+<h2 id="final-thoughts">
+  Final Thoughts
+  <a class="heading-link" href="#final-thoughts">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Both options can be right. The better choice usually comes down to how complex the solution really is, how much it is expected to grow, and how much structure the app needs behind the scenes.</p>
+<p>SharePoint Lists are not the wrong answer just because they are simpler. Dataverse is not automatically the right answer just because it is more powerful.</p>
+<p>The goal is not to pick the most advanced tool. The goal is to pick the tool that best matches the size, complexity, and future of the solution you are building.</p>
+<p>If you get that part right, the rest of the build tends to go a lot smoother.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2024 -
+    
+    2026
+     Gavin Warner 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+  
+  
+  <script src="/js/favicon-theme.js"></script>
+  
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

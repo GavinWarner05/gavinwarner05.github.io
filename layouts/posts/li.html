@@ -1,5 +1,5 @@
+{{ $image := "" }}
 <li class="post-list-item">
-  {{ $image := "" }}
   {{ with .Params.featuredImage }}
     {{ $image = $.Resources.GetMatch . }}
   {{ end }}
@@ -9,20 +9,20 @@
     {{ end }}
   {{ end }}
 
-  {{ with $image }}
-    {{ $thumb := .Resize "88x" }}
-    <a class="post-list-thumb" href="{{ $.Params.externalLink | default $.RelPermalink }}">
+  {{ if $image }}
+    {{ $thumb := $image.Resize "88x" }}
+    <a class="post-list-thumb" href="{{ .Params.externalLink | default .RelPermalink }}">
       <img
         src="{{ $thumb.RelPermalink }}"
-        alt="{{ $.Title }}"
+        alt="{{ .Title }}"
         width="{{ $thumb.Width }}"
         height="{{ $thumb.Height }}"
       >
     </a>
   {{ end }}
 
-  <div class="post-list-copy">
-    <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+  <div class="post-list-copy{{ if $image }} has-thumb{{ else }} no-thumb{{ end }}">
     <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+    <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
   </div>
 </li>

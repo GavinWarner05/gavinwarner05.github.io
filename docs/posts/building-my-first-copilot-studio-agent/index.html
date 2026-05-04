@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>
+  Building My First Copilot Studio Agent · Gavin Warner
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Gavin Warner">
+<meta name="description" content="What I learned while building my first Copilot Studio agent and where I would improve it next.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Building My First Copilot Studio Agent">
+  <meta name="twitter:description" content="What I learned while building my first Copilot Studio agent and where I would improve it next.">
+
+<meta property="og:url" content="https://gavinwarner.digital/posts/building-my-first-copilot-studio-agent/">
+  <meta property="og:site_name" content="Gavin Warner">
+  <meta property="og:title" content="Building My First Copilot Studio Agent">
+  <meta property="og:description" content="What I learned while building my first Copilot Studio agent and where I would improve it next.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-05-02T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-05-02T00:00:00+00:00">
+    <meta property="article:tag" content="Copilot Studio">
+    <meta property="article:tag" content="Copilot">
+    <meta property="article:tag" content="Power Platform">
+    <meta property="article:tag" content="Microsoft">
+
+
+
+
+<link rel="canonical" href="https://gavinwarner.digital/posts/building-my-first-copilot-studio-agent/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.26a83dcefaf34339737bf29f77b17753bab5e60782b1ca9ba200abbb73b48cb0.css" integrity="sha256-Jqg9zvrzQzlze/Kfd7F3U7q15geCscqbogCru3O0jLA=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.ad48f476275974885bdc03d5251e3cdbe1678c54a63ff772376b0ed2adc468dd.css" integrity="sha256-rUj0didZdIhb3APVJR482&#43;FnjFSmP/dyN2sO0q3EaN0=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+  
+  
+    
+    <link rel="stylesheet" href="/scss/custom.min.6baa1293a010fc6f5978fa6e4d35ecd8863a71ca68e529d1d433c1d5eca74077.css" integrity="sha256-a6oSk6AQ/G9ZePpuTTXs2IY6ccpo5SnR1DPB1eynQHc=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+<link id="favicon-shortcut" rel="shortcut icon" href="/images/favicons/favicon-dark-32.png?v=5">
+<link id="favicon-32" rel="icon" type="image/png" href="/images/favicons/favicon-dark-32.png?v=5" sizes="32x32">
+<link id="favicon-16" rel="icon" type="image/png" href="/images/favicons/favicon-dark-16.png?v=5" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/favicons/favicon-dark-source.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/favicon-dark-source.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="https://gavinwarner.digital/">
+      Gavin Warner
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/contact/">Contact me</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://gavinwarner.digital/posts/building-my-first-copilot-studio-agent/">
+              Building My First Copilot Studio Agent
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2026-05-02T00:00:00Z">
+                May 2, 2026
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              2-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/power-platform/">Power Platform</a>
+      <span class="separator">•</span>
+    <a href="/categories/microsoft/">Microsoft</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/copilot-studio/">Copilot Studio</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/copilot/">Copilot</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/power-platform/">Power Platform</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/microsoft/">Microsoft</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        <h1 id="building-my-first-copilot-studio-agent">
+  Building My First Copilot Studio Agent
+  <a class="heading-link" href="#building-my-first-copilot-studio-agent">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<p>One of the tools I have been spending more time with recently is <strong>Microsoft Copilot Studio</strong>. After getting hands-on with my first agent, I came away with a much better understanding of where it shines, where it still needs planning, and what I would do differently next time.</p>
+<p>This post is a breakdown of that first build from a practical perspective.</p>
+<h2 id="what-i-was-trying-to-build">
+  What I Was Trying to Build
+  <a class="heading-link" href="#what-i-was-trying-to-build">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Use this section to explain:</p>
+<ul>
+<li>What problem the agent was meant to solve</li>
+<li>Who the users were</li>
+<li>Whether it was internal, external, or experimental</li>
+</ul>
+<h2 id="why-i-chose-copilot-studio">
+  Why I Chose Copilot Studio
+  <a class="heading-link" href="#why-i-chose-copilot-studio">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Possible points to cover:</p>
+<ul>
+<li>It fit naturally into the Microsoft ecosystem</li>
+<li>It gave me a fast way to prototype a conversational workflow</li>
+<li>It connected well with the rest of the Power Platform</li>
+</ul>
+<h2 id="what-the-build-included">
+  What the Build Included
+  <a class="heading-link" href="#what-the-build-included">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Topics or conversation flows</li>
+<li>Knowledge sources</li>
+<li>Power Automate integration</li>
+<li>Any authentication or permissions considerations</li>
+</ul>
+<h2 id="what-went-well">
+  What Went Well
+  <a class="heading-link" href="#what-went-well">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>What was easier than expected</li>
+<li>What features felt genuinely useful</li>
+<li>Where Copilot Studio helped speed things up</li>
+</ul>
+<h2 id="what-was-harder-than-expected">
+  What Was Harder Than Expected
+  <a class="heading-link" href="#what-was-harder-than-expected">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Topic design</li>
+<li>Prompt tuning</li>
+<li>Handling edge cases</li>
+<li>Testing conversation quality</li>
+</ul>
+<h2 id="lessons-i-learned">
+  Lessons I Learned
+  <a class="heading-link" href="#lessons-i-learned">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Keep the scope focused</li>
+<li>Design around real user questions</li>
+<li>Plan for failure paths, not just happy paths</li>
+<li>Test more than you think you need to</li>
+</ul>
+<h2 id="what-i-would-improve-next-time">
+  What I Would Improve Next Time
+  <a class="heading-link" href="#what-i-would-improve-next-time">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Cleaner topic structure</li>
+<li>Better fallback handling</li>
+<li>Stronger knowledge grounding</li>
+<li>Better measurement of whether the agent is actually helping</li>
+</ul>
+<h2 id="who-i-think-copilot-studio-is-best-for">
+  Who I Think Copilot Studio Is Best For
+  <a class="heading-link" href="#who-i-think-copilot-studio-is-best-for">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Teams already invested in Microsoft tools</li>
+<li>Internal assistant scenarios</li>
+<li>Fast prototypes that can later mature into bigger solutions</li>
+</ul>
+<h2 id="final-thoughts">
+  Final Thoughts
+  <a class="heading-link" href="#final-thoughts">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Building my first Copilot Studio agent helped me move from just understanding the tool in theory to understanding where it fits in real work. It also made it clear that a good conversational experience still depends heavily on good design, not just the platform itself.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2024 -
+    
+    2026
+     Gavin Warner 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+  
+  
+  <script src="/js/favicon-theme.min.a103cf8f55d81e70c51ed6b955c7ffa2d8e1382862f23f6ae4949cfc0af19449.js" integrity="sha256-oQPPj1XYHnDFHta5Vcf/otjhOChi8j9q5JSc/ArxlEk="></script>
+  
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

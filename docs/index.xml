@@ -2,66 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gavin Warner</title>
-    <link>https://gavinwarner.digital/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Gavin Warner</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gavinwarner.digital/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power Apps vs Microsoft Forms</title>
+      <link>http://localhost:1313/posts/power-apps-vs-microsoft-forms/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/power-apps-vs-microsoft-forms/</guid>
+      <description>&lt;h1 id=&#34;power-apps-vs-microsoft-forms&#34;&gt;&#xA;  Power Apps vs Microsoft Forms&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#power-apps-vs-microsoft-forms&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;At a glance, &lt;strong&gt;Power Apps&lt;/strong&gt; and &lt;strong&gt;Microsoft Forms&lt;/strong&gt; can both be used to collect information from users. The real difference is that one is built for &lt;strong&gt;simple response collection&lt;/strong&gt;, while the other is built for &lt;strong&gt;custom business apps and processes&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This post breaks down where each tool fits best, what each one is good at, and how to decide which one to use.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SharePoint Lists vs Dataverse</title>
+      <link>http://localhost:1313/posts/dataverse-vs-sharepoint-lists/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dataverse-vs-sharepoint-lists/</guid>
+      <description>&lt;h1 id=&#34;sharepoint-lists-vs-dataverse&#34;&gt;&#xA;  SharePoint Lists vs Dataverse&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#sharepoint-lists-vs-dataverse&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;One of the most common decisions in the Microsoft ecosystem is whether to store your data in &lt;strong&gt;SharePoint Lists&lt;/strong&gt; or in &lt;strong&gt;Dataverse&lt;/strong&gt;. Both can work well, and both are capable of powering useful business solutions. The problem is that they often get treated like they are interchangeable when they really are not.&lt;/p&gt;&#xA;&lt;p&gt;In a lot of projects, the real question is not &amp;ldquo;Which one is better?&amp;rdquo; It is &amp;ldquo;Which one makes the most sense for the size and complexity of what I am building right now?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Form vs Form</title>
-      <link>https://gavinwarner.digital/posts/form-vs-form/</link>
+      <link>http://localhost:1313/posts/form-vs-form/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/posts/form-vs-form/</guid>
+      <guid>http://localhost:1313/posts/form-vs-form/</guid>
       <description>&lt;h1 id=&#34;understanding-the-difference-between-sharepoint-forms-and-microsoft-forms&#34;&gt;&#xA;  Understanding the Difference Between SharePoint Forms and Microsoft Forms&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#understanding-the-difference-between-sharepoint-forms-and-microsoft-forms&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;When it comes to collecting information or input from users in the Microsoft ecosystem, two popular tools often come up, &lt;strong&gt;SharePoint Forms&lt;/strong&gt; and &lt;strong&gt;Microsoft Forms&lt;/strong&gt;. Because both are used to gather responses, they are often confused with one another. In practice, though, they solve very different problems. Here’s a quick breakdown of the key differences to help you choose the right tool for your needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://gavinwarner.digital/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Gavin Warner, a Microsoft Power Platform developer based in Los Angeles, CA.&lt;/p&gt;&#xA;&lt;p&gt;I build low-code solutions using Power Apps, Power Automate, Dataverse, and Microsoft Copilot Studio, helping businesses automate workflows, connect data sources, and work smarter with the tools they already have.&lt;/p&gt;&#xA;&lt;p&gt;Currently I&amp;rsquo;m working as a Power Platform developer at Archer Travels, where I design and maintain dataflows that standardize booking and supplier data across the business. Before that I spent nearly two years as a consultant and intern at Smarter Consulting, delivering Power Platform solutions for business clients.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Copilot Agent Building</title>
-      <link>https://gavinwarner.digital/projects/copilot-studio-bot/</link>
+      <title>Building My First Copilot Studio Agent</title>
+      <link>http://localhost:1313/projects/copilot-studio-bot/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/projects/copilot-studio-bot/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://gavinwarner.digital/projects/copilot-studio-bot/Images/microsoft-copilot.png&#34; alt=&#34;copilot logo&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/copilot-studio-bot/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/projects/copilot-studio-bot/Images/microsoft-copilot.png&#34;&#xA;    alt=&#34;Copilot logo&#34; width=&#34;320&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h1 id=&#34;building-my-first-copilot-studio-agent&#34;&gt;&#xA;  Building My First Copilot Studio Agent&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#building-my-first-copilot-studio-agent&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;One of the tools I have been spending more time with recently is &lt;strong&gt;Microsoft Copilot Studio&lt;/strong&gt;. After getting hands-on with my first agent, I came away with a much better understanding of where it shines, where it still needs planning, and what I would do differently next time.&lt;/p&gt;&#xA;&lt;p&gt;This project page is a breakdown of that first build from a practical perspective.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Autores de Hugo</title>
-      <link>https://gavinwarner.digital/autores/autores-de-hugo/</link>
+      <link>http://localhost:1313/autores/autores-de-hugo/</link>
       <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
-      <guid>https://gavinwarner.digital/autores/autores-de-hugo/</guid>
+      <guid>http://localhost:1313/autores/autores-de-hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>temas</title>
-      <link>https://gavinwarner.digital/categoria/temas/</link>
+      <link>http://localhost:1313/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
-      <guid>https://gavinwarner.digital/categoria/temas/</guid>
+      <guid>http://localhost:1313/categoria/temas/</guid>
       <description></description>
     </item>
     <item>
       <title>sintaxe</title>
-      <link>https://gavinwarner.digital/categoria/sintaxe/</link>
+      <link>http://localhost:1313/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
-      <guid>https://gavinwarner.digital/categoria/sintaxe/</guid>
+      <guid>http://localhost:1313/categoria/sintaxe/</guid>
       <description></description>
     </item>
     <item>
       <title>Códigos curtos</title>
-      <link>https://gavinwarner.digital/tags/shortcodes/_index.pt-br/</link>
+      <link>http://localhost:1313/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>https://gavinwarner.digital/tags/shortcodes/_index.pt-br/</guid>
+      <guid>http://localhost:1313/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://gavinwarner.digital/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;Follow me, &lt;a href=&#34;https://www.linkedin.com/in/gavinwarnerca/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/gavinwarnerca&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

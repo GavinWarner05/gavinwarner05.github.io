@@ -122,7 +122,7 @@ customRemoteJS = []
 #   "https://cdn.jsdelivr.net/",
 # ]
 # prefetchsrc = ["'self'"]
-# # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
+# # connect-src directive - defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
 # connectsrc = ["'self'", "https://www.google-analytics.com"]
 
 [taxonomies]

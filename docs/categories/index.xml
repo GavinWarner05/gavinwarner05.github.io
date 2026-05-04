@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gavin Warner</title>
-    <link>https://gavinwarner.digital/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Gavin Warner</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gavinwarner.digital/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft</title>
-      <link>https://gavinwarner.digital/categories/microsoft/</link>
-      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/categories/microsoft/</guid>
+      <link>http://localhost:1313/categories/microsoft/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/microsoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Power Platform</title>
+      <link>http://localhost:1313/categories/power-platform/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/power-platform/</guid>
       <description></description>
     </item>
     <item>
       <title>SharePoint</title>
-      <link>https://gavinwarner.digital/categories/sharepoint/</link>
+      <link>http://localhost:1313/categories/sharepoint/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/categories/sharepoint/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Copilot</title>
-      <link>https://gavinwarner.digital/categories/copilot/</link>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/categories/copilot/</guid>
+      <guid>http://localhost:1313/categories/sharepoint/</guid>
       <description></description>
     </item>
   </channel>
