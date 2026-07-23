@@ -46,7 +46,7 @@ customCSS = []
 customSCSS = ["scss/custom.scss"]
 
 # Custom JS
-customJS = ["js/favicon-theme.js"]
+customJS = ["js/favicon-theme.js", "js/home-featured-rotate.js"]
 
 # Custom remote JS files
 customRemoteJS = []
