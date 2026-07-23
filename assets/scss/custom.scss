@@ -158,61 +158,60 @@
   border-color: rgba(0, 0, 0, 0.14);
 }
 
-.home-highlight-grid {
+.home-featured {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.8rem;
+  gap: 0.8rem;
 }
 
-.home-highlight {
+.home-featured-card {
   display: block;
-  padding: 2.2rem;
+  padding: 2rem 2.2rem;
   border-radius: 1.2rem;
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(0, 0, 0, 0.04);
   color: inherit;
 }
 
-.home-highlight strong,
-.home-highlight span {
+.home-featured-copy strong,
+.home-featured-copy span {
   display: block;
 }
 
-.home-highlight strong {
-  margin: 0.6rem 0 1rem;
+.home-featured-copy strong {
+  margin: 0 0 0.8rem;
   color: inherit;
-  font-size: 2rem;
+  font-size: 2.1rem;
   line-height: 1.35;
 }
 
-.home-highlight > span:last-child {
+.home-featured-copy span {
   font-size: 1.7rem;
   line-height: 1.7;
 }
 
-.home-highlight:hover,
-.home-highlight:focus,
-.home-highlight:active {
+.home-featured-card:hover,
+.home-featured-card:focus,
+.home-featured-card:active {
   color: inherit;
   background: rgba(0, 0, 0, 0.05);
   border-color: rgba(0, 0, 0, 0.14);
 }
 
-.home-highlight:hover strong,
-.home-highlight:hover span,
-.home-highlight:focus strong,
-.home-highlight:focus span,
-.home-highlight:active strong,
-.home-highlight:active span {
+.home-featured-card:hover strong,
+.home-featured-card:hover span,
+.home-featured-card:focus strong,
+.home-featured-card:focus span,
+.home-featured-card:active strong,
+.home-featured-card:active span {
   color: inherit;
 }
 
 body.colorscheme-dark .home-cta:hover,
 body.colorscheme-dark .home-cta:focus,
 body.colorscheme-dark .home-cta:active,
-body.colorscheme-dark .home-highlight:hover,
-body.colorscheme-dark .home-highlight:focus,
-body.colorscheme-dark .home-highlight:active {
+body.colorscheme-dark .home-featured-card:hover,
+body.colorscheme-dark .home-featured-card:focus,
+body.colorscheme-dark .home-featured-card:active {
   color: #fff;
   background: rgba(0, 0, 0, 0.72);
   border-color: rgba(0, 0, 0, 0.72);
@@ -221,9 +220,9 @@ body.colorscheme-dark .home-highlight:active {
 body.colorscheme-auto .home-cta:hover,
 body.colorscheme-auto .home-cta:focus,
 body.colorscheme-auto .home-cta:active,
-body.colorscheme-auto .home-highlight:hover,
-body.colorscheme-auto .home-highlight:focus,
-body.colorscheme-auto .home-highlight:active {
+body.colorscheme-auto .home-featured-card:hover,
+body.colorscheme-auto .home-featured-card:focus,
+body.colorscheme-auto .home-featured-card:active {
   color: inherit;
   background: rgba(0, 0, 0, 0.06);
   border-color: rgba(0, 0, 0, 0.14);
@@ -233,9 +232,9 @@ body.colorscheme-auto .home-highlight:active {
   body.colorscheme-auto .home-cta:hover,
   body.colorscheme-auto .home-cta:focus,
   body.colorscheme-auto .home-cta:active,
-  body.colorscheme-auto .home-highlight:hover,
-  body.colorscheme-auto .home-highlight:focus,
-  body.colorscheme-auto .home-highlight:active {
+  body.colorscheme-auto .home-featured-card:hover,
+  body.colorscheme-auto .home-featured-card:focus,
+  body.colorscheme-auto .home-featured-card:active {
     color: #fff;
     background: rgba(0, 0, 0, 0.72);
     border-color: rgba(0, 0, 0, 0.72);
@@ -274,9 +273,6 @@ body.colorscheme-auto .home-highlight:active {
     flex-wrap: wrap;
   }
 
-  .home-highlight-grid {
-    grid-template-columns: 1fr;
-  }
 }
 
 @media only screen and (max-width: 1180px) {
