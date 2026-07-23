@@ -10,33 +10,13 @@
     </div>
   </div>
 
-  {{ $sections := slice "projects" "posts" }}
-  {{ $featuredPages := first 8 (sort (where site.RegularPages "Section" "in" $sections) "Date" "desc") }}
-  {{ if gt (len $featuredPages) 0 }}
-    <div class="home-featured">
-      <span class="home-highlight-label">Featured</span>
-      <div class="home-featured-deck" data-home-featured-deck>
-        {{ range $index, $page := $featuredPages }}
-          {{ $label := "Featured Post" }}
-          {{ if eq $page.Section "projects" }}
-            {{ $label = "Featured Project" }}
-          {{ end }}
-          {{ $summary := $page.Description | default ($page.Summary | plainify | truncate 160) }}
-          <a
-            class="home-featured-card"
-            href="{{ $page.Params.externalLink | default $page.RelPermalink }}"
-            data-home-featured-item
-            data-featured-key="{{ $page.RelPermalink }}"
-            {{ if ne $index 0 }}hidden{{ end }}
-          >
-            <span class="home-highlight-label">{{ $label }}</span>
-            <div class="home-featured-copy">
-              <strong>{{ $page.Title }}</strong>
-              <span>{{ $summary }}</span>
-            </div>
-          </a>
-        {{ end }}
+  <div class="home-featured">
+    <span class="home-highlight-label">Featured Project</span>
+    <a class="home-featured-card" href="/projects/copilot-studio-bot/">
+      <div class="home-featured-copy">
+        <strong>Building My First Copilot Studio Agent</strong>
+        <span>A hands-on breakdown of what I built, what worked, what was harder than expected, and what I would improve next.</span>
       </div>
-    </div>
-  {{ end }}
+    </a>
+  </div>
 </section>
