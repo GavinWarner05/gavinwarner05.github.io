@@ -4,7 +4,7 @@ title = "A Beginner's Guide to Dataverse"
 date = "2026-08-13"
 draft = false
 description = "A plain-English introduction to Dataverse, what it does well, and when it actually makes sense to use it."
-featuredImage = ""
+featuredImage = "thumbnail.png"
 tags = [
     "Dataverse",
     "Power Platform",
