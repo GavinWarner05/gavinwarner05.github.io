@@ -1,6 +1,6 @@
 +++
 author = ["Gavin Warner"]
-title = "A Beginner's Guide to Dataverse in Plain English"
+title = "A Beginner's Guide to Dataverse"
 date = "2026-08-13"
 draft = false
 description = "A plain-English introduction to Dataverse, what it does well, and when it actually makes sense to use it."
@@ -17,7 +17,7 @@ categories = [
 ]
 +++
 
-# A Beginner's Guide to Dataverse in Plain English
+# A Beginner's Guide to Dataverse
 
 If you spend enough time around **Power Apps**, **Power Automate**, or **Copilot Studio**, you will eventually hear people mention **Dataverse**. For a lot of beginners, that is usually the point where things start sounding more complicated than they need to.
 
