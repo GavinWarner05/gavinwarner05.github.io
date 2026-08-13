@@ -19,6 +19,8 @@ categories = [
 
 # A Beginner's Guide to Dataverse
 
+{{< figure src="thumbnail.png" alt="A Beginner's Guide to Dataverse thumbnail" width="420" >}}
+
 If you spend enough time around **Power Apps**, **Power Automate**, or **Copilot Studio**, you will eventually hear people mention **Dataverse**. For a lot of beginners, that is usually the point where things start sounding more complicated than they need to.
 
 At first, Dataverse can seem like one of those tools everybody talks about but nobody explains clearly. You hear that it is "better" than a SharePoint List, or that it is more "powerful," or that it is the "right" way to build serious Power Platform solutions. None of that really helps if you are still trying to understand what it actually is.
