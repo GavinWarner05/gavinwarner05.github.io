@@ -2,7 +2,7 @@
 author = ["Gavin Warner"]
 title = "A Beginner's Guide to Dataverse in Plain English"
 date = "2026-08-13"
-draft = true
+draft = false
 description = "A plain-English introduction to Dataverse, what it does well, and when it actually makes sense to use it."
 featuredImage = ""
 tags = [
