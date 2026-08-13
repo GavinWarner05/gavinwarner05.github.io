@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dataverse on Gavin Warner</title>
-    <link>https://gavinwarner.digital/tags/dataverse/</link>
-    <description>Recent content in Dataverse on Gavin Warner</description>
+    <title>Beginner on Gavin Warner</title>
+    <link>https://gavinwarner.digital/tags/beginner/</link>
+    <description>Recent content in Beginner on Gavin Warner</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gavinwarner.digital/tags/dataverse/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gavinwarner.digital/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Beginner&#39;s Guide to Dataverse in Plain English</title>
       <link>https://gavinwarner.digital/posts/beginners-guide-to-dataverse/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://gavinwarner.digital/posts/beginners-guide-to-dataverse/</guid>
       <description>&lt;h1 id=&#34;a-beginners-guide-to-dataverse-in-plain-english&#34;&gt;&#xA;  A Beginner&amp;rsquo;s Guide to Dataverse in Plain English&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#a-beginners-guide-to-dataverse-in-plain-english&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;If you spend enough time around &lt;strong&gt;Power Apps&lt;/strong&gt;, &lt;strong&gt;Power Automate&lt;/strong&gt;, or &lt;strong&gt;Copilot Studio&lt;/strong&gt;, you will eventually hear people mention &lt;strong&gt;Dataverse&lt;/strong&gt;. For a lot of beginners, that is usually the point where things start sounding more complicated than they need to.&lt;/p&gt;&#xA;&lt;p&gt;At first, Dataverse can seem like one of those tools everybody talks about but nobody explains clearly. You hear that it is &amp;ldquo;better&amp;rdquo; than a SharePoint List, or that it is more &amp;ldquo;powerful,&amp;rdquo; or that it is the &amp;ldquo;right&amp;rdquo; way to build serious Power Platform solutions. None of that really helps if you are still trying to understand what it actually is.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SharePoint Lists vs Dataverse</title>
-      <link>https://gavinwarner.digital/posts/dataverse-vs-sharepoint-lists/</link>
-      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://gavinwarner.digital/posts/dataverse-vs-sharepoint-lists/</guid>
-      <description>&lt;h1 id=&#34;sharepoint-lists-vs-dataverse&#34;&gt;&#xA;  SharePoint Lists vs Dataverse&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#sharepoint-lists-vs-dataverse&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;One of the most common decisions in the Microsoft ecosystem is whether to store your data in &lt;strong&gt;SharePoint Lists&lt;/strong&gt; or in &lt;strong&gt;Dataverse&lt;/strong&gt;. Both can work well, and both are capable of powering useful business solutions. The problem is that they often get treated like they are interchangeable when they really are not.&lt;/p&gt;&#xA;&lt;p&gt;In a lot of projects, the real question is not &amp;ldquo;Which one is better?&amp;rdquo; It is &amp;ldquo;Which one makes the most sense for the size and complexity of what I am building right now?&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

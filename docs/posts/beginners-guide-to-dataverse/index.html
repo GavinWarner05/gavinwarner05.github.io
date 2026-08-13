@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>
+  A Beginner&#39;s Guide to Dataverse in Plain English · Gavin Warner
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Gavin Warner">
+<meta name="description" content="A plain-English introduction to Dataverse, what it does well, and when it actually makes sense to use it.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="A Beginner&#39;s Guide to Dataverse in Plain English">
+  <meta name="twitter:description" content="A plain-English introduction to Dataverse, what it does well, and when it actually makes sense to use it.">
+
+<meta property="og:url" content="https://gavinwarner.digital/posts/beginners-guide-to-dataverse/">
+  <meta property="og:site_name" content="Gavin Warner">
+  <meta property="og:title" content="A Beginner&#39;s Guide to Dataverse in Plain English">
+  <meta property="og:description" content="A plain-English introduction to Dataverse, what it does well, and when it actually makes sense to use it.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-08-13T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-08-13T00:00:00+00:00">
+    <meta property="article:tag" content="Dataverse">
+    <meta property="article:tag" content="Power Platform">
+    <meta property="article:tag" content="Microsoft">
+    <meta property="article:tag" content="Beginner">
+
+
+
+
+<link rel="canonical" href="https://gavinwarner.digital/posts/beginners-guide-to-dataverse/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.26a83dcefaf34339737bf29f77b17753bab5e60782b1ca9ba200abbb73b48cb0.css" integrity="sha256-Jqg9zvrzQzlze/Kfd7F3U7q15geCscqbogCru3O0jLA=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.ad48f476275974885bdc03d5251e3cdbe1678c54a63ff772376b0ed2adc468dd.css" integrity="sha256-rUj0didZdIhb3APVJR482&#43;FnjFSmP/dyN2sO0q3EaN0=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+  
+  
+    
+    <link rel="stylesheet" href="/scss/custom.min.76cc564bba705984b813a729d898bb14a07480fd64bae653394c80f424b38c3d.css" integrity="sha256-dsxWS7pwWYS4E6cp2Ji7FKB0gP1kuuZTOUyA9CSzjD0=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+<link id="favicon-shortcut" rel="shortcut icon" href="/images/favicons/favicon-dark-32.png?v=5">
+<link id="favicon-32" rel="icon" type="image/png" href="/images/favicons/favicon-dark-32.png?v=5" sizes="32x32">
+<link id="favicon-16" rel="icon" type="image/png" href="/images/favicons/favicon-dark-16.png?v=5" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/favicons/favicon-dark-source.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/favicon-dark-source.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="https://gavinwarner.digital/">
+      Gavin Warner
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/contact/">Contact me</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://gavinwarner.digital/posts/beginners-guide-to-dataverse/">
+              A Beginner&#39;s Guide to Dataverse in Plain English
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2026-08-13T00:00:00Z">
+                August 13, 2026
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              8-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/power-platform/">Power Platform</a>
+      <span class="separator">•</span>
+    <a href="/categories/microsoft/">Microsoft</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/dataverse/">Dataverse</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/power-platform/">Power Platform</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/microsoft/">Microsoft</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/beginner/">Beginner</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        <h1 id="a-beginners-guide-to-dataverse-in-plain-english">
+  A Beginner&rsquo;s Guide to Dataverse in Plain English
+  <a class="heading-link" href="#a-beginners-guide-to-dataverse-in-plain-english">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<p>If you spend enough time around <strong>Power Apps</strong>, <strong>Power Automate</strong>, or <strong>Copilot Studio</strong>, you will eventually hear people mention <strong>Dataverse</strong>. For a lot of beginners, that is usually the point where things start sounding more complicated than they need to.</p>
+<p>At first, Dataverse can seem like one of those tools everybody talks about but nobody explains clearly. You hear that it is &ldquo;better&rdquo; than a SharePoint List, or that it is more &ldquo;powerful,&rdquo; or that it is the &ldquo;right&rdquo; way to build serious Power Platform solutions. None of that really helps if you are still trying to understand what it actually is.</p>
+<p>This post is a simple, practical introduction to Dataverse without the jargon overload.</p>
+<h2 id="what-dataverse-actually-is">
+  What Dataverse Actually Is
+  <a class="heading-link" href="#what-dataverse-actually-is">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>In plain English, <strong>Dataverse is a place to store and organize data for Power Platform applications</strong>.</p>
+<p>That is the simplest version.</p>
+<p>If you want a slightly more complete version, Dataverse is a Microsoft data platform designed to hold structured business data in a way that works well with apps, automations, and copilots.</p>
+<p>Instead of thinking about it like a giant mystery product, it is easier to think about it like this:</p>
+<ul>
+<li><strong>SharePoint Lists</strong> are often great for lightweight list-based tracking</li>
+<li><strong>Dataverse</strong> is better when the data starts behaving more like a real application back end</li>
+</ul>
+<p>That means Dataverse is not just about storing rows of information. It is built to handle relationships between data, rules around that data, security, and the kinds of structure that become more important as a solution grows.</p>
+<h2 id="why-dataverse-exists">
+  Why Dataverse Exists
+  <a class="heading-link" href="#why-dataverse-exists">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>A lot of business solutions start small.</p>
+<p>Maybe a team wants to track requests. Maybe somebody needs a simple app to manage equipment. Maybe there is a form that feeds a workflow. At the beginning, something lightweight is often enough.</p>
+<p>But over time, those solutions can get more complicated:</p>
+<ul>
+<li>More users need access</li>
+<li>Different users need different permissions</li>
+<li>The data needs to connect across multiple tables</li>
+<li>The app starts becoming important to day-to-day operations</li>
+<li>Workarounds start piling up</li>
+</ul>
+<p>That is where Dataverse starts making more sense.</p>
+<p>Microsoft needed something that could act as a stronger foundation for business applications across the Power Platform, and that is basically the role Dataverse fills.</p>
+<h2 id="what-dataverse-is-good-at">
+  What Dataverse Is Good At
+  <a class="heading-link" href="#what-dataverse-is-good-at">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Dataverse is especially useful for:</p>
+<ul>
+<li><strong>relational data</strong></li>
+<li><strong>structured business apps</strong></li>
+<li><strong>security and permissions</strong></li>
+<li><strong>solutions that are expected to grow</strong></li>
+<li><strong>cleaner integration across Power Platform tools</strong></li>
+</ul>
+<p>If you are building something with multiple connected tables, business logic, user roles, and long-term importance, Dataverse usually makes more sense than trying to stretch a simpler tool too far.</p>
+<p>It is not always the fastest option, and it is not always the cheapest option, but it is often the more scalable option.</p>
+<h2 id="the-basic-terms-that-confuse-beginners">
+  The Basic Terms That Confuse Beginners
+  <a class="heading-link" href="#the-basic-terms-that-confuse-beginners">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>One reason Dataverse feels intimidating is that it comes with vocabulary that can sound more technical than it really is. Here are a few beginner-friendly translations.</p>
+<h3 id="table">
+  Table
+  <a class="heading-link" href="#table">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>A <strong>table</strong> is where data is stored.</p>
+<p>If you are used to SharePoint Lists, a table is somewhat similar to a list. It holds records and columns.</p>
+<p>Examples:</p>
+<ul>
+<li>Employees</li>
+<li>Requests</li>
+<li>Projects</li>
+<li>Customers</li>
+</ul>
+<h3 id="column">
+  Column
+  <a class="heading-link" href="#column">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>A <strong>column</strong> is a field in the table.</p>
+<p>Examples:</p>
+<ul>
+<li>First Name</li>
+<li>Status</li>
+<li>Request Date</li>
+<li>Department</li>
+</ul>
+<h3 id="row-or-record">
+  Row or Record
+  <a class="heading-link" href="#row-or-record">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>A <strong>record</strong> is one individual item in the table.</p>
+<p>If the table is <code>Employees</code>, then one employee would be a single record.</p>
+<h3 id="relationship">
+  Relationship
+  <a class="heading-link" href="#relationship">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>A <strong>relationship</strong> is a connection between tables.</p>
+<p>This is one of the biggest reasons Dataverse matters.</p>
+<p>For example:</p>
+<ul>
+<li>a customer can have many support cases</li>
+<li>a project can have many tasks</li>
+<li>an employee can submit many requests</li>
+</ul>
+<p>Instead of stuffing everything into one giant list, Dataverse lets those pieces connect in a cleaner way.</p>
+<h3 id="choice">
+  Choice
+  <a class="heading-link" href="#choice">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>A <strong>choice</strong> is basically a controlled set of options.</p>
+<p>Examples:</p>
+<ul>
+<li>New</li>
+<li>In Progress</li>
+<li>Complete</li>
+</ul>
+<p>That helps keep data more consistent because users pick from known values instead of typing whatever they want.</p>
+<h2 id="how-dataverse-is-different-from-sharepoint-lists">
+  How Dataverse Is Different From SharePoint Lists
+  <a class="heading-link" href="#how-dataverse-is-different-from-sharepoint-lists">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>This is the comparison many people care about first, and it is an important one.</p>
+<p>SharePoint Lists are often easier to start with. They are familiar, fast, and usually already available inside many Microsoft 365 environments.</p>
+<p>Dataverse is different because it is built more intentionally for application data.</p>
+<p>Here is the plain-English version:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Area</th>
+          <th>SharePoint Lists</th>
+          <th>Dataverse</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Best starting point</td>
+          <td>Simple tracking</td>
+          <td>Structured apps</td>
+      </tr>
+      <tr>
+          <td>Setup speed</td>
+          <td>Faster</td>
+          <td>Slower</td>
+      </tr>
+      <tr>
+          <td>Relationships</td>
+          <td>Basic</td>
+          <td>Stronger</td>
+      </tr>
+      <tr>
+          <td>Security</td>
+          <td>Simpler</td>
+          <td>More advanced</td>
+      </tr>
+      <tr>
+          <td>Growth potential</td>
+          <td>Fine for lighter solutions</td>
+          <td>Better for larger solutions</td>
+      </tr>
+      <tr>
+          <td>Licensing</td>
+          <td>Often easier</td>
+          <td>May require premium licensing</td>
+      </tr>
+  </tbody>
+</table>
+<p>That does not mean Dataverse always wins.</p>
+<p>A lot of beginners hear &ldquo;more powerful&rdquo; and assume that means &ldquo;always better.&rdquo; That is not really how it works. A tool can be stronger in theory and still be the wrong fit for a small project.</p>
+<h2 id="a-simple-example">
+  A Simple Example
+  <a class="heading-link" href="#a-simple-example">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Imagine you are building an internal app for equipment requests.</p>
+<p>At the beginning, maybe all you need is:</p>
+<ul>
+<li>employee name</li>
+<li>equipment type</li>
+<li>request date</li>
+<li>approval status</li>
+</ul>
+<p>That could probably work fine in a SharePoint List.</p>
+<p>Now imagine the app grows.</p>
+<p>Suddenly you need:</p>
+<ul>
+<li>an employee table</li>
+<li>an equipment table</li>
+<li>a request table</li>
+<li>manager approvals</li>
+<li>role-based visibility</li>
+<li>tracking across multiple departments</li>
+</ul>
+<p>Now the solution starts feeling less like &ldquo;just a list&rdquo; and more like an actual business app.</p>
+<p>That is the type of moment where Dataverse becomes much easier to justify.</p>
+<h2 id="when-dataverse-is-probably-worth-using">
+  When Dataverse Is Probably Worth Using
+  <a class="heading-link" href="#when-dataverse-is-probably-worth-using">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>I would start leaning toward Dataverse when:</p>
+<ul>
+<li>the solution clearly has multiple connected tables</li>
+<li>the app needs stronger security or role-based access</li>
+<li>the business process is likely to grow over time</li>
+<li>the solution is becoming important to operations</li>
+<li>the app is being treated like a real product instead of a quick tool</li>
+</ul>
+<p>Dataverse makes the most sense when the structure behind the app matters almost as much as the app itself.</p>
+<h2 id="when-dataverse-is-probably-overkill">
+  When Dataverse Is Probably Overkill
+  <a class="heading-link" href="#when-dataverse-is-probably-overkill">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Not every project needs Dataverse.</p>
+<p>I think this is important to say clearly because beginners often assume they are &ldquo;doing it wrong&rdquo; if they are not using the more advanced option.</p>
+<p>Dataverse may be overkill when:</p>
+<ul>
+<li>the solution is very simple</li>
+<li>the data model is straightforward</li>
+<li>the process might not last very long</li>
+<li>premium licensing would be hard to justify</li>
+<li>a SharePoint List would already solve the problem well</li>
+</ul>
+<p>There is nothing wrong with starting simple.</p>
+<p>In fact, a lot of good solutions begin that way.</p>
+<h2 id="what-dataverse-feels-like-in-real-life">
+  What Dataverse Feels Like in Real Life
+  <a class="heading-link" href="#what-dataverse-feels-like-in-real-life">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>From a beginner perspective, Dataverse usually feels like this:</p>
+<ul>
+<li>more setup up front</li>
+<li>more structure</li>
+<li>more planning</li>
+<li>less mess later if the app grows</li>
+</ul>
+<p>That last part is the tradeoff.</p>
+<p>Dataverse asks for more thought earlier, but it can save a lot of pain later if the solution becomes bigger than expected.</p>
+<p>This is why I do not think the question should be &ldquo;Is Dataverse better?&rdquo;</p>
+<p>The better question is:</p>
+<p><strong>Is this solution becoming the kind of app that actually needs Dataverse?</strong></p>
+<h2 id="common-beginner-mistakes">
+  Common Beginner Mistakes
+  <a class="heading-link" href="#common-beginner-mistakes">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Here are a few mistakes I think are easy to make when you are first learning this space.</p>
+<h3 id="1-assuming-dataverse-is-always-the-right-answer">
+  1. Assuming Dataverse is always the right answer
+  <a class="heading-link" href="#1-assuming-dataverse-is-always-the-right-answer">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>It is powerful, but that does not mean it is always necessary.</p>
+<h3 id="2-avoiding-dataverse-because-it-sounds-too-advanced">
+  2. Avoiding Dataverse because it sounds too advanced
+  <a class="heading-link" href="#2-avoiding-dataverse-because-it-sounds-too-advanced">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>It can sound intimidating at first, but the core ideas are not impossible to learn. A lot of the fear comes from unfamiliar terminology.</p>
+<h3 id="3-treating-storage-like-an-afterthought">
+  3. Treating storage like an afterthought
+  <a class="heading-link" href="#3-treating-storage-like-an-afterthought">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Where your app stores data matters. It affects growth, permissions, maintenance, and how easy the app will be to evolve later.</p>
+<h3 id="4-not-thinking-about-licensing-early-enough">
+  4. Not thinking about licensing early enough
+  <a class="heading-link" href="#4-not-thinking-about-licensing-early-enough">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Sometimes Dataverse is technically the strongest option, but the licensing reality changes the conversation.</p>
+<h2 id="my-rule-of-thumb">
+  My Rule of Thumb
+  <a class="heading-link" href="#my-rule-of-thumb">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>If I am building something that mostly behaves like a simple team tracker, I usually think about <strong>SharePoint Lists</strong> first.</p>
+<p>If I am building something that behaves more like a real application with connected data and business rules, I start thinking much more seriously about <strong>Dataverse</strong>.</p>
+<p>That is not a perfect rule, but it is a useful starting point.</p>
+<h2 id="if-you-are-brand-new-what-should-you-learn-first">
+  If You Are Brand New, What Should You Learn First?
+  <a class="heading-link" href="#if-you-are-brand-new-what-should-you-learn-first">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>If you are just getting started with Dataverse, these are the first ideas I would focus on:</p>
+<ol>
+<li>What a table is</li>
+<li>What a column is</li>
+<li>What a record is</li>
+<li>How relationships work</li>
+<li>Why app data sometimes needs more structure than a simple list</li>
+</ol>
+<p>You do not need to master everything at once.</p>
+<p>The goal at the beginning is not to become an expert in Dataverse architecture. The goal is just to understand what problem it solves and when it makes sense to use it.</p>
+<h2 id="final-thoughts">
+  Final Thoughts
+  <a class="heading-link" href="#final-thoughts">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Dataverse is easier to understand once you stop thinking of it as some big, mysterious Microsoft thing and start thinking of it as a <strong>structured data foundation for Power Platform apps</strong>.</p>
+<p>It is not required for every project. It is not automatically the best choice. But when an app starts growing in complexity, Dataverse can give you a much cleaner foundation than trying to force everything into a simpler tool.</p>
+<p>If you are a beginner, the best thing you can do is not worry about learning every advanced feature right away. Start by understanding the basic building blocks, the types of problems Dataverse is good at solving, and how it compares to tools like SharePoint Lists.</p>
+<p>Once that part clicks, the rest gets much easier.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2024 -
+    
+    2026
+     Gavin Warner 
+    
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+  
+  
+  <script src="/js/favicon-theme.min.a103cf8f55d81e70c51ed6b955c7ffa2d8e1382862f23f6ae4949cfc0af19449.js" integrity="sha256-oQPPj1XYHnDFHta5Vcf/otjhOChi8j9q5JSc/ArxlEk="></script>
+  
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>
