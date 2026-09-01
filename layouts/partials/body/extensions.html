@@ -1,0 +1,14 @@
+{{/*
+  This extension point occurs just before the end of each page's <body> tag.
+
+  You can add further theme extensions or customizations here if needed.
+*/}}
+{{ if eq .Section "sports" -}}
+  {{ $sportsScript := resources.Get "js/sports.js" }}
+  {{ if hugo.IsServer }}
+    <script src="{{ $sportsScript.RelPermalink }}"></script>
+  {{ else }}
+    {{ $sportsScript = $sportsScript | minify | fingerprint }}
+    <script src="{{ $sportsScript.RelPermalink }}" integrity="{{ $sportsScript.Data.Integrity }}" crossorigin="anonymous"></script>
+  {{ end }}
+{{- end -}}

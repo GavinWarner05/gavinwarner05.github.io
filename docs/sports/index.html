@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>NFL Sports Center · Gavin Warner</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Gavin Warner">
+<meta name="description" content="An unlisted NFL schedule, score, jersey, and injury dashboard.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="NFL Sports Center">
+  <meta name="twitter:description" content="An unlisted NFL schedule, score, jersey, and injury dashboard.">
+
+<meta property="og:url" content="http://localhost:1313/sports/">
+  <meta property="og:site_name" content="Gavin Warner">
+  <meta property="og:title" content="NFL Sports Center">
+  <meta property="og:description" content="An unlisted NFL schedule, score, jersey, and injury dashboard.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="website">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/sports/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+  
+  
+    
+    
+    <link rel="stylesheet" href="/scss/custom.css" media="screen">
+  
+
+
+
+<link id="favicon-shortcut" rel="shortcut icon" href="/images/favicons/favicon-dark-32.png?v=5">
+<link id="favicon-32" rel="icon" type="image/png" href="/images/favicons/favicon-dark-32.png?v=5" sizes="32x32">
+<link id="favicon-16" rel="icon" type="image/png" href="/images/favicons/favicon-dark-16.png?v=5" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/favicons/favicon-dark-source.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/favicon-dark-source.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+<meta name="robots" content="noindex, nofollow">
+  
+  
+    <link rel="stylesheet" href="/scss/sports.css">
+  
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
+      Gavin Warner
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/contact/">Contact me</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+<section class="sports-shell" data-sports-app data-data-url="/sports/data/nfl.json">
+  <header class="sports-hero">
+    <p class="sports-eyebrow">NFL Sports Center</p>
+    <h1>Game day, at a glance.</h1>
+    <p class="sports-updated" data-updated aria-live="polite">Loading the latest snapshot…</p>
+  </header>
+
+  <nav class="sports-filters" aria-label="Filter games">
+    <button type="button" data-filter="yesterday">Yesterday</button>
+    <button type="button" data-filter="today" aria-pressed="true">Today</button>
+    <button type="button" data-filter="upcoming">Upcoming</button>
+    <button type="button" data-filter="live">Live</button>
+    <button type="button" data-filter="final">Final</button>
+  </nav>
+
+  <nav class="sports-week-picker" data-week-picker aria-label="Choose NFL week" hidden>
+    <button type="button" class="week-scroll-button" data-week-previous aria-label="Show previous weeks">‹</button>
+    <div class="sports-week-options" data-week-options tabindex="0" aria-label="NFL weeks"></div>
+    <button type="button" class="week-scroll-button" data-week-next aria-label="Show later weeks">›</button>
+  </nav>
+
+  <div class="sports-notice" data-notice role="status" hidden></div>
+  <section class="sports-group" data-favorites-section hidden>
+    <div class="sports-section-heading">
+      <h2>Favorites</h2><span data-favorites-count></span>
+    </div>
+    <div class="sports-grid" data-favorites></div>
+  </section>
+  <section class="sports-group">
+    <div class="sports-section-heading">
+      <h2 data-games-heading>Today</h2><span data-games-count></span>
+    </div>
+    <div class="sports-grid" data-games></div>
+  </section>
+</section>
+
+<dialog class="matchup-dialog" data-matchup-dialog aria-labelledby="matchup-title">
+  <button class="matchup-close" type="button" data-close-dialog aria-label="Close matchup details">×</button>
+  <div data-matchup-detail></div>
+</dialog>
+<noscript><p class="sports-noscript">JavaScript is required to display the sports dashboard.</p></noscript>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2024 -
+    
+    2026
+     Gavin Warner 
+    
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+  
+  
+  <script src="/js/favicon-theme.js"></script>
+  
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    <script src="/js/sports.js"></script>
+  </body>
+
+</html>

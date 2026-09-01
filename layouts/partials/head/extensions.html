@@ -1,0 +1,14 @@
+{{/*
+  You can add further theme extensions or customizations here if they should
+  appear in <head>.
+*/}}
+{{ if eq .Section "sports" -}}
+  <meta name="robots" content="{{ .Params.robots | default "noindex, nofollow" }}">
+  {{ $sportsStyles := resources.Get "scss/sports.scss" | toCSS }}
+  {{ if hugo.IsServer }}
+    <link rel="stylesheet" href="{{ $sportsStyles.RelPermalink }}">
+  {{ else }}
+    {{ $sportsStyles = $sportsStyles | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $sportsStyles.RelPermalink }}" integrity="{{ $sportsStyles.Data.Integrity }}" crossorigin="anonymous">
+  {{ end }}
+{{- end -}}

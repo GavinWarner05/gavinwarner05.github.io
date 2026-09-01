@@ -1,0 +1,35 @@
+name: Validate site
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test public data boundary
+        run: python -m unittest discover -s tests -v
+      - name: Compile synchronization scripts
+        env:
+          PYTHONPYCACHEPREFIX: ${{ runner.temp }}/pycache
+        run: python -m py_compile scripts/sync.py scripts/build_sports_data.py
+      - name: Build sanitized fixture
+        run: python scripts/build_sports_data.py --input data/sports/sample.json --output static/sports/data/nfl.json
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.160.1"
+          extended: true
+      - name: Build Hugo in a temporary directory
+        run: hugo --environment production --minify --destination "${RUNNER_TEMP}/site"

@@ -1,0 +1,44 @@
+{{ define "title" }}NFL Sports Center · {{ .Site.Title }}{{ end }}
+{{ define "content" }}
+<section class="sports-shell" data-sports-app data-data-url="{{ "sports/data/nfl.json" | relURL }}">
+  <header class="sports-hero">
+    <p class="sports-eyebrow">NFL Sports Center</p>
+    <h1>Game day, at a glance.</h1>
+    <p class="sports-updated" data-updated aria-live="polite">Loading the latest snapshot…</p>
+  </header>
+
+  <nav class="sports-filters" aria-label="Filter games">
+    <button type="button" data-filter="yesterday">Yesterday</button>
+    <button type="button" data-filter="today" aria-pressed="true">Today</button>
+    <button type="button" data-filter="upcoming">Upcoming</button>
+    <button type="button" data-filter="live">Live</button>
+    <button type="button" data-filter="final">Final</button>
+  </nav>
+
+  <nav class="sports-week-picker" data-week-picker aria-label="Choose NFL week" hidden>
+    <button type="button" class="week-scroll-button" data-week-previous aria-label="Show previous weeks">‹</button>
+    <div class="sports-week-options" data-week-options tabindex="0" aria-label="NFL weeks"></div>
+    <button type="button" class="week-scroll-button" data-week-next aria-label="Show later weeks">›</button>
+  </nav>
+
+  <div class="sports-notice" data-notice role="status" hidden></div>
+  <section class="sports-group" data-favorites-section hidden>
+    <div class="sports-section-heading">
+      <h2>Favorites</h2><span data-favorites-count></span>
+    </div>
+    <div class="sports-grid" data-favorites></div>
+  </section>
+  <section class="sports-group">
+    <div class="sports-section-heading">
+      <h2 data-games-heading>Today</h2><span data-games-count></span>
+    </div>
+    <div class="sports-grid" data-games></div>
+  </section>
+</section>
+
+<dialog class="matchup-dialog" data-matchup-dialog aria-labelledby="matchup-title">
+  <button class="matchup-close" type="button" data-close-dialog aria-label="Close matchup details">×</button>
+  <div data-matchup-detail></div>
+</dialog>
+<noscript><p class="sports-noscript">JavaScript is required to display the sports dashboard.</p></noscript>
+{{ end }}
