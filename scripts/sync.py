@@ -110,16 +110,32 @@ def require_secrets() -> None:
         raise SystemExit(f"Missing required secret(s): {', '.join(missing)}")
 
 
+def retry_delay(response: requests.Response | None, attempt: int) -> float:
+    retry_after = response.headers.get("Retry-After", "") if response is not None else ""
+    try:
+        return min(max(float(retry_after), 0), 30) if retry_after else min(2 ** attempt, 20)
+    except ValueError:
+        return min(2 ** attempt, 20)
+
+
 def request(method: str, url: str, *, headers: dict[str, str], **kwargs: Any) -> dict[str, Any]:
-    for attempt in range(4):
-        response = requests.request(method, url, headers=headers, timeout=30, **kwargs)
-        if response.status_code == 429 or response.status_code >= 500:
-            time.sleep(2 ** attempt)
-            continue
+    last_error: requests.RequestException | None = None
+    for attempt in range(6):
+        response: requests.Response | None = None
+        try:
+            response = requests.request(method, url, headers=headers, timeout=30, **kwargs)
+            if response.status_code != 429 and response.status_code < 500:
+                response.raise_for_status()
+                return response.json()
+        except (requests.ConnectionError, requests.Timeout) as exc:
+            last_error = exc
+        if attempt < 5:
+            time.sleep(retry_delay(response, attempt))
+    if response is not None:
         response.raise_for_status()
-        return response.json()
-    response.raise_for_status()
-    raise RuntimeError("Unreachable")
+    if last_error is not None:
+        raise last_error
+    raise RuntimeError("Request failed after retries")
 
 
 def notion(method: str, path: str, payload: dict[str, Any] | None = None) -> dict[str, Any]:
@@ -162,9 +178,23 @@ def resolve_data_sources() -> None:
 
 
 def fetch_csv(url: str) -> list[dict[str, str]]:
-    response = requests.get(url, timeout=45)
-    response.raise_for_status()
-    return list(csv.DictReader(io.StringIO(response.text)))
+    last_error: requests.RequestException | None = None
+    for attempt in range(6):
+        response: requests.Response | None = None
+        try:
+            response = requests.get(url, timeout=45)
+            if response.status_code != 429 and response.status_code < 500:
+                response.raise_for_status()
+                return list(csv.DictReader(io.StringIO(response.text)))
+        except (requests.ConnectionError, requests.Timeout) as exc:
+            last_error = exc
+        if attempt < 5:
+            time.sleep(retry_delay(response, attempt))
+    if response is not None:
+        response.raise_for_status()
+    if last_error is not None:
+        raise last_error
+    raise RuntimeError("CSV download failed after retries")
 
 
 def query_all(data_source_id: str) -> list[dict[str, Any]]:
