@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "lv",
@@ -1669,6 +1669,242 @@
       "player": "Ashton Jeanty",
       "status": "Questionable",
       "detail": "Knee"
+    }
+  ],
+  "injury_players": [
+    {
+      "id": "00-0036423",
+      "name": "Albert Okwuegbunam",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ivyip7mtbv6i0wbnlrph"
+    },
+    {
+      "id": "00-0039010",
+      "name": "Braeden Daniels",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qeztiujf4s7scl6dt2lf"
+    },
+    {
+      "id": "00-0040902",
+      "name": "Brandon Cleveland",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fbhacwssycfl9yo2dwjc"
+    },
+    {
+      "id": "00-0039836",
+      "name": "Brennan Jackson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dmdwsofgb90qn5yoohcb"
+    },
+    {
+      "id": "00-0041002",
+      "name": "Caleb Offord",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbljkowjv4laxdiszgbp"
+    },
+    {
+      "id": "00-0036644",
+      "name": "Cameron McGrone",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xfpxokkvmeaex547py28"
+    },
+    {
+      "id": "00-0040488",
+      "name": "Carter Runyon",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q8knlo3npxhjxiyyx4h6"
+    },
+    {
+      "id": "00-0041004",
+      "name": "Chase Roberts",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bqncmkjxb7rcvfuhe1ss"
+    },
+    {
+      "id": "00-0039676",
+      "name": "Chigozie Anusiem",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pp6vsmzyplbm98g2srpp"
+    },
+    {
+      "id": "00-0039244",
+      "name": "Chris Collier",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ljfhyvlszo4qs63fo4ow"
+    },
+    {
+      "id": "00-0035345",
+      "name": "Chris Myarick",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zyedrh1lvylrutfof4ld"
+    },
+    {
+      "id": "00-0041006",
+      "name": "Cian Slone",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t27ear9faclf1tdibwj9"
+    },
+    {
+      "id": "00-0041005",
+      "name": "Corey Rucker",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nabhgywifegiuohtg6fq"
+    },
+    {
+      "id": "00-0038923",
+      "name": "Dalton Wagner",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/chenoqf6l8qhbz6uhvfa"
+    },
+    {
+      "id": "00-0033854",
+      "name": "Dare Ogunbowale",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bsm0k0jkytuiej2riudv"
+    },
+    {
+      "id": "00-0039357",
+      "name": "Decamerion Richardson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/glaqpoapm3t8ponuj55p"
+    },
+    {
+      "id": "00-0037487",
+      "name": "Deven Thompkins",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hohgyaldfuylxqwnb8i2"
+    },
+    {
+      "id": "00-0041000",
+      "name": "Devin Lafayette",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nrkkhtzrnmwsy6ziz31f"
+    },
+    {
+      "id": "00-0041018",
+      "name": "Devyn Perkins",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mzgy2owc1timx7uso3rc"
+    },
+    {
+      "id": "00-0041011",
+      "name": "E.J. Williams Jr.",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vajaprynilirvbzf7m1o"
+    },
+    {
+      "id": "00-0041007",
+      "name": "Gary Smith III",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pg1gxclnnavdtd7s8cgs"
+    },
+    {
+      "id": "00-0040489",
+      "name": "Greedy Vance",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mr8rshagj0vkedyjoz1t"
+    },
+    {
+      "id": "00-0040999",
+      "name": "Isaiah Jatta",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yvqd3lgm1wui3oyazbkw"
+    },
+    {
+      "id": "00-0040996",
+      "name": "Jacob Clark",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zw2yzeb5jhowboogfpki"
+    },
+    {
+      "id": "00-0040604",
+      "name": "Jahfari Harvey",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wku1t52bulqtrb9sscw0"
+    },
+    {
+      "id": "00-0035317",
+      "name": "Joshua Miles",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ykzlb5vdb8erowhjhelw"
+    },
+    {
+      "id": "00-0041003",
+      "name": "Justin Pickett",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/m9se6qsdmcgaf9lucm2d"
+    },
+    {
+      "id": "00-0038590",
+      "name": "Justin Shorter",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/htymyxoyw1hh52zoo3lb"
+    },
+    {
+      "id": "00-0041017",
+      "name": "Kamar Missouri",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nfk7fdkn8sljhdr7gpw7"
+    },
+    {
+      "id": "00-0041582",
+      "name": "Kansei Matsuzawa",
+      "position": "K",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/juovdeicuriiauham1my"
+    },
+    {
+      "id": "00-0041553",
+      "name": "Keyron Crawford",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/es2d7bq7qj5xestutdk2"
+    },
+    {
+      "id": "00-0041014",
+      "name": "Niklas Henning",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/quyamjtpggvzd3chh4tt"
+    },
+    {
+      "id": "00-0041016",
+      "name": "Patrick Gurd",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/agjazc5duhqepvcd82yf"
+    },
+    {
+      "id": "00-0040998",
+      "name": "Roman Hemby",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n8js64cgcfhkllrvxw5x"
+    },
+    {
+      "id": "00-0038891",
+      "name": "Shedrick Jackson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pimh65yyziduaq7vbmi5"
+    },
+    {
+      "id": "00-0040487",
+      "name": "Treven Ma'ae",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rjorj8cbnvardimhwjcl"
+    },
+    {
+      "id": "00-0040997",
+      "name": "Tyler Duzansky",
+      "position": "LS",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e7iggmlhoyuge8vriory"
+    },
+    {
+      "id": "00-0039544",
+      "name": "Will Putnam",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/clwvsywtoyawl9dhn7gv"
+    },
+    {
+      "id": "00-0041008",
+      "name": "Xavian Sorey Jr.",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fiiv9rjxf1mxeqtucdkc"
     }
   ],
   "players": [
@@ -4698,6 +4934,102 @@
       ]
     },
     {
+      "id": "00-0038594",
+      "name": "Darrell Luter Jr.",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "28",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c7i5bj3inrno1uvjxwv4",
+      "height": "72",
+      "weight": "190",
+      "experience": "3",
+      "college": "South Alabama",
+      "depth_position": "LCB",
+      "depth_slot": "8",
+      "depth_rank": 2,
+      "depth_order": 18,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CHI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "sf",
+            "name": "San Francisco 49ers",
+            "abbreviation": "SF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+            "colors": {
+              "primary": "#AA0000",
+              "secondary": "#B3995D"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0040641",
       "name": "Darien Porter",
       "position": "DB",
@@ -5424,103 +5756,6 @@
           "season": 2026,
           "stats": {},
           "weekly_stats": [],
-          "team": {
-            "id": "lv",
-            "name": "Las Vegas Raiders",
-            "abbreviation": "LV",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
-            "colors": {
-              "primary": "#000000",
-              "secondary": "#4B4B4B"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0039357",
-      "name": "Decamerion Richardson",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "25",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/glaqpoapm3t8ponuj55p",
-      "height": "74",
-      "weight": "195",
-      "experience": "2",
-      "college": "Mississippi State",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "lv",
-            "name": "Las Vegas Raiders",
-            "abbreviation": "LV",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
-            "colors": {
-              "primary": "#000000",
-              "secondary": "#4B4B4B"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "NE",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "DEN",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "CLE",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "PHI",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "KC",
-              "stats": {}
-            }
-          ],
           "team": {
             "id": "lv",
             "name": "Las Vegas Raiders",
@@ -6688,41 +6923,6 @@
       ]
     },
     {
-      "id": "00-0040894",
-      "name": "Malik Benson",
-      "position": "WR",
-      "group": "Wide Receivers",
-      "number": "19",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tndlq4zmq6r9nsvmzih6",
-      "height": "72",
-      "weight": "189",
-      "experience": "0",
-      "college": "Oregon; Florida State; Alabama; Hutchinson CC",
-      "depth_position": "WR",
-      "depth_slot": "1",
-      "depth_rank": 4,
-      "depth_order": 1,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "lv",
-            "name": "Las Vegas Raiders",
-            "abbreviation": "LV",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
-            "colors": {
-              "primary": "#000000",
-              "secondary": "#4B4B4B"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0037093",
       "name": "Dareke Young",
       "position": "WR",
@@ -7202,6 +7402,41 @@
               }
             }
           ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040894",
+      "name": "Malik Benson",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "19",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tndlq4zmq6r9nsvmzih6",
+      "height": "72",
+      "weight": "189",
+      "experience": "0",
+      "college": "Oregon; Florida State; Alabama; Hutchinson CC",
+      "depth_position": "PR",
+      "depth_slot": "4",
+      "depth_rank": 4,
+      "depth_order": 76,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "lv",
             "name": "Las Vegas Raiders",

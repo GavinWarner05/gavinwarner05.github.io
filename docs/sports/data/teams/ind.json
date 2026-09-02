@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "ind",
@@ -2205,6 +2205,234 @@
       "detail": "Thumb"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0041486",
+      "name": "Anderson Castle",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sxtze52r5ruogs7lmyjh"
+    },
+    {
+      "id": "00-0039816",
+      "name": "Anthony Gould",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/irctulz9pij3tzpokih0"
+    },
+    {
+      "id": "00-0041226",
+      "name": "Austin Brown",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cc5vz8tfk41zgx59r5gh"
+    },
+    {
+      "id": "00-0039679",
+      "name": "Ben Nikkel",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nudylqi97cv72dqpmqqq"
+    },
+    {
+      "id": "00-0039158",
+      "name": "Blake Freeland",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eeupk2qokms4vclloicz"
+    },
+    {
+      "id": "00-0037753",
+      "name": "Cam Taylor-Britt",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zco7tr0hv4kxfytolltt"
+    },
+    {
+      "id": "00-0041225",
+      "name": "Cameron Ball",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/g1i05at0lduxgstpgiel"
+    },
+    {
+      "id": "00-0038585",
+      "name": "Cameron Mitchell",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zzaqyr81r6bzhvcdss3b"
+    },
+    {
+      "id": "00-0040853",
+      "name": "Carson Towt",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nwppu7wrirz6adoxgzij"
+    },
+    {
+      "id": "00-0040352",
+      "name": "Coleman Owen",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cjnhiftygnypqumwfphq"
+    },
+    {
+      "id": "00-0035045",
+      "name": "D.J. Montgomery",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tpo0g9pqvia4lh2noq33"
+    },
+    {
+      "id": "00-0038392",
+      "name": "Daniel Scott",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zhfuulvqg8vgqfx738ey"
+    },
+    {
+      "id": "00-0040787",
+      "name": "Devin Veresuk",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vg6jlrvtdbpehqhey7d0"
+    },
+    {
+      "id": "00-0039207",
+      "name": "Durell Nchami",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ajybunk1c4rx1ed45s4l"
+    },
+    {
+      "id": "00-0040337",
+      "name": "Eli Pancol",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mbdztlbypqqt66igvkg8"
+    },
+    {
+      "id": "00-0041234",
+      "name": "Geno VanDeMark",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/flljxyu3fooj4piap4hz"
+    },
+    {
+      "id": "00-0040528",
+      "name": "JJ Galbreath",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rt28raaxljxinfm6vtmy"
+    },
+    {
+      "id": "00-0036859",
+      "name": "Jimmy Morrissey",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jdstqkmytx1eycdnss8o"
+    },
+    {
+      "id": "00-0041513",
+      "name": "Josh Kreutz",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkb8l5dwd8mfrqs7qjgr"
+    },
+    {
+      "id": "00-0037138",
+      "name": "Josh Sills",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mkkdzgfaz9a7gsdc8fip"
+    },
+    {
+      "id": "00-0041320",
+      "name": "Kenneth Harris",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hnfpjatae3feakzaa7oo"
+    },
+    {
+      "id": "00-0037305",
+      "name": "Luke Tenuta",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kfhb0ihfu23aybocl7oh"
+    },
+    {
+      "id": "00-0041574",
+      "name": "Mekhi Rodgers",
+      "position": "DB"
+    },
+    {
+      "id": "00-0041230",
+      "name": "Mitchell Melton",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tpedch0htpw3i47jrj7t"
+    },
+    {
+      "id": "00-0036182",
+      "name": "Nick Westbrook-Ikhine",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cyczwxlgfksrmurbb1ez"
+    },
+    {
+      "id": "00-0041232",
+      "name": "Nolan Rucci",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ckdp3a3c02je29nzrptb"
+    },
+    {
+      "id": "00-0033439",
+      "name": "Pharaoh Brown",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hfgg6gr7aiyzmdzh4iww"
+    },
+    {
+      "id": "00-0041233",
+      "name": "Raylen Sharpe",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vvlwqrvwwum3bjtpribs"
+    },
+    {
+      "id": "00-0040106",
+      "name": "Reuben Lowery",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/izccmtei81rlnzdahwgb"
+    },
+    {
+      "id": "00-0040790",
+      "name": "Rob Carter Jr.",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kgjxvzpxjyg3qsl1oedq"
+    },
+    {
+      "id": "00-0037040",
+      "name": "Roy Mbaeteka",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kfh7fdl1vthjzntlwfyf"
+    },
+    {
+      "id": "00-0041228",
+      "name": "Sahmir Hagans",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/srzam5krmqqt3n5kn9as"
+    },
+    {
+      "id": "00-0040357",
+      "name": "Trey Washington",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ace4vjl3mefeypjbb5hc"
+    },
+    {
+      "id": "00-0040602",
+      "name": "Trey Wedig",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j9w4zu4vdw6jihn1fbvk"
+    },
+    {
+      "id": "00-0041570",
+      "name": "Tyler Moore",
+      "position": "TE"
+    },
+    {
+      "id": "00-0040476",
+      "name": "Ulysses Bentley IV",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iw8g8cngrmp4ipcrdpwi"
+    },
+    {
+      "id": "00-0041236",
+      "name": "West Weeks",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hcmqnw4vsoxbiju2poyb"
+    },
+    {
+      "id": "00-0038394",
+      "name": "Will Mallory",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sl1pkiox1hucg9sxttfi"
+    }
+  ],
   "players": [
     {
       "id": "00-0034825",
@@ -4180,37 +4408,6 @@
       ]
     },
     {
-      "id": "00-0037305",
-      "name": "Luke Tenuta",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "67",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kfhb0ihfu23aybocl7oh",
-      "height": "80",
-      "weight": "322",
-      "experience": "4",
-      "college": "Virginia Tech",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ind",
-            "name": "Indianapolis Colts",
-            "abbreviation": "IND",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-            "colors": {
-              "primary": "#002C5F",
-              "secondary": "#A2AAAD"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0035710",
       "name": "Daniel Jones",
       "position": "QB",
@@ -4872,41 +5069,6 @@
       ]
     },
     {
-      "id": "00-0041125",
-      "name": "Seth McGowan",
-      "position": "RB",
-      "group": "Running Backs",
-      "number": "20",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qkwvvygwu9pan88sivzb",
-      "height": "73",
-      "weight": "223",
-      "experience": "0",
-      "college": "Kentucky; New Mexico State; Butler University; Oklahoma",
-      "depth_position": "RB",
-      "depth_slot": "11",
-      "depth_rank": 2,
-      "depth_order": 9,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ind",
-            "name": "Indianapolis Colts",
-            "abbreviation": "IND",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-            "colors": {
-              "primary": "#002C5F",
-              "secondary": "#A2AAAD"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0040179",
       "name": "DJ Giddens",
       "position": "RB",
@@ -4988,6 +5150,41 @@
               }
             }
           ],
+          "team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041125",
+      "name": "Seth McGowan",
+      "position": "RB",
+      "group": "Running Backs",
+      "number": "20",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qkwvvygwu9pan88sivzb",
+      "height": "73",
+      "weight": "223",
+      "experience": "0",
+      "college": "Kentucky; New Mexico State; Butler University; Oklahoma",
+      "depth_position": "KR",
+      "depth_slot": "5",
+      "depth_rank": 2,
+      "depth_order": 77,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "ind",
             "name": "Indianapolis Colts",
@@ -5726,6 +5923,41 @@
       "depth_position": "NB",
       "depth_slot": "12",
       "depth_rank": 1,
+      "depth_order": 34,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040928",
+      "name": "Kapena Gushiken",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "34",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lckatmectwiyz6w9chhw",
+      "height": "70",
+      "weight": "187",
+      "experience": "0",
+      "college": "Mississippi; Washington State; Saddleback Community College",
+      "depth_position": "NB",
+      "depth_slot": "12",
+      "depth_rank": 2,
       "depth_order": 34,
       "stats": {},
       "weekly_stats": [],
@@ -7228,41 +7460,6 @@
       ]
     },
     {
-      "id": "00-0041132",
-      "name": "Deion Burks",
-      "position": "WR",
-      "group": "Wide Receivers",
-      "number": "80",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mbejyq733jilg3bkpzur",
-      "height": "69",
-      "weight": "180",
-      "experience": "0",
-      "college": "Oklahoma; Purdue",
-      "depth_position": "WR",
-      "depth_slot": "8",
-      "depth_rank": 6,
-      "depth_order": 1,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ind",
-            "name": "Indianapolis Colts",
-            "abbreviation": "IND",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-            "colors": {
-              "primary": "#002C5F",
-              "secondary": "#A2AAAD"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0035021",
       "name": "Ashton Dulin",
       "position": "WR",
@@ -7275,7 +7472,7 @@
       "college": "Malone",
       "depth_position": "PR",
       "depth_slot": "4",
-      "depth_rank": 2,
+      "depth_rank": 1,
       "depth_order": 76,
       "stats": {},
       "weekly_stats": [],
@@ -7392,6 +7589,41 @@
               }
             }
           ],
+          "team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041132",
+      "name": "Deion Burks",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "80",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mbejyq733jilg3bkpzur",
+      "height": "69",
+      "weight": "180",
+      "experience": "0",
+      "college": "Oklahoma; Purdue",
+      "depth_position": "KR",
+      "depth_slot": "5",
+      "depth_rank": 1,
+      "depth_order": 77,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "ind",
             "name": "Indianapolis Colts",

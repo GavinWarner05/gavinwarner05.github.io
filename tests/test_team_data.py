@@ -3,7 +3,7 @@ import json
 import unittest
 from pathlib import Path
 
-from scripts.build_team_data import sanitize_player, sanitize_snapshot
+from scripts.build_team_data import sanitize_injury_player, sanitize_player, sanitize_snapshot
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -15,6 +15,7 @@ class TeamDataTests(unittest.TestCase):
             "schema_version": 1, "generated_at": sports["generated_at"], "season": 2026,
             "team": sports["games"][0]["home_team"], "games": [sports["games"][0]],
             "injuries": sports["games"][0]["injuries"],
+            "injury_players": [{"id": "reserve-1", "name": "Reserve Player", "position": "LB", "headshot_url": "https://example.com/reserve.png", "private_note": "hidden"}],
             "players": [{"id": "player-1", "name": "Sample Quarterback", "position": "QB", "group": "Quarterbacks", "number": "8", "headshot_url": "https://example.com/player.png", "depth_position": "QB", "depth_slot": "QB", "depth_rank": 1, "depth_order": 1, "stats": {"games": 1, "passing_yards": 250, "private_metric": 99}, "weekly_stats": [{"week": 1, "opponent": "GB", "stats": {"passing_yards": 250, "private_metric": 99}}], "seasons": [{"season": 2026, "team": sports["games"][0]["home_team"], "stats": {"passing_yards": 250}, "weekly_stats": [{"week": 1, "opponent": "GB", "stats": {"passing_yards": 250}}]}, {"season": 2025, "team": sports["games"][0]["away_team"], "stats": {"passing_yards": 3000}, "weekly_stats": [{"week": 1, "opponent": "MIN", "stats": {"passing_yards": 300}}]}]}],
         }
 
@@ -28,6 +29,13 @@ class TeamDataTests(unittest.TestCase):
         self.assertEqual([entry["season"] for entry in clean["players"][0]["seasons"]], [2026, 2025])
         self.assertEqual(clean["players"][0]["seasons"][1]["team"]["id"], "gb")
         self.assertNotIn("private_metric", clean["players"][0]["stats"])
+        self.assertEqual(clean["injury_players"][0]["name"], "Reserve Player")
+        self.assertNotIn("private_note", clean["injury_players"][0])
+
+    def test_non_https_injury_player_headshot_is_rejected(self):
+        player = copy.deepcopy(self.snapshot["injury_players"][0])
+        player["headshot_url"] = "http://example.com/player.png"
+        with self.assertRaises(ValueError): sanitize_injury_player(player, 0)
 
     def test_unrelated_game_is_rejected(self):
         raw = copy.deepcopy(self.snapshot)

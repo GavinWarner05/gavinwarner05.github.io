@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "cle",
@@ -1893,6 +1893,233 @@
       "detail": "Ankle"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0040260",
+      "name": "Ahmani Marshall",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmzxp0obmznym5hv5ndh"
+    },
+    {
+      "id": "00-0037251",
+      "name": "Alex Wright",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rwvd1sputd9x1dziyznz"
+    },
+    {
+      "id": "00-0041215",
+      "name": "Ben Patterson",
+      "position": "WR"
+    },
+    {
+      "id": "00-0039513",
+      "name": "Chris Edmonds",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fvujgol1xqagsysqgveu"
+    },
+    {
+      "id": "00-0040088",
+      "name": "Coziah Izzard",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bpi5f2bncw2wnhndpamu"
+    },
+    {
+      "id": "00-0034966",
+      "name": "D'Angelo Ross",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knsvo3gypaqfo3vtnt1o"
+    },
+    {
+      "id": "00-0038105",
+      "name": "Damarri Mathis",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jutmtleh0mecfk0lbu7n"
+    },
+    {
+      "id": "00-0041277",
+      "name": "Davon Booth",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ddzlehyaaedbtx8lh9vv"
+    },
+    {
+      "id": "00-0040704",
+      "name": "Dillon Gabriel",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/szpyvusef9jvoctbnkbk"
+    },
+    {
+      "id": "00-0041576",
+      "name": "Drew Biber",
+      "position": "TE"
+    },
+    {
+      "id": "00-0039878",
+      "name": "Edefuan Ulofoshio",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/djyw96mfpsd1okocv1ck"
+    },
+    {
+      "id": "00-0039764",
+      "name": "Elijah Chatman",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kzzty8qdv0ktwa6lmjk5"
+    },
+    {
+      "id": "00-0040259",
+      "name": "Gage Larvadain",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sivfugvzbbxrgkvxr5cb"
+    },
+    {
+      "id": "00-0041282",
+      "name": "Izavion Miller",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hjaegxsf2bz8om9lpq3q"
+    },
+    {
+      "id": "00-0039379",
+      "name": "Jamari Thrash",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/byihyhwwpltzyetas85a"
+    },
+    {
+      "id": "00-0040594",
+      "name": "Jamil Muhammad",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wbzfffhzpxeqllass1cq"
+    },
+    {
+      "id": "00-0040380",
+      "name": "Jeremiah Byers",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/soybc39yh5toxtma1d9h"
+    },
+    {
+      "id": "00-0041332",
+      "name": "Jeremiah McClendon",
+      "position": "DB"
+    },
+    {
+      "id": "00-0036915",
+      "name": "Jeremiah Owusu-Koramoah",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/evmul3yfbefvmy1tc1ns"
+    },
+    {
+      "id": "00-0040457",
+      "name": "Jermaine Terry",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ftxn0lo1wuw7cw4jbqmr"
+    },
+    {
+      "id": "00-0041087",
+      "name": "Joe Royer",
+      "position": "TE"
+    },
+    {
+      "id": "00-0036249",
+      "name": "Julian Okwara",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bneqayiahajlquy1dxcc"
+    },
+    {
+      "id": "00-0039755",
+      "name": "KT Leveston",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ocrjwcpavgunq64dlcgj"
+    },
+    {
+      "id": "00-0036983",
+      "name": "Kendrick Green",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b8rtjagcsjnnwczsin7u"
+    },
+    {
+      "id": "00-0041285",
+      "name": "Khordae Sydnor",
+      "position": "DL"
+    },
+    {
+      "id": "00-0039442",
+      "name": "Kingsley Eguakun",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tybhcfzdfccvnxz4labx"
+    },
+    {
+      "id": "00-0041287",
+      "name": "Kole Wilson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zjc32vqzdoq9n5uk90uf"
+    },
+    {
+      "id": "00-0041279",
+      "name": "Logan Fano",
+      "position": "DL"
+    },
+    {
+      "id": "00-0040617",
+      "name": "Luke Floriea",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/boxgpizulptcax2vb0pw"
+    },
+    {
+      "id": "00-0038958",
+      "name": "Markees Watts",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hwxh3ps9lwnj0qu4mw8v"
+    },
+    {
+      "id": "00-0036087",
+      "name": "Myles Bryant",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mslszzwcbmt6hafvvu7r"
+    },
+    {
+      "id": "00-0041278",
+      "name": "Nate Evans",
+      "position": "DB"
+    },
+    {
+      "id": "00-0039406",
+      "name": "Nathaniel Watson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/imp6cipge01zacx6g4tr"
+    },
+    {
+      "id": "00-0039567",
+      "name": "Nik Constantinou",
+      "position": "P",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rq9muxbc5q6jlcwvsmf2"
+    },
+    {
+      "id": "00-0040684",
+      "name": "Patrick Jenkins",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kcf9vitwxtf3rlujrb2q"
+    },
+    {
+      "id": "00-0038405",
+      "name": "Travis Bell",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ksv16zbbjgmiqjrwfydq"
+    },
+    {
+      "id": "00-0041288",
+      "name": "Tyreak Sapp",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yqndrntpjen13kuxq1p0"
+    },
+    {
+      "id": "00-0041284",
+      "name": "Wes Pahl",
+      "position": "P"
+    },
+    {
+      "id": "00-0041286",
+      "name": "Zion Washington",
+      "position": "DB"
+    }
+  ],
   "players": [
     {
       "id": "00-0038574",
@@ -2449,6 +2676,102 @@
       ]
     },
     {
+      "id": "00-0040255",
+      "name": "Adin Huntington",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "98",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqevui8ikmsi20blzgot",
+      "height": "73",
+      "weight": "281",
+      "experience": "1",
+      "college": "Tulane; Louisiana-Monroe; Kent State",
+      "depth_position": "LDT",
+      "depth_slot": "2",
+      "depth_rank": 2,
+      "depth_order": 24,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0037832",
       "name": "Kalia Davis",
       "position": "DL",
@@ -2461,7 +2784,7 @@
       "college": "UCF",
       "depth_position": "LDT",
       "depth_slot": "2",
-      "depth_rank": 2,
+      "depth_rank": 3,
       "depth_order": 24,
       "stats": {},
       "weekly_stats": [],
@@ -2569,102 +2892,6 @@
             "colors": {
               "primary": "#AA0000",
               "secondary": "#B3995D"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0040255",
-      "name": "Adin Huntington",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "98",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqevui8ikmsi20blzgot",
-      "height": "73",
-      "weight": "281",
-      "experience": "1",
-      "college": "Tulane; Louisiana-Monroe; Kent State",
-      "depth_position": "LDT",
-      "depth_slot": "2",
-      "depth_rank": 3,
-      "depth_order": 24,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "cle",
-            "name": "Cleveland Browns",
-            "abbreviation": "CLE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-            "colors": {
-              "primary": "#311D00",
-              "secondary": "#FF3C00"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "CIN",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "DET",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "MIN",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "MIA",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "PIT",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "cle",
-            "name": "Cleveland Browns",
-            "abbreviation": "CLE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-            "colors": {
-              "primary": "#311D00",
-              "secondary": "#FF3C00"
             }
           }
         }
@@ -2849,37 +3076,6 @@
               "stats": {}
             }
           ],
-          "team": {
-            "id": "cle",
-            "name": "Cleveland Browns",
-            "abbreviation": "CLE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-            "colors": {
-              "primary": "#311D00",
-              "secondary": "#FF3C00"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0036249",
-      "name": "Julian Okwara",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "99",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bneqayiahajlquy1dxcc",
-      "height": "76",
-      "weight": "241",
-      "experience": "6",
-      "college": "Notre Dame",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
           "team": {
             "id": "cle",
             "name": "Cleveland Browns",
@@ -3725,6 +3921,41 @@
       ]
     },
     {
+      "id": "00-0041049",
+      "name": "Austin Barber",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "58",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kglwdpydzvvmdr1bdblg",
+      "height": "79",
+      "weight": "318",
+      "experience": "0",
+      "college": "Florida",
+      "depth_position": "RG",
+      "depth_slot": "6",
+      "depth_rank": 2,
+      "depth_order": 5,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0035234",
       "name": "Tytus Howard",
       "position": "OL",
@@ -3795,41 +4026,6 @@
             "colors": {
               "primary": "#03202F",
               "secondary": "#A71930"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041049",
-      "name": "Austin Barber",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "58",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kglwdpydzvvmdr1bdblg",
-      "height": "79",
-      "weight": "318",
-      "experience": "0",
-      "college": "Florida",
-      "depth_position": "RT",
-      "depth_slot": "7",
-      "depth_rank": 2,
-      "depth_order": 6,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "cle",
-            "name": "Cleveland Browns",
-            "abbreviation": "CLE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-            "colors": {
-              "primary": "#311D00",
-              "secondary": "#FF3C00"
             }
           }
         }
@@ -4879,6 +5075,41 @@
       ]
     },
     {
+      "id": "00-0041115",
+      "name": "Toriano Pride Jr.",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "32",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/a8l2hp04k2ek5hx3j50b",
+      "height": "71",
+      "weight": "185",
+      "experience": "0",
+      "college": "Missouri; Clemson",
+      "depth_position": "LCB",
+      "depth_slot": "8",
+      "depth_rank": 3,
+      "depth_order": 18,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0036974",
       "name": "Tyson Campbell",
       "position": "DB",
@@ -5005,40 +5236,6 @@
               "stats": {}
             }
           ],
-          "team": {
-            "id": "cle",
-            "name": "Cleveland Browns",
-            "abbreviation": "CLE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-            "colors": {
-              "primary": "#311D00",
-              "secondary": "#FF3C00"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041411",
-      "name": "Michael Coats Jr.",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "39",
-      "height": "69",
-      "weight": "185",
-      "experience": "0",
-      "college": "West Virginia; Nevada; East Central JC",
-      "depth_position": "RCB",
-      "depth_slot": "11",
-      "depth_rank": 2,
-      "depth_order": 19,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
           "team": {
             "id": "cle",
             "name": "Cleveland Browns",
@@ -5693,6 +5890,36 @@
               "stats": {}
             }
           ],
+          "team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041411",
+      "name": "Michael Coats Jr.",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "39",
+      "height": "69",
+      "weight": "185",
+      "experience": "0",
+      "college": "West Virginia; Nevada; East Central JC",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "cle",
             "name": "Cleveland Browns",

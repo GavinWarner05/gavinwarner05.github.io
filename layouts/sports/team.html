@@ -1,6 +1,6 @@
 {{ define "title" }}{{ .Title }} · NFL Sports Center{{ end }}
 {{ define "content" }}
-<section class="team-page" data-team-app data-team-id="{{ .Params.team_id }}" data-data-url="{{ printf "sports/data/teams/%s.json" .Params.team_id | relURL }}" data-team-base-url="{{ "sports/teams/" | relURL }}" data-player-url="{{ "sports/player/" | relURL }}">
+<section class="team-page" data-team-app data-team-id="{{ .Params.team_id }}" data-data-url="{{ printf "sports/data/teams/%s.json" .Params.team_id | relURL }}" data-team-base-url="{{ "sports/teams/" | relURL }}" data-team-data-base-url="{{ "sports/data/teams/" | relURL }}" data-player-url="{{ "sports/player/" | relURL }}">
   <a class="team-back" data-team-back href="{{ "sports/" | relURL }}">← NFL Sports Center</a>
   <header class="team-page-hero" data-team-hero>
     <div class="team-page-identity">
@@ -11,7 +11,11 @@
     <p data-team-updated aria-live="polite">Loading roster and season…</p>
   </header>
   <div class="sports-notice" data-team-notice role="status" hidden></div>
-  <details class="team-page-section team-collapsible" data-collapse-key="schedule" open>
+  <details class="team-page-section team-collapsible team-season-timeline-section" data-collapse-key="timeline" open>
+    <summary class="sports-section-heading team-collapse-summary"><span class="team-section-title">Season timeline</span><span data-timeline-progress></span></summary>
+    <div class="team-season-timeline" data-team-timeline aria-label="Season timeline"></div>
+  </details>
+  <details class="team-page-section team-collapsible" data-collapse-key="schedule">
     <summary class="sports-section-heading team-collapse-summary"><span class="team-section-title">Season schedule</span><span data-schedule-count></span></summary>
     <div class="team-schedule" data-team-schedule></div>
   </details>
@@ -27,4 +31,8 @@
     <div data-roster-groups></div>
   </section>
 </section>
+<dialog class="matchup-dialog" data-team-matchup-dialog aria-labelledby="team-matchup-title">
+  <button class="matchup-close" type="button" data-team-close-dialog aria-label="Close matchup details">×</button>
+  <div data-team-matchup-detail></div>
+</dialog>
 {{ end }}

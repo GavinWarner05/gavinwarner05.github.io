@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "cin",
@@ -2043,6 +2043,218 @@
       "detail": "Undisclosed"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0039535",
+      "name": "Andrew Coker",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lnywnvaiv7mfxeungbdc"
+    },
+    {
+      "id": "00-0040018",
+      "name": "Antwaun Powell-Ryland",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w71055cng5ocmvj96lr8"
+    },
+    {
+      "id": "00-0040372",
+      "name": "Bralyn Lux",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zjdsqlekl63ooll81os9"
+    },
+    {
+      "id": "00-0041098",
+      "name": "Brian Parker II",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ps2vih23mba17gjublbo"
+    },
+    {
+      "id": "00-0039631",
+      "name": "Cam Grandy",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uay5dmniqx1baal3q3uu"
+    },
+    {
+      "id": "00-0041249",
+      "name": "Ceyair Wright",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/flhqvtldg4tkp2ilkwxl"
+    },
+    {
+      "id": "00-0038576",
+      "name": "Charlie Jones",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/poy4ph18jx211xbe6ajt"
+    },
+    {
+      "id": "00-0041245",
+      "name": "Christian Jones",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fqqiuswrr2ijsdsqyazx"
+    },
+    {
+      "id": "00-0041247",
+      "name": "Corey Robinson II",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ruqjvxs1wmcbnk99dea2"
+    },
+    {
+      "id": "00-0039414",
+      "name": "Daijahn Anthony",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ued26kewzrortqqar0tf"
+    },
+    {
+      "id": "00-0041243",
+      "name": "Eric Gentry",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n94iq9oxvr2vlecdfjqd"
+    },
+    {
+      "id": "00-0040369",
+      "name": "Howard Cross III",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c14y9hq7dq3e6wfuiqi7"
+    },
+    {
+      "id": "00-0039143",
+      "name": "Isaiah Foskey",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/etyericvmbufgeiwkcry"
+    },
+    {
+      "id": "00-0037307",
+      "name": "Ja'Sir Taylor",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lzlwu2xb6ohzqddbo7mi"
+    },
+    {
+      "id": "00-0041242",
+      "name": "Jack Dingle",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wese4fyhry5qgvtcgwy3"
+    },
+    {
+      "id": "00-0040518",
+      "name": "Jalen Kimber",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pmxu16quwd7dgslibnoj"
+    },
+    {
+      "id": "00-0041244",
+      "name": "Jamal Haynes",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ljbgtbvcogvbhjnmn7cx"
+    },
+    {
+      "id": "00-0035363",
+      "name": "Joe Giles-Harris",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y9vh7yn88tehcffsx90f"
+    },
+    {
+      "id": "00-0039743",
+      "name": "Jordan Jefferson",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wt7ym1nrxza2qq9hzaux"
+    },
+    {
+      "id": "00-0040375",
+      "name": "Jordan Moore",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mgod5tukhxuqm5kyy7zh"
+    },
+    {
+      "id": "00-0041246",
+      "name": "Josh Kattus",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/brst2aehfeoku4g39ve0"
+    },
+    {
+      "id": "00-0039266",
+      "name": "Kendall Milton",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zz9yrqh5ep6o5hvtwzkq"
+    },
+    {
+      "id": "00-0037422",
+      "name": "Kendric Pryor",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fpklza3pwkzdiqjqlene"
+    },
+    {
+      "id": "00-0041241",
+      "name": "Kentrel Bullock",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knfwlw5u1poz75qfyuy5"
+    },
+    {
+      "id": "00-0038429",
+      "name": "Liam Anderson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qvbfvhlmnbuuyccpdwsv"
+    },
+    {
+      "id": "00-0041240",
+      "name": "Liam Brown",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hrswej73mch1v6ntvm2b"
+    },
+    {
+      "id": "00-0040983",
+      "name": "Matthew McDoom",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gznvyfsjddcy4iaxxx8s"
+    },
+    {
+      "id": "00-0039354",
+      "name": "McKinnley Jackson",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bxrqtpwrbcvzxcekerxf"
+    },
+    {
+      "id": "00-0038839",
+      "name": "Mitchell Tinsley",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t4h8qtzndtvf6is6naew"
+    },
+    {
+      "id": "00-0041248",
+      "name": "Noah Thomas",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kafm8ce25xilrai8zsrz"
+    },
+    {
+      "id": "00-0037844",
+      "name": "Russ Yeast",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zojmeuz1wcm1tlfewvxe"
+    },
+    {
+      "id": "00-0038391",
+      "name": "Sean Clifford",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v0tmzl4x5qf2fo2yimqf"
+    },
+    {
+      "id": "00-0038890",
+      "name": "Shaka Heyward",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ygoj2vwazi6dsg2bnwpt"
+    },
+    {
+      "id": "00-0034613",
+      "name": "Tanner Hudson",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pyl2bpjw0vy4idcseama"
+    },
+    {
+      "id": "00-0039473",
+      "name": "Xavier Johnson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vgowznjwdokzsl7qiyiq"
+    }
+  ],
   "players": [
     {
       "id": "00-0038133",
@@ -3781,6 +3993,41 @@
       "depth_position": "LT",
       "depth_slot": "3",
       "depth_rank": 2,
+      "depth_order": 2,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040015",
+      "name": "Myles Hinton",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "78",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ezvt74uuqfngggrsijvu",
+      "height": "78",
+      "weight": "342",
+      "experience": "1",
+      "college": "Michigan; Stanford",
+      "depth_position": "LT",
+      "depth_slot": "3",
+      "depth_rank": 3,
       "depth_order": 2,
       "stats": {},
       "weekly_stats": [],
@@ -7016,150 +7263,6 @@
           "season": 2026,
           "stats": {},
           "weekly_stats": [],
-          "team": {
-            "id": "cin",
-            "name": "Cincinnati Bengals",
-            "abbreviation": "CIN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
-            "colors": {
-              "primary": "#FB4F14",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0034613",
-      "name": "Tanner Hudson",
-      "position": "TE",
-      "group": "Tight Ends",
-      "number": "87",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pyl2bpjw0vy4idcseama",
-      "height": "77",
-      "weight": "239",
-      "experience": "8",
-      "college": "Southern Arkansas; Memphis",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "cin",
-            "name": "Cincinnati Bengals",
-            "abbreviation": "CIN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
-            "colors": {
-              "primary": "#FB4F14",
-              "secondary": "#000000"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "targets": 24,
-            "receptions": 19,
-            "receiving_yards": 168,
-            "receiving_tds": 2
-          },
-          "weekly_stats": [
-            {
-              "week": 6,
-              "opponent": "GB",
-              "stats": {
-                "targets": 5,
-                "receptions": 4,
-                "receiving_yards": 10,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 8,
-              "opponent": "NYJ",
-              "stats": {
-                "targets": 2,
-                "receptions": 1,
-                "receiving_yards": 9
-              }
-            },
-            {
-              "week": 9,
-              "opponent": "CHI",
-              "stats": {
-                "targets": 2,
-                "receptions": 2,
-                "receiving_yards": 42
-              }
-            },
-            {
-              "week": 11,
-              "opponent": "PIT",
-              "stats": {
-                "targets": 3,
-                "receptions": 3,
-                "receiving_yards": 22
-              }
-            },
-            {
-              "week": 12,
-              "opponent": "NE",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 9
-              }
-            },
-            {
-              "week": 13,
-              "opponent": "BAL",
-              "stats": {
-                "targets": 2,
-                "receptions": 1,
-                "receiving_yards": 14,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 14,
-              "opponent": "BUF",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 11
-              }
-            },
-            {
-              "week": 15,
-              "opponent": "BAL",
-              "stats": {
-                "targets": 5,
-                "receptions": 3,
-                "receiving_yards": 16
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "MIA",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 4
-              }
-            },
-            {
-              "week": 17,
-              "opponent": "ARI",
-              "stats": {
-                "targets": 2,
-                "receptions": 2,
-                "receiving_yards": 31
-              }
-            }
-          ],
           "team": {
             "id": "cin",
             "name": "Cincinnati Bengals",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "atl",
@@ -2565,6 +2565,247 @@
       "detail": "Undisclosed"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0039685",
+      "name": "A.J. Woods",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zecg893zdz500syj1k08"
+    },
+    {
+      "id": "00-0037620",
+      "name": "Andrew Stueber",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/glytc2q32qsae8ormcvn"
+    },
+    {
+      "id": "00-0041484",
+      "name": "Anterio Thompson",
+      "position": "DL"
+    },
+    {
+      "id": "00-0040438",
+      "name": "Antwane Wells Jr.",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mijumyvz5ifhbq2xzlx6"
+    },
+    {
+      "id": "00-0040432",
+      "name": "Beaux Collins",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fypzpyhv2bsvlcwp2ppo"
+    },
+    {
+      "id": "00-0039837",
+      "name": "Bralen Trice",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pvzpzvnhrtxxyhwhedq7"
+    },
+    {
+      "id": "00-0036850",
+      "name": "Cameron Sample",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jt2s0db4sognkfwjmzhg"
+    },
+    {
+      "id": "00-0041184",
+      "name": "Carlos Allen Jr.",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rdbunmnqahreiolmurtu"
+    },
+    {
+      "id": "00-0041191",
+      "name": "Cash Jones",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w8owngxypixljzcnwyiv"
+    },
+    {
+      "id": "00-0040546",
+      "name": "Cobee Bryant",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hkvranq1xue9oed9vz12"
+    },
+    {
+      "id": "00-0036394",
+      "name": "Darnay Holmes",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b1iqudcchkj9bevv6fwo"
+    },
+    {
+      "id": "00-0036956",
+      "name": "Darren Hall",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hc9vwsdsfelwxfxxeasb"
+    },
+    {
+      "id": "00-0041409",
+      "name": "Daveren Rayner",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mxrcfsvj88cfuc1xaclr"
+    },
+    {
+      "id": "00-0037808",
+      "name": "DeAngelo Malone",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uyjqwnbcams2hk2rmyh2"
+    },
+    {
+      "id": "00-0038893",
+      "name": "Devonnsha Maxwell",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r8tc8oroxvpz8w5wd00e"
+    },
+    {
+      "id": "00-0038953",
+      "name": "Dylan Drummond",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xyexcy7ur9nscytyhinx"
+    },
+    {
+      "id": "00-0041195",
+      "name": "Jack Velling",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wotouog19khzog4kfwmq"
+    },
+    {
+      "id": "00-0040924",
+      "name": "Jaeden Roberts",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mtxrunakd09n7irsauen"
+    },
+    {
+      "id": "00-0040577",
+      "name": "Jalon Walker",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mmtinfxaeg8afpuwwudm"
+    },
+    {
+      "id": "00-0041186",
+      "name": "James Brockermeyer",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/izljy0gycj4sz3pc5n8z"
+    },
+    {
+      "id": "00-0040578",
+      "name": "James Pearce Jr.",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iw7gq1kiprdcsomewxuh"
+    },
+    {
+      "id": "00-0038587",
+      "name": "Jammie Robinson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zixsq934w8yeksxuznvd"
+    },
+    {
+      "id": "00-0034801",
+      "name": "Josh Woods",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p6wltly2bismav4hvfvb"
+    },
+    {
+      "id": "00-0040552",
+      "name": "Joshua Simon",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/odhcpm4qqmp9nn7b8j7v"
+    },
+    {
+      "id": "00-0035235",
+      "name": "Kaleb McGary",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qomzib0zc5muqcj4yeuh"
+    },
+    {
+      "id": "00-0041276",
+      "name": "Kam Dewberry",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ai9tsdkibbku98tzbedb"
+    },
+    {
+      "id": "00-0041266",
+      "name": "Keelan Marion",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pv8xxfhthq0i3sjtl3wr"
+    },
+    {
+      "id": "00-0038696",
+      "name": "Keidron Smith",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bmidsctpakth58pe4axu"
+    },
+    {
+      "id": "00-0038462",
+      "name": "Keshawn Banks",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/psqcg6omspml02ur6jlf"
+    },
+    {
+      "id": "00-0040554",
+      "name": "Malik Verdon",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p8azvlhqxurwe6k1tr9b"
+    },
+    {
+      "id": "00-0040547",
+      "name": "Nate Carter",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c7wg2qvjvd8diaaujwpt"
+    },
+    {
+      "id": "00-0038966",
+      "name": "Natrone Brooks",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/swxxv6yxfspw2vyrjxgv"
+    },
+    {
+      "id": "00-0037317",
+      "name": "Nick Muse",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cdidnsvt1we5d7ffnjbo"
+    },
+    {
+      "id": "00-0041192",
+      "name": "Riley Mahlman",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ccdfmnjjfph73wxaflts"
+    },
+    {
+      "id": "00-0033752",
+      "name": "Storm Norton",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l7ndyhi69vax0acgs1kw"
+    },
+    {
+      "id": "00-0036984",
+      "name": "Trey Sermon",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eqhl3xiczodsyqlmsxvr"
+    },
+    {
+      "id": "00-0037120",
+      "name": "Tyler Goodson",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqmesi6fwv82lhfzlht6"
+    },
+    {
+      "id": "00-0041185",
+      "name": "Vinny Anthony II",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/za7sl8mdnvpy1lvo7gva"
+    },
+    {
+      "id": "00-0038981",
+      "name": "Wanya Morris",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y2bvxkfybapdxszjuhju"
+    },
+    {
+      "id": "00-0038980",
+      "name": "Zach Harrison",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jph76ryj7fn3yqi5c2yg"
+    }
+  ],
   "players": [
     {
       "id": "00-0039859",
@@ -3024,7 +3265,7 @@
       "name": "Gervon Dexter Sr.",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "99",
+      "number": "95",
       "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/vj6m4qixxhqmufrr5ilo",
       "height": "78",
       "weight": "313",
@@ -3393,88 +3634,6 @@
       ]
     },
     {
-      "id": "00-0038980",
-      "name": "Zach Harrison",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "96",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jph76ryj7fn3yqi5c2yg",
-      "height": "77",
-      "weight": "272",
-      "experience": "3",
-      "college": "Ohio State",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "atl",
-            "name": "Atlanta Falcons",
-            "abbreviation": "ATL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-            "colors": {
-              "primary": "#A71930",
-              "secondary": "#000000"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "MIN",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "WAS",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "IND",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "atl",
-            "name": "Atlanta Falcons",
-            "abbreviation": "ATL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-            "colors": {
-              "primary": "#A71930",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0036990",
       "name": "Divine Deablo",
       "position": "LB",
@@ -3752,6 +3911,122 @@
       ]
     },
     {
+      "id": "00-0038580",
+      "name": "Yasir Abdullah",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "22",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ok0dts6vzdwn8owisv08",
+      "height": "73",
+      "weight": "242",
+      "experience": "3",
+      "college": "Louisville",
+      "depth_position": "RILB",
+      "depth_slot": "6",
+      "depth_rank": 3,
+      "depth_order": 16,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "DEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040056",
+      "name": "Jared Ivey",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "51",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rliaugoupzvspm3vdtcp",
+      "height": "78",
+      "weight": "265",
+      "experience": "1",
+      "college": "Mississippi; Georgia Tech",
+      "depth_position": "RILB",
+      "depth_slot": "6",
+      "depth_rank": 4,
+      "depth_order": 16,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0039370",
       "name": "JD Bertrand",
       "position": "LB",
@@ -3852,7 +4127,7 @@
       "name": "Za'Darius Smith",
       "position": "LB",
       "group": "Linebackers",
-      "number": "91",
+      "number": "55",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l5t51lcflhhfvxhr1sx3",
       "height": "76",
       "weight": "272",
@@ -4426,6 +4701,40 @@
       "depth_position": "RT",
       "depth_slot": "7",
       "depth_rank": 3,
+      "depth_order": 6,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040687",
+      "name": "Cameron Williams",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "73",
+      "height": "78",
+      "weight": "317",
+      "experience": "1",
+      "college": "Texas",
+      "depth_position": "RT",
+      "depth_slot": "7",
+      "depth_rank": 4,
       "depth_order": 6,
       "stats": {},
       "weekly_stats": [],
@@ -6486,155 +6795,6 @@
             {
               "week": 17,
               "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "NO",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "atl",
-            "name": "Atlanta Falcons",
-            "abbreviation": "ATL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-            "colors": {
-              "primary": "#A71930",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038587",
-      "name": "Jammie Robinson",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "34",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zixsq934w8yeksxuznvd",
-      "height": "71",
-      "weight": "203",
-      "experience": "3",
-      "college": "Florida State",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "atl",
-            "name": "Atlanta Falcons",
-            "abbreviation": "ATL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-            "colors": {
-              "primary": "#A71930",
-              "secondary": "#000000"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 18,
-              "opponent": "NO",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "atl",
-            "name": "Atlanta Falcons",
-            "abbreviation": "ATL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-            "colors": {
-              "primary": "#A71930",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038966",
-      "name": "Natrone Brooks",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "35",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/swxxv6yxfspw2vyrjxgv",
-      "height": "71",
-      "weight": "176",
-      "experience": "3",
-      "college": "Southern Mississippi",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "atl",
-            "name": "Atlanta Falcons",
-            "abbreviation": "ATL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-            "colors": {
-              "primary": "#A71930",
-              "secondary": "#000000"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "MIN",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "MIA",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "NE",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "NYJ",
               "stats": {}
             },
             {

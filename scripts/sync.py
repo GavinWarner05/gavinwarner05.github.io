@@ -620,15 +620,21 @@ def export_team_sources(directory: Path, sports_payload: dict[str, Any], injurie
         games_by_team[game["away_team"]["name"]].append(game)
         games_by_team[game["home_team"]["name"]].append(game)
     players_by_team: dict[str, list[dict[str, Any]]] = {name: [] for name in TEAM_STYLE}
+    injury_players_by_team: dict[str, list[dict[str, Any]]] = {name: [] for name in TEAM_STYLE}
     for row in rosters:
         team_name = canonical_team(first_value(row, "team"))
         if team_name not in TEAM_STYLE: continue
         status = first_value(row, "status").upper()
-        if status and status not in {"ACT", "ACTIVE"}: continue
         player_id = first_value(row, "gsis_id", "player_id", "nfl_id")
         name = first_value(row, "full_name", "player_name", "football_name")
         position = first_value(row, "position", "depth_chart_position").upper()
         if not player_id or not name or not position: continue
+        if status and status not in {"ACT", "ACTIVE"}:
+            injury_player = {"id": player_id, "name": name, "position": position}
+            if headshot_url := first_value(row, "headshot_url"):
+                injury_player["headshot_url"] = headshot_url
+            injury_players_by_team[team_name].append(injury_player)
+            continue
         player_stat_rows = stats_by_player.get(player_id, [])
         seasons: list[dict[str, Any]] = []
         for stats_season in (SEASON, SEASON - 1):
@@ -676,6 +682,7 @@ def export_team_sources(directory: Path, sports_payload: dict[str, Any], injurie
             "schema_version": 1, "generated_at": NOW, "season": SEASON,
             "team": team_payload(team_name, record), "games": team_games,
             "injuries": injuries_by_team.get(team_name, []),
+            "injury_players": sorted(injury_players_by_team[team_name], key=lambda item: item["name"]),
             "players": sorted(players_by_team[team_name], key=lambda item: (
                 item["group"], item.get("depth_order", 999), item.get("depth_position", item["position"]),
                 item.get("depth_rank", 999), item["name"],

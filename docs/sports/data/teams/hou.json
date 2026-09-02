@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "hou",
@@ -2311,6 +2311,206 @@
       "detail": "Calf"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0038724",
+      "name": "Ali Gaye",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ctzqzcp9fu31oplmkvnx"
+    },
+    {
+      "id": "00-0040411",
+      "name": "Alijah Huzzie",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cspeq4wwmy82tmumrh6n"
+    },
+    {
+      "id": "00-0039333",
+      "name": "Brandon Codrington",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/icpo89rrbnus0apxhezm"
+    },
+    {
+      "id": "00-0036241",
+      "name": "Bryce Hall",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/owg6wpperxys7bjablkz"
+    },
+    {
+      "id": "00-0041309",
+      "name": "Daniel Sobkowicz",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u5goe2agufae3d8jphi9"
+    },
+    {
+      "id": "00-0038638",
+      "name": "Derek Parish",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/exzq9qbltfwv5p1b5vs4"
+    },
+    {
+      "id": "00-0038622",
+      "name": "Deuce Vaughn",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z8lnunc6vvq9qlnidaw3"
+    },
+    {
+      "id": "00-0041302",
+      "name": "Dominic Bailey",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/czwksuefvmz0av1ffop0"
+    },
+    {
+      "id": "00-0039009",
+      "name": "Dylan Horton",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tshgju7vbpqdj84bbkfl"
+    },
+    {
+      "id": "00-0034987",
+      "name": "E.J. Speed",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lpqe7elzi8tbt8rjzozd"
+    },
+    {
+      "id": "00-0040410",
+      "name": "Eli Cox",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhtlmj9acfquzglsfld8"
+    },
+    {
+      "id": "00-0034091",
+      "name": "George Odum",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/watelqvhccitomv8ntny"
+    },
+    {
+      "id": "00-0040211",
+      "name": "Graham Mertz",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v5l7nuj0z669orqxga16"
+    },
+    {
+      "id": "00-0037661",
+      "name": "Ja'Marcus Ingram",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/psqzuevupspatsrfianv"
+    },
+    {
+      "id": "00-0039395",
+      "name": "Jamal Hill",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wmxibtpnomcoopmuv8fi"
+    },
+    {
+      "id": "00-0041306",
+      "name": "James Neal III",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xidnqx1gkgr7dtdbg3br"
+    },
+    {
+      "id": "00-0039405",
+      "name": "Jawhar Jordan",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mdov6nge0ui6pc3kx0l2"
+    },
+    {
+      "id": "00-0040130",
+      "name": "Jayden Higgins",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s3zuo0ysm9ncxr9o4420"
+    },
+    {
+      "id": "00-0040049",
+      "name": "Josh Kelly",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wkhsgcxyw5v9dtaqycui"
+    },
+    {
+      "id": "00-0040413",
+      "name": "K.C. Ossai",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wuteil048xz2di0jui4x"
+    },
+    {
+      "id": "00-0038823",
+      "name": "Kaevon Merriweather",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f0eu5qpulyo3hzh4524f"
+    },
+    {
+      "id": "00-0040229",
+      "name": "Kyonte Hamilton",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kef04vtxlfpuijyeotgg"
+    },
+    {
+      "id": "00-0040792",
+      "name": "Layne Pryor",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w5iwcg7kfl3qunbng23t"
+    },
+    {
+      "id": "00-0041467",
+      "name": "Lewis Bond",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qm5q5iilnctaitwwscst"
+    },
+    {
+      "id": "00-0041535",
+      "name": "Louis Hansen",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/epg5liuuraoragcupwgi"
+    },
+    {
+      "id": "00-0034355",
+      "name": "M.J. Stewart",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ks5w5s7jghanmslipbfs"
+    },
+    {
+      "id": "00-0039054",
+      "name": "Marte Mapu",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iulfjo62qs1q2uec0rxu"
+    },
+    {
+      "id": "00-0041312",
+      "name": "Noah Whittington",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ofifs3fbgpnv6qtcjain"
+    },
+    {
+      "id": "00-0038458",
+      "name": "Owen Wright",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nig1vy9k1asfhkanvlki"
+    },
+    {
+      "id": "00-0039427",
+      "name": "Solomon Byrd",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/obotfel6wfs49qectgfh"
+    },
+    {
+      "id": "00-0041304",
+      "name": "Stephen Hall",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qa7ibhagtbb2o8wkciex"
+    },
+    {
+      "id": "00-0038977",
+      "name": "Tank Dell",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dzjep37g7fqdweqtncso"
+    },
+    {
+      "id": "00-0041308",
+      "name": "Treyvhon Saunders",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gwouh69b2usqxmfhqxmz"
+    }
+  ],
   "players": [
     {
       "id": "00-0039108",
@@ -4037,20 +4237,20 @@
       ]
     },
     {
-      "id": "00-0039422",
-      "name": "Nathan Thomas",
+      "id": "00-0041532",
+      "name": "Keylan Rutledge",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "71",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eqezy9smygtojjoshtgt",
-      "height": "77",
-      "weight": "334",
-      "experience": "2",
-      "college": "Louisiana-Lafayette",
-      "depth_position": "LT",
-      "depth_slot": "3",
-      "depth_rank": 3,
-      "depth_order": 2,
+      "number": "66",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qzt4txsu9hhjgy9yiwej",
+      "height": "76",
+      "weight": "316",
+      "experience": "0",
+      "college": "Georgia Tech; Middle Tennessee State",
+      "depth_position": "LG",
+      "depth_slot": "4",
+      "depth_rank": 1,
+      "depth_order": 3,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -4066,42 +4266,6 @@
             "colors": {
               "primary": "#03202F",
               "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 4,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "DET",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "MIN",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "dal",
-            "name": "Dallas Cowboys",
-            "abbreviation": "DAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-            "colors": {
-              "primary": "#003594",
-              "secondary": "#041E42"
             }
           }
         }
@@ -4120,7 +4284,7 @@
       "college": "Virginia Tech",
       "depth_position": "LG",
       "depth_slot": "4",
-      "depth_rank": 1,
+      "depth_rank": 2,
       "depth_order": 3,
       "stats": {},
       "weekly_stats": [],
@@ -4189,10 +4353,10 @@
       "weight": "302",
       "experience": "8",
       "college": "SMU",
-      "depth_position": "LG",
-      "depth_slot": "4",
-      "depth_rank": 2,
-      "depth_order": 3,
+      "depth_position": "C",
+      "depth_slot": "5",
+      "depth_rank": 1,
+      "depth_order": 4,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -4250,41 +4414,6 @@
       ]
     },
     {
-      "id": "00-0041532",
-      "name": "Keylan Rutledge",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "66",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qzt4txsu9hhjgy9yiwej",
-      "height": "76",
-      "weight": "316",
-      "experience": "0",
-      "college": "Georgia Tech; Middle Tennessee State",
-      "depth_position": "C",
-      "depth_slot": "5",
-      "depth_rank": 1,
-      "depth_order": 4,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "hou",
-            "name": "Houston Texans",
-            "abbreviation": "HOU",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-            "colors": {
-              "primary": "#03202F",
-              "secondary": "#A71930"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0039030",
       "name": "Jake Andrews",
       "position": "OL",
@@ -4297,7 +4426,7 @@
       "college": "Troy",
       "depth_position": "C",
       "depth_slot": "5",
-      "depth_rank": 2,
+      "depth_rank": 3,
       "depth_order": 4,
       "stats": {},
       "weekly_stats": [],
@@ -4457,82 +4586,6 @@
       ]
     },
     {
-      "id": "00-0034836",
-      "name": "Braden Smith",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "71",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nvotj0nraxfrdeklulgb",
-      "height": "78",
-      "weight": "315",
-      "experience": "8",
-      "college": "Auburn",
-      "depth_position": "RT",
-      "depth_slot": "7",
-      "depth_rank": 1,
-      "depth_order": 6,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "hou",
-            "name": "Houston Texans",
-            "abbreviation": "HOU",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-            "colors": {
-              "primary": "#03202F",
-              "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 3,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "LV",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "JAX",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "ind",
-            "name": "Indianapolis Colts",
-            "abbreviation": "IND",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-            "colors": {
-              "primary": "#002C5F",
-              "secondary": "#A2AAAD"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0032071",
       "name": "Trent Brown",
       "position": "OL",
@@ -4545,7 +4598,7 @@
       "college": "Florida; Georgia Military",
       "depth_position": "RT",
       "depth_slot": "7",
-      "depth_rank": 2,
+      "depth_rank": 1,
       "depth_order": 6,
       "stats": {},
       "weekly_stats": [],
@@ -4609,6 +4662,153 @@
       ]
     },
     {
+      "id": "00-0039422",
+      "name": "Nathan Thomas",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "71",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eqezy9smygtojjoshtgt",
+      "height": "77",
+      "weight": "334",
+      "experience": "2",
+      "college": "Louisiana-Lafayette",
+      "depth_position": "RT",
+      "depth_slot": "7",
+      "depth_rank": 2,
+      "depth_order": 6,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "MIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034836",
+      "name": "Braden Smith",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "71",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nvotj0nraxfrdeklulgb",
+      "height": "78",
+      "weight": "315",
+      "experience": "8",
+      "college": "Auburn",
+      "depth_position": "RT",
+      "depth_slot": "7",
+      "depth_rank": 3,
+      "depth_order": 6,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "JAX",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0041303",
       "name": "Sam Hagen",
       "position": "OL",
@@ -4621,7 +4821,7 @@
       "college": "South Dakota State; North Dakota",
       "depth_position": "RT",
       "depth_slot": "7",
-      "depth_rank": 3,
+      "depth_rank": 4,
       "depth_order": 6,
       "stats": {},
       "weekly_stats": [],

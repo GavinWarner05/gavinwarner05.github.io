@@ -65,10 +65,12 @@ body.colorscheme-dark .sports-week-option[aria-pressed="true"] { border-color: #
 .detail-kicker { margin: 0 0 2rem; opacity: .68; }
 .detail-scoreboard { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 1rem; margin: 2rem 0; text-align: center; }
 .detail-team img { width: 6.4rem; height: 6.4rem; object-fit: contain; }
-.detail-team { color: inherit; text-decoration: none; border-radius: 1rem; }
+.detail-team { --detail-team-accent: #c4b5fd; color: #f8fafc; text-decoration: none; border-radius: 1rem; }
+.content .detail-team, .content .detail-team:hover, .content .detail-team:focus-visible { color: #f8fafc; text-decoration: none; }
+.detail-team:hover { color: #fff; filter: brightness(1.08); }
 .detail-team:focus-visible { outline: .3rem solid #fff; outline-offset: .3rem; }
 .detail-team strong, .detail-team span { display: block; }
-.detail-team strong { margin-top: .6rem; }
+.detail-team strong { width: fit-content; max-width: 100%; margin: .6rem auto 0; padding-bottom: .22rem; border-bottom: .18rem solid var(--detail-team-accent); }
 .detail-score { font-size: 3rem; font-weight: 900; font-variant-numeric: tabular-nums; }
 .detail-list { display: grid; gap: .8rem; margin: 2rem 0 0; padding: 0; list-style: none; }
 .detail-list li { display: flex; justify-content: space-between; gap: 2rem; padding-bottom: .8rem; border-bottom: 1px solid rgba(127,127,127,.18); }
@@ -79,10 +81,19 @@ body.colorscheme-dark .sports-week-option[aria-pressed="true"] { border-color: #
 .detail-injuries > summary::after { content: "⌄"; margin-left: .3rem; font-size: 1.7rem; line-height: 1; transform: rotate(-90deg); transition: transform .18s ease; }
 .detail-injuries[open] > summary::after { transform: rotate(0); }
 .detail-injury-total { margin-left: auto; font-size: 1.15rem; font-weight: 650; opacity: .7; }
-.detail-injury-team { border-top: 1px solid rgba(255,255,255,.16); }
-.detail-injury-team-heading { display: flex; justify-content: space-between; gap: 1rem; padding: 1rem 1.4rem; background: rgba(0,0,0,.14); font-size: 1.15rem; }
+.detail-injury-team { --injury-team-gradient: linear-gradient(135deg,#334155,#111827); border-top: 1px solid rgba(255,255,255,.2); background: linear-gradient(110deg,rgba(3,7,18,.82),rgba(3,7,18,.62)),var(--injury-team-gradient); }
+.detail-injury-team-heading { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 5rem; padding: .8rem 1.4rem; background: rgba(0,0,0,.2); font-size: 1.15rem; }
+.detail-injury-team-identity { display: flex; align-items: center; gap: .8rem; min-width: 0; }
+.detail-injury-team-logo { flex: 0 0 2.7rem; width: 2.7rem; height: 2.7rem; }
+.detail-injury-team-identity strong { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .detail-injury-team-heading span { opacity: .65; }
 .detail-injury-row { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: center; gap: 1rem; padding: 1rem 1.4rem; }
+.detail-injury-player, .detail-injury-player-link { display: flex; align-items: center; gap: .85rem; min-width: 0; }
+.detail-injury-player-link { width: fit-content; max-width: 100%; border-radius: .8rem; color: inherit; text-decoration: none; }
+.content .detail-injury-player-link, .content .detail-injury-player-link:hover, .content .detail-injury-player-link:focus-visible { color: inherit; text-decoration: none; }
+.detail-injury-player-link:hover strong { text-decoration: underline; text-underline-offset: .2em; }
+.detail-injury-player-link:focus-visible { outline: .25rem solid #fff; outline-offset: .25rem; }
+.detail-injury-player-image { flex: 0 0 3.8rem; width: 3.8rem; height: 3.8rem; border-radius: 50%; background: rgba(255,255,255,.1); object-fit: cover; object-position: top center; }
 .detail-injury-row + .detail-injury-row { border-top: 1px solid rgba(255,255,255,.1); }
 .detail-injury-row strong, .detail-injury-detail { display: block; }
 .detail-injury-row strong { font-size: 1.3rem; }
@@ -101,6 +112,7 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 @media (min-width: 700px) { .sports-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } .sports-shell { width: calc(100% - 6rem); } }
 @media (min-width: 1050px) { .sports-grid { grid-template-columns: repeat(3,minmax(0,1fr)); } }
 @media (prefers-reduced-motion: no-preference) { .matchup-card { transition: transform .18s ease,box-shadow .18s ease; } .matchup-card:hover { transform: translateY(-.25rem); box-shadow: 0 1.4rem 3.6rem rgba(0,0,0,.18); } }
+@media (prefers-reduced-motion: no-preference) { .detail-team strong { transition: transform .16s ease,filter .16s ease; } .detail-team:hover strong { transform: translateY(-.22rem); filter: brightness(1.08); } }
 @media (prefers-reduced-motion: reduce) { .detail-injuries > summary::after { transition: none; } }
 @media (max-width: 520px) { .detail-injury-row { align-items: start; grid-template-columns: 1fr; } .detail-injury-status { justify-self: start; } }
 
@@ -138,8 +150,23 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .team-collapse-all:hover { background: rgba(255,255,255,.2); }
 .team-collapse-all:focus-visible { outline: .2rem solid #fff; outline-offset: .3rem; }
 .team-schedule { display: grid; gap: .8rem; }
+.team-season-timeline-section { overflow: hidden; }
+.team-season-timeline { position: relative; display: flex; gap: .8rem; overflow-x: auto; padding: .5rem .15rem 1rem; scroll-snap-type: x proximity; scrollbar-color: rgba(255,255,255,.28) transparent; }
+.team-season-timeline::before { content: ""; position: absolute; top: 3.25rem; right: 1rem; left: 1rem; height: .16rem; background: rgba(255,255,255,.16); }
+.team-timeline-marker { --timeline-gradient: linear-gradient(145deg,#334155,#0f172a); position: relative; z-index: 1; display: grid; grid-template-columns: 3.1rem 1fr; grid-template-rows: auto auto; align-items: center; flex: 0 0 9.5rem; gap: .5rem .8rem; min-height: 6.3rem; padding: .8rem .95rem; border: 1px solid rgba(255,255,255,.24); border-radius: 1.1rem; background: linear-gradient(rgba(0,0,0,.42),rgba(0,0,0,.62)),var(--timeline-gradient); background-clip: padding-box; color: #fff; font: inherit; text-align: left; text-shadow: 0 .1rem .25rem rgba(0,0,0,.7); scroll-snap-align: center; cursor: pointer; transition: transform .16s ease,filter .16s ease,border-color .16s ease; }
+.team-timeline-marker:hover { z-index: 2; transform: translateY(-.18rem); filter: brightness(1.1); border-color: rgba(255,255,255,.55); }
+.team-timeline-marker:focus-visible { z-index: 2; outline: .2rem solid #fff; outline-offset: .2rem; }
+.team-timeline-marker[data-status="final"] { border-color: rgba(255,255,255,.48); }
+.team-timeline-marker[data-status="live"], .team-timeline-marker[data-status="halftime"] { box-shadow: 0 0 0 .18rem #ef4444; }
+.team-timeline-week { grid-column: 1; grid-row: 1; justify-self: start; padding: .18rem .48rem; border: 1px solid rgba(255,255,255,.24); border-radius: 999px; background: rgba(8,12,22,.46); color: rgba(255,255,255,.94); font-size: .86rem; font-weight: 900; line-height: 1.2; text-shadow: 0 .08rem .18rem rgba(0,0,0,.55); backdrop-filter: blur(.35rem); }
+.team-timeline-logo { grid-column: 1; grid-row: 2; width: 3.1rem; height: 3.1rem; object-fit: contain; }
+.team-timeline-marker strong { grid-column: 2; grid-row: 1; align-self: center; font-size: 1.22rem; }
+.team-timeline-marker small { grid-column: 2; grid-row: 2; align-self: center; overflow: hidden; font-size: .98rem; font-weight: 780; opacity: .92; white-space: nowrap; }
 .team-injury-list { overflow: hidden; border: 1px solid rgba(255,255,255,.16); border-radius: 1.5rem; }
-.team-game-row { display: grid; grid-template-columns: 8rem minmax(0,1fr) auto; align-items: center; gap: 1rem; min-height: 6.2rem; padding: 1rem 1.4rem; border: 1px solid rgba(255,255,255,.18); border-radius: 1.2rem; background-clip: padding-box !important; color: #fff; box-shadow: 0 .5rem 1.4rem rgba(0,0,0,.16); }
+.team-game-row { display: grid; grid-template-columns: 8rem minmax(0,1fr) auto; align-items: center; gap: 1rem; min-height: 6.2rem; padding: 1rem 1.4rem; border: 1px solid rgba(255,255,255,.18); border-radius: 1.2rem; background-clip: padding-box !important; color: #fff; box-shadow: 0 .5rem 1.4rem rgba(0,0,0,.16); cursor: pointer; transition: filter .16s ease,border-color .16s ease,box-shadow .16s ease; }
+.team-game-row:hover { filter: brightness(1.08); border-color: rgba(255,255,255,.38); }
+.team-game-row:focus-visible { outline: .22rem solid #fff; outline-offset: .22rem; }
+.team-game-row.is-timeline-target { outline: .22rem solid rgba(255,255,255,.88); outline-offset: .22rem; box-shadow: 0 0 0 .5rem rgba(255,255,255,.12),0 .8rem 2rem rgba(0,0,0,.25); }
 .team-injury-row + .team-injury-row { border-top: 1px solid rgba(127,127,127,.18); }
 .team-game-week { font-size: 1.15rem; opacity: .65; }
 .team-game-opponent { display: flex; align-items: center; gap: 1rem; min-width: 0; }
@@ -151,6 +178,10 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .team-game-result { font-variant-numeric: tabular-nums; text-align: right; }
 .team-injury-row { display: flex; justify-content: space-between; gap: 2rem; padding: 1.2rem 1.4rem; }
 .team-injury-row span { text-align: right; }
+.team-injury-player { display: flex; align-items: center; gap: .9rem; min-width: 0; color: #fff !important; text-decoration: none !important; transition: transform .16s ease,filter .16s ease; }
+.team-injury-player:hover { transform: translateY(-.12rem); filter: brightness(1.12); }
+.team-injury-player:focus-visible { border-radius: .5rem; outline: .2rem solid #fff; outline-offset: .3rem; }
+.team-injury-player-image { flex: 0 0 auto; width: 3.2rem; height: 3.2rem; border: 1px solid rgba(255,255,255,.18); border-radius: 50%; background: rgba(255,255,255,.1); object-fit: cover; object-position: center top; }
 .roster-group { margin-top: 1rem; padding: 1.4rem; border: 1px solid rgba(255,255,255,.12); border-radius: 1.4rem; background: rgba(7,10,18,.4); }
 .roster-group-summary { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1.2rem; }
 .roster-group-summary .team-section-title { font-size: 1.7rem; }
@@ -264,14 +295,14 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .sports-favorite-record { font-weight: 900; letter-spacing: .06em; }
 .sports-favorite-arrow { font-size: 2rem; opacity: .55; }
 .sports-player-favorite-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1.2rem; }
-.sports-player-favorite-card { --player-card-gradient: linear-gradient(135deg,#334155,#0f172a); position: relative; display: grid; grid-template-columns: 10rem minmax(0,1fr) auto; align-items: center; min-height: 15rem; overflow: hidden; border: 1px solid rgba(255,255,255,.22); border-radius: 2rem; background: linear-gradient(110deg,rgba(0,0,0,.46),rgba(0,0,0,.18)),var(--player-card-gradient); background-clip: padding-box; color: #fff; text-decoration: none; text-shadow: 0 .1rem .3rem rgba(0,0,0,.7); box-shadow: 0 .8rem 2rem rgba(0,0,0,.14); }
+.sports-player-favorite-card { --player-card-gradient: linear-gradient(135deg,#334155,#0f172a); position: relative; isolation: isolate; display: grid; grid-template-columns: 10rem minmax(0,1fr) auto; align-items: center; min-height: 15rem; overflow: hidden; border: 1px solid rgba(255,255,255,.22); border-radius: 2rem; background: linear-gradient(110deg,rgba(0,0,0,.46),rgba(0,0,0,.18)),var(--player-card-gradient); background-clip: padding-box; color: #fff; text-decoration: none; text-shadow: 0 .1rem .3rem rgba(0,0,0,.7); box-shadow: 0 .8rem 2rem rgba(0,0,0,.14); }
 .sports-player-favorite-card::after { content: ""; position: absolute; z-index: 0; right: -12%; bottom: -65%; width: 65%; height: 115%; border-radius: 50%; background: rgba(255,255,255,.12); filter: blur(2.8rem); pointer-events: none; }
 .sports-player-favorite-card > * { position: relative; z-index: 1; }
 .content .sports-player-favorite-card, .content .sports-player-favorite-card:hover, .content .sports-player-favorite-card:focus-visible { color: #fff; text-decoration: none; }
 .sports-player-favorite-card:hover { border-color: rgba(255,255,255,.46); filter: brightness(1.06); box-shadow: 0 1.2rem 2.8rem rgba(0,0,0,.24); }
 .sports-player-favorite-card:focus-visible { outline: .3rem solid #c4b5fd; outline-offset: .3rem; }
-.sports-player-favorite-photo { align-self: stretch; display: grid; place-items: end center; min-height: 15rem; background: linear-gradient(90deg,rgba(255,255,255,.1),rgba(255,255,255,.02)); }
-.sports-player-favorite-image { width: 100%; height: 100%; max-height: 15rem; object-fit: cover; object-position: top center; filter: drop-shadow(0 .8rem 1.2rem rgba(0,0,0,.25)); }
+.sports-player-favorite-photo { align-self: stretch; display: grid; place-items: end center; min-height: 15rem; overflow: hidden; border-bottom-left-radius: 1.9rem; background: linear-gradient(90deg,rgba(255,255,255,.1),rgba(255,255,255,.02)); transform: translateZ(0); -webkit-mask-image: -webkit-radial-gradient(white,black); }
+.sports-player-favorite-image { display: block; width: 100%; height: 100%; max-height: 15rem; border-bottom-left-radius: 1.9rem; object-fit: cover; object-position: top center; }
 .sports-player-favorite-photo > span { font-size: 1.5rem; font-weight: 900; opacity: .6; }
 .sports-player-favorite-card > div:nth-child(2) { min-width: 0; padding: 1.5rem; }
 .sports-player-favorite-kicker { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
@@ -296,8 +327,15 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .player-page-hero > img { align-self: end; width: 15rem; height: 17rem; object-fit: cover; object-position: top center; filter: drop-shadow(0 1rem 1.6rem rgba(0,0,0,.25)); }
 .player-page-identity { min-width: 0; padding-right: 13rem; }
 .player-page-identity p { margin: 0; opacity: .76; }
+.player-page-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 1rem; margin-top: 1.4rem; }
+.player-page-identity .player-injury-badge { display: inline-flex; width: fit-content; padding: .65rem 1rem; border-radius: 999px; color: #fff; font-size: 1.05rem; font-weight: 900; opacity: 1; }
+.player-injury-badge.is-out { background: #991b1b; }
+.player-injury-badge.is-doubtful { background: #9a3412; }
+.player-injury-badge.is-questionable { background: #f5d76e; color: #241a03; }
+.player-injury-badge.is-other { background: rgba(255,255,255,.18); }
 .player-page-identity h1 { margin: .35rem 0 .6rem; font-size: clamp(3rem,7vw,5.4rem); line-height: .98; letter-spacing: -.045em; }
-.team-themed-page .content .player-page-identity a { display: inline-block; margin-top: 1.4rem; color: #fff; font-weight: 800; text-underline-offset: .25em; }
+.team-themed-page .content .player-page-identity a { display: inline-flex; align-items: center; min-height: 2.8rem; padding: .55rem 1rem; border: 1px solid rgba(255,255,255,.42); border-radius: 999px; color: #fff; font-weight: 800; text-decoration: none; }
+.team-themed-page .content .player-page-identity a:hover { background: rgba(255,255,255,.12); border-color: rgba(255,255,255,.7); }
 .player-favorite-toggle { top: 2rem; right: 2rem; }
 .player-page-section { margin-top: 2rem; padding: 1.8rem; border: 1px solid rgba(255,255,255,.13); border-radius: 1.8rem; background: rgba(7,10,18,.7); color: #fff; backdrop-filter: blur(1rem); }
 .player-page-section .sports-section-heading { margin-bottom: 1.3rem; }
@@ -374,7 +412,7 @@ body.colorscheme-dark .sports-favorites-actions .sports-favorites-save { border-
 @media (max-width: 820px) {
   .team-division-grid { grid-template-columns: 1fr; }
   .sports-home-hero { grid-template-columns: 1fr; min-height: 0; }
-  .sports-home-hero-logos { grid-row: 1; max-width: 34rem; margin-bottom: 2.4rem; }
+  .sports-home-hero-logos { grid-row: 1; justify-self: center; width: 100%; max-width: 34rem; margin-bottom: 2.4rem; }
   .sports-home-nav { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .sports-home-game-grid, .sports-around-grid { grid-template-columns: 1fr; }
   .sports-player-favorite-grid { grid-template-columns: 1fr; }
@@ -387,15 +425,18 @@ body.colorscheme-dark .sports-favorites-actions .sports-favorites-save { border-
   .sports-player-favorite-image { max-height: 13rem; }
   .sports-player-favorite-card > div:nth-child(2) { padding: 1.1rem; }
   .sports-player-favorite-team-logo { display: none; }
-  .player-page-hero { grid-template-columns: 8rem minmax(0,1fr); min-height: 16rem; padding: 1.6rem; }
-  .player-page-hero > img { width: 8rem; height: 11rem; }
-  .player-page-identity { padding: 5.5rem 0 0; }
-  .player-page-identity h1 { font-size: 2.8rem; }
+  .player-page-hero { grid-template-columns: 1fr; justify-items: center; gap: 1rem; min-height: 0; padding: 7rem 1.6rem 2rem; text-align: center; }
+  .player-page-hero > img { align-self: auto; width: 78vw; max-width: 20rem; height: 18rem; object-fit: contain; object-position: center bottom; filter: drop-shadow(0 1rem 1.4rem rgba(0,0,0,.28)); }
+  .player-page-identity { width: 100%; padding: 0; }
+  .player-page-identity h1 { overflow-wrap: anywhere; font-size: clamp(2.7rem,10vw,3.7rem); }
+  .player-page-identity p { font-size: 1.25rem; }
+  .player-page-actions { flex-direction: column; gap: .75rem; }
+  .player-page-identity .player-injury-badge { margin-right: auto; margin-left: auto; font-size: 1.05rem; }
+  .player-favorite-toggle { top: 1.4rem; right: 1.4rem; }
   .sports-home-intro { display: block; padding-top: 3rem; }
   .sports-home-intro .sports-updated { margin-top: 1.4rem; text-align: left; }
   .sports-home-hero { padding: 2.2rem; border-radius: 2.4rem; }
   .sports-home-hero h2 { font-size: 3.2rem; }
-  .sports-home-hero-logos { width: 100%; }
   .sports-home-nav { margin-bottom: 3.8rem; }
   .sports-home-nav a, .sports-home-nav button { grid-template-columns: 3.2rem 1fr; min-height: 7.4rem; padding: 1.1rem; }
   .sports-home-nav a > span, .sports-home-nav button > span { width: 3.2rem; height: 3.2rem; }

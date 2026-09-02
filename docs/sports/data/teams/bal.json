@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "bal",
@@ -1873,6 +1873,240 @@
       "player": "Jay Higgins",
       "status": "Questionable",
       "detail": "Concussion"
+    }
+  ],
+  "injury_players": [
+    {
+      "id": "00-0040982",
+      "name": "Aaron Graves",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wroubpn0nrxus52ct2dw"
+    },
+    {
+      "id": "00-0040888",
+      "name": "Adam Randall",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cdr4vibcb4jxp8nswxl9"
+    },
+    {
+      "id": "00-0039791",
+      "name": "Adisa Isaac",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kgf0y0szaf289d6ys8sy"
+    },
+    {
+      "id": "00-0035270",
+      "name": "Amani Oruwariye",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/aqg1eu9fdnoqmaff8cb4"
+    },
+    {
+      "id": "00-0039464",
+      "name": "Austin Reed",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gh0y2g1z1xqop1t0boeu"
+    },
+    {
+      "id": "00-0040073",
+      "name": "Bilhal Kone",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jvaonihwki5f94bdzmwa"
+    },
+    {
+      "id": "00-0039460",
+      "name": "Carl Jones",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l4vvhcbssti8qvjhxigf"
+    },
+    {
+      "id": "00-0032398",
+      "name": "Chris Moore",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o0s29hnpztyxqotqdx8h"
+    },
+    {
+      "id": "00-0039437",
+      "name": "Cornelius Johnson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fml6omt7xsb5bw3w75sm"
+    },
+    {
+      "id": "00-0040977",
+      "name": "Cortez Braham",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jcgncwbkzrwqeqh89rhs"
+    },
+    {
+      "id": "00-0036215",
+      "name": "Danny Pinter",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oeo9gt4ytdtwhu5hvvu8"
+    },
+    {
+      "id": "00-0039938",
+      "name": "David Olajiga",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zwa1ogmpfp7zvaaam4db"
+    },
+    {
+      "id": "00-0039259",
+      "name": "Dayton Wade",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/blt6hxkltzfxpcqsnlp8"
+    },
+    {
+      "id": "00-0040995",
+      "name": "Dion Wilson",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nukeqk7zm0ajhdsfruvt"
+    },
+    {
+      "id": "00-0040980",
+      "name": "Dominic DeLuca",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cz6uu2gmtovnzwunsfs0"
+    },
+    {
+      "id": "00-0040984",
+      "name": "Dontae McMillan",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iptvbpnqkwbbmogetkfq"
+    },
+    {
+      "id": "00-0040991",
+      "name": "Elijah Tau-Tolliver",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lupgcteiumxkemycok75"
+    },
+    {
+      "id": "00-0040909",
+      "name": "Evan Beerntsen",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gwesa6kw92moff0mxp3i"
+    },
+    {
+      "id": "00-0040098",
+      "name": "Gerad Lichtenhan",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xyfozfelcvupcc1uu06u"
+    },
+    {
+      "id": "00-0036310",
+      "name": "Hakeem Adeniji",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcoi4yerqm7urfbnscft"
+    },
+    {
+      "id": "00-0040988",
+      "name": "Jahquez Robinson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/boo9iyw6uaduxtvzwgf6"
+    },
+    {
+      "id": "00-0038562",
+      "name": "Jake Moody",
+      "position": "K",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/apt7uakuwoxlpsjp5lp5"
+    },
+    {
+      "id": "00-0040037",
+      "name": "Jamon Johnson",
+      "position": "LB"
+    },
+    {
+      "id": "00-0035924",
+      "name": "Jonathan Ward",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yct3a4xznwcxjvn4iosk"
+    },
+    {
+      "id": "00-0036395",
+      "name": "K'Von Wallace",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ytpbcdbdwwlysnjj6uwb"
+    },
+    {
+      "id": "00-0040658",
+      "name": "Kaimon Rucker",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ayai0zgfxwglyzrjkmmx"
+    },
+    {
+      "id": "00-0031921",
+      "name": "Kendall Lamm",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ppp9mcm3mqiymtwtmhmx"
+    },
+    {
+      "id": "00-0040993",
+      "name": "Ladarius Webb Jr.",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/txaaincujcsnquwtzeyc"
+    },
+    {
+      "id": "00-0040637",
+      "name": "Lucas Scott",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fczsn4gxvqg2a99hlkdy"
+    },
+    {
+      "id": "00-0040112",
+      "name": "Marquise Robinson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cf3dpp4joq3qzbnkb7ku"
+    },
+    {
+      "id": "00-0039429",
+      "name": "Michael Barrett",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ybfsxk9ojuyjvv6t6zh0"
+    },
+    {
+      "id": "00-0040979",
+      "name": "Nick Dawkins",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xkbtkrrvbb04xp0dqig3"
+    },
+    {
+      "id": "00-0040989",
+      "name": "Octavian Smith",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qtsrzczmff6p97bc2rzo"
+    },
+    {
+      "id": "00-0040907",
+      "name": "Rayshaun Benny",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ewfiiqrz7qysxydw5zwn"
+    },
+    {
+      "id": "00-0040077",
+      "name": "Robert Longerbeam",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/trntqnyxey3vjzredean"
+    },
+    {
+      "id": "00-0040992",
+      "name": "Silas Walters",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z1jpdueha9gojh6czrzo"
+    },
+    {
+      "id": "00-0037327",
+      "name": "Skylar Thompson",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/estx7utxpnqif0lto9cq"
+    },
+    {
+      "id": "00-0040986",
+      "name": "Ty Pezza",
+      "position": "WR"
+    },
+    {
+      "id": "00-0040099",
+      "name": "Xavier Guillory",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p9cbbzkdpk6nrhamjntb"
     }
   ],
   "players": [

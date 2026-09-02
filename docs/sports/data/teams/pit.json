@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "pit",
@@ -2371,6 +2371,212 @@
       "player": "Donte Kent",
       "status": "IR/PUP",
       "detail": "Undisclosed"
+    }
+  ],
+  "injury_players": [
+    {
+      "id": "00-0041598",
+      "name": "Alex Tecza",
+      "position": "RB"
+    },
+    {
+      "id": "00-0039783",
+      "name": "Anthony Goodlow",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nyluqyk0urg2bdfsajdk"
+    },
+    {
+      "id": "00-0038644",
+      "name": "Brandon Hill",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cmhc0px1zf7xuxcqbqng"
+    },
+    {
+      "id": "00-0036775",
+      "name": "Brandon Smith",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h4ezdffu0biwqoxn7bql"
+    },
+    {
+      "id": "00-0039626",
+      "name": "Cole Burgess",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vlp9c4lmddujjj46gz6p"
+    },
+    {
+      "id": "00-0036647",
+      "name": "Cornell Powell",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/vnpyhf8dp1opjhvyotff"
+    },
+    {
+      "id": "00-0038877",
+      "name": "D'Shawn Jamison",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tpz66swcddlot6x1lcfz"
+    },
+    {
+      "id": "00-0039883",
+      "name": "Daequan Hardy",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ufab4bt7hohj24mzr91v"
+    },
+    {
+      "id": "00-0040365",
+      "name": "Daryl Porter",
+      "position": "DB"
+    },
+    {
+      "id": "00-0034277",
+      "name": "DeShon Elliott",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hf9qrjvja3ej77feihts"
+    },
+    {
+      "id": "00-0041259",
+      "name": "Devan Boykin",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/empcnsnojmeby4w3fi57"
+    },
+    {
+      "id": "00-0040341",
+      "name": "Doneiko Slaughter",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z2wtosdw9ioeckp4sfo4"
+    },
+    {
+      "id": "00-0040232",
+      "name": "Donte Kent",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mpa9scrhykgo3snyjmjx"
+    },
+    {
+      "id": "00-0039716",
+      "name": "Doug Nester",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jpcuavjkhh8b0oe3kor7"
+    },
+    {
+      "id": "00-0037274",
+      "name": "Esezi Otomewo",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kebjbuk4q1algng5hf3b"
+    },
+    {
+      "id": "00-0041430",
+      "name": "Greg Crippen",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bsgebzdsvzkglkpkeulb"
+    },
+    {
+      "id": "00-0038883",
+      "name": "Isaiah Winstead",
+      "position": "WR"
+    },
+    {
+      "id": "00-0036396",
+      "name": "Jack Driscoll",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dpxtqqekpghx23t7gb4j"
+    },
+    {
+      "id": "00-0040284",
+      "name": "Jack Henderson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lak0d9wrhu5k70g9hqzb"
+    },
+    {
+      "id": "00-0039457",
+      "name": "Jacoby Windmon",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ejvqgmzpnbiitpype3yt"
+    },
+    {
+      "id": "00-0039420",
+      "name": "Jaheim Bell",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/swxvhppaewwccieyx6ax"
+    },
+    {
+      "id": "00-0040388",
+      "name": "Jakobie Keeney-James",
+      "position": "WR"
+    },
+    {
+      "id": "00-0041147",
+      "name": "Jaylon Guilbeau",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fmacvoyzqgwibr3oltid"
+    },
+    {
+      "id": "00-0039931",
+      "name": "Julius Welschof",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lf5uheuobwt4ysekvqvk"
+    },
+    {
+      "id": "00-0039609",
+      "name": "Kyler Baugh",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eudnrort6lravlzivtxo"
+    },
+    {
+      "id": "00-0041263",
+      "name": "Lake McRee",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z44mxfva1mljsixo7c2l"
+    },
+    {
+      "id": "00-0040974",
+      "name": "Lance Mason",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e0rzvcajpcfosxnmxj2j"
+    },
+    {
+      "id": "00-0040976",
+      "name": "Levi Wentz",
+      "position": "WR"
+    },
+    {
+      "id": "00-0038409",
+      "name": "Lew Nichols III",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/plqg1yngo8vvs8ths7aw"
+    },
+    {
+      "id": "00-0039389",
+      "name": "Logan Lee",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/py0b0ngp7hcrt4asr9fr"
+    },
+    {
+      "id": "00-0040618",
+      "name": "Max Hurleman",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/axybwbw7inp1vu7xxf0t"
+    },
+    {
+      "id": "00-0040527",
+      "name": "Sebastian Castro",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/df4sh5ddoseg7d5bbl6q"
+    },
+    {
+      "id": "00-0039555",
+      "name": "Steven Jones",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ahielgnveyyymgeql5gp"
+    },
+    {
+      "id": "00-0041488",
+      "name": "Tamon Lynum",
+      "position": "DB"
+    },
+    {
+      "id": "00-0035594",
+      "name": "Travis Homer",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dyyclvfaagspov2ydf3i"
     }
   ],
   "players": [

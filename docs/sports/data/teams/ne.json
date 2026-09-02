@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "ne",
@@ -2121,6 +2121,252 @@
       "detail": "Undisclosed"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0039539",
+      "name": "Amari Gainer",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nrmc2wpx3aci3optdya2"
+    },
+    {
+      "id": "00-0037413",
+      "name": "Ben Brown",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lml1v7twuud44q3pn0hm"
+    },
+    {
+      "id": "00-0040176",
+      "name": "Bradyn Swinson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p1o2oozwlyzyuaomskb9"
+    },
+    {
+      "id": "00-0040565",
+      "name": "Brandon Crossley",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fg2xxnydii7ydbqmypzz"
+    },
+    {
+      "id": "00-0037205",
+      "name": "Brenden Schooler",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ntothfpaj3iifvsqelzg"
+    },
+    {
+      "id": "00-0040566",
+      "name": "CJ Dippre",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/azvsbbacjbgiyr3hmgdi"
+    },
+    {
+      "id": "00-0041319",
+      "name": "Cameron Dorner",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lzae2vexciqchpaejeis"
+    },
+    {
+      "id": "00-0039510",
+      "name": "Casey Rogers",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/scfacqrxshvkyavgylxh"
+    },
+    {
+      "id": "00-0039246",
+      "name": "Darrian Dalcourt",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h2ouuufkgpc3kmwle84y"
+    },
+    {
+      "id": "00-0041586",
+      "name": "Eric Butler",
+      "position": "DB"
+    },
+    {
+      "id": "00-0040371",
+      "name": "Eric Gregory",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yl1571iztzfkancofsja"
+    },
+    {
+      "id": "00-0034828",
+      "name": "Harold Landry III",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u4vo0zlxvsph3annhc4f"
+    },
+    {
+      "id": "00-0037617",
+      "name": "Hassan Haskins",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n9jwsfxyo1xppmhscpik"
+    },
+    {
+      "id": "00-0039644",
+      "name": "Isaiah Iton",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qa0ncvwwdi7zoutxpa9a"
+    },
+    {
+      "id": "00-0040564",
+      "name": "Jack Conley",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nkocajkdxqcb8nfolh79"
+    },
+    {
+      "id": "00-0039305",
+      "name": "Jack Westover",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zpo5vbntn8b9hih2fi66"
+    },
+    {
+      "id": "00-0041325",
+      "name": "Jacob Rizy",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fioyvuz4qbdnm5b97zkf"
+    },
+    {
+      "id": "00-0041129",
+      "name": "Jam Miller",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zfxfycwnsyjtoj1n8j5e"
+    },
+    {
+      "id": "00-0037711",
+      "name": "Jeremiah Pharms Jr.",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bhm6towuahy7ztd8zkna"
+    },
+    {
+      "id": "00-0040570",
+      "name": "Jeremiah Webb",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dfay1nwxlijuhxbqcids"
+    },
+    {
+      "id": "00-0041322",
+      "name": "Jimmy Kibble",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oqed2w9ukizullcgi22l"
+    },
+    {
+      "id": "00-0040310",
+      "name": "John Saunders Jr.",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ftf10e6sdtxy6jumhfds"
+    },
+    {
+      "id": "00-0041324",
+      "name": "JonDarius Morgan",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vrfroiabhoeww6n50qm5"
+    },
+    {
+      "id": "00-0040446",
+      "name": "Joseph Michalski",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yr70dbnp5tp5dzbdvnhz"
+    },
+    {
+      "id": "00-0038720",
+      "name": "Julian Hill",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/idjirwpxilfybc74zhwr"
+    },
+    {
+      "id": "00-0036643",
+      "name": "K.J. Britt",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q3jwsdcnxx1sqbuetd26"
+    },
+    {
+      "id": "00-0036307",
+      "name": "Kindle Vildor",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ep3iocz1qboqkcj16aoc"
+    },
+    {
+      "id": "00-0040252",
+      "name": "Kobee Minor",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yvfkscl6izjkimkmhi1j"
+    },
+    {
+      "id": "00-0041318",
+      "name": "Kyle Dixon",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/obg1mz6j2ax8fqhig1uj"
+    },
+    {
+      "id": "00-0040568",
+      "name": "Lan Larison",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dfvjypx4regh68bhrrlt"
+    },
+    {
+      "id": "00-0038426",
+      "name": "Lorenz Metz",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/si2p0txmdqyal15mlhki"
+    },
+    {
+      "id": "00-0040226",
+      "name": "Marcus Bryant",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xbljgrxlkw6i8xn9a7xr"
+    },
+    {
+      "id": "00-0040593",
+      "name": "Mehki Butler",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ybglujklleo4mjd4wio9"
+    },
+    {
+      "id": "00-0037493",
+      "name": "Mike Brown",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vufbgfg96s4jt3tlxdiw"
+    },
+    {
+      "id": "00-0034941",
+      "name": "Mitch Wishnowsky",
+      "position": "P",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kjifuyh2rm6dygczcv4f"
+    },
+    {
+      "id": "00-0041323",
+      "name": "Myles Montgomery",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x2iwklhxz7it7m1hsdwy"
+    },
+    {
+      "id": "00-0041317",
+      "name": "Nick DeGennaro",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vc9uhlgxs79dhcza4qp2"
+    },
+    {
+      "id": "00-0041405",
+      "name": "Peter Manuma",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zdqep82dbwapltzfvj9g"
+    },
+    {
+      "id": "00-0041564",
+      "name": "Riley Wilson",
+      "position": "LB"
+    },
+    {
+      "id": "00-0039397",
+      "name": "Tejhaun Palmer",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/al9fpqmjmybys0iedi9c"
+    },
+    {
+      "id": "00-0041412",
+      "name": "Xavier Holmes",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u005l47kqbf4w8futftr"
+    }
+  ],
   "players": [
     {
       "id": "00-0036981",
@@ -2879,6 +3125,117 @@
       ]
     },
     {
+      "id": "00-0039829",
+      "name": "Darius Muasau",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "53",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/howdtlbkf2poenfnyejl",
+      "height": "72",
+      "weight": "230",
+      "experience": "2",
+      "college": "UCLA; Hawaii",
+      "depth_position": "LILB",
+      "depth_slot": "5",
+      "depth_rank": 2,
+      "depth_order": 15,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "DAL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0041109",
       "name": "Namdi Obiazor",
       "position": "LB",
@@ -3068,7 +3425,7 @@
       "college": "Missouri; South Alabama",
       "depth_position": "RILB",
       "depth_slot": "6",
-      "depth_rank": 2,
+      "depth_rank": 3,
       "depth_order": 16,
       "stats": {},
       "weekly_stats": [],
@@ -3432,113 +3789,6 @@
             "colors": {
               "primary": "#002244",
               "secondary": "#C60C30"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0036643",
-      "name": "K.J. Britt",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "35",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q3jwsdcnxx1sqbuetd26",
-      "height": "72",
-      "weight": "228",
-      "experience": "5",
-      "college": "Auburn",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ne",
-            "name": "New England Patriots",
-            "abbreviation": "NE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-            "colors": {
-              "primary": "#002244",
-              "secondary": "#C60C30"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 2,
-              "opponent": "NE",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "WAS",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "CIN",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "NE",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "mia",
-            "name": "Miami Dolphins",
-            "abbreviation": "MIA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-            "colors": {
-              "primary": "#008E97",
-              "secondary": "#FC4C02"
             }
           }
         }
@@ -4070,68 +4320,6 @@
             "colors": {
               "primary": "#4F2683",
               "secondary": "#2C1646"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0037413",
-      "name": "Ben Brown",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "77",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lml1v7twuud44q3pn0hm",
-      "height": "77",
-      "weight": "315",
-      "experience": "4",
-      "college": "Mississippi",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ne",
-            "name": "New England Patriots",
-            "abbreviation": "NE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-            "colors": {
-              "primary": "#002244",
-              "secondary": "#C60C30"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 12,
-              "opponent": "CIN",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "NYG",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "NYJ",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "ne",
-            "name": "New England Patriots",
-            "abbreviation": "NE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-            "colors": {
-              "primary": "#002244",
-              "secondary": "#C60C30"
             }
           }
         }
@@ -7125,6 +7313,107 @@
             "colors": {
               "primary": "#002244",
               "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038564",
+      "name": "Cameron Latu",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "36",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hquihmithkmhoncvkqwt",
+      "height": "77",
+      "weight": "244",
+      "experience": "3",
+      "college": "Alabama",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 3,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "WAS",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
             }
           }
         }

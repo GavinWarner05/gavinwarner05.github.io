@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "kc",
@@ -2253,6 +2253,243 @@
       "detail": "Knee - ACL"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0040956",
+      "name": "Amari McNeill",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/idvyrx8v1nf4pij66on5"
+    },
+    {
+      "id": "00-0040298",
+      "name": "Andrew Armstrong",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hkw32xqnimm6dvx2qfvl"
+    },
+    {
+      "id": "00-0039833",
+      "name": "C.J. Hanson",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sem0xiz0jubhx5nww1ma"
+    },
+    {
+      "id": "00-0038513",
+      "name": "Cam Jones",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jwrgy9biwoeqssscqysr"
+    },
+    {
+      "id": "00-0037324",
+      "name": "Chris Oladokun",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zlcmvcyi6laaklmjv1j2"
+    },
+    {
+      "id": "00-0040952",
+      "name": "Cole Brevard",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p4qwzpp3nkubs6ppfxqq"
+    },
+    {
+      "id": "00-0035900",
+      "name": "Cole Christiansen",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x74ojmotlufzvz8jmetl"
+    },
+    {
+      "id": "00-0040961",
+      "name": "D'Arco Perkins-McAllister",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xzgdbw3nuxkm0icnbiqj"
+    },
+    {
+      "id": "00-0040960",
+      "name": "Damon Payne",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lzhjwyulqcvslzisopqn"
+    },
+    {
+      "id": "00-0040963",
+      "name": "DeShon Singleton",
+      "position": "DB"
+    },
+    {
+      "id": "00-0040964",
+      "name": "EJ Smith",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbrhecognbp6bxwgtqyh"
+    },
+    {
+      "id": "00-0033073",
+      "name": "Emmanuel Ogbah",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uaj08gf9lrokgxgrbgcn"
+    },
+    {
+      "id": "00-0040092",
+      "name": "Esa Pole",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yn1ylypuzoeo3scc4n5o"
+    },
+    {
+      "id": "00-0040328",
+      "name": "Ethan Downs",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/somszafluhppwnnplu8i"
+    },
+    {
+      "id": "00-0039317",
+      "name": "Ethan Driskell",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ovnb3ifximbr58ro3mkt"
+    },
+    {
+      "id": "00-0040969",
+      "name": "Ethan Hurkett",
+      "position": "DL"
+    },
+    {
+      "id": "00-0040967",
+      "name": "Jacob De Jesus",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e2vu3nw6evgo0tfku7nt"
+    },
+    {
+      "id": "00-0038492",
+      "name": "Jason Brownlee",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lxmpoub3eslnvevtpoqf"
+    },
+    {
+      "id": "00-0040959",
+      "name": "Jaydn Ott",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ywfb4a8vkz1eubb43o8i"
+    },
+    {
+      "id": "00-0040953",
+      "name": "Jeff Caldwell",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nc8rm1ko22poili6r2a8"
+    },
+    {
+      "id": "00-0041575",
+      "name": "Jeff Weimer",
+      "position": "WR"
+    },
+    {
+      "id": "00-0040120",
+      "name": "Jimmy Holiday",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yk1s0zu3wukxx2plsfpd"
+    },
+    {
+      "id": "00-0040955",
+      "name": "John Michael Gyllenborg",
+      "position": "TE"
+    },
+    {
+      "id": "00-0040965",
+      "name": "Josh Thompson",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rfnfr7idjojws30ijl7e"
+    },
+    {
+      "id": "00-0040313",
+      "name": "Kam Arnold",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kkemyzx6bdkmpkbtkhek"
+    },
+    {
+      "id": "00-0040089",
+      "name": "Kevin Knowles",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xkgx12iv1iqeygpifh9l"
+    },
+    {
+      "id": "00-0039433",
+      "name": "Marcus Harris",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uekrrvgronz3fkb957hf"
+    },
+    {
+      "id": "00-0039702",
+      "name": "Mason Pline",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wnd0lmuy6bd5kwvejkyo"
+    },
+    {
+      "id": "00-0037266",
+      "name": "Matt Waletzko",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/asqlemwjq8njytpjgnnr"
+    },
+    {
+      "id": "00-0041379",
+      "name": "Niles King",
+      "position": "DL"
+    },
+    {
+      "id": "00-0040954",
+      "name": "Omari Evans",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q5szmdmukkkusqpfj9m5"
+    },
+    {
+      "id": "00-0040748",
+      "name": "Omarr Norman-Lott",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jp69jatihj5oqc37g9gv"
+    },
+    {
+      "id": "00-0040958",
+      "name": "Pete Nygra",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dj0eulexg2b8q60qqx7s"
+    },
+    {
+      "id": "00-0038717",
+      "name": "Tanner McCalister",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c9jj95kbpqkultyasp1c"
+    },
+    {
+      "id": "00-0040094",
+      "name": "Tre Watson",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ugdci6mdpfinji42u1om"
+    },
+    {
+      "id": "00-0037080",
+      "name": "Tyreke Smith",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ty7bslavrkn5iqziogvf"
+    },
+    {
+      "id": "00-0040950",
+      "name": "Vincent Anthony Jr.",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lxdpxwvakeifd0yjoqt9"
+    },
+    {
+      "id": "00-0040951",
+      "name": "Wesley Bissainthe",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j8swqxmlcnkjxyujqnwf"
+    },
+    {
+      "id": "00-0041020",
+      "name": "Xavier Loyd",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wmm4lgxorw9cf5towgpl"
+    },
+    {
+      "id": "00-0040966",
+      "name": "Zelmar Vedder",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j9r5h7h9dy8rp2u5zb9s"
+    }
+  ],
   "players": [
     {
       "id": "00-0037192",
@@ -2762,6 +2999,41 @@
       ]
     },
     {
+      "id": "00-0041358",
+      "name": "Bryson Eason",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "67",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j1jl72vreavg4ogitcln",
+      "height": "75",
+      "weight": "323",
+      "experience": "0",
+      "college": "Tennessee",
+      "depth_position": "LDT",
+      "depth_slot": "2",
+      "depth_rank": 3,
+      "depth_order": 24,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0036909",
       "name": "Khyiris Tonga",
       "position": "DL",
@@ -2883,37 +3155,6 @@
       ]
     },
     {
-      "id": "00-0039433",
-      "name": "Marcus Harris",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "68",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uekrrvgronz3fkb957hf",
-      "height": "75",
-      "weight": "295",
-      "experience": "2",
-      "college": "Auburn; Kansas",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "kc",
-            "name": "Kansas City Chiefs",
-            "abbreviation": "KC",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-            "colors": {
-              "primary": "#E31837",
-              "secondary": "#6B0F1A"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0040118",
       "name": "Cooper McDonald",
       "position": "LB",
@@ -3006,6 +3247,41 @@
               "stats": {}
             }
           ],
+          "team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041256",
+      "name": "Jack Pyburn",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "58",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z9fvkrqzww2zmzwibvn9",
+      "height": "76",
+      "weight": "258",
+      "experience": "0",
+      "college": "LSU; Florida",
+      "depth_position": "RDE",
+      "depth_slot": "4",
+      "depth_rank": 4,
+      "depth_order": 13,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "kc",
             "name": "Kansas City Chiefs",
@@ -5869,98 +6145,6 @@
             {
               "week": 12,
               "opponent": "IND",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "kc",
-            "name": "Kansas City Chiefs",
-            "abbreviation": "KC",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-            "colors": {
-              "primary": "#E31837",
-              "secondary": "#6B0F1A"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0040089",
-      "name": "Kevin Knowles",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "35",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xkgx12iv1iqeygpifh9l",
-      "height": "71",
-      "weight": "190",
-      "experience": "1",
-      "college": "Florida State",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "kc",
-            "name": "Kansas City Chiefs",
-            "abbreviation": "KC",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-            "colors": {
-              "primary": "#E31837",
-              "secondary": "#6B0F1A"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 2,
-              "opponent": "PHI",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "NYG",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "DEN",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "LV",
               "stats": {}
             }
           ],

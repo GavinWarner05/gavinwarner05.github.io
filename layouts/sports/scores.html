@@ -1,6 +1,6 @@
 {{ define "title" }}NFL Scores · {{ .Site.Title }}{{ end }}
 {{ define "content" }}
-<section class="sports-shell sports-scores-page" data-sports-app data-data-url="{{ "sports/data/nfl.json" | relURL }}" data-team-base-url="{{ "sports/teams/" | relURL }}">
+<section class="sports-shell sports-scores-page" data-sports-app data-data-url="{{ "sports/data/nfl.json" | relURL }}" data-team-base-url="{{ "sports/teams/" | relURL }}" data-team-data-base-url="{{ "sports/data/teams/" | relURL }}" data-player-url="{{ "sports/player/" | relURL }}">
   <header class="sports-scores-hero">
     <a class="sports-page-back" href="{{ "sports/" | relURL }}">← Sports Center home</a>
     <div class="sports-scores-hero-copy">

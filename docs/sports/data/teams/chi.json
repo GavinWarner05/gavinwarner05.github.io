@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "chi",
@@ -2905,6 +2905,224 @@
       "detail": "Shin"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0038411",
+      "name": "Anthony Johnson Jr.",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eumd6ubnwb6vv2kvh38z"
+    },
+    {
+      "id": "00-0039587",
+      "name": "Antonio Grier Jr.",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fa6kewlf3j1oaqz1xvfd"
+    },
+    {
+      "id": "00-0039454",
+      "name": "Beanie Bishop Jr.",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/anm9je7buxcrhnwuxspo"
+    },
+    {
+      "id": "00-0037329",
+      "name": "Brittain Brown",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xo28viloq6rjkgca3gpz"
+    },
+    {
+      "id": "00-0041164",
+      "name": "Caden Barnett",
+      "position": "OL"
+    },
+    {
+      "id": "00-0037395",
+      "name": "Dallis Flowers",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gzmnysc6ars1fshia3kt"
+    },
+    {
+      "id": "00-0039378",
+      "name": "Deantre Prince",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dv5t8emszxwqvtgnsak3"
+    },
+    {
+      "id": "00-0040550",
+      "name": "Dontae Manning",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/duyp9cxrllwfqad4briv"
+    },
+    {
+      "id": "00-0040275",
+      "name": "JP Richardson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wsnuaqx6jbadrinmo1z2"
+    },
+    {
+      "id": "00-0041169",
+      "name": "Jaren Kump",
+      "position": "OL"
+    },
+    {
+      "id": "00-0037106",
+      "name": "Jaylon Jones",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wdcshvjrfqw2ocj3vtvj"
+    },
+    {
+      "id": "00-0038716",
+      "name": "Jeremiah Martin",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ekuhmi6hzm0np3nybzgg"
+    },
+    {
+      "id": "00-0036239",
+      "name": "Jonathan Garvin",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/blnbflmdlqch2rkzxfr5"
+    },
+    {
+      "id": "00-0037380",
+      "name": "Kaden Davis",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j4pxqpw02oztmctolcdr"
+    },
+    {
+      "id": "00-0039822",
+      "name": "Kiran Amegadjie",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qngoqfnhfh7zgjeqk9vw"
+    },
+    {
+      "id": "00-0039624",
+      "name": "Kyle Hergel",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hevy4dtaz6yzw9anebpk"
+    },
+    {
+      "id": "00-0038111",
+      "name": "Kyler Gordon",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u5s17tjtzqebsl5yicln"
+    },
+    {
+      "id": "00-0034344",
+      "name": "Marcus Davenport",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hauze2vwdskhaiqjifk1"
+    },
+    {
+      "id": "00-0041021",
+      "name": "Marlen Sewell",
+      "position": "DB"
+    },
+    {
+      "id": "00-0037708",
+      "name": "Maurice Alexander",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yzohmksbod2i5sslcndw"
+    },
+    {
+      "id": "00-0041172",
+      "name": "Miller Moss",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p86kdskm2q45zetkrx03"
+    },
+    {
+      "id": "00-0037544",
+      "name": "Nephi Sewell",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/whfernvrrhmopmxfucso"
+    },
+    {
+      "id": "00-0037031",
+      "name": "Nikola Kalinic",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/monk9ruop1ec5bfysiwl"
+    },
+    {
+      "id": "00-0038390",
+      "name": "Noah Sewell",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sw5wea1zlc1drxoisej0"
+    },
+    {
+      "id": "00-0041168",
+      "name": "Omari Kelly",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oz0rxxhvfnjrsc1zdsdc"
+    },
+    {
+      "id": "00-0039843",
+      "name": "Qadir Ismail",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j8bnryrjhs5ojoxmeson"
+    },
+    {
+      "id": "00-0034407",
+      "name": "Ray-Ray McCloud",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nvwn3sdihyyd2itjt7vy"
+    },
+    {
+      "id": "00-0040167",
+      "name": "Ruben Hyppolite II",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vnw1vo7so5m4xfhhckc4"
+    },
+    {
+      "id": "00-0036020",
+      "name": "Salvon Ahmed",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nbqkon8x1bkphihywnkw"
+    },
+    {
+      "id": "00-0035298",
+      "name": "Scott Miller",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mlx2xhjvzt6pqwgoloqa"
+    },
+    {
+      "id": "00-0040741",
+      "name": "Shemar Turner",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gj6rxglwrkzwgvvq0z1q"
+    },
+    {
+      "id": "00-0041265",
+      "name": "Squirrel White",
+      "position": "WR"
+    },
+    {
+      "id": "00-0035039",
+      "name": "Stephen Carlson",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i54p7n9yfpyytifzv7rz"
+    },
+    {
+      "id": "00-0038395",
+      "name": "Terell Smith",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/azhrgsawgwgxed3z2dke"
+    },
+    {
+      "id": "00-0036634",
+      "name": "Tony Fields II",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dwjp5xpbs6yiekcfjxkx"
+    },
+    {
+      "id": "00-0041408",
+      "name": "Wayne Matthews II",
+      "position": "LB"
+    },
+    {
+      "id": "00-0041300",
+      "name": "William Wright",
+      "position": "DB"
+    }
+  ],
   "players": [
     {
       "id": "00-0035647",
@@ -3675,7 +3893,7 @@
       "college": "Georgia Tech; Penn State; Iowa Western CC",
       "depth_position": "LDT",
       "depth_slot": "2",
-      "depth_rank": 3,
+      "depth_rank": 4,
       "depth_order": 24,
       "stats": {},
       "weekly_stats": [],
@@ -6338,142 +6556,6 @@
       ]
     },
     {
-      "id": "00-0035357",
-      "name": "Cam Lewis",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "21",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/daximpzohtbyuaxvak82",
-      "height": "69",
-      "weight": "185",
-      "experience": "7",
-      "college": "Buffalo",
-      "depth_position": "FS",
-      "depth_slot": "10",
-      "depth_rank": 1,
-      "depth_order": 21,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "chi",
-            "name": "Chicago Bears",
-            "abbreviation": "CHI",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-            "colors": {
-              "primary": "#0B162A",
-              "secondary": "#C83803"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "MIA",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "NO",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "NE",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "MIA",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "PIT",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "CIN",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "NE",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "PHI",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 20,
-              "opponent": "DEN",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-            "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0033579",
       "name": "Xavier Woods",
       "position": "DB",
@@ -6486,7 +6568,7 @@
       "college": "Louisiana Tech",
       "depth_position": "FS",
       "depth_slot": "10",
-      "depth_rank": 2,
+      "depth_rank": 1,
       "depth_order": 21,
       "stats": {},
       "weekly_stats": [],
@@ -6593,7 +6675,7 @@
       "college": "Oregon State",
       "depth_position": "FS",
       "depth_slot": "10",
-      "depth_rank": 3,
+      "depth_rank": 2,
       "depth_order": 21,
       "stats": {},
       "weekly_stats": [],
@@ -6628,7 +6710,7 @@
       "college": "Cincinnati",
       "depth_position": "FS",
       "depth_slot": "10",
-      "depth_rank": 4,
+      "depth_rank": 3,
       "depth_order": 21,
       "stats": {},
       "weekly_stats": [],
@@ -6767,6 +6849,142 @@
       ]
     },
     {
+      "id": "00-0035357",
+      "name": "Cam Lewis",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "21",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/daximpzohtbyuaxvak82",
+      "height": "69",
+      "weight": "185",
+      "experience": "7",
+      "college": "Buffalo",
+      "depth_position": "NB",
+      "depth_slot": "12",
+      "depth_rank": 1,
+      "depth_order": 34,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "DEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0037129",
       "name": "Josh Blackwell",
       "position": "DB",
@@ -6779,7 +6997,7 @@
       "college": "Duke",
       "depth_position": "NB",
       "depth_slot": "12",
-      "depth_rank": 1,
+      "depth_rank": 2,
       "depth_order": 34,
       "stats": {},
       "weekly_stats": [],
@@ -7700,7 +7918,7 @@
       "college": "Iowa",
       "depth_position": "TE",
       "depth_slot": "10",
-      "depth_rank": 4,
+      "depth_rank": 5,
       "depth_order": 7,
       "stats": {},
       "weekly_stats": [],

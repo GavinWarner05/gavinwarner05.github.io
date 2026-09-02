@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "mia",
@@ -2589,6 +2589,255 @@
       "detail": "Leg"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0036114",
+      "name": "A.J. Green",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rnqbv20uhrx6lstzvmq7"
+    },
+    {
+      "id": "00-0040302",
+      "name": "A.J. Henning",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ijwatff81qf3jmikcryt"
+    },
+    {
+      "id": "00-0038646",
+      "name": "Alex Austin",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xhouenbvagbqn4jbbtge"
+    },
+    {
+      "id": "00-0040304",
+      "name": "Alex Huntley",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lklrawhwiya702se4gox"
+    },
+    {
+      "id": "00-0038809",
+      "name": "Ben Sims",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rigksrncrdjmbhvfuclp"
+    },
+    {
+      "id": "00-0040222",
+      "name": "Cam Miller",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cmxq5676dl7nfub07rao"
+    },
+    {
+      "id": "00-0041596",
+      "name": "Cam Rice",
+      "position": "DL"
+    },
+    {
+      "id": "00-0040573",
+      "name": "Cam Riley",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qajlmqbyhiu2s0x5zzfq"
+    },
+    {
+      "id": "00-0038930",
+      "name": "Carlos Washington",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oc9zhtjhrxq5vxr1qkak"
+    },
+    {
+      "id": "00-0039004",
+      "name": "Carter Warren",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tatbe1k9y37qwi63q3yp"
+    },
+    {
+      "id": "00-0035692",
+      "name": "Clelin Ferrell",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rit24n5qbvlrxdv6w9fq"
+    },
+    {
+      "id": "00-0037078",
+      "name": "Cole Turner",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tuoxojttzngaook6qbde"
+    },
+    {
+      "id": "00-0041165",
+      "name": "Coleman Bennett",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mxu81fxs1x2xeb2pn0ws"
+    },
+    {
+      "id": "00-0037549",
+      "name": "Darrell Baker Jr.",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qz4bicahmuowtpiesehf"
+    },
+    {
+      "id": "00-0041158",
+      "name": "Donaven McCulley",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d7yo77hsgi95onh27mt7"
+    },
+    {
+      "id": "00-0040400",
+      "name": "Donovan Edwards",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nr08xtjdchspkv4kkczm"
+    },
+    {
+      "id": "00-0038684",
+      "name": "Ethan Bonner",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zfylu04usdezofligghl"
+    },
+    {
+      "id": "00-0041207",
+      "name": "Ethan Conner",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hmabu7fiufpd0w5bn0o1"
+    },
+    {
+      "id": "00-0040403",
+      "name": "Fatorma Mulbah",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cdcxg1ix3fsyexhwwjdo"
+    },
+    {
+      "id": "00-0039262",
+      "name": "Gottlieb Ayedze",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/djqq8oxg6w2nllo5frh3"
+    },
+    {
+      "id": "00-0040808",
+      "name": "Jaheim Thomas",
+      "position": "LB"
+    },
+    {
+      "id": "00-0041514",
+      "name": "Jai'Onte' McMillan",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mfuo1vpaqrnlwq1jzrx4"
+    },
+    {
+      "id": "00-0036387",
+      "name": "Jalen Reagor",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r55ywr41a014zd9zmvc1"
+    },
+    {
+      "id": "00-0040692",
+      "name": "Jarquez Hunter",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pqqxp2q7mkpnqbahu25c"
+    },
+    {
+      "id": "00-0041566",
+      "name": "Jeremiah Franklin",
+      "position": "TE"
+    },
+    {
+      "id": "00-0040307",
+      "name": "Josh Priebe",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z8bgbhmsahpeyrozqgpi"
+    },
+    {
+      "id": "00-0040127",
+      "name": "Kenneth Grant",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/toglmqxy3ymqzkcef11y"
+    },
+    {
+      "id": "00-0041137",
+      "name": "Kevin Cline",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fbb9hzryqz5xyfm4b2kj"
+    },
+    {
+      "id": "00-0041161",
+      "name": "Le'Veon Moss",
+      "position": "RB"
+    },
+    {
+      "id": "00-0041160",
+      "name": "Louis Moore",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xpjh2oupwazqhbmvbk2b"
+    },
+    {
+      "id": "00-0040268",
+      "name": "Major Burns",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vhrh8vnf5uhvfwuogjgx"
+    },
+    {
+      "id": "00-0041156",
+      "name": "Mark Gronowski",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yqbrulccgmwxaboyy3dx"
+    },
+    {
+      "id": "00-0040442",
+      "name": "Marques Cox",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lynhjb6lsnjdwqb0oimb"
+    },
+    {
+      "id": "00-0041531",
+      "name": "Max Llewellyn",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kelqyicfaaxoabstgwrr"
+    },
+    {
+      "id": "00-0039312",
+      "name": "Miles Battle",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fzkus5rkxdqeys6rq5dn"
+    },
+    {
+      "id": "00-0041136",
+      "name": "Rene Konga",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qn7lj4k9kkklluhifocz"
+    },
+    {
+      "id": "00-0041159",
+      "name": "Rodney McGraw",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rzwunvxmj9ztdfe1xi2l"
+    },
+    {
+      "id": "00-0040054",
+      "name": "Seth Coleman-Lyles",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ab8tuoqehvauffbkqmuc"
+    },
+    {
+      "id": "00-0041473",
+      "name": "Stephen Dix Jr",
+      "position": "LB"
+    },
+    {
+      "id": "00-0039481",
+      "name": "Storm Duck",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xupbuoy2lyb6bqyjvuso"
+    },
+    {
+      "id": "00-0040311",
+      "name": "Theo Wease Jr.",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iykujtgwn2x1ymy7jdxw"
+    },
+    {
+      "id": "00-0041526",
+      "name": "Trey Moore",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kezibcnrkdwepbbkaqfq"
+    }
+  ],
   "players": [
     {
       "id": "00-0038603",
@@ -2666,6 +2915,41 @@
             "colors": {
               "primary": "#AA0000",
               "secondary": "#B3995D"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036682",
+      "name": "Malik Herring",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "90",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dnbfwozdcnftk7agxywc",
+      "height": "75",
+      "weight": "277",
+      "experience": "5",
+      "college": "Georgia",
+      "depth_position": "RDE",
+      "depth_slot": "4",
+      "depth_rank": 3,
+      "depth_order": 13,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
             }
           }
         }
@@ -2929,103 +3213,6 @@
       ]
     },
     {
-      "id": "00-0035692",
-      "name": "Clelin Ferrell",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "98",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rit24n5qbvlrxdv6w9fq",
-      "height": "76",
-      "weight": "265",
-      "experience": "7",
-      "college": "Clemson",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "mia",
-            "name": "Miami Dolphins",
-            "abbreviation": "MIA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-            "colors": {
-              "primary": "#008E97",
-              "secondary": "#FC4C02"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 5,
-              "opponent": "WAS",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "NYG",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "CLE",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 19,
-              "opponent": "PHI",
-              "stats": {}
-            },
-            {
-              "week": 20,
-              "opponent": "SEA",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "sf",
-            "name": "San Francisco 49ers",
-            "abbreviation": "SF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
-            "colors": {
-              "primary": "#AA0000",
-              "secondary": "#B3995D"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0040175",
       "name": "Jordan Phillips",
       "position": "DL",
@@ -3129,37 +3316,6 @@
               "stats": {}
             }
           ],
-          "team": {
-            "id": "mia",
-            "name": "Miami Dolphins",
-            "abbreviation": "MIA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-            "colors": {
-              "primary": "#008E97",
-              "secondary": "#FC4C02"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041531",
-      "name": "Max Llewellyn",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "57",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kelqyicfaaxoabstgwrr",
-      "height": "77",
-      "weight": "258",
-      "experience": "0",
-      "college": "Iowa",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
           "team": {
             "id": "mia",
             "name": "Miami Dolphins",
@@ -3961,6 +4117,41 @@
       ]
     },
     {
+      "id": "00-0039832",
+      "name": "Jarrett Kingston",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "62",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kxvhcqmyotwpjaphrtvw",
+      "height": "76",
+      "weight": "302",
+      "experience": "2",
+      "college": "USC; Washington State",
+      "depth_position": "LG",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 3,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0036171",
       "name": "Aaron Brewer",
       "position": "OL",
@@ -4285,16 +4476,19 @@
       ]
     },
     {
-      "id": "00-0040307",
-      "name": "Josh Priebe",
+      "id": "00-0039174",
+      "name": "Chukwuebuka Godrick",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "68",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z8bgbhmsahpeyrozqgpi",
+      "number": "79",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/smipbrnexnhyh7q302gv",
       "height": "77",
-      "weight": "306",
-      "experience": "1",
-      "college": "Michigan; Northwestern",
+      "weight": "293",
+      "experience": "3",
+      "depth_position": "RT",
+      "depth_slot": "7",
+      "depth_rank": 3,
+      "depth_order": 6,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -4312,35 +4506,35 @@
               "secondary": "#FC4C02"
             }
           }
-        }
-      ]
-    },
-    {
-      "id": "00-0040442",
-      "name": "Marques Cox",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "70",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lynhjb6lsnjdwqb0oimb",
-      "height": "77",
-      "weight": "311",
-      "experience": "1",
-      "college": "Kentucky; Northern Illinois",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
+        },
         {
-          "season": 2026,
+          "season": 2025,
           "stats": {},
-          "weekly_stats": [],
+          "weekly_stats": [
+            {
+              "week": 15,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "LV",
+              "stats": {}
+            }
+          ],
           "team": {
-            "id": "mia",
-            "name": "Miami Dolphins",
-            "abbreviation": "MIA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
             "colors": {
-              "primary": "#008E97",
-              "secondary": "#FC4C02"
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
             }
           }
         }
@@ -4458,7 +4652,7 @@
       "name": "Kyle McCord",
       "position": "QB",
       "group": "Quarterbacks",
-      "number": "18",
+      "number": "14",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/smdh2mmu457aammcblth",
       "height": "75",
       "weight": "220",
@@ -4483,6 +4677,120 @@
             "colors": {
               "primary": "#008E97",
               "secondary": "#FC4C02"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040398",
+      "name": "Brady Cook",
+      "position": "QB",
+      "group": "Quarterbacks",
+      "number": "15",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sk8u7zzg7e3t4vu7xesg",
+      "height": "74",
+      "weight": "215",
+      "experience": "1",
+      "college": "Missouri",
+      "depth_position": "QB",
+      "depth_slot": "9",
+      "depth_rank": 3,
+      "depth_order": 8,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "completions": 88,
+            "attempts": 153,
+            "passing_yards": 739,
+            "carries": 13,
+            "passing_tds": 2,
+            "rushing_yards": 49
+          },
+          "weekly_stats": [
+            {
+              "week": 14,
+              "opponent": "MIA",
+              "stats": {
+                "completions": 14,
+                "attempts": 30,
+                "passing_yards": 163,
+                "carries": 1
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "JAX",
+              "stats": {
+                "completions": 22,
+                "attempts": 33,
+                "passing_yards": 176,
+                "passing_tds": 1,
+                "carries": 6,
+                "rushing_yards": 39
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NO",
+              "stats": {
+                "completions": 22,
+                "attempts": 35,
+                "passing_yards": 188,
+                "carries": 1,
+                "rushing_yards": 2
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "NE",
+              "stats": {
+                "completions": 19,
+                "attempts": 33,
+                "passing_yards": 152,
+                "carries": 2,
+                "rushing_yards": 1
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "BUF",
+              "stats": {
+                "completions": 11,
+                "attempts": 22,
+                "passing_yards": 60,
+                "passing_tds": 1,
+                "carries": 3,
+                "rushing_yards": 7
+              }
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
             }
           }
         }
@@ -5304,6 +5612,41 @@
       ]
     },
     {
+      "id": "00-0039390",
+      "name": "Marcellas Dial Jr.",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "24",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f7gahvkgajai22d7ndqh",
+      "height": "72",
+      "weight": "195",
+      "experience": "2",
+      "college": "South Carolina; Georgia Military",
+      "depth_position": "RCB",
+      "depth_slot": "11",
+      "depth_rank": 2,
+      "depth_order": 19,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0040182",
       "name": "Dante Trader Jr.",
       "position": "DB",
@@ -5575,6 +5918,41 @@
       ]
     },
     {
+      "id": "00-0039532",
+      "name": "Julius Wood",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "21",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e50jl0exy2q6atfsh34o",
+      "height": "73",
+      "weight": "194",
+      "experience": "2",
+      "college": "East Carolina; Blinn College",
+      "depth_position": "FS",
+      "depth_slot": "10",
+      "depth_rank": 3,
+      "depth_order": 21,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0041533",
       "name": "Chris Johnson",
       "position": "DB",
@@ -5610,68 +5988,20 @@
       ]
     },
     {
-      "id": "00-0036114",
-      "name": "A.J. Green",
+      "id": "00-0038521",
+      "name": "Reese Taylor",
       "position": "DB",
       "group": "Safeties",
-      "number": "24",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rnqbv20uhrx6lstzvmq7",
-      "height": "74",
-      "weight": "185",
-      "experience": "6",
-      "college": "Oklahoma State",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "mia",
-            "name": "Miami Dolphins",
-            "abbreviation": "MIA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-            "colors": {
-              "primary": "#008E97",
-              "secondary": "#FC4C02"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 16,
-              "opponent": "CIN",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "mia",
-            "name": "Miami Dolphins",
-            "abbreviation": "MIA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-            "colors": {
-              "primary": "#008E97",
-              "secondary": "#FC4C02"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038684",
-      "name": "Ethan Bonner",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "27",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zfylu04usdezofligghl",
-      "height": "73",
+      "number": "35",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sgzl6u9ggxuea9qcbveg",
+      "height": "69",
       "weight": "190",
       "experience": "3",
-      "college": "Stanford",
+      "college": "Purdue",
+      "depth_position": "NB",
+      "depth_slot": "12",
+      "depth_rank": 2,
+      "depth_order": 34,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -5692,71 +6022,27 @@
         },
         {
           "season": 2025,
-          "stats": {
-            "def_interceptions": 1
-          },
+          "stats": {},
           "weekly_stats": [
             {
-              "week": 5,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "CLE",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 11,
+              "week": 13,
               "opponent": "WAS",
               "stats": {}
             },
             {
-              "week": 13,
-              "opponent": "NO",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "NYJ",
-              "stats": {
-                "def_interceptions": 1
-              }
-            },
-            {
-              "week": 18,
-              "opponent": "NE",
+              "week": 17,
+              "opponent": "KC",
               "stats": {}
             }
           ],
           "team": {
-            "id": "mia",
-            "name": "Miami Dolphins",
-            "abbreviation": "MIA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
             "colors": {
-              "primary": "#008E97",
-              "secondary": "#FC4C02"
+              "primary": "#FB4F14",
+              "secondary": "#002244"
             }
           }
         }
@@ -6277,16 +6563,20 @@
       ]
     },
     {
-      "id": "00-0038809",
-      "name": "Ben Sims",
+      "id": "00-0041077",
+      "name": "Justin Joly",
       "position": "TE",
       "group": "Tight Ends",
-      "number": "89",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rigksrncrdjmbhvfuclp",
-      "height": "77",
-      "weight": "258",
-      "experience": "3",
-      "college": "Baylor",
+      "number": "80",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vglffv5obtvktndulobu",
+      "height": "75",
+      "weight": "241",
+      "experience": "0",
+      "college": "N.C. State; Connecticut",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 4,
+      "depth_order": 7,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -6302,53 +6592,6 @@
             "colors": {
               "primary": "#008E97",
               "secondary": "#FC4C02"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "targets": 6,
-            "receptions": 3,
-            "receiving_yards": 30
-          },
-          "weekly_stats": [
-            {
-              "week": 14,
-              "opponent": "WAS",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 9
-              }
-            },
-            {
-              "week": 17,
-              "opponent": "DET",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 3
-              }
-            },
-            {
-              "week": 18,
-              "opponent": "GB",
-              "stats": {
-                "targets": 4,
-                "receptions": 1,
-                "receiving_yards": 18
-              }
-            }
-          ],
-          "team": {
-            "id": "min",
-            "name": "Minnesota Vikings",
-            "abbreviation": "MIN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-            "colors": {
-              "primary": "#4F2683",
-              "secondary": "#2C1646"
             }
           }
         }
@@ -6942,37 +7185,6 @@
       "depth_slot": "4",
       "depth_rank": 2,
       "depth_order": 76,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "mia",
-            "name": "Miami Dolphins",
-            "abbreviation": "MIA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-            "colors": {
-              "primary": "#008E97",
-              "secondary": "#FC4C02"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0040302",
-      "name": "A.J. Henning",
-      "position": "WR",
-      "group": "Wide Receivers",
-      "number": "88",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ijwatff81qf3jmikcryt",
-      "height": "70",
-      "weight": "192",
-      "experience": "1",
-      "college": "Northwestern; Michigan",
       "stats": {},
       "weekly_stats": [],
       "seasons": [

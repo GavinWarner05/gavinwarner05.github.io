@@ -24,6 +24,7 @@
   };
   const requestedFilter = new URLSearchParams(window.location.search).get("view");
   const state = { data: null, filter: ["yesterday", "today", "upcoming", "live", "final"].includes(requestedFilter) ? requestedFilter : "today", weekKey: null };
+  const teamDataCache = new Map();
   const favoritesStorageKey = "sports-center:favorite-teams:v1";
   const labels = { yesterday: "Yesterday", today: "Today", upcoming: "Upcoming", live: "Live", final: "Final" };
   const jerseyHexVariants = {
@@ -133,6 +134,15 @@
     const value = parseInt(hex.slice(1), 16);
     const channel = (shift) => Math.max(0, Math.round(((value >> shift) & 255) * (1 - amount))).toString(16).padStart(2, "0");
     return "#" + channel(16) + channel(8) + channel(0);
+  }
+
+  function brighterTeamColor(team) {
+    const colors = [team.colors.primary, team.colors.secondary].filter((color) => /^#[0-9a-f]{6}$/i.test(color || ""));
+    const brightness = (hex) => {
+      const value = parseInt(hex.slice(1), 16);
+      return .2126 * ((value >> 16) & 255) + .7152 * ((value >> 8) & 255) + .0722 * (value & 255);
+    };
+    return colors.sort((a, b) => brightness(b) - brightness(a))[0] || "#c4b5fd";
   }
 
   function jerseyGradient(team, jersey) {
@@ -327,6 +337,7 @@
     wrap.className = "detail-team";
     wrap.href = app.dataset.teamBaseUrl + team.id + "/";
     wrap.setAttribute("aria-label", "View " + team.name + " team page");
+    wrap.style.setProperty("--detail-team-accent", brighterTeamColor(team));
     wrap.append(logo(team, true, jersey), text("strong", team.name), text("span", team.record || ""));
     return wrap;
   }
@@ -345,6 +356,38 @@
     return "is-other";
   }
 
+  function normalizedPlayerName(value) {
+    return String(value || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+  }
+
+  function enrichInjuryPlayers(group, team, rows) {
+    if (!team || !app.dataset.teamDataBaseUrl || !app.dataset.playerUrl) return;
+    if (!teamDataCache.has(team.id)) {
+      teamDataCache.set(team.id, fetch(app.dataset.teamDataBaseUrl + encodeURIComponent(team.id) + ".json", { headers: { Accept: "application/json" }, cache: "no-cache" })
+        .then((response) => response.ok ? response.json() : null).catch(() => null));
+    }
+    teamDataCache.get(team.id).then((data) => {
+      if (!data || !Array.isArray(data.players) || !group.isConnected) return;
+      const availablePlayers = (data.injury_players || []).concat(data.players);
+      const players = new Map(availablePlayers.map((player) => [normalizedPlayerName(player.name), player]));
+      rows.forEach((entry) => {
+        const matched = players.get(normalizedPlayerName(entry.injury.player));
+        if (!matched) return;
+        const link = document.createElement("a");
+        link.className = "detail-injury-player-link";
+        link.href = app.dataset.playerUrl + "?view=player-v2&team=" + encodeURIComponent(team.id) + "&id=" + encodeURIComponent(matched.id);
+        if (matched.headshot_url) {
+          const image = document.createElement("img");
+          image.className = "detail-injury-player-image"; image.src = matched.headshot_url; image.alt = ""; image.loading = "lazy";
+          image.addEventListener("error", function () { image.remove(); }, { once: true });
+          link.append(image);
+        }
+        link.append(entry.copy);
+        entry.identity.replaceWith(link);
+      });
+    });
+  }
+
   function injuryReport(game) {
     const injuries = game.injuries || [];
     if (!injuries.length) return null;
@@ -360,22 +403,40 @@
       groups.get(name).push(injury);
     });
     groups.forEach((players, teamName) => {
+      const injuryTeam = [game.away_team, game.home_team].find((team) => team.name === teamName);
       const group = document.createElement("section");
       group.className = "detail-injury-team";
+      if (injuryTeam) {
+        group.style.setProperty("--injury-team-gradient", "linear-gradient(135deg," + injuryTeam.colors.primary + "," + injuryTeam.colors.secondary + ")");
+      }
       const heading = document.createElement("div");
       heading.className = "detail-injury-team-heading";
-      heading.append(text("strong", teamName), text("span", players.length + " listed"));
+      const identity = document.createElement("div");
+      identity.className = "detail-injury-team-identity";
+      if (injuryTeam) {
+        const teamMark = logo(injuryTeam, false);
+        teamMark.classList.add("detail-injury-team-logo");
+        identity.append(teamMark);
+      }
+      identity.append(text("strong", teamName));
+      heading.append(identity, text("span", players.length + " listed"));
       group.append(heading);
+      const injuryRows = [];
       players.forEach((injury) => {
         const row = document.createElement("div");
         row.className = "detail-injury-row";
         const player = document.createElement("div");
-        player.append(text("strong", injury.player), text("span", injury.detail || "No injury detail", "detail-injury-detail"));
+        player.className = "detail-injury-player";
+        const playerCopy = document.createElement("div");
+        playerCopy.append(text("strong", injury.player), text("span", injury.detail || "No injury detail", "detail-injury-detail"));
+        player.append(playerCopy);
         const badge = text("span", injury.status || "Listed", "detail-injury-status " + injuryStatusClass(injury.status));
         row.append(player, badge);
         group.append(row);
+        injuryRows.push({ injury: injury, identity: player, copy: playerCopy });
       });
       report.append(group);
+      enrichInjuryPlayers(group, injuryTeam, injuryRows);
     });
     return report;
   }

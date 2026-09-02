@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "lac",
@@ -2038,6 +2038,217 @@
       "detail": "Undisclosed"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0040039",
+      "name": "Amar Johnson",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qw1s7luuaia2f08p19aq"
+    },
+    {
+      "id": "00-0038801",
+      "name": "Andre Carter II",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wcegripe6c8koovd8htl"
+    },
+    {
+      "id": "00-0040212",
+      "name": "Branson Taylor",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/whkbfekfv5pcrjbw2fz2"
+    },
+    {
+      "id": "00-0040464",
+      "name": "DJ Uiagalelei",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uxkbvrw5eu41udzsesnu"
+    },
+    {
+      "id": "00-0040629",
+      "name": "Dalevon Campbell",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dgfltlpm8wahq2trfxag"
+    },
+    {
+      "id": "00-0041377",
+      "name": "Devin Grant",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uh66ghedjdrq7bvytwtq"
+    },
+    {
+      "id": "00-0041380",
+      "name": "Devonte Ross",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i8hp6pqdc82lefdkdhi1"
+    },
+    {
+      "id": "00-0039526",
+      "name": "Emany Johnson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ayhafrtzrkshrbiwt0j9"
+    },
+    {
+      "id": "00-0040468",
+      "name": "Eric Rogers",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ccidyckbso3w7ypjfij2"
+    },
+    {
+      "id": "00-0041384",
+      "name": "Evan Svoboda",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oiypi2ljtijzyh5mpi3f"
+    },
+    {
+      "id": "00-0040472",
+      "name": "Garmon Randolph",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tacteeggw794fusmsq32"
+    },
+    {
+      "id": "00-0035589",
+      "name": "Gary Jennings",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/kfmi1ueidfxfixmaggov"
+    },
+    {
+      "id": "00-0041376",
+      "name": "Gregory Desrosiers",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/serg5wdxgoemdropu4vs"
+    },
+    {
+      "id": "00-0041387",
+      "name": "Isaiah World",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/owat1mlzs6ozrpqa1jfo"
+    },
+    {
+      "id": "00-0040065",
+      "name": "Isas Waxter",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t95edoropxwx1zlmwt9m"
+    },
+    {
+      "id": "00-0039722",
+      "name": "JaQuae Jackson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wvxmupkflng8vn8bcjzj"
+    },
+    {
+      "id": "00-0041378",
+      "name": "Jacobian Guillory",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tpek1xmrgperrhkn46n3"
+    },
+    {
+      "id": "00-0041375",
+      "name": "Jahmeer Carter",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f4yaadlyfhuy3ubcx4bj"
+    },
+    {
+      "id": "00-0041373",
+      "name": "Jerand Bradley",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gjezjgrsmkngjzofmsu9"
+    },
+    {
+      "id": "00-0041452",
+      "name": "Johnny Pascuzzi",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rdczeascod0gltx8lbst"
+    },
+    {
+      "id": "00-0040467",
+      "name": "Josh Kaltenberger",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yrqrzkdqrkcftqx9f581"
+    },
+    {
+      "id": "00-0039346",
+      "name": "Junior Colson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ub3hkpifora1vkrgula4"
+    },
+    {
+      "id": "00-0040161",
+      "name": "Kyle Kennard",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/enodzm0fwoad2afpbuns"
+    },
+    {
+      "id": "00-0039932",
+      "name": "Laekin Vakalahi",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z1maog4gsfzgtg69tgur"
+    },
+    {
+      "id": "00-0041372",
+      "name": "Lander Barton",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hqmemqmhk4bnpdaynlf3"
+    },
+    {
+      "id": "00-0041571",
+      "name": "Liam Clifford",
+      "position": "WR"
+    },
+    {
+      "id": "00-0040473",
+      "name": "Myles Purchase",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uxkfbbm77urszedpjbxd"
+    },
+    {
+      "id": "00-0041385",
+      "name": "Nadame Tucker",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tq22imtngjpu2fn8su5g"
+    },
+    {
+      "id": "00-0040471",
+      "name": "Nikko Reed",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kwrqouczwfh7xtyhlzgl"
+    },
+    {
+      "id": "00-0041371",
+      "name": "Noah Avinger",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wwgamb8sy49qhna4amcj"
+    },
+    {
+      "id": "00-0039268",
+      "name": "Peter Bowden",
+      "position": "LS",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b3iznql1penceotrgne5"
+    },
+    {
+      "id": "00-0038614",
+      "name": "Scott Matlock",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/biif35k2hwpqmhlxn0sa"
+    },
+    {
+      "id": "00-0041374",
+      "name": "Sincere Brown",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tczbze6iof5vyvxp9omu"
+    },
+    {
+      "id": "00-0041386",
+      "name": "Terry Webb",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eqjhmsh9desuuzsaemrj"
+    },
+    {
+      "id": "00-0036376",
+      "name": "Tyler Biadasz",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/svoue4oh6lyx1ykgavgv"
+    }
+  ],
   "players": [
     {
       "id": "00-0036181",
@@ -2839,107 +3050,6 @@
       ]
     },
     {
-      "id": "00-0032103",
-      "name": "Denzel Perryman",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "6",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n3oqbsrycbe0nwdwblez",
-      "height": "71",
-      "weight": "240",
-      "experience": "11",
-      "college": "Miami",
-      "depth_position": "RILB",
-      "depth_slot": "6",
-      "depth_rank": 1,
-      "depth_order": 16,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "lac",
-            "name": "Los Angeles Chargers",
-            "abbreviation": "LAC",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
-            "colors": {
-              "primary": "#0080C6",
-              "secondary": "#FFC20E"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 7,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "MIN",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "PIT",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "LV",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "PHI",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 19,
-              "opponent": "NE",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "lac",
-            "name": "Los Angeles Chargers",
-            "abbreviation": "LAC",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
-            "colors": {
-              "primary": "#0080C6",
-              "secondary": "#FFC20E"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0036338",
       "name": "Troy Dye",
       "position": "LB",
@@ -2952,7 +3062,7 @@
       "college": "Oregon",
       "depth_position": "RILB",
       "depth_slot": "6",
-      "depth_rank": 2,
+      "depth_rank": 1,
       "depth_order": 16,
       "stats": {},
       "weekly_stats": [],
@@ -3083,7 +3193,7 @@
       "college": "Illinois",
       "depth_position": "RILB",
       "depth_slot": "6",
-      "depth_rank": 3,
+      "depth_rank": 2,
       "depth_order": 16,
       "stats": {},
       "weekly_stats": [],
@@ -3170,6 +3280,107 @@
             {
               "week": 18,
               "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0032103",
+      "name": "Denzel Perryman",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "6",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n3oqbsrycbe0nwdwblez",
+      "height": "71",
+      "weight": "240",
+      "experience": "11",
+      "college": "Miami",
+      "depth_position": "RILB",
+      "depth_slot": "6",
+      "depth_rank": 3,
+      "depth_order": 16,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 7,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "DAL",
               "stats": {}
             },
             {

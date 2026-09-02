@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "tb",
@@ -2020,6 +2020,233 @@
       "detail": "Shoulder - AC Joint"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0038748",
+      "name": "B.T. Potter",
+      "position": "K",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gmtlr2dtch6dbfxj7vdt"
+    },
+    {
+      "id": "00-0041595",
+      "name": "Barika Kpeenu",
+      "position": "RB"
+    },
+    {
+      "id": "00-0040427",
+      "name": "Ben Scott",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lba5w8sd97sjg6hslk5z"
+    },
+    {
+      "id": "00-0039902",
+      "name": "Chris Braswell",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkta07rjtsatr1mmbvoj"
+    },
+    {
+      "id": "00-0040415",
+      "name": "Connor Bazelak",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q3vgg2tiyhwnbnwpuc7o"
+    },
+    {
+      "id": "00-0035359",
+      "name": "David Sills",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/g0jd9yaq2yhw05ktamlh"
+    },
+    {
+      "id": "00-0041435",
+      "name": "Dean Patterson IV",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kgjiwlmhmxnygppjzmph"
+    },
+    {
+      "id": "00-0037570",
+      "name": "Dennis Houston",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mrysbvm2hmsouvdwti9w"
+    },
+    {
+      "id": "00-0041339",
+      "name": "Deshawn McKnight",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wwxzxeb9vkkks5gehjiv"
+    },
+    {
+      "id": "00-0039754",
+      "name": "Devin Culp",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e32gorf12yuyy6iyijt9"
+    },
+    {
+      "id": "00-0035282",
+      "name": "Easton Stick",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rspxeh6kxzfr7ftkcywh"
+    },
+    {
+      "id": "00-0039411",
+      "name": "Elijah Klein",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lh6e9de7kp7jll2mgkud"
+    },
+    {
+      "id": "00-0041257",
+      "name": "Eric Rivers Jr.",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/goritmogduir5z46j8v1"
+    },
+    {
+      "id": "00-0040419",
+      "name": "Garrett Greene",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ryxqb4ioarar7jduttfu"
+    },
+    {
+      "id": "00-0041255",
+      "name": "Henry Lutovsky",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cctn8p66br2fainucxk3"
+    },
+    {
+      "id": "00-0036993",
+      "name": "Ifeatu Melifonwu",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ftt7jc1nr0hmf1xmzyh2"
+    },
+    {
+      "id": "00-0040425",
+      "name": "JJ Roberts",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bgwp7cyxeadn8uzkyitj"
+    },
+    {
+      "id": "00-0041424",
+      "name": "Javin Wright",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fh2wh6vdhruwdgevzlbr"
+    },
+    {
+      "id": "00-0040105",
+      "name": "Jayson Jones",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i5gbqapwffbs1dez8ami"
+    },
+    {
+      "id": "00-0039392",
+      "name": "Jha'Quan Jackson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xzqucxk9wawtcmyocqr9"
+    },
+    {
+      "id": "00-0040416",
+      "name": "John Bullock",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s1k4zct0clpt2rup9s0r"
+    },
+    {
+      "id": "00-0039051",
+      "name": "Josh Hayes",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qytktb1ertsh8rzwq08k"
+    },
+    {
+      "id": "00-0040429",
+      "name": "Josh Williams",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c2zxbiz8153usfggosvv"
+    },
+    {
+      "id": "00-0041254",
+      "name": "Josiah Green",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iwx5ia2fgf7fafimf4ls"
+    },
+    {
+      "id": "00-0041252",
+      "name": "Kenny Fletcher Jr.",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkvuyl1uu3e21tet01iz"
+    },
+    {
+      "id": "00-0040349",
+      "name": "Marshall Foerner",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nkpnrika58h6vpwj9fi7"
+    },
+    {
+      "id": "00-0041599",
+      "name": "Matthew Henry",
+      "position": "WR"
+    },
+    {
+      "id": "00-0039877",
+      "name": "Mohamed Kamara",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eejqngskhpqk7dalz9cq"
+    },
+    {
+      "id": "00-0040420",
+      "name": "Nash Hutmacher",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c86vhmlp4y152bbgy8jw"
+    },
+    {
+      "id": "00-0040625",
+      "name": "Nick Jackson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v70vlurxo9qr6hv1ehsy"
+    },
+    {
+      "id": "00-0041583",
+      "name": "Paul Rubelt",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nhfkvrykdx4zk8wkek5b"
+    },
+    {
+      "id": "00-0037984",
+      "name": "Pepe Williams",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vmakhsdcrjdtw0psgslj"
+    },
+    {
+      "id": "00-0039596",
+      "name": "Rashad Wisdom",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqseximyfbxl2h4bqxyw"
+    },
+    {
+      "id": "00-0040319",
+      "name": "Robert McDaniel",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wcffl9rrsuj9xvhiqr8f"
+    },
+    {
+      "id": "00-0040423",
+      "name": "Roman Parodie",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h2y6lewccwsex4pqvx6s"
+    },
+    {
+      "id": "00-0041500",
+      "name": "Travis Shaw",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/af1z7kzxhrg5vlmz3ic7"
+    },
+    {
+      "id": "00-0041592",
+      "name": "Xavier Williams",
+      "position": "DB"
+    },
+    {
+      "id": "00-0041434",
+      "name": "Yasir Holmes",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ixyolsbhodr71dqhnacb"
+    }
+  ],
   "players": [
     {
       "id": "00-0040183",
@@ -2928,41 +3155,6 @@
       ]
     },
     {
-      "id": "00-0041338",
-      "name": "Caden Fordham",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "46",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/syo5se7gt7lavlfxp3fl",
-      "height": "73",
-      "weight": "238",
-      "experience": "0",
-      "college": "N.C. State",
-      "depth_position": "LILB",
-      "depth_slot": "5",
-      "depth_rank": 3,
-      "depth_order": 15,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "tb",
-            "name": "Tampa Bay Buccaneers",
-            "abbreviation": "TB",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
-            "colors": {
-              "primary": "#D50A0A",
-              "secondary": "#34302B"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0035942",
       "name": "Christian Rozeboom",
       "position": "LB",
@@ -3574,6 +3766,37 @@
             "colors": {
               "primary": "#0076B6",
               "secondary": "#123B55"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041338",
+      "name": "Caden Fordham",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "46",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/syo5se7gt7lavlfxp3fl",
+      "height": "73",
+      "weight": "238",
+      "experience": "0",
+      "college": "N.C. State",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
             }
           }
         }

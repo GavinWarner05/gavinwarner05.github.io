@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "min",
@@ -2372,6 +2372,263 @@
       "detail": "Ankle"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0030035",
+      "name": "Adam Thielen",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pv6gajxtt6zhum2unnsl"
+    },
+    {
+      "id": "00-0041431",
+      "name": "Bangally Kamara",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o2ni1w7qx6aqgqfv6heh"
+    },
+    {
+      "id": "00-0040962",
+      "name": "Bryce Phillips",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nntcmusvmsalcqhl63g9"
+    },
+    {
+      "id": "00-0040504",
+      "name": "Bryson Nesbit",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xv1e25hi4dhzfzni0gui"
+    },
+    {
+      "id": "00-0032918",
+      "name": "C.J. Ham",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/evssvutwjy6szq7dpelm"
+    },
+    {
+      "id": "00-0041353",
+      "name": "Cam'Ron Stewart",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/twtdm7vmhzc0idevxtog"
+    },
+    {
+      "id": "00-0041341",
+      "name": "Da'Veawn Armstead",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jxf34gnwnwuohqkssugv"
+    },
+    {
+      "id": "00-0041349",
+      "name": "Delby Lemieux",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ngvitclfbc5gfllo6sq3"
+    },
+    {
+      "id": "00-0041342",
+      "name": "Dillon Bell",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b9v5ex8bfoum15d8v2gf"
+    },
+    {
+      "id": "00-0040498",
+      "name": "Dontae Fleming",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z31bqmrgzn9t5wsqtqoy"
+    },
+    {
+      "id": "00-0039714",
+      "name": "Dwight McGlothern",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jwejtupyvb7lscqs46nm"
+    },
+    {
+      "id": "00-0041124",
+      "name": "Gavin Gerhardt",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/racsjeolwog7ueun0pab"
+    },
+    {
+      "id": "00-0038785",
+      "name": "Henry Byrd",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x6i8ymo7tl6o19o7pmry"
+    },
+    {
+      "id": "00-0040224",
+      "name": "Jack Nelson",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lfq3fxdznxmhx59npsyt"
+    },
+    {
+      "id": "00-0040786",
+      "name": "Jacob Roberts",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r2xg8flrjhh47j9jawx6"
+    },
+    {
+      "id": "00-0040572",
+      "name": "Jahvaree Ritzie",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wc149d02t0sbougkceuk"
+    },
+    {
+      "id": "00-0033872",
+      "name": "Jamal Adams",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/plodzh6kwjvhpo2mf3ie"
+    },
+    {
+      "id": "00-0041573",
+      "name": "Jarod Washington",
+      "position": "DB"
+    },
+    {
+      "id": "00-0036670",
+      "name": "Jermar Jefferson",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkgrgirrdwlm05vqg74b"
+    },
+    {
+      "id": "00-0039710",
+      "name": "Jeshaun Jones",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pwlziiyhd7ectylkejgc"
+    },
+    {
+      "id": "00-0037184",
+      "name": "Josh Ross",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rytixi2fpdu0efr367yj"
+    },
+    {
+      "id": "00-0040548",
+      "name": "Joshua Gray",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k6rbkmqfazi6vs3m7gnm"
+    },
+    {
+      "id": "00-0038523",
+      "name": "Kahlef Hailassie",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jfgdmued5u7dszjnao85"
+    },
+    {
+      "id": "00-0039494",
+      "name": "Kenny Dyson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ikgxg2vrumhdez3bu0w9"
+    },
+    {
+      "id": "00-0041340",
+      "name": "Marcus Allen",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fqbqj831k8dqzmrlejjx"
+    },
+    {
+      "id": "00-0041352",
+      "name": "Marcus Sanders Jr.",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zu39csnwn4ahfyvipdog"
+    },
+    {
+      "id": "00-0040060",
+      "name": "Marshall Lang",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eavb7c8qiuvtsqv3qrwe"
+    },
+    {
+      "id": "00-0041001",
+      "name": "Matt Lauter",
+      "position": "TE"
+    },
+    {
+      "id": "00-0040494",
+      "name": "Max Brosmer",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fpveluufmy7buwrhpiny"
+    },
+    {
+      "id": "00-0040970",
+      "name": "Michael Briscoe",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rrnmno7nkn0o4kilp7je"
+    },
+    {
+      "id": "00-0039419",
+      "name": "Michael Jurgens",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mnsvfstbdld5dvpfjphk"
+    },
+    {
+      "id": "00-0041432",
+      "name": "Smith Vilbert",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xjf4s0gzx6wvkccbo1mn"
+    },
+    {
+      "id": "00-0039720",
+      "name": "Taki Taimani",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xezoml4ot45e6lgvncal"
+    },
+    {
+      "id": "00-0034488",
+      "name": "Tavierre Thomas",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhnxkxxitwkhjwgf2egu"
+    },
+    {
+      "id": "00-0041481",
+      "name": "Terrill Davis",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lxbfttot7wcd80sxs54o"
+    },
+    {
+      "id": "00-0041351",
+      "name": "Tomas Rimac",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/edo1ygt7jjtde5jn7kjd"
+    },
+    {
+      "id": "00-0041475",
+      "name": "Trayvon Rudolph",
+      "position": "WR"
+    },
+    {
+      "id": "00-0038403",
+      "name": "Tre Hawkins III",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n957q4ljgtif6f9ncqfm"
+    },
+    {
+      "id": "00-0041348",
+      "name": "Tristan Leigh",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j83wdb6jj6ubxexc0e0w"
+    },
+    {
+      "id": "00-0040492",
+      "name": "Tyler Batty",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xur5y3juva1uila1vszk"
+    },
+    {
+      "id": "00-0041344",
+      "name": "Tyreek Chappell",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/itludydyhonkxtz5sebd"
+    },
+    {
+      "id": "00-0040712",
+      "name": "Vershon Lee",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yygtmj3azqkxi1est3eq"
+    },
+    {
+      "id": "00-0038440",
+      "name": "Zavier Scott",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z8sqpgdoyuv5rask15vn"
+    }
+  ],
   "players": [
     {
       "id": "00-0039421",
@@ -4064,6 +4321,41 @@
       ]
     },
     {
+      "id": "00-0039237",
+      "name": "Nick Samac",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "60",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/asndmhzpbeviehlnuxgl",
+      "height": "76",
+      "weight": "305",
+      "experience": "2",
+      "college": "Michigan State",
+      "depth_position": "C",
+      "depth_slot": "5",
+      "depth_rank": 2,
+      "depth_order": 4,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0036483",
       "name": "Will Fries",
       "position": "OL",
@@ -4121,6 +4413,41 @@
               "stats": {}
             }
           ],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039310",
+      "name": "Trevor Keegan",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "77",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/op65y3hhnmtpcdumopmt",
+      "height": "77",
+      "weight": "306",
+      "experience": "2",
+      "college": "Michigan",
+      "depth_position": "RG",
+      "depth_slot": "6",
+      "depth_rank": 2,
+      "depth_order": 5,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "min",
             "name": "Minnesota Vikings",
@@ -4630,127 +4957,6 @@
                 "attempts": 27,
                 "passing_yards": 144,
                 "passing_tds": 1
-              }
-            }
-          ],
-          "team": {
-            "id": "min",
-            "name": "Minnesota Vikings",
-            "abbreviation": "MIN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-            "colors": {
-              "primary": "#4F2683",
-              "secondary": "#2C1646"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0040494",
-      "name": "Max Brosmer",
-      "position": "QB",
-      "group": "Quarterbacks",
-      "number": "12",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fpveluufmy7buwrhpiny",
-      "height": "74",
-      "weight": "225",
-      "experience": "1",
-      "college": "Minnesota; New Hampshire",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "min",
-            "name": "Minnesota Vikings",
-            "abbreviation": "MIN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-            "colors": {
-              "primary": "#4F2683",
-              "secondary": "#2C1646"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "completions": 47,
-            "attempts": 71,
-            "passing_yards": 328,
-            "carries": 7,
-            "rushing_yards": 11
-          },
-          "weekly_stats": [
-            {
-              "week": 3,
-              "opponent": "CIN",
-              "stats": {
-                "completions": 2,
-                "attempts": 4,
-                "passing_yards": 29
-              }
-            },
-            {
-              "week": 5,
-              "opponent": "CLE",
-              "stats": {
-                "carries": 1,
-                "rushing_yards": -1
-              }
-            },
-            {
-              "week": 8,
-              "opponent": "LAC",
-              "stats": {
-                "completions": 3,
-                "attempts": 4,
-                "passing_yards": 13
-              }
-            },
-            {
-              "week": 13,
-              "opponent": "SEA",
-              "stats": {
-                "completions": 19,
-                "attempts": 30,
-                "passing_yards": 126,
-                "carries": 1,
-                "rushing_yards": -1
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "NYG",
-              "stats": {
-                "completions": 7,
-                "attempts": 9,
-                "passing_yards": 52,
-                "carries": 3,
-                "rushing_yards": -3
-              }
-            },
-            {
-              "week": 17,
-              "opponent": "DET",
-              "stats": {
-                "completions": 9,
-                "attempts": 16,
-                "passing_yards": 51,
-                "carries": 2,
-                "rushing_yards": 16
-              }
-            },
-            {
-              "week": 18,
-              "opponent": "GB",
-              "stats": {
-                "completions": 7,
-                "attempts": 8,
-                "passing_yards": 57
               }
             }
           ],
@@ -7713,37 +7919,6 @@
               "stats": {}
             }
           ],
-          "team": {
-            "id": "min",
-            "name": "Minnesota Vikings",
-            "abbreviation": "MIN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-            "colors": {
-              "primary": "#4F2683",
-              "secondary": "#2C1646"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041342",
-      "name": "Dillon Bell",
-      "position": "WR",
-      "group": "Wide Receivers",
-      "number": "89",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b9v5ex8bfoum15d8v2gf",
-      "height": "73",
-      "weight": "209",
-      "experience": "0",
-      "college": "Georgia",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
           "team": {
             "id": "min",
             "name": "Minnesota Vikings",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "gb",
@@ -2609,6 +2609,240 @@
       "player": "Collin Oliver",
       "status": "IR/PUP",
       "detail": "Undisclosed"
+    }
+  ],
+  "injury_players": [
+    {
+      "id": "00-0041355",
+      "name": "Arden Walker",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uy7hcwv07dysph9gs068"
+    },
+    {
+      "id": "00-0037364",
+      "name": "Arron Mosby",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/siq8ayl7lif3uddghbum"
+    },
+    {
+      "id": "00-0040034",
+      "name": "Brant Banks",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fgyysqdckajohxo82d6w"
+    },
+    {
+      "id": "00-0041179",
+      "name": "Chris Hilton Jr.",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x4c5gmotlioz2xynmtkw"
+    },
+    {
+      "id": "00-0040012",
+      "name": "Collin Oliver",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x4fwy10q9nxoupf37ggz"
+    },
+    {
+      "id": "00-0040083",
+      "name": "Dalton Cooper",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d0yblqhzbyrtbs2ikplp"
+    },
+    {
+      "id": "00-0040651",
+      "name": "Damien Martinez",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ys773vjsxprn6hr0mwri"
+    },
+    {
+      "id": "00-0040949",
+      "name": "Dillon Wade",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oko5pe8hch9vrmmk9gwx"
+    },
+    {
+      "id": "00-0040896",
+      "name": "Domani Jackson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xlb4gkfxenpvqhs3j4y4"
+    },
+    {
+      "id": "00-0040628",
+      "name": "Drake Dabney",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/olsiufbauh2x6pshrygm"
+    },
+    {
+      "id": "00-0040941",
+      "name": "Dylan Barrett",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmon1mexvom9l7t0ydnc"
+    },
+    {
+      "id": "00-0040558",
+      "name": "Isaiah Neyor",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kpmodyntguke9pmvxeyw"
+    },
+    {
+      "id": "00-0039402",
+      "name": "Jaden Crumedy",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xmbnm0swk4oqrrnslrn5"
+    },
+    {
+      "id": "00-0040946",
+      "name": "Jaden Nixon",
+      "position": "RB"
+    },
+    {
+      "id": "00-0039383",
+      "name": "Jaylin Simpson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xy041ns1wwk60l85kpgh"
+    },
+    {
+      "id": "00-0040033",
+      "name": "Johnathan Baldwin",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/us9ui2rbj5t4wr3wgyin"
+    },
+    {
+      "id": "00-0038506",
+      "name": "Jordon Riley",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tr46ilf5hznzboea38ag"
+    },
+    {
+      "id": "00-0040943",
+      "name": "Josh Gesky",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z88mhbcxa468vob6dc1c"
+    },
+    {
+      "id": "00-0035700",
+      "name": "Josh Jacobs",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uceokxeo0uqrqms3e3vl"
+    },
+    {
+      "id": "00-0040239",
+      "name": "Kaden Prather",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vuben0ncqttl4wjxityh"
+    },
+    {
+      "id": "00-0040616",
+      "name": "Kisean Johnson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eagyx2phlssmmdczurx3"
+    },
+    {
+      "id": "00-0036157",
+      "name": "Kristian Welch",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iqibbhzklifflirfqvoq"
+    },
+    {
+      "id": "00-0039144",
+      "name": "Luke Musgrave",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jchchyfhiycpvm5zzn2y"
+    },
+    {
+      "id": "00-0039418",
+      "name": "MJ Devonshire",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qrzh5s3kuqkluuxfpfgy"
+    },
+    {
+      "id": "00-0039488",
+      "name": "Mark Perry",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/brg1bcmlylgd5ucjiydw"
+    },
+    {
+      "id": "00-0041493",
+      "name": "Marlon Jones",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pd1gsbwhqekfnw2rk137"
+    },
+    {
+      "id": "00-0039263",
+      "name": "McCallan Castles",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r3amk2t7xokcd4rsohns"
+    },
+    {
+      "id": "00-0039275",
+      "name": "Messiah Swinson",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xmkhcrh5fbfetx1wxk2z"
+    },
+    {
+      "id": "00-0036932",
+      "name": "Micah Parsons",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/euivq1hqslszdxjo9xyr"
+    },
+    {
+      "id": "00-0040968",
+      "name": "Murvin Kenion",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vkjpef4y643t5ocedi9b"
+    },
+    {
+      "id": "00-0040944",
+      "name": "Nyjalik Kelly",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rlgk5vtxruzwzjptpjdw"
+    },
+    {
+      "id": "00-0038098",
+      "name": "Pierre Strong",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/aa0nufst85vutgor1fqv"
+    },
+    {
+      "id": "00-0040009",
+      "name": "Savion Williams",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/snmedlu4ra62snufe1qg"
+    },
+    {
+      "id": "00-0039292",
+      "name": "Shemar Bartholomew",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oehvtzmh4uhwwsfliskq"
+    },
+    {
+      "id": "00-0040947",
+      "name": "TJ Quinn",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hzdxb0jmdmqzlrrkyqfz"
+    },
+    {
+      "id": "00-0039936",
+      "name": "Thomas Yassmin",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dojmdkrk14lr14g8wr3o"
+    },
+    {
+      "id": "00-0039959",
+      "name": "Tra Fluellen",
+      "position": "DB"
+    },
+    {
+      "id": "00-0038494",
+      "name": "Trey Dean III",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/egycpb5zv75wp0ytluhl"
+    },
+    {
+      "id": "00-0040753",
+      "name": "Will Sheppard",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vwyhqfyyxngoljurvrjx"
     }
   ],
   "players": [

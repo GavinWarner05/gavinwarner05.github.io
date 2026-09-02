@@ -17,6 +17,7 @@ except ImportError:  # Imported as scripts.build_team_data during tests.
     from scripts.build_sports_data import find_forbidden_keys, iso_datetime, require, sanitize_game, sanitize_injury, sanitize_team
 
 PLAYER_KEYS = ("id", "name", "position", "group", "number", "headshot_url", "height", "weight", "experience", "college", "depth_position", "depth_slot", "depth_rank", "depth_order", "stats", "weekly_stats", "seasons")
+INJURY_PLAYER_KEYS = ("id", "name", "position", "headshot_url")
 STAT_KEYS = {
     "games", "completions", "attempts", "passing_yards", "passing_tds", "interceptions", "carries",
     "rushing_yards", "rushing_tds", "targets", "receptions", "receiving_yards", "receiving_tds",
@@ -101,6 +102,19 @@ def sanitize_player(raw: object, index: int) -> dict:
     return out
 
 
+def sanitize_injury_player(raw: object, index: int) -> dict:
+    path = f"injury_players[{index}]"
+    require(isinstance(raw, dict), f"{path} must be an object")
+    out = {key: raw[key] for key in INJURY_PLAYER_KEYS if key in raw}
+    out["id"] = bounded(out.get("id"), f"{path}.id", 100, True)
+    out["name"] = bounded(out.get("name"), f"{path}.name", 100, True)
+    out["position"] = bounded(out.get("position"), f"{path}.position", 8, True)
+    if "headshot_url" in out:
+        out["headshot_url"] = bounded(out["headshot_url"], f"{path}.headshot_url", 500, True)
+        require(urlparse(out["headshot_url"]).scheme == "https", f"{path}.headshot_url must use HTTPS")
+    return out
+
+
 def sanitize_snapshot(raw: object) -> dict:
     require(isinstance(raw, dict), "team snapshot must be an object")
     forbidden = find_forbidden_keys(raw)
@@ -111,17 +125,22 @@ def sanitize_snapshot(raw: object) -> dict:
     team = sanitize_team(raw.get("team"), "team")
     games = raw.get("games", [])
     players = raw.get("players", [])
+    injury_players = raw.get("injury_players", [])
     injuries = raw.get("injuries", [])
-    require(isinstance(games, list) and isinstance(players, list) and isinstance(injuries, list), "team collections must be arrays")
+    require(isinstance(games, list) and isinstance(players, list) and isinstance(injury_players, list) and isinstance(injuries, list), "team collections must be arrays")
     clean_games = [sanitize_game(game, index) for index, game in enumerate(games)]
     require(all(team["id"] in (game["home_team"]["id"], game["away_team"]["id"]) for game in clean_games), "team snapshot contains an unrelated game")
     clean_players = [sanitize_player(player, index) for index, player in enumerate(players)]
     ids = [player["id"] for player in clean_players]
     require(len(ids) == len(set(ids)), "player ids must be unique within a team")
+    clean_injury_players = [sanitize_injury_player(player, index) for index, player in enumerate(injury_players)]
+    injury_player_ids = [player["id"] for player in clean_injury_players]
+    require(len(injury_player_ids) == len(set(injury_player_ids)), "injury player ids must be unique within a team")
     return {
         "schema_version": 1, "generated_at": iso_datetime(raw.get("generated_at"), "generated_at"),
         "season": season, "team": team, "games": clean_games,
         "injuries": [sanitize_injury(injury, f"injuries[{index}]") for index, injury in enumerate(injuries)],
+        "injury_players": clean_injury_players,
         "players": clean_players,
     }
 

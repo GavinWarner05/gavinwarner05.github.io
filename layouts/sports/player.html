@@ -9,14 +9,13 @@
       <p data-player-team></p>
       <h1 data-player-name>NFL player</h1>
       <p data-player-meta></p>
-      <a data-player-team-link href="#">View team</a>
+      <div class="player-page-actions">
+        <p class="player-injury-badge" data-player-injury hidden></p>
+        <a data-player-team-link href="#">View team</a>
+      </div>
     </div>
     <button type="button" class="team-favorite-toggle player-favorite-toggle" data-player-favorite aria-pressed="false"><span aria-hidden="true">☆</span><span data-player-favorite-label>Add favorite</span></button>
   </header>
-  <section class="player-page-section" data-player-content data-player-injury-section hidden>
-    <div class="sports-section-heading"><h2>Current status</h2></div>
-    <p data-player-injury></p>
-  </section>
   <section class="player-page-section" data-player-content hidden>
     <div class="sports-section-heading"><h2>Season totals</h2><div class="player-season-control" data-player-season-control hidden><label for="player-season-select">Season</label><select id="player-season-select" data-player-season-select></select></div></div>
     <dl class="player-page-stats" data-player-totals></dl>
@@ -31,7 +30,7 @@
     <script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>
   {{ else }}
     {{ $playerScript := . | minify | fingerprint }}
-    <script src="{{ $playerScript.RelPermalink }}" integrity="{{ $playerScript.Data.Integrity }}" crossorigin="anonymous"></script>
+    <script src="{{ $playerScript.RelPermalink }}?v={{ now.Unix }}" integrity="{{ $playerScript.Data.Integrity }}" crossorigin="anonymous"></script>
   {{ end }}
 {{ end }}
 {{ end }}

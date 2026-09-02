@@ -87,7 +87,7 @@
   
   
     
-    <link rel="stylesheet" href="/scss/sports.min.ec62e0abb5f485fdad053e4d2908d5986d87d27dce471c043b83ca02a7810d2c.css" integrity="sha256-7GLgq7X0hf2tBT5NKQjVmG2H0n3ORxwEO4PKAqeBDSw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="/scss/sports.min.5f3fd2fc6e775d445a0acfa3c36a88318d311e82158abd8ba425c2000f8d808a.css" integrity="sha256-Xz/S/G53XURaCs&#43;jw2qIMY0xHoIVir2LpCXCAA&#43;NgIo=" crossorigin="anonymous">
   
 
 </head>
@@ -148,7 +148,7 @@
 
     <div class="content">
       
-<section class="team-page" data-team-app data-team-id="det" data-data-url="/sports/data/teams/det.json" data-team-base-url="/sports/teams/" data-player-url="/sports/player/">
+<section class="team-page" data-team-app data-team-id="det" data-data-url="/sports/data/teams/det.json" data-team-base-url="/sports/teams/" data-team-data-base-url="/sports/data/teams/" data-player-url="/sports/player/">
   <a class="team-back" data-team-back href="/sports/">← NFL Sports Center</a>
   <header class="team-page-hero" data-team-hero>
     <div class="team-page-identity">
@@ -159,7 +159,11 @@
     <p data-team-updated aria-live="polite">Loading roster and season…</p>
   </header>
   <div class="sports-notice" data-team-notice role="status" hidden></div>
-  <details class="team-page-section team-collapsible" data-collapse-key="schedule" open>
+  <details class="team-page-section team-collapsible team-season-timeline-section" data-collapse-key="timeline" open>
+    <summary class="sports-section-heading team-collapse-summary"><span class="team-section-title">Season timeline</span><span data-timeline-progress></span></summary>
+    <div class="team-season-timeline" data-team-timeline aria-label="Season timeline"></div>
+  </details>
+  <details class="team-page-section team-collapsible" data-collapse-key="schedule">
     <summary class="sports-section-heading team-collapse-summary"><span class="team-section-title">Season schedule</span><span data-schedule-count></span></summary>
     <div class="team-schedule" data-team-schedule></div>
   </details>
@@ -175,6 +179,10 @@
     <div data-roster-groups></div>
   </section>
 </section>
+<dialog class="matchup-dialog" data-team-matchup-dialog aria-labelledby="team-matchup-title">
+  <button class="matchup-close" type="button" data-team-close-dialog aria-label="Close matchup details">×</button>
+  <div data-team-matchup-detail></div>
+</dialog>
 
     </div>
 
@@ -246,7 +254,7 @@
     
       
         
-        <script src="/js/sports-team.min.6b4aeafffcfad06da930e4d24273537e63ceba2f8d61478f7f4900354a51c811.js" integrity="sha256-a0rq//z60G2pMOTSQnNTfmPOui&#43;NYUePf0kANUpRyBE=" crossorigin="anonymous"></script>
+        <script src="/js/sports-team.min.e96e93c89bab582f8047740f7a2afa8a01f96785a80a8b219db87496d9bb0171.js?v=1788372140" integrity="sha256-6W6TyJurWC&#43;AR3QPeir6igH5Z4WoCoshnbh0ltm7AXE=" crossorigin="anonymous"></script>
       
     
   </body>

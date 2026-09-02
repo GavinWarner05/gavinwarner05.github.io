@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "ten",
@@ -2021,6 +2021,252 @@
       "detail": "Pectoral"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0040921",
+      "name": "Aamil Wagner",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/webk4td1tz8hyezcimaa"
+    },
+    {
+      "id": "00-0035127",
+      "name": "Andre James",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cliagitqwyz5snrphj2c"
+    },
+    {
+      "id": "00-0037302",
+      "name": "Austin Deculus",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/da3gpuvmzfoc7tnn5nut"
+    },
+    {
+      "id": "00-0040914",
+      "name": "Bishop Fitzgerald",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zwvgypmxdepwclfbylft"
+    },
+    {
+      "id": "00-0039650",
+      "name": "Bryce Oliver",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bdsenkkodb8gbdvtivvr"
+    },
+    {
+      "id": "00-0038453",
+      "name": "Corey Mayfield Jr.",
+      "position": "DB"
+    },
+    {
+      "id": "00-0040445",
+      "name": "Courtney Jackson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ztcixuqc2mihticrwnvc"
+    },
+    {
+      "id": "00-0040659",
+      "name": "Derrick Canteen",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vfpxchkywc1vt3yeom9q"
+    },
+    {
+      "id": "00-0039381",
+      "name": "Dominique Hampton",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tcxzdfx8ra5fdotljqtz"
+    },
+    {
+      "id": "00-0040503",
+      "name": "Dorian Mausi",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mf8ks1kejyk3ccakvs5f"
+    },
+    {
+      "id": "00-0040557",
+      "name": "Drew Moss",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dv8tuwzq6fptydjywws3"
+    },
+    {
+      "id": "00-0038479",
+      "name": "Dyontae Johnson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/evfpo59fjpb65grbfu0t"
+    },
+    {
+      "id": "00-0038620",
+      "name": "Erick Hallett",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hnpxgdu65sr9w51rkp6g"
+    },
+    {
+      "id": "00-0040912",
+      "name": "Hank Beatty",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ainu7jvyjyjnsa8tdahf"
+    },
+    {
+      "id": "00-0038550",
+      "name": "Hendon Hooker",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jq92ol8hm5n7byqhpcps"
+    },
+    {
+      "id": "00-0040917",
+      "name": "Jalen McMurray",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zrwgaig57cdohkvwneex"
+    },
+    {
+      "id": "00-0034264",
+      "name": "Jalyn Holmes",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hostnk8byovbecbtdea7"
+    },
+    {
+      "id": "00-0040901",
+      "name": "Jaren Kanak",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nbrbfq68ghrvt2dsieej"
+    },
+    {
+      "id": "00-0039436",
+      "name": "Jaylen Harrell",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tlijnhz6kshuwcnjha1m"
+    },
+    {
+      "id": "00-0038613",
+      "name": "Jerrick Reed II",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jdg6nd5cot2srdfixjnv"
+    },
+    {
+      "id": "00-0039023",
+      "name": "Joel Wilson",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cshaunf0zeexbjo7ofiv"
+    },
+    {
+      "id": "00-0038043",
+      "name": "Joshua Williams",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w2nwt08uxz0owmctdyfu"
+    },
+    {
+      "id": "00-0036345",
+      "name": "K.J. Osborn",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ytgf9lftpnc3hqg81vhj"
+    },
+    {
+      "id": "00-0040205",
+      "name": "Kalel Mullings",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jv2phcl7aihai00wkqgb"
+    },
+    {
+      "id": "00-0038703",
+      "name": "Kendell Brooks",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ophgu4atah9skksi1kws"
+    },
+    {
+      "id": "00-0040674",
+      "name": "Keydrain Calligan",
+      "position": "DB"
+    },
+    {
+      "id": "00-0040762",
+      "name": "Laki Tasi",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pyfigo2gax99vjgmcyhs"
+    },
+    {
+      "id": "00-0037055",
+      "name": "Lance McCutcheon",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mbesuisbtobyu5hozclc"
+    },
+    {
+      "id": "00-0040920",
+      "name": "Mani Powell",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/m7c9h4uhxtkcsi6zipfc"
+    },
+    {
+      "id": "00-0037136",
+      "name": "Mario Goodrich",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uap7tsrlmrnvb8ptf02n"
+    },
+    {
+      "id": "00-0036924",
+      "name": "Michael Carter",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cwqrxzouk4gkhfziyqre"
+    },
+    {
+      "id": "00-0036511",
+      "name": "Milo Eifler",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rfmdcyim9q0prw56mzgw"
+    },
+    {
+      "id": "00-0038711",
+      "name": "Mohamoud Diabate",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/to8prswizs9iqvpqqbay"
+    },
+    {
+      "id": "00-0040918",
+      "name": "Rasheed Miller",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wcrnlcq6doix61fwoxgk"
+    },
+    {
+      "id": "00-0041492",
+      "name": "Reid Carrico",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ws33qmb09cnf4tyuvj4s"
+    },
+    {
+      "id": "00-0033902",
+      "name": "Tanoh Kpassagnon",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/ilr1bs7qesfq7fryeetc"
+    },
+    {
+      "id": "00-0037585",
+      "name": "Timmy Horne",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vuyddfbh4sapogzrxyqv"
+    },
+    {
+      "id": "00-0040919",
+      "name": "Tyren Montgomery",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f9zykws54i2prkwxw3ee"
+    },
+    {
+      "id": "00-0039152",
+      "name": "Will Levis",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/npovrxpll0gqlkptsn6r"
+    },
+    {
+      "id": "00-0040522",
+      "name": "Xavier Restrepo",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w4onu90fxjmlkmkchcg1"
+    },
+    {
+      "id": "00-0037618",
+      "name": "Zach Thomas",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b6vrvm3sbykrka1mr9jp"
+    }
+  ],
   "players": [
     {
       "id": "00-0034805",
@@ -2526,6 +2772,92 @@
             "colors": {
               "primary": "#0C2340",
               "secondary": "#4B92DB"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040041",
+      "name": "Nazir Stackhouse",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "93",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vokytmju8zhlte70ss9a",
+      "height": "76",
+      "weight": "320",
+      "experience": "1",
+      "college": "Georgia",
+      "depth_position": "LDT",
+      "depth_slot": "2",
+      "depth_rank": 3,
+      "depth_order": 24,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "MIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
             }
           }
         }
@@ -3142,6 +3474,122 @@
       ]
     },
     {
+      "id": "00-0038600",
+      "name": "Owen Pappoe",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "44",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zv35eeyd3oxxkecrvqra",
+      "height": "72",
+      "weight": "226",
+      "experience": "3",
+      "college": "Auburn",
+      "depth_position": "WLB",
+      "depth_slot": "5",
+      "depth_rank": 2,
+      "depth_order": 26,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0035672",
       "name": "Cody Barton",
       "position": "LB",
@@ -3427,128 +3875,6 @@
       ]
     },
     {
-      "id": "00-0038711",
-      "name": "Mohamoud Diabate",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "44",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/to8prswizs9iqvpqqbay",
-      "height": "76",
-      "weight": "227",
-      "experience": "3",
-      "college": "Utah",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ten",
-            "name": "Tennessee Titans",
-            "abbreviation": "TEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-            "colors": {
-              "primary": "#0C2340",
-              "secondary": "#4B92DB"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "CIN",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "DET",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "MIN",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "PIT",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "NE",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "LV",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "CHI",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "PIT",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "CIN",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "cle",
-            "name": "Cleveland Browns",
-            "abbreviation": "CLE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-            "colors": {
-              "primary": "#311D00",
-              "secondary": "#FF3C00"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0036869",
       "name": "Dan Moore Jr.",
       "position": "OL",
@@ -3614,6 +3940,67 @@
             "colors": {
               "primary": "#0C2340",
               "secondary": "#4B92DB"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036866",
+      "name": "James Hudson",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "51",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eayesw9mhrbe5g1ezoht",
+      "height": "77",
+      "weight": "310",
+      "experience": "5",
+      "college": "Cincinnati",
+      "depth_position": "LT",
+      "depth_slot": "3",
+      "depth_rank": 2,
+      "depth_order": 2,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "DAL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
             }
           }
         }
@@ -4027,78 +4414,6 @@
             "colors": {
               "primary": "#0C2340",
               "secondary": "#4B92DB"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0037302",
-      "name": "Austin Deculus",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "76",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/da3gpuvmzfoc7tnn5nut",
-      "height": "77",
-      "weight": "330",
-      "experience": "4",
-      "college": "LSU",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ten",
-            "name": "Tennessee Titans",
-            "abbreviation": "TEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-            "colors": {
-              "primary": "#0C2340",
-              "secondary": "#4B92DB"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 4,
-              "opponent": "NYG",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "MIA",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "PIT",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "DAL",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "lac",
-            "name": "Los Angeles Chargers",
-            "abbreviation": "LAC",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
-            "colors": {
-              "primary": "#0080C6",
-              "secondary": "#FFC20E"
             }
           }
         }
@@ -5295,6 +5610,41 @@
       ]
     },
     {
+      "id": "00-0040093",
+      "name": "Melvin Smith Jr.",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "39",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ks6nnexhp5jftsjlt1ah",
+      "height": "73",
+      "weight": "185",
+      "experience": "1",
+      "college": "Southern Arkansas",
+      "depth_position": "LCB",
+      "depth_slot": "8",
+      "depth_rank": 3,
+      "depth_order": 18,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0038121",
       "name": "Alontae Taylor",
       "position": "DB",
@@ -5760,6 +6110,112 @@
       ]
     },
     {
+      "id": "00-0036421",
+      "name": "Terrell Burgess",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "26",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fx86rlxeudmniz1btxrq",
+      "height": "71",
+      "weight": "198",
+      "experience": "6",
+      "college": "Utah",
+      "depth_position": "FS",
+      "depth_slot": "10",
+      "depth_rank": 3,
+      "depth_order": 21,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "ATL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0040201",
       "name": "Marcus Harris",
       "position": "DB",
@@ -5849,135 +6305,6 @@
             {
               "week": 16,
               "opponent": "KC",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "ten",
-            "name": "Tennessee Titans",
-            "abbreviation": "TEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-            "colors": {
-              "primary": "#0C2340",
-              "secondary": "#4B92DB"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038620",
-      "name": "Erick Hallett",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "41",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hnpxgdu65sr9w51rkp6g",
-      "height": "71",
-      "weight": "190",
-      "experience": "3",
-      "college": "Pittsburgh",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ten",
-            "name": "Tennessee Titans",
-            "abbreviation": "TEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-            "colors": {
-              "primary": "#0C2340",
-              "secondary": "#4B92DB"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 7,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "JAX",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "ten",
-            "name": "Tennessee Titans",
-            "abbreviation": "TEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-            "colors": {
-              "primary": "#0C2340",
-              "secondary": "#4B92DB"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038613",
-      "name": "Jerrick Reed II",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "28",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jdg6nd5cot2srdfixjnv",
-      "height": "69",
-      "weight": "192",
-      "experience": "3",
-      "college": "New Mexico; Northwest Mississippi CC",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ten",
-            "name": "Tennessee Titans",
-            "abbreviation": "TEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-            "colors": {
-              "primary": "#0C2340",
-              "secondary": "#4B92DB"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 3,
-              "opponent": "NO",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "WAS",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "JAX",
               "stats": {}
             }
           ],
@@ -7714,75 +8041,6 @@
                 "targets": 4,
                 "receptions": 3,
                 "receiving_yards": 27
-              }
-            }
-          ],
-          "team": {
-            "id": "ten",
-            "name": "Tennessee Titans",
-            "abbreviation": "TEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-            "colors": {
-              "primary": "#0C2340",
-              "secondary": "#4B92DB"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0040522",
-      "name": "Xavier Restrepo",
-      "position": "WR",
-      "group": "Wide Receivers",
-      "number": "87",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w4onu90fxjmlkmkchcg1",
-      "height": "70",
-      "weight": "198",
-      "experience": "1",
-      "college": "Miami",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ten",
-            "name": "Tennessee Titans",
-            "abbreviation": "TEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-            "colors": {
-              "primary": "#0C2340",
-              "secondary": "#4B92DB"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "targets": 7,
-            "receptions": 3,
-            "receiving_yards": 41
-          },
-          "weekly_stats": [
-            {
-              "week": 12,
-              "opponent": "SEA",
-              "stats": {
-                "targets": 6,
-                "receptions": 2,
-                "receiving_yards": 26
-              }
-            },
-            {
-              "week": 13,
-              "opponent": "JAX",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 15
               }
             }
           ],

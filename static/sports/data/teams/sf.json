@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "sf",
@@ -3933,6 +3933,194 @@
       "detail": "Knee - ACL"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0038658",
+      "name": "Adrian Martinez",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w0ehlpfwk70tqpswllwv"
+    },
+    {
+      "id": "00-0038865",
+      "name": "Andrew Farmer",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wscfjolhvndwj8zemf81"
+    },
+    {
+      "id": "00-0035829",
+      "name": "Austen Pleasants",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/smhaysadli3ersrjufft"
+    },
+    {
+      "id": "00-0035743",
+      "name": "Brett Toth",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yre7lmnvlmd2mj9sijiu"
+    },
+    {
+      "id": "00-0034775",
+      "name": "Christian Kirk",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ffp75mtwnqgrv0qz0txz"
+    },
+    {
+      "id": "00-0036638",
+      "name": "Darrick Forrest",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kewtqnt8zc9xtxvlhdq9"
+    },
+    {
+      "id": "00-0039700",
+      "name": "Drake Nugent",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u99x48ow2ilnlmby8tb4"
+    },
+    {
+      "id": "00-0039696",
+      "name": "Evan Anderson",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hldznraji3s9j9hwjn3h"
+    },
+    {
+      "id": "00-0039489",
+      "name": "Hayden Rucci",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vkscrzclmd0tboxpi8lk"
+    },
+    {
+      "id": "00-0036448",
+      "name": "Isaac Alarcon",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tf80dmb1inreek7ijguw"
+    },
+    {
+      "id": "00-0039363",
+      "name": "Isaac Guerendo",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uy1bdu0dokosyzl4ohmi"
+    },
+    {
+      "id": "00-0040486",
+      "name": "Jah Joyner",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nxkh78ej5pghzfeesfqz"
+    },
+    {
+      "id": "00-0040559",
+      "name": "Jakob Robinson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qlefsw8fylwrmbgtmez7"
+    },
+    {
+      "id": "00-0038648",
+      "name": "Jalen Graham",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yx3s8vah183b6x6jt8z8"
+    },
+    {
+      "id": "00-0041362",
+      "name": "Jalen Stroman",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qtlqtpbd1mmpyvcuoa4k"
+    },
+    {
+      "id": "00-0027224",
+      "name": "Jon Weeks",
+      "position": "LS",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vfrborns4bhlqzcmvwip"
+    },
+    {
+      "id": "00-0034854",
+      "name": "KhaDarel Hodge",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r6vyxamrbb62lcccap2r"
+    },
+    {
+      "id": "00-0041357",
+      "name": "Khalil Dinkins",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/txukjdrzl6um3k3t0t31"
+    },
+    {
+      "id": "00-0041406",
+      "name": "Larry Worth",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dh5rnvlxzwcsxfua2ekp"
+    },
+    {
+      "id": "00-0041360",
+      "name": "Mikail Kamara",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/drg6jegxm6gywk2sfxhe"
+    },
+    {
+      "id": "00-0040660",
+      "name": "Mykel Williams",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jas5em3i7xswbtoqr6qz"
+    },
+    {
+      "id": "00-0037831",
+      "name": "Nick Zakelj",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cun4v40dnqifysuu9oxf"
+    },
+    {
+      "id": "00-0034807",
+      "name": "Ogbo Okoronkwo",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qbhwpvb59fmyguz8ttg0"
+    },
+    {
+      "id": "00-0039881",
+      "name": "Patrick McMorris",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eu9mwmih3oosm64ainr8"
+    },
+    {
+      "id": "00-0039916",
+      "name": "Ricky Pearsall",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rrv2qhkjqagb8ibzwakv"
+    },
+    {
+      "id": "00-0040560",
+      "name": "Sebastian Valdez",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cnb82o0pkp0k2ng5mrrp"
+    },
+    {
+      "id": "00-0037509",
+      "name": "Sincere McCormick",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t2e5ffjyc1iimyxufxjs"
+    },
+    {
+      "id": "00-0036896",
+      "name": "Victor Dimukeje",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/timanef1mpwuc1cqmptm"
+    },
+    {
+      "id": "00-0038575",
+      "name": "Viliami Fehoko Jr.",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s5ok9ad5e51tqij3vpsp"
+    },
+    {
+      "id": "00-0041359",
+      "name": "Wesley Grimes",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n5hfuzuaxausgstr3cp8"
+    },
+    {
+      "id": "00-0041361",
+      "name": "Will Pauling",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hk2txxjkjk1ycmluu2kn"
+    }
+  ],
   "players": [
     {
       "id": "00-0040711",
@@ -4690,7 +4878,7 @@
       "name": "James Thompson Jr.",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "75",
+      "number": "96",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kaksxzzz2yoykrlsv0hc",
       "height": "78",
       "weight": "301",
@@ -5653,7 +5841,7 @@
       "name": "Jarrett Patterson",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "54",
+      "number": "58",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/co5jzan7q6a0ptxkkmcd",
       "height": "76",
       "weight": "310",
@@ -8083,7 +8271,7 @@
       "name": "Ephesians Prysock",
       "position": "DB",
       "group": "Safeties",
-      "number": "35",
+      "number": "28",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ywyqg8kadbaxy6fezyvv",
       "height": "76",
       "weight": "196",
@@ -9198,7 +9386,7 @@
       "name": "De'Zhaun Stribling",
       "position": "WR",
       "group": "Wide Receivers",
-      "number": "15",
+      "number": "7",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eu1nxtlztiwr5ko48iwz",
       "height": "74",
       "weight": "207",
@@ -9233,7 +9421,7 @@
       "name": "Demarcus Robinson",
       "position": "WR",
       "group": "Wide Receivers",
-      "number": "7",
+      "number": "11",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cokassoz2z7hb4wk2krh",
       "height": "73",
       "weight": "203",
@@ -9433,7 +9621,7 @@
       "name": "Jacob Cowing",
       "position": "WR",
       "group": "Wide Receivers",
-      "number": "6",
+      "number": "4",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uarciagmnzmyzs102dv6",
       "height": "69",
       "weight": "170",

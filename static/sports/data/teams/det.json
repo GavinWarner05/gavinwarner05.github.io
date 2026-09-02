@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "det",
@@ -2893,6 +2893,229 @@
       "detail": "Wrist"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0041454",
+      "name": "Aamaris Brown",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ewwjcwikx8nqcgxdbbu1"
+    },
+    {
+      "id": "00-0036716",
+      "name": "Amen Ogbongbemiga",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/liyabetbezsk9lvuuphd"
+    },
+    {
+      "id": "00-0041458",
+      "name": "Anthony Lucas",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jz6cvd4ur6gwmje4eq57"
+    },
+    {
+      "id": "00-0037356",
+      "name": "Ben Stille",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wyj9urijpkzuz2noqk2g"
+    },
+    {
+      "id": "00-0039141",
+      "name": "Brian Branch",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zcri8hzscyasi2nhjdlk"
+    },
+    {
+      "id": "00-0037297",
+      "name": "Cade Mays",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lw5vbu41hbzw9nychtb7"
+    },
+    {
+      "id": "00-0038661",
+      "name": "Chris Smith",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yczxmt0xfnqax2ueqz3j"
+    },
+    {
+      "id": "00-0038592",
+      "name": "Colby Sorsdal",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uewa3yfhev5xfmtxtwst"
+    },
+    {
+      "id": "00-0037281",
+      "name": "Damone Clark",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ffk6kh200c0f38zgzmuo"
+    },
+    {
+      "id": "00-0040233",
+      "name": "Dan Jackson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/llgy42nhtuvd9f5zci70"
+    },
+    {
+      "id": "00-0037414",
+      "name": "Devin Cochran",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xbxzyjodpatlv5edyuew"
+    },
+    {
+      "id": "00-0040241",
+      "name": "Dominic Lovett",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ccplcgivzomevih1erpl"
+    },
+    {
+      "id": "00-0038956",
+      "name": "Ekow Boye-Doe",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jrm1husugxjadz2wassn"
+    },
+    {
+      "id": "00-0038604",
+      "name": "Eric Scott Jr.",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eo5ri5jizuskouhtased"
+    },
+    {
+      "id": "00-0041455",
+      "name": "Erick Hunter",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lj86qzcqducqtasd4au0"
+    },
+    {
+      "id": "00-0039362",
+      "name": "Giovanni Manu",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cjakbqctg8tjtt0lfgh2"
+    },
+    {
+      "id": "00-0040401",
+      "name": "Gus Hartwig",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e9anjdcbjlqqxyovquif"
+    },
+    {
+      "id": "00-0039060",
+      "name": "Jason Taylor II",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/aozchrij1ghc0d9lpk86"
+    },
+    {
+      "id": "00-0035895",
+      "name": "Joe Bachie",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xnf2vrbsglhet5fkcb9i"
+    },
+    {
+      "id": "00-0041446",
+      "name": "Kendrick Law",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/progttkuaumows8eeqsq"
+    },
+    {
+      "id": "00-0037667",
+      "name": "Kerby Joseph",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jairg6uh8wzsvw6fmtpx"
+    },
+    {
+      "id": "00-0038181",
+      "name": "Lucky Jackson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xa9o8zlctwgga8wh5apl"
+    },
+    {
+      "id": "00-0041453",
+      "name": "Luke Altmyer",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eriopmdwcfjude1cptvi"
+    },
+    {
+      "id": "00-0038911",
+      "name": "Malik Cunningham",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b1zs666er20onzjnff8h"
+    },
+    {
+      "id": "00-0040391",
+      "name": "Mason Miller",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uedrxx3xea6rhq5vjdic"
+    },
+    {
+      "id": "00-0041460",
+      "name": "Melvin Priestly",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/egbonjjjo7vjxkgr7c4w"
+    },
+    {
+      "id": "00-0037385",
+      "name": "Michael Niese",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lftjd1todj0qfpubrsgv"
+    },
+    {
+      "id": "00-0038841",
+      "name": "Nick Whiteside",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xb8o17bhvobonozefq7n"
+    },
+    {
+      "id": "00-0036926",
+      "name": "Payton Turner",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/chmbnron2iipzbjggg7y"
+    },
+    {
+      "id": "00-0041572",
+      "name": "Roydell Williams",
+      "position": "RB"
+    },
+    {
+      "id": "00-0039245",
+      "name": "Ryan Cooper Jr.",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hhmo6ua6elic9utx0vsl"
+    },
+    {
+      "id": "00-0036491",
+      "name": "Tarik Black",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nwu8axcyqw8yk3i300ob"
+    },
+    {
+      "id": "00-0031237",
+      "name": "Teddy Bridgewater",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vwtggtoroccnjv3h0niq"
+    },
+    {
+      "id": "00-0040697",
+      "name": "Thomas Gordon",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xjwwmrgezlioppxjmkod"
+    },
+    {
+      "id": "00-0035544",
+      "name": "Tom Kennedy",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbpuzvde5zqalmkjo0dv"
+    },
+    {
+      "id": "00-0041448",
+      "name": "Tyre West",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ko4qcsvsalp1y0cptmie"
+    },
+    {
+      "id": "00-0040387",
+      "name": "Zach Horton",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tqaayllxofboypamcusj"
+    }
+  ],
   "players": [
     {
       "id": "00-0037236",
@@ -5459,6 +5682,41 @@
       ]
     },
     {
+      "id": "00-0039652",
+      "name": "Jabari Small",
+      "position": "RB",
+      "group": "Running Backs",
+      "number": "26",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jevnypgyk9xm7tcfldvi",
+      "height": "71",
+      "weight": "213",
+      "experience": "2",
+      "college": "Tennessee",
+      "depth_position": "RB",
+      "depth_slot": "11",
+      "depth_rank": 4,
+      "depth_order": 9,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0037197",
       "name": "Isiah Pacheco",
       "position": "RB",
@@ -5471,7 +5729,7 @@
       "college": "Rutgers",
       "depth_position": "RB",
       "depth_slot": "11",
-      "depth_rank": 2,
+      "depth_rank": 5,
       "depth_order": 9,
       "stats": {},
       "weekly_stats": [],
@@ -5644,41 +5902,6 @@
             "colors": {
               "primary": "#E31837",
               "secondary": "#6B0F1A"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0039652",
-      "name": "Jabari Small",
-      "position": "RB",
-      "group": "Running Backs",
-      "number": "26",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jevnypgyk9xm7tcfldvi",
-      "height": "71",
-      "weight": "213",
-      "experience": "2",
-      "college": "Tennessee",
-      "depth_position": "RB",
-      "depth_slot": "11",
-      "depth_rank": 5,
-      "depth_order": 9,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "det",
-            "name": "Detroit Lions",
-            "abbreviation": "DET",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-            "colors": {
-              "primary": "#0076B6",
-              "secondary": "#123B55"
             }
           }
         }
@@ -7429,7 +7652,7 @@
       "college": "Syracuse",
       "depth_position": "TE",
       "depth_slot": "10",
-      "depth_rank": 3,
+      "depth_rank": 4,
       "depth_order": 7,
       "stats": {},
       "weekly_stats": [],

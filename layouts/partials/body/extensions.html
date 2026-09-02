@@ -6,15 +6,15 @@
 {{ if eq .Section "sports" -}}
   {{ if eq .Layout "sports" }}
     {{ with resources.Get "js/sports-home.js" }}
-      {{ if hugo.IsServer }}<script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>{{ else }}{{ $homeScript := . | minify | fingerprint }}<script src="{{ $homeScript.RelPermalink }}" integrity="{{ $homeScript.Data.Integrity }}" crossorigin="anonymous"></script>{{ end }}
+      {{ if hugo.IsServer }}<script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>{{ else }}{{ $homeScript := . | minify | fingerprint }}<script src="{{ $homeScript.RelPermalink }}?v={{ now.Unix }}" integrity="{{ $homeScript.Data.Integrity }}" crossorigin="anonymous"></script>{{ end }}
     {{ end }}
   {{ else if eq .Layout "scores" }}
     {{ with resources.Get "js/sports.js" }}
-      {{ if hugo.IsServer }}<script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>{{ else }}{{ $sportsScript := . | minify | fingerprint }}<script src="{{ $sportsScript.RelPermalink }}" integrity="{{ $sportsScript.Data.Integrity }}" crossorigin="anonymous"></script>{{ end }}
+      {{ if hugo.IsServer }}<script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>{{ else }}{{ $sportsScript := . | minify | fingerprint }}<script src="{{ $sportsScript.RelPermalink }}?v={{ now.Unix }}" integrity="{{ $sportsScript.Data.Integrity }}" crossorigin="anonymous"></script>{{ end }}
     {{ end }}
   {{ else if eq .Layout "teams" }}
     {{ with resources.Get "js/sports-teams.js" }}
-      {{ if hugo.IsServer }}<script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>{{ else }}{{ $teamsScript := . | minify | fingerprint }}<script src="{{ $teamsScript.RelPermalink }}" integrity="{{ $teamsScript.Data.Integrity }}" crossorigin="anonymous"></script>{{ end }}
+      {{ if hugo.IsServer }}<script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>{{ else }}{{ $teamsScript := . | minify | fingerprint }}<script src="{{ $teamsScript.RelPermalink }}?v={{ now.Unix }}" integrity="{{ $teamsScript.Data.Integrity }}" crossorigin="anonymous"></script>{{ end }}
     {{ end }}
   {{ end }}
   {{ if eq .Layout "team" }}
@@ -23,7 +23,7 @@
         <script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>
       {{ else }}
         {{ $teamScript := . | minify | fingerprint }}
-        <script src="{{ $teamScript.RelPermalink }}" integrity="{{ $teamScript.Data.Integrity }}" crossorigin="anonymous"></script>
+        <script src="{{ $teamScript.RelPermalink }}?v={{ now.Unix }}" integrity="{{ $teamScript.Data.Integrity }}" crossorigin="anonymous"></script>
       {{ end }}
     {{ end }}
   {{ end }}

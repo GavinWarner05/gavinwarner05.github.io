@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T05:32:12+00:00",
+  "generated_at": "2026-09-02T17:12:33+00:00",
   "season": 2026,
   "team": {
     "id": "car",
@@ -2823,6 +2823,222 @@
       "detail": "Neck"
     }
   ],
+  "injury_players": [
+    {
+      "id": "00-0040394",
+      "name": "Anthony Tyus III",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ycph0v6jfxwkcycuztk0"
+    },
+    {
+      "id": "00-0040289",
+      "name": "Bam Martin-Scott",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fvfw5drjy4cxaotvve69"
+    },
+    {
+      "id": "00-0040392",
+      "name": "Caden Prieskorn",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oajiq54ejf3zkntg427s"
+    },
+    {
+      "id": "00-0036045",
+      "name": "Cam Gill",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wxadtc7jcfyso4qdbeni"
+    },
+    {
+      "id": "00-0041150",
+      "name": "Cam Miller",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tejrbhpml6z3iirchbtk"
+    },
+    {
+      "id": "00-0039394",
+      "name": "Casey Washington",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wkoysykj4htld4yajljn"
+    },
+    {
+      "id": "00-0038536",
+      "name": "Chandler Zavala",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h1jwlle0qeo7mtax2pc9"
+    },
+    {
+      "id": "00-0041047",
+      "name": "Chris Brazzell II",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jdmycletwhknhs9oth1f"
+    },
+    {
+      "id": "00-0040296",
+      "name": "Corey Thornton",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fqf0gc9owhcrxgua2kbr"
+    },
+    {
+      "id": "00-0033589",
+      "name": "David Moore",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iyawzolvibsds35fwapv"
+    },
+    {
+      "id": "00-0041283",
+      "name": "DeCarlos Nicholson",
+      "position": "DB"
+    },
+    {
+      "id": "00-0039601",
+      "name": "Demani Richardson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gjav3xshmapw1yybykxz"
+    },
+    {
+      "id": "00-0041153",
+      "name": "Devonta Smith",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmc5wkyad0gu4gxtvzzy"
+    },
+    {
+      "id": "00-0038667",
+      "name": "Elijah Cooks",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jdwpqogatij3pqncde1l"
+    },
+    {
+      "id": "00-0037229",
+      "name": "Ikem Ekwonu",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mpfy7ivhwvry6pjezemw"
+    },
+    {
+      "id": "00-0041146",
+      "name": "Isaia Glass",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ydmxfwrctgc3wzrmi4rv"
+    },
+    {
+      "id": "00-0036356",
+      "name": "Isaiah Simmons",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mf9tbatcc933o8rzfuy5"
+    },
+    {
+      "id": "00-0041154",
+      "name": "Isaiah Smith",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rkqgcreuuho9xykg7hm7"
+    },
+    {
+      "id": "00-0040265",
+      "name": "Ja'Seem Reed",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uh29rkmiggnca0qq7vil"
+    },
+    {
+      "id": "00-0036795",
+      "name": "Jake Curhan",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sfcyxgyi8qkzafuqwbnl"
+    },
+    {
+      "id": "00-0040283",
+      "name": "Jared Harrison-Hunte",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zlu1tvw0ethftax8vcfa"
+    },
+    {
+      "id": "00-0039946",
+      "name": "Kyon Barrs",
+      "position": "DL"
+    },
+    {
+      "id": "00-0037203",
+      "name": "LaBryan Ray",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hvculodfnj1jv595t4xw"
+    },
+    {
+      "id": "00-0039637",
+      "name": "Maema Njongmeta",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xilgtxzojnxouajl01uc"
+    },
+    {
+      "id": "00-0040763",
+      "name": "Mapalo Mwansa",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pygjjbgebf2mezvwopa5"
+    },
+    {
+      "id": "00-0041485",
+      "name": "Miles Davis",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/htvohdxsq6qwts6k3cfb"
+    },
+    {
+      "id": "00-0040746",
+      "name": "Nic Scourton",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/urx4ncr2up987hovqjlr"
+    },
+    {
+      "id": "00-0041151",
+      "name": "Parker Petersen",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cwfe0yumsk0ydn3b6bq8"
+    },
+    {
+      "id": "00-0040531",
+      "name": "Roc Taylor",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jeido54r1gfedjcqftyb"
+    },
+    {
+      "id": "00-0039042",
+      "name": "Ryan Hayes",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zzvbipvjpudojugcxjre"
+    },
+    {
+      "id": "00-0033284",
+      "name": "Taylor Moton",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cstvf3qy5mqwd9nxa1sz"
+    },
+    {
+      "id": "00-0035890",
+      "name": "Tershawn Wharton",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mj9xqaj2jvv5unjgxomd"
+    },
+    {
+      "id": "00-0040644",
+      "name": "Trevor Etienne",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pcuzq84x7ia5yvmikltb"
+    },
+    {
+      "id": "00-0039586",
+      "name": "Tyrek Funderburk",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tzkkwtxovny5ufixvvoq"
+    },
+    {
+      "id": "00-0041487",
+      "name": "Tywone Malone",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zydyn07jyaembj8djyie"
+    },
+    {
+      "id": "00-0035251",
+      "name": "Will Grier",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c8cmoyu2wemjpl6ctk9g"
+    }
+  ],
   "players": [
     {
       "id": "00-0036220",
@@ -4166,67 +4382,6 @@
       ]
     },
     {
-      "id": "00-0036968",
-      "name": "Brady Christensen",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "70",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pbj2pkbe5cwtomutayd1",
-      "height": "78",
-      "weight": "297",
-      "experience": "5",
-      "college": "BYU",
-      "depth_position": "LT",
-      "depth_slot": "3",
-      "depth_rank": 2,
-      "depth_order": 2,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "car",
-            "name": "Carolina Panthers",
-            "abbreviation": "CAR",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-            "colors": {
-              "primary": "#0085CA",
-              "secondary": "#101820"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 6,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "BUF",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "car",
-            "name": "Carolina Panthers",
-            "abbreviation": "CAR",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-            "colors": {
-              "primary": "#0085CA",
-              "secondary": "#101820"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0036653",
       "name": "Stone Forsythe",
       "position": "OL",
@@ -4239,7 +4394,7 @@
       "college": "Florida",
       "depth_position": "LT",
       "depth_slot": "3",
-      "depth_rank": 3,
+      "depth_rank": 2,
       "depth_order": 2,
       "stats": {},
       "weekly_stats": [],
@@ -4360,6 +4515,41 @@
               "stats": {}
             }
           ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039242",
+      "name": "Corey Bullock",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "67",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mzkd2grjzcncllrhaacw",
+      "height": "75",
+      "weight": "320",
+      "experience": "2",
+      "college": "Maryland; North Carolina Central",
+      "depth_position": "LG",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 3,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "car",
             "name": "Carolina Panthers",
@@ -4531,6 +4721,67 @@
       ]
     },
     {
+      "id": "00-0036968",
+      "name": "Brady Christensen",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "70",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pbj2pkbe5cwtomutayd1",
+      "height": "78",
+      "weight": "297",
+      "experience": "5",
+      "college": "BYU",
+      "depth_position": "RG",
+      "depth_slot": "6",
+      "depth_rank": 2,
+      "depth_order": 5,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0041034",
       "name": "Monroe Freeling",
       "position": "OL",
@@ -4587,68 +4838,6 @@
           "season": 2026,
           "stats": {},
           "weekly_stats": [],
-          "team": {
-            "id": "car",
-            "name": "Carolina Panthers",
-            "abbreviation": "CAR",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-            "colors": {
-              "primary": "#0085CA",
-              "secondary": "#101820"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038536",
-      "name": "Chandler Zavala",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "62",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h1jwlle0qeo7mtax2pc9",
-      "height": "77",
-      "weight": "322",
-      "experience": "3",
-      "college": "N.C. State; Fairmont State",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "car",
-            "name": "Carolina Panthers",
-            "abbreviation": "CAR",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-            "colors": {
-              "primary": "#0085CA",
-              "secondary": "#101820"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 2,
-              "opponent": "ARI",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "ATL",
-              "stats": {}
-            }
-          ],
           "team": {
             "id": "car",
             "name": "Carolina Panthers",
