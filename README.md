@@ -18,10 +18,14 @@ python3 -m unittest discover -s tests -v
 python3 scripts/build_sports_data.py \
   --input data/sports/sample.json \
   --output static/sports/data/nfl.json
-hugo server --buildDrafts
+hugo server --buildDrafts --disableFastRender --noHTTPCache
 ```
 
-Open `http://localhost:1313/sports/`. The page is deliberately absent from the main navigation, sitemap, and feeds. It also emits `noindex, nofollow`, and `robots.txt` discourages crawling. This is not authentication: anyone who knows or discovers the URL can open it.
+Open `http://localhost:1313/sports/` for the personalized Sports Center home. The complete week-by-week scoreboard is at `http://localhost:1313/sports/scores/`, and team schedules and rosters are under `/sports/teams/`. The sports section is deliberately absent from the main navigation, sitemap, and feeds. It also emits `noindex, nofollow`, and `robots.txt` discourages crawling. This is not authentication: anyone who knows or discovers the URL can open it.
+
+Visitors can customize favorite teams from the Sports Center home. The selection is stored as team IDs in that browser's `localStorage`; it does not update Notion, leave the device, or synchronize across browsers. When no browser preference has been saved, the sanitized JSON favorites are used as defaults. Clearing favorites saves an intentionally empty preference.
+
+Active-roster cards link to `/sports/player/?team={team-id}&id={player-id}`. Players can be favorited from that page; those selections are also stored only in the current browser and appear in the Sports Center's Favorite players section. Player pages show sanitized season totals and week-by-week nflverse statistics when available. The exporter includes the current and previous regular seasons for active players, and the season selector also updates historical team affiliation. Before a player records a regular-season appearance, the page displays a useful empty state instead of sample statistics.
 
 Run a production check without rewriting the tracked `docs/` directory:
 
@@ -32,6 +36,14 @@ hugo --environment production --minify --destination /tmp/gavinwarner-site
 ## Sports data boundary
 
 The browser reads only `static/sports/data/nfl.json`. It never calls Notion, nflverse, or Sleeper directly.
+
+Team pages live at `/sports/teams/{team-id}/` and read a separate sanitized file from `static/sports/data/teams/{team-id}.json`. Player pages reuse the appropriate sanitized team snapshot rather than publishing a duplicate player dataset. The synchronization export writes temporary team sources beside `sports-source.json`; publish them locally with:
+
+```sh
+python scripts/build_team_data.py \
+  --input-dir /tmp/sports-teams \
+  --output-dir static/sports/data/teams
+```
 
 `scripts/build_sports_data.py` is the final publication boundary. It accepts normalized synchronization output, retains only the documented public fields, validates types and limits, rejects secret-like keys, and atomically creates the public JSON. The contract is documented by `data/sports/schema.json`; `data/sports/sample.json` is non-production fixture data.
 

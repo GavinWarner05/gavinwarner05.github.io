@@ -1,0 +1,10 @@
+{{ define "title" }}NFL Teams · {{ .Site.Title }}{{ end }}
+{{ define "content" }}
+<section class="team-page team-directory-page" data-team-directory data-data-url="{{ "sports/data/nfl.json" | relURL }}">
+  <a class="team-back" href="{{ "sports/" | relURL }}">← NFL Sports Center</a>
+  <header class="sports-hero"><p class="sports-eyebrow">NFL Sports Center</p><h1>Teams</h1></header>
+  <div class="team-directory">
+    {{ range .Pages.ByTitle }}<a href="{{ .RelPermalink }}" data-team-id="{{ .Params.team_id }}"><span class="team-directory-logo-slot" aria-hidden="true">{{ .Params.team_id | upper }}</span><strong>{{ .Title }}</strong></a>{{ end }}
+  </div>
+</section>
+{{ end }}

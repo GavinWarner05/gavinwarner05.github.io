@@ -1,44 +1,82 @@
 {{ define "title" }}NFL Sports Center · {{ .Site.Title }}{{ end }}
 {{ define "content" }}
-<section class="sports-shell" data-sports-app data-data-url="{{ "sports/data/nfl.json" | relURL }}">
-  <header class="sports-hero">
-    <p class="sports-eyebrow">NFL Sports Center</p>
-    <h1>Game day, at a glance.</h1>
-    <p class="sports-updated" data-updated aria-live="polite">Loading the latest snapshot…</p>
+<main class="sports-home" data-sports-home data-data-url="{{ "sports/data/nfl.json" | relURL }}" data-scores-url="{{ "sports/scores/" | relURL }}" data-team-base-url="{{ "sports/teams/" | relURL }}" data-team-data-base-url="{{ "sports/data/teams/" | relURL }}" data-player-url="{{ "sports/player/" | relURL }}">
+  <header class="sports-home-intro">
+    <div>
+      <p class="sports-eyebrow">NFL Sports Center</p>
+      <h1>Your season,<br>all in one place.</h1>
+    </div>
+    <p class="sports-updated" data-home-updated aria-live="polite">Loading the latest snapshot…</p>
   </header>
 
-  <nav class="sports-filters" aria-label="Filter games">
-    <button type="button" data-filter="yesterday">Yesterday</button>
-    <button type="button" data-filter="today" aria-pressed="true">Today</button>
-    <button type="button" data-filter="upcoming">Upcoming</button>
-    <button type="button" data-filter="live">Live</button>
-    <button type="button" data-filter="final">Final</button>
+  <section class="sports-home-hero" data-home-hero aria-live="polite">
+    <p class="sports-home-loading">Finding your next game…</p>
+  </section>
+
+  <nav class="sports-home-nav" aria-label="Sports Center sections">
+    <a href="{{ "sports/scores/" | relURL }}"><span aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M12 5v14M7 10h2M15 10h2M7 14h2M15 14h2"/></svg></span><strong>Scores</strong><small>Every game and week</small></a>
+    <a href="{{ "sports/teams/" | relURL }}"><span aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="9" cy="9" r="3"/><circle cx="16.5" cy="10" r="2.5"/><path d="M3.5 19c.5-3.2 2.3-5 5.5-5s5 1.8 5.5 5M14 15c3.5-.7 5.7.7 6.5 4"/></svg></span><strong>Teams</strong><small>Schedules and rosters</small></a>
+    <a href="{{ "sports/scores/?view=live" | relURL }}"><span aria-hidden="true">●</span><strong>Live</strong><small>Games in progress</small></a>
+    <button type="button" data-open-favorites><span aria-hidden="true">★</span><strong>Favorites</strong><small>Choose your teams</small></button>
   </nav>
 
-  <nav class="sports-week-picker" data-week-picker aria-label="Choose NFL week" hidden>
-    <button type="button" class="week-scroll-button" data-week-previous aria-label="Show previous weeks">‹</button>
-    <div class="sports-week-options" data-week-options tabindex="0" aria-label="NFL weeks"></div>
-    <button type="button" class="week-scroll-button" data-week-next aria-label="Show later weeks">›</button>
-  </nav>
+  <div class="sports-notice" data-home-notice role="status" hidden></div>
 
-  <div class="sports-notice" data-notice role="status" hidden></div>
-  <section class="sports-group" data-favorites-section hidden>
+  <section class="sports-home-section" data-week-section hidden>
     <div class="sports-section-heading">
-      <h2>Favorites</h2><span data-favorites-count></span>
+      <div><p class="sports-home-kicker">League snapshot</p><h2 data-week-heading>This week</h2></div>
+      <a href="{{ "sports/scores/" | relURL }}">Full scoreboard →</a>
     </div>
-    <div class="sports-grid" data-favorites></div>
+    <div class="sports-home-game-grid" data-week-games></div>
   </section>
-  <section class="sports-group">
-    <div class="sports-section-heading">
-      <h2 data-games-heading>Today</h2><span data-games-count></span>
-    </div>
-    <div class="sports-grid" data-games></div>
-  </section>
-</section>
 
-<dialog class="matchup-dialog" data-matchup-dialog aria-labelledby="matchup-title">
-  <button class="matchup-close" type="button" data-close-dialog aria-label="Close matchup details">×</button>
-  <div data-matchup-detail></div>
+  <section class="sports-home-section" id="favorites" data-home-favorites-section hidden>
+    <div class="sports-section-heading">
+      <div><p class="sports-home-kicker">Personal lineup</p><h2>Favorite teams</h2></div>
+      <span data-home-favorites-count></span>
+    </div>
+    <div class="sports-favorite-grid" data-home-favorites></div>
+  </section>
+
+  <section class="sports-home-section" data-around-section hidden>
+    <div class="sports-section-heading">
+      <div><p class="sports-home-kicker">Around the league</p><h2 data-around-heading>What’s happening</h2></div>
+      <a href="{{ "sports/scores/" | relURL }}">See all →</a>
+    </div>
+    <div class="sports-around-grid" data-around-league></div>
+  </section>
+
+  <section class="sports-home-section" data-player-favorites-section hidden>
+    <div class="sports-section-heading">
+      <div><p class="sports-home-kicker">Your lineup</p><h2>Favorite players</h2></div>
+      <span data-player-favorites-count></span>
+    </div>
+    <div class="sports-player-favorite-grid" data-player-favorites></div>
+  </section>
+
+  <section class="sports-home-section" data-teams-section hidden>
+    <div class="sports-section-heading">
+      <div><p class="sports-home-kicker">The league</p><h2>Explore teams</h2></div>
+      <a href="{{ "sports/teams/" | relURL }}">Team directory →</a>
+    </div>
+    <div class="sports-team-logo-grid" data-team-grid></div>
+  </section>
+</main>
+<dialog class="sports-favorites-dialog" data-favorites-dialog aria-labelledby="favorites-dialog-title">
+  <form method="dialog" data-favorites-form>
+    <div class="sports-favorites-dialog-heading">
+      <div><p class="sports-home-kicker">Make it yours</p><h2 id="favorites-dialog-title">Choose favorite teams</h2></div>
+      <button type="button" class="sports-favorites-close" data-close-favorites aria-label="Close favorite team picker">×</button>
+    </div>
+    <p class="sports-favorites-help">Selections are saved only in this browser on this device.</p>
+    <fieldset class="sports-favorites-options" data-favorites-options>
+      <legend class="sr-only">NFL teams</legend>
+    </fieldset>
+    <div class="sports-favorites-actions">
+      <button type="button" data-clear-favorites>Clear all</button>
+      <button type="submit" class="sports-favorites-save">Save favorites</button>
+    </div>
+  </form>
 </dialog>
 <noscript><p class="sports-noscript">JavaScript is required to display the sports dashboard.</p></noscript>
 {{ end }}

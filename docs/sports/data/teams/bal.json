@@ -1,0 +1,7291 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T05:32:12+00:00",
+  "season": 2026,
+  "team": {
+    "id": "bal",
+    "name": "Baltimore Ravens",
+    "abbreviation": "BAL",
+    "record": "0-0",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "colors": {
+      "primary": "#241773",
+      "secondary": "#000000"
+    }
+  },
+  "games": [
+    {
+      "id": "2026_01_BAL_IND",
+      "kickoff": "2026-09-13T13:00:00-04:00",
+      "status": "scheduled",
+      "week": 1,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "home_team": {
+        "id": "ind",
+        "name": "Indianapolis Colts",
+        "abbreviation": "IND",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+        "colors": {
+          "primary": "#002C5F",
+          "secondary": "#A2AAAD"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Lucas Oil Stadium",
+      "injuries": [
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Charvarius Ward",
+          "status": "Questionable",
+          "detail": "Back"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "AJ Haulcy",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cam Taylor-Britt",
+          "status": "Out",
+          "detail": "Suspension"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Josh Downs",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Sauce Gardner",
+          "status": "Questionable",
+          "detail": "Calf"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Alec Pierce",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Tyler Warren",
+          "status": "Questionable",
+          "detail": "Groin"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Will Mallory",
+          "status": "IR/PUP",
+          "detail": "Thumb"
+        }
+      ]
+    },
+    {
+      "id": "2026_02_NO_BAL",
+      "kickoff": "2026-09-20T13:00:00-04:00",
+      "status": "scheduled",
+      "week": 2,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "no",
+        "name": "New Orleans Saints",
+        "abbreviation": "NO",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+        "colors": {
+          "primary": "#101820",
+          "secondary": "#D3BC8D"
+        }
+      },
+      "home_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "M&T Bank Stadium",
+      "injuries": [
+        {
+          "team": "New Orleans Saints",
+          "player": "Nick Saldiveri",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Cameron Jordan",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Oscar Delp",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Alvin Kamara",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "John Ridgeway",
+          "status": "Questionable",
+          "detail": "Back"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Lorenzo Styles",
+          "status": "Questionable",
+          "detail": "Calf"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Jaylan Ford",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Quincy Riley",
+          "status": "Questionable",
+          "detail": "Groin"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Pete Werner",
+          "status": "Questionable",
+          "detail": "Groin"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Mason Tipton",
+          "status": "IR/PUP",
+          "detail": "Groin"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Chris Rumph",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        }
+      ]
+    },
+    {
+      "id": "2026_03_BAL_DAL",
+      "kickoff": "2026-09-27T16:25:00-04:00",
+      "status": "scheduled",
+      "week": 3,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "home_team": {
+        "id": "dal",
+        "name": "Dallas Cowboys",
+        "abbreviation": "DAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+        "colors": {
+          "primary": "#003594",
+          "secondary": "#041E42"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Maracana Stadium",
+      "injuries": [
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Marist Liufau",
+          "status": "IR/PUP",
+          "detail": "Forearm"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Jonathan Bullard",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Devin Moore",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Tyler Guyton",
+          "status": "Questionable",
+          "detail": "Elbow"
+        }
+      ]
+    },
+    {
+      "id": "2026_04_TEN_BAL",
+      "kickoff": "2026-10-04T13:00:00-04:00",
+      "status": "scheduled",
+      "week": 4,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "ten",
+        "name": "Tennessee Titans",
+        "abbreviation": "TEN",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+        "colors": {
+          "primary": "#0C2340",
+          "secondary": "#4B92DB"
+        }
+      },
+      "home_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "M&T Bank Stadium",
+      "injuries": [
+        {
+          "team": "Tennessee Titans",
+          "player": "Wan'Dale Robinson",
+          "status": "Questionable",
+          "detail": "Head"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Kalel Mullings",
+          "status": "Questionable",
+          "detail": "Hip"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Keldric Faulk",
+          "status": "Questionable",
+          "detail": "Shoulder"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Dorian Mausi",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Mitchell Trubisky",
+          "status": "Questionable",
+          "detail": "Biceps"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Joshua Williams",
+          "status": "IR/PUP",
+          "detail": "Pectoral"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        }
+      ]
+    },
+    {
+      "id": "2026_05_BAL_ATL",
+      "kickoff": "2026-10-11T20:20:00-04:00",
+      "status": "scheduled",
+      "week": 5,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "home_team": {
+        "id": "atl",
+        "name": "Atlanta Falcons",
+        "abbreviation": "ATL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+        "colors": {
+          "primary": "#A71930",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Mercedes-Benz Stadium",
+      "injuries": [
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Gervon Dexter",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Storm Norton",
+          "status": "IR/PUP",
+          "detail": "Foot"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Michael Penix",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Tyrone Wheatley",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "James Pearce",
+          "status": "Out",
+          "detail": "Suspension"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Billy Bowman",
+          "status": "Questionable",
+          "detail": "Achilles"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "DeAngelo Malone",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Da'Shawn Hand",
+          "status": "Questionable",
+          "detail": "Leg"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Anterio Thompson",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        }
+      ]
+    },
+    {
+      "id": "2026_06_BAL_CLE",
+      "kickoff": "2026-10-18T13:00:00-04:00",
+      "status": "scheduled",
+      "week": 6,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "home_team": {
+        "id": "cle",
+        "name": "Cleveland Browns",
+        "abbreviation": "CLE",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+        "colors": {
+          "primary": "#311D00",
+          "secondary": "#FF3C00"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Huntington Bank Field",
+      "injuries": [
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Joe Royer",
+          "status": "IR/PUP",
+          "detail": "Personal"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Jeremiah Owusu-Koramoah",
+          "status": "IR/PUP",
+          "detail": "Neck"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Isaiah Bond",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Parker Brailsford",
+          "status": "Questionable",
+          "detail": "Hand"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Michael Coats",
+          "status": "Questionable",
+          "detail": "Ankle"
+        }
+      ]
+    },
+    {
+      "id": "2026_07_CIN_BAL",
+      "kickoff": "2026-10-25T13:00:00-04:00",
+      "status": "scheduled",
+      "week": 7,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "cin",
+        "name": "Cincinnati Bengals",
+        "abbreviation": "CIN",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+        "colors": {
+          "primary": "#FB4F14",
+          "secondary": "#000000"
+        }
+      },
+      "home_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "M&T Bank Stadium",
+      "injuries": [
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Myles Murphy",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Shemar Stewart",
+          "status": "Questionable",
+          "detail": "Leg"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Dax Hill",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Tee Higgins",
+          "status": "Questionable",
+          "detail": "Heel"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Ja'Marr Chase",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Ja'Sir Taylor",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        }
+      ]
+    },
+    {
+      "id": "2026_08_BAL_BUF",
+      "kickoff": "2026-11-01T13:00:00-05:00",
+      "status": "scheduled",
+      "week": 8,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "home_team": {
+        "id": "buf",
+        "name": "Buffalo Bills",
+        "abbreviation": "BUF",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+        "colors": {
+          "primary": "#00338D",
+          "secondary": "#C60C30"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Highmark Stadium",
+      "injuries": [
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Michael Hoecht",
+          "status": "Questionable",
+          "detail": "Achilles"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Terrel Bernard",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Jedrick Wills",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Phidarian Mathis",
+          "status": "Out",
+          "detail": "Suspension"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Ty Johnson",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Tyrell Shavers",
+          "status": "IR/PUP",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Keon Coleman",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Connor McGovern",
+          "status": "Questionable",
+          "detail": "Leg"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Jude Bowry",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Khalil Shakir",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        }
+      ]
+    },
+    {
+      "id": "2026_09_JAX_BAL",
+      "kickoff": "2026-11-05T20:15:00-05:00",
+      "status": "scheduled",
+      "week": 9,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "jax",
+        "name": "Jacksonville Jaguars",
+        "abbreviation": "JAX",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+        "colors": {
+          "primary": "#006778",
+          "secondary": "#101820"
+        }
+      },
+      "home_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "M&T Bank Stadium",
+      "injuries": [
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "LeQuint Allen",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Brian Thomas",
+          "status": "Questionable",
+          "detail": "Shoulder"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Jakobi Meyers",
+          "status": "Questionable",
+          "detail": "Hand"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Patrick Mekari",
+          "status": "IR/PUP",
+          "detail": "Back"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Zach Durfee",
+          "status": "IR/PUP",
+          "detail": "Upper Body"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Wyatt Milum",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        }
+      ]
+    },
+    {
+      "id": "2026_10_LAC_BAL",
+      "kickoff": "2026-11-16T20:15:00-05:00",
+      "status": "scheduled",
+      "week": 10,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lac",
+        "name": "Los Angeles Chargers",
+        "abbreviation": "LAC",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+        "colors": {
+          "primary": "#0080C6",
+          "secondary": "#FFC20E"
+        }
+      },
+      "home_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "M&T Bank Stadium",
+      "injuries": [
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Rashawn Slater",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Isaiah World",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Keaton Mitchell",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Tre' Harris",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Cameron Dicker",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Brenen Thompson",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        }
+      ]
+    },
+    {
+      "id": "2026_11_BAL_CAR",
+      "kickoff": "2026-11-22T13:00:00-05:00",
+      "status": "scheduled",
+      "week": 11,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "home_team": {
+        "id": "car",
+        "name": "Carolina Panthers",
+        "abbreviation": "CAR",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+        "colors": {
+          "primary": "#0085CA",
+          "secondary": "#101820"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Bank of America Stadium",
+      "injuries": [
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Chuba Hubbard",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Xavier Legette",
+          "status": "Questionable",
+          "detail": "Lower Body"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Derrick Brown",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Jonathon Brooks",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Jaelan Phillips",
+          "status": "Questionable",
+          "detail": "Arm"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Trevor Etienne",
+          "status": "IR/PUP",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Ikem Ekwonu",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Haynes King",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Devin Lloyd",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Bam Martin-Scott",
+          "status": "IR/PUP",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Tershawn Wharton",
+          "status": "IR/PUP",
+          "detail": "Neck"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Taylor Moton",
+          "status": "IR/PUP",
+          "detail": "Illness"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Akayleb Evans",
+          "status": "Questionable",
+          "detail": "Neck"
+        }
+      ]
+    },
+    {
+      "id": "2026_12_BAL_HOU",
+      "kickoff": "2026-11-29T13:00:00-05:00",
+      "status": "scheduled",
+      "week": 12,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "home_team": {
+        "id": "hou",
+        "name": "Houston Texans",
+        "abbreviation": "HOU",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+        "colors": {
+          "primary": "#03202F",
+          "secondary": "#A71930"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Reliant Stadium",
+      "injuries": [
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Jaylin Noel",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Brevin Jordan",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Jadeveon Clowney",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Wade Woodaz",
+          "status": "Questionable",
+          "detail": "Thumb"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Jake Hansen",
+          "status": "Questionable",
+          "detail": "Chest"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "British Brooks",
+          "status": "Questionable",
+          "detail": "Hand"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "E.J. Speed",
+          "status": "IR/PUP",
+          "detail": "Quadriceps"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "M.J. Stewart",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Dominique Robinson",
+          "status": "Questionable",
+          "detail": "Calf"
+        }
+      ]
+    },
+    {
+      "id": "2026_14_TB_BAL",
+      "kickoff": "2026-12-13T13:00:00-05:00",
+      "status": "scheduled",
+      "week": 14,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "tb",
+        "name": "Tampa Bay Buccaneers",
+        "abbreviation": "TB",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+        "colors": {
+          "primary": "#D50A0A",
+          "secondary": "#34302B"
+        }
+      },
+      "home_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "M&T Bank Stadium",
+      "injuries": [
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Josh Hayes",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "David Sills",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Emeka Egbuka",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Jalen McMillan",
+          "status": "Questionable",
+          "detail": "Calf"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Rueben Bain",
+          "status": "Questionable",
+          "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        }
+      ]
+    },
+    {
+      "id": "2026_15_BAL_PIT",
+      "kickoff": "2026-12-20T13:00:00-05:00",
+      "status": "scheduled",
+      "week": 15,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "home_team": {
+        "id": "pit",
+        "name": "Pittsburgh Steelers",
+        "abbreviation": "PIT",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+        "colors": {
+          "primary": "#101820",
+          "secondary": "#FFB612"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Acrisure Stadium",
+      "injuries": [
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "DK Metcalf",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Michael Pittman",
+          "status": "Questionable",
+          "detail": "Leg"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Jack Driscoll",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Jalen Ramsey",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Ben Skowronek",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "DeShon Elliott",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Jaquan Brisker",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Will Howard",
+          "status": "Questionable",
+          "detail": "Head"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Brandin Echols",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Donte Kent",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        }
+      ]
+    },
+    {
+      "id": "2026_16_CLE_BAL",
+      "kickoff": "2026-12-27T13:00:00-05:00",
+      "status": "scheduled",
+      "week": 16,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "cle",
+        "name": "Cleveland Browns",
+        "abbreviation": "CLE",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+        "colors": {
+          "primary": "#311D00",
+          "secondary": "#FF3C00"
+        }
+      },
+      "home_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "M&T Bank Stadium",
+      "injuries": [
+        {
+          "team": "Cleveland Browns",
+          "player": "Joe Royer",
+          "status": "IR/PUP",
+          "detail": "Personal"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Jeremiah Owusu-Koramoah",
+          "status": "IR/PUP",
+          "detail": "Neck"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Isaiah Bond",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Parker Brailsford",
+          "status": "Questionable",
+          "detail": "Hand"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Michael Coats",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        }
+      ]
+    },
+    {
+      "id": "2026_17_BAL_CIN",
+      "kickoff": "2026-12-31T20:15:00-05:00",
+      "status": "scheduled",
+      "week": 17,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "home_team": {
+        "id": "cin",
+        "name": "Cincinnati Bengals",
+        "abbreviation": "CIN",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+        "colors": {
+          "primary": "#FB4F14",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Paycor Stadium",
+      "injuries": [
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Myles Murphy",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Shemar Stewart",
+          "status": "Questionable",
+          "detail": "Leg"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Dax Hill",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Tee Higgins",
+          "status": "Questionable",
+          "detail": "Heel"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Ja'Marr Chase",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Ja'Sir Taylor",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        }
+      ]
+    },
+    {
+      "id": "2026_18_PIT_BAL",
+      "kickoff": "2027-01-10T13:00:00-05:00",
+      "status": "scheduled",
+      "week": 18,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "pit",
+        "name": "Pittsburgh Steelers",
+        "abbreviation": "PIT",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+        "colors": {
+          "primary": "#101820",
+          "secondary": "#FFB612"
+        }
+      },
+      "home_team": {
+        "id": "bal",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "colors": {
+          "primary": "#241773",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "M&T Bank Stadium",
+      "injuries": [
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "DK Metcalf",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Michael Pittman",
+          "status": "Questionable",
+          "detail": "Leg"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Jack Driscoll",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Jalen Ramsey",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Ben Skowronek",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "DeShon Elliott",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Jaquan Brisker",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Will Howard",
+          "status": "Questionable",
+          "detail": "Head"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Brandin Echols",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Donte Kent",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Zay Flowers",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Aeneas Peebles",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Nnamdi Madubuike",
+          "status": "Questionable",
+          "detail": "Neck"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Teddye Buchanan",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jay Higgins",
+          "status": "Questionable",
+          "detail": "Concussion"
+        }
+      ]
+    }
+  ],
+  "injuries": [
+    {
+      "team": "Baltimore Ravens",
+      "player": "Zay Flowers",
+      "status": "Questionable",
+      "detail": "Undisclosed"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Aeneas Peebles",
+      "status": "Questionable",
+      "detail": "Undisclosed"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Nnamdi Madubuike",
+      "status": "Questionable",
+      "detail": "Neck"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Teddye Buchanan",
+      "status": "Questionable",
+      "detail": "Knee - ACL"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Jay Higgins",
+      "status": "Questionable",
+      "detail": "Concussion"
+    }
+  ],
+  "players": [
+    {
+      "id": "00-0036130",
+      "name": "Nnamdi Madubuike",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "92",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zvqf4b2ks5pwfkzynt5d",
+      "height": "75",
+      "weight": "305",
+      "experience": "6",
+      "college": "Texas A&M",
+      "depth_position": "LDE",
+      "depth_slot": "1",
+      "depth_rank": 1,
+      "depth_order": 11,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037756",
+      "name": "Travis Jones",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "98",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wm1f5uddgq3xmivgmrkz",
+      "height": "76",
+      "weight": "341",
+      "experience": "4",
+      "college": "Connecticut",
+      "depth_position": "NT",
+      "depth_slot": "2",
+      "depth_rank": 1,
+      "depth_order": 12,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0030070",
+      "name": "John Jenkins",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "94",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l2na4hvtcq7nfp7svxar",
+      "height": "75",
+      "weight": "360",
+      "experience": "13",
+      "college": "Georgia; Gulf Coast CC; Mississippi",
+      "depth_position": "NT",
+      "depth_slot": "2",
+      "depth_rank": 2,
+      "depth_order": 12,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0026190",
+      "name": "Calais Campbell",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "93",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ekkaync0yveo2cwxlljr",
+      "height": "80",
+      "weight": "300",
+      "experience": "18",
+      "college": "Miami",
+      "depth_position": "RDE",
+      "depth_slot": "3",
+      "depth_rank": 1,
+      "depth_order": 13,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036081",
+      "name": "Broderick Washington",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "96",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p5tkzkh6v2hda70lwojk",
+      "height": "74",
+      "weight": "315",
+      "experience": "6",
+      "college": "Texas Tech",
+      "depth_position": "RDE",
+      "depth_slot": "3",
+      "depth_rank": 2,
+      "depth_order": 13,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040076",
+      "name": "Aeneas Peebles",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "90",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pzcjpjjrkwtkbp60ti5k",
+      "height": "72",
+      "weight": "290",
+      "experience": "1",
+      "college": "Virginia Tech; Duke",
+      "depth_position": "RDE",
+      "depth_slot": "3",
+      "depth_rank": 3,
+      "depth_order": 13,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034874",
+      "name": "Roquan Smith",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "0",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hfsdx9xzvyknsdm7bysy",
+      "height": "73",
+      "weight": "235",
+      "experience": "8",
+      "college": "Georgia",
+      "depth_position": "LILB",
+      "depth_slot": "5",
+      "depth_rank": 1,
+      "depth_order": 15,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040100",
+      "name": "Jay Higgins",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "49",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zsbevehh3h4bsqiyga5q",
+      "height": "72",
+      "weight": "230",
+      "experience": "1",
+      "college": "Iowa",
+      "depth_position": "LILB",
+      "depth_slot": "5",
+      "depth_rank": 2,
+      "depth_order": 15,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040069",
+      "name": "Teddye Buchanan",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "40",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ktowwliocunqxlxfznev",
+      "height": "74",
+      "weight": "240",
+      "experience": "1",
+      "college": "California",
+      "depth_position": "RILB",
+      "depth_slot": "6",
+      "depth_rank": 1,
+      "depth_order": 16,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038504",
+      "name": "Trenton Simpson",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "32",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hoi5uajg40os0xa1odi9",
+      "height": "74",
+      "weight": "230",
+      "experience": "3",
+      "college": "Clemson",
+      "depth_position": "RILB",
+      "depth_slot": "6",
+      "depth_rank": 2,
+      "depth_order": 16,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038505",
+      "name": "Tavius Robinson",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "95",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mmvqyuqlg73zp0jwydxr",
+      "height": "78",
+      "weight": "265",
+      "experience": "3",
+      "college": "Mississippi",
+      "depth_position": "WLB",
+      "depth_slot": "4",
+      "depth_rank": 1,
+      "depth_order": 26,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041494",
+      "name": "Zion Young",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "9",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hnutmew9xs7czug8ujne",
+      "height": "77",
+      "weight": "262",
+      "experience": "0",
+      "college": "Missouri; Michigan State",
+      "depth_position": "WLB",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 26,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040978",
+      "name": "Ethan Burke",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "45",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tkhzwtnvhbbqu5sc7nui",
+      "height": "78",
+      "weight": "269",
+      "experience": "0",
+      "college": "Texas",
+      "depth_position": "WLB",
+      "depth_slot": "4",
+      "depth_rank": 3,
+      "depth_order": 26,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0033935",
+      "name": "Trey Hendrickson",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "91",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ck1pofe4hwbbowzhb8uh",
+      "height": "76",
+      "weight": "265",
+      "experience": "9",
+      "college": "Florida Atlantic",
+      "depth_position": "SLB",
+      "depth_slot": "7",
+      "depth_rank": 1,
+      "depth_order": 28,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "NYJ",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040722",
+      "name": "Mike Green",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "15",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dh7h3ratc2xd1xed7efh",
+      "height": "75",
+      "weight": "248",
+      "experience": "1",
+      "college": "Marshall; Virginia",
+      "depth_position": "SLB",
+      "depth_slot": "7",
+      "depth_rank": 2,
+      "depth_order": 28,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0032965",
+      "name": "Ronnie Stanley",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "79",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j91t0jvkrdhfmeoeeryr",
+      "height": "78",
+      "weight": "310",
+      "experience": "10",
+      "college": "Notre Dame",
+      "depth_position": "LT",
+      "depth_slot": "3",
+      "depth_rank": 1,
+      "depth_order": 2,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040070",
+      "name": "Carson Vinson",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "76",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lycewx6oqwpazl948vn7",
+      "height": "79",
+      "weight": "321",
+      "experience": "1",
+      "college": "Alabama A&M",
+      "depth_position": "LT",
+      "depth_slot": "3",
+      "depth_rank": 2,
+      "depth_order": 2,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036369",
+      "name": "John Simpson",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "74",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/avxt0i2490vqynqfd2qp",
+      "height": "76",
+      "weight": "330",
+      "experience": "6",
+      "college": "Clemson",
+      "depth_position": "LG",
+      "depth_slot": "4",
+      "depth_rank": 1,
+      "depth_order": 3,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NO",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038383",
+      "name": "Andrew Vorhees",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "72",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/svbcpu80smbthhzqxvnx",
+      "height": "78",
+      "weight": "320",
+      "experience": "3",
+      "college": "USC",
+      "depth_position": "LG",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 3,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0033901",
+      "name": "Ethan Pocic",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "77",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yl6ylttfhl37pjf4iqxi",
+      "height": "78",
+      "weight": "320",
+      "experience": "9",
+      "college": "LSU",
+      "depth_position": "C",
+      "depth_slot": "5",
+      "depth_rank": 1,
+      "depth_order": 4,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 11,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "SF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038629",
+      "name": "Jovaughn Gwyn",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "54",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tm2hlsk9mv702qczciho",
+      "height": "74",
+      "weight": "300",
+      "experience": "3",
+      "college": "South Carolina",
+      "depth_position": "C",
+      "depth_slot": "5",
+      "depth_rank": 2,
+      "depth_order": 4,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040866",
+      "name": "Olaivavega Ioane",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "71",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x3z8asowfyyrhgc0nujw",
+      "height": "76",
+      "weight": "320",
+      "experience": "0",
+      "college": "Penn State",
+      "depth_position": "RG",
+      "depth_slot": "6",
+      "depth_rank": 1,
+      "depth_order": 5,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040068",
+      "name": "Emery Jones Jr.",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "51",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bteu559usxxvvs2duvvv",
+      "height": "77",
+      "weight": "315",
+      "experience": "1",
+      "college": "LSU",
+      "depth_position": "RG",
+      "depth_slot": "6",
+      "depth_rank": 2,
+      "depth_order": 5,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039233",
+      "name": "Roger Rosengarten",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "70",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r8abyo2ewvwlbcvm5qry",
+      "height": "77",
+      "weight": "316",
+      "experience": "2",
+      "college": "Washington",
+      "depth_position": "RT",
+      "depth_slot": "7",
+      "depth_rank": 1,
+      "depth_order": 6,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034796",
+      "name": "Lamar Jackson",
+      "position": "QB",
+      "group": "Quarterbacks",
+      "number": "8",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eno6s5qzl9grbfbfwhoa",
+      "height": "74",
+      "weight": "205",
+      "experience": "8",
+      "college": "Louisville",
+      "depth_position": "QB",
+      "depth_slot": "9",
+      "depth_rank": 1,
+      "depth_order": 8,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "completions": 192,
+            "attempts": 302,
+            "passing_yards": 2549,
+            "passing_tds": 21,
+            "carries": 67,
+            "rushing_yards": 349,
+            "rushing_tds": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {
+                "completions": 14,
+                "attempts": 19,
+                "passing_yards": 209,
+                "passing_tds": 2,
+                "carries": 6,
+                "rushing_yards": 70,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {
+                "completions": 19,
+                "attempts": 29,
+                "passing_yards": 225,
+                "passing_tds": 4,
+                "carries": 2,
+                "rushing_yards": 13
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {
+                "completions": 21,
+                "attempts": 27,
+                "passing_yards": 288,
+                "passing_tds": 3,
+                "carries": 7,
+                "rushing_yards": 35
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {
+                "completions": 14,
+                "attempts": 20,
+                "passing_yards": 147,
+                "passing_tds": 1,
+                "carries": 6,
+                "rushing_yards": 48
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {
+                "completions": 18,
+                "attempts": 23,
+                "passing_yards": 204,
+                "passing_tds": 4,
+                "carries": 5,
+                "rushing_yards": 14
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {
+                "completions": 17,
+                "attempts": 29,
+                "passing_yards": 176,
+                "passing_tds": 1,
+                "carries": 9,
+                "rushing_yards": 36
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {
+                "completions": 14,
+                "attempts": 25,
+                "passing_yards": 193,
+                "carries": 4,
+                "rushing_yards": 10
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {
+                "completions": 13,
+                "attempts": 23,
+                "passing_yards": 153,
+                "carries": 7,
+                "rushing_yards": 11
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {
+                "completions": 17,
+                "attempts": 32,
+                "passing_yards": 246,
+                "carries": 6,
+                "rushing_yards": 27
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {
+                "completions": 19,
+                "attempts": 35,
+                "passing_yards": 219,
+                "passing_tds": 1,
+                "carries": 7,
+                "rushing_yards": 43,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {
+                "completions": 8,
+                "attempts": 12,
+                "passing_yards": 150,
+                "passing_tds": 2,
+                "carries": 2,
+                "rushing_yards": 26
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {
+                "completions": 7,
+                "attempts": 10,
+                "passing_yards": 101,
+                "carries": 2,
+                "rushing_yards": 7
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {
+                "completions": 11,
+                "attempts": 18,
+                "passing_yards": 238,
+                "passing_tds": 3,
+                "carries": 4,
+                "rushing_yards": 9
+              }
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0035993",
+      "name": "Tyler Huntley",
+      "position": "QB",
+      "group": "Quarterbacks",
+      "number": "5",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fxyjf9d5qkwqjdd8ypvv",
+      "height": "73",
+      "weight": "205",
+      "experience": "6",
+      "college": "Utah",
+      "depth_position": "QB",
+      "depth_slot": "9",
+      "depth_rank": 2,
+      "depth_order": 8,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "completions": 52,
+            "attempts": 67,
+            "passing_yards": 426,
+            "carries": 24,
+            "rushing_yards": 151,
+            "passing_tds": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {
+                "completions": 10,
+                "attempts": 15,
+                "passing_yards": 68,
+                "carries": 3,
+                "rushing_yards": 39
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {
+                "completions": 17,
+                "attempts": 22,
+                "passing_yards": 186,
+                "passing_tds": 1,
+                "carries": 8,
+                "rushing_yards": 53
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": -3
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {
+                "completions": 9,
+                "attempts": 10,
+                "passing_yards": 65,
+                "carries": 2,
+                "rushing_yards": 2
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {
+                "completions": 16,
+                "attempts": 20,
+                "passing_yards": 107,
+                "passing_tds": 1,
+                "carries": 8,
+                "rushing_yards": 60
+              }
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040981",
+      "name": "Joe Fagnano",
+      "position": "QB",
+      "group": "Quarterbacks",
+      "number": "12",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p8uqfsnpx153mn3gjtd3",
+      "height": "75",
+      "weight": "226",
+      "experience": "0",
+      "college": "Connecticut; Maine",
+      "depth_position": "QB",
+      "depth_slot": "9",
+      "depth_rank": 3,
+      "depth_order": 8,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0032764",
+      "name": "Derrick Henry",
+      "position": "RB",
+      "group": "Running Backs",
+      "number": "22",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tm79x0iknqg6hms3ypyt",
+      "height": "75",
+      "weight": "252",
+      "experience": "10",
+      "college": "Alabama",
+      "depth_position": "RB",
+      "depth_slot": "11",
+      "depth_rank": 1,
+      "depth_order": 9,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 307,
+            "rushing_yards": 1595,
+            "rushing_tds": 16,
+            "targets": 21,
+            "receptions": 15,
+            "receiving_yards": 150,
+            "attempts": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {
+                "carries": 18,
+                "rushing_yards": 169,
+                "rushing_tds": 2,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 11,
+                "rushing_yards": 23
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {
+                "attempts": 1,
+                "carries": 12,
+                "rushing_yards": 50,
+                "rushing_tds": 1,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 7
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {
+                "carries": 8,
+                "rushing_yards": 42,
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 16
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {
+                "carries": 15,
+                "rushing_yards": 33,
+                "rushing_tds": 1,
+                "targets": 1
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {
+                "carries": 24,
+                "rushing_yards": 122,
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 21,
+                "rushing_yards": 71,
+                "rushing_tds": 2,
+                "targets": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {
+                "carries": 19,
+                "rushing_yards": 119,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 2
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {
+                "carries": 20,
+                "rushing_yards": 75,
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 9
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 18,
+                "rushing_yards": 103,
+                "rushing_tds": 1,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 19
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {
+                "carries": 21,
+                "rushing_yards": 64,
+                "rushing_tds": 2,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 24
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {
+                "carries": 10,
+                "rushing_yards": 60,
+                "rushing_tds": 1,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 44
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {
+                "carries": 25,
+                "rushing_yards": 94,
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {
+                "carries": 11,
+                "rushing_yards": 100
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {
+                "carries": 18,
+                "rushing_yards": 128,
+                "rushing_tds": 2
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {
+                "carries": 36,
+                "rushing_yards": 216,
+                "rushing_tds": 4
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {
+                "carries": 20,
+                "rushing_yards": 126,
+                "targets": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034975",
+      "name": "Justice Hill",
+      "position": "RB",
+      "group": "Running Backs",
+      "number": "43",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fuodbrwvianete2gy5ag",
+      "height": "70",
+      "weight": "205",
+      "experience": "7",
+      "college": "Oklahoma State",
+      "depth_position": "RB",
+      "depth_slot": "11",
+      "depth_rank": 2,
+      "depth_order": 9,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 18,
+            "rushing_yards": 93,
+            "targets": 27,
+            "receptions": 21,
+            "receiving_yards": 169,
+            "rushing_tds": 2,
+            "receiving_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": -14,
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 7,
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 18
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 45
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 76,
+                "rushing_tds": 1,
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 41,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 3,
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 9
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {
+                "carries": 6,
+                "rushing_yards": 16,
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 28
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 2
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 2,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 1,
+                "rushing_tds": 1,
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039796",
+      "name": "Rasheen Ali",
+      "position": "RB",
+      "group": "Running Backs",
+      "number": "26",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zwjrkzu3ia3cfrwgotqt",
+      "height": "71",
+      "weight": "209",
+      "experience": "2",
+      "college": "Marshall",
+      "depth_position": "KR",
+      "depth_slot": "5",
+      "depth_rank": 1,
+      "depth_order": 77,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 7,
+            "rushing_yards": 24,
+            "targets": 11,
+            "receptions": 9,
+            "receiving_yards": 68,
+            "receiving_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 5
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 15
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {
+                "carries": 4,
+                "rushing_yards": 17
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 2,
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 11
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 32,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 2
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {
+                "carries": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039232",
+      "name": "Nate Wiggins",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "2",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fz9g7jofrkejlgowugfk",
+      "height": "73",
+      "weight": "185",
+      "experience": "2",
+      "college": "Clemson",
+      "depth_position": "LCB",
+      "depth_slot": "8",
+      "depth_rank": 1,
+      "depth_order": 18,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 3
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0033548",
+      "name": "Chidobe Awuzie",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "3",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o7hb0bwvyuymmsknlubx",
+      "height": "72",
+      "weight": "202",
+      "experience": "9",
+      "college": "Colorado",
+      "depth_position": "LCB",
+      "depth_slot": "8",
+      "depth_rank": 2,
+      "depth_order": 18,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0033281",
+      "name": "Marlon Humphrey",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "44",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zru6ellib9fzob6zq5c3",
+      "height": "72",
+      "weight": "210",
+      "experience": "9",
+      "college": "Alabama",
+      "depth_position": "RCB",
+      "depth_slot": "11",
+      "depth_rank": 1,
+      "depth_order": 19,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 4
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039234",
+      "name": "T.J. Tampa",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "27",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/poanrufasprugy1q1ulq",
+      "height": "73",
+      "weight": "200",
+      "experience": "2",
+      "college": "Iowa State",
+      "depth_position": "RCB",
+      "depth_slot": "11",
+      "depth_rank": 2,
+      "depth_order": 19,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036302",
+      "name": "Jaylinn Hawkins",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "21",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wll7vcwwhv4izv6klkg6",
+      "height": "73",
+      "weight": "210",
+      "experience": "6",
+      "college": "California",
+      "depth_position": "SS",
+      "depth_slot": "9",
+      "depth_rank": 1,
+      "depth_order": 20,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 4
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "LV",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CLE",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYJ",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "MIA",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 19,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 21,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 22,
+              "opponent": "SEA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040104",
+      "name": "Keondre Jackson",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "39",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nseq4vwhoakwfp7ytpp0",
+      "height": "74",
+      "weight": "215",
+      "experience": "1",
+      "college": "Illinois State",
+      "depth_position": "SS",
+      "depth_slot": "9",
+      "depth_rank": 2,
+      "depth_order": 20,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040688",
+      "name": "Malaki Starks",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "24",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lqdlc7railysoycjeny9",
+      "height": "73",
+      "weight": "205",
+      "experience": "1",
+      "college": "Georgia",
+      "depth_position": "FS",
+      "depth_slot": "10",
+      "depth_rank": 1,
+      "depth_order": 21,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038038",
+      "name": "Kyle Hamilton",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "14",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cshtattblpge9ngjve9a",
+      "height": "76",
+      "weight": "220",
+      "experience": "4",
+      "college": "Notre Dame",
+      "depth_position": "NB",
+      "depth_slot": "12",
+      "depth_rank": 1,
+      "depth_order": 34,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040636",
+      "name": "Keyon Martin",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "38",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kuvtqhos7jfzxbvykdrh",
+      "height": "69",
+      "weight": "166",
+      "experience": "1",
+      "college": "Louisiana-Lafayette; Youngstown State",
+      "depth_position": "NB",
+      "depth_slot": "12",
+      "depth_rank": 2,
+      "depth_order": 34,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040885",
+      "name": "Chandler Rivers",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "29",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uayykenigfog0qv48yd2",
+      "height": "70",
+      "weight": "185",
+      "experience": "0",
+      "college": "Duke",
+      "depth_position": "NB",
+      "depth_slot": "12",
+      "depth_rank": 3,
+      "depth_order": 34,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040074",
+      "name": "Tyler Loop",
+      "position": "K",
+      "group": "Specialists",
+      "number": "33",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kbwixtntqevptepedhll",
+      "height": "71",
+      "weight": "190",
+      "experience": "1",
+      "college": "Arizona",
+      "depth_position": "PK",
+      "depth_slot": "1",
+      "depth_rank": 1,
+      "depth_order": 22,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040898",
+      "name": "Ryan Eckley",
+      "position": "P",
+      "group": "Specialists",
+      "number": "30",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tnfndcjg7g14q1mscr5e",
+      "height": "72",
+      "weight": "200",
+      "experience": "0",
+      "college": "Michigan State",
+      "depth_position": "P",
+      "depth_slot": "2",
+      "depth_rank": 1,
+      "depth_order": 23,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0035408",
+      "name": "Nick Moore",
+      "position": "LS",
+      "group": "Specialists",
+      "number": "46",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jq66k7xnacmthlcx6kqx",
+      "height": "74",
+      "weight": "260",
+      "experience": "7",
+      "college": "Georgia",
+      "depth_position": "LS",
+      "depth_slot": "6",
+      "depth_rank": 1,
+      "depth_order": 39,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034753",
+      "name": "Mark Andrews",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "89",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u4xzz7tclch0tpzm9hhz",
+      "height": "77",
+      "weight": "250",
+      "experience": "8",
+      "college": "Oklahoma",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 1,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 70,
+            "receptions": 48,
+            "receiving_yards": 422,
+            "carries": 10,
+            "rushing_yards": 48,
+            "receiving_tds": 5,
+            "rushing_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 5
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 2,
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 2
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {
+                "targets": 6,
+                "receptions": 6,
+                "receiving_yards": 91,
+                "receiving_tds": 2
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {
+                "targets": 8,
+                "receptions": 7,
+                "receiving_yards": 30
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 22
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 2,
+                "targets": 6,
+                "receptions": 4,
+                "receiving_yards": 24
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 34
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 4,
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 22,
+                "receiving_tds": 2
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 14,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 35,
+                "rushing_tds": 1,
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 32
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 2,
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 9
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 6,
+                "receptions": 4,
+                "receiving_yards": 47
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 5,
+                "receptions": 1,
+                "receiving_yards": 9
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 18
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 3,
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 21
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 28
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 14
+              }
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034798",
+      "name": "Durham Smythe",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "80",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pwcuy1ntmris98x8xmxi",
+      "height": "76",
+      "weight": "248",
+      "experience": "8",
+      "college": "Notre Dame",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 2,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 9,
+            "receptions": 6,
+            "receiving_yards": 36
+          },
+          "weekly_stats": [
+            {
+              "week": 9,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "MIN",
+              "stats": {
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "GB",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 2
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "SF",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 11
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "GB",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 20,
+              "opponent": "LA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 5
+              }
+            }
+          ],
+          "team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040879",
+      "name": "Matthew Hibner",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "88",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kkkia0wl2sqsjiwecde0",
+      "height": "76",
+      "weight": "251",
+      "experience": "0",
+      "college": "SMU; Michigan",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 3,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040887",
+      "name": "Josh Cuevas",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "85",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/maktufaiogxfm5ewjsi9",
+      "height": "75",
+      "weight": "245",
+      "experience": "0",
+      "college": "Alabama; Washington; Pomona State",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 4,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039064",
+      "name": "Zay Flowers",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "4",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xzhto2dejy2pflkfx40c",
+      "height": "69",
+      "weight": "183",
+      "experience": "3",
+      "college": "Boston College",
+      "depth_position": "WR",
+      "depth_slot": "1",
+      "depth_rank": 1,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 10,
+            "rushing_yards": 62,
+            "targets": 118,
+            "receptions": 86,
+            "receiving_yards": 1211,
+            "receiving_tds": 5,
+            "rushing_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 8,
+                "targets": 9,
+                "receptions": 7,
+                "receiving_yards": 143,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4,
+                "targets": 11,
+                "receptions": 7,
+                "receiving_yards": 75
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {
+                "targets": 8,
+                "receptions": 7,
+                "receiving_yards": 74
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 5,
+                "receptions": 5,
+                "receiving_yards": 72
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {
+                "targets": 10,
+                "receptions": 6,
+                "receiving_yards": 46
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 8,
+                "targets": 9,
+                "receptions": 7,
+                "receiving_yards": 63
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 5,
+                "receptions": 5,
+                "receiving_yards": 64
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 6,
+                "targets": 6,
+                "receptions": 4,
+                "receiving_yards": 75
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 5,
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 78
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 11,
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 58
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 7,
+                "receptions": 2,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 2,
+                "targets": 11,
+                "receptions": 8,
+                "receiving_yards": 124
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 68,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 18,
+                "rushing_tds": 1,
+                "targets": 7,
+                "receptions": 7,
+                "receiving_yards": 84
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {
+                "targets": 5,
+                "receptions": 4,
+                "receiving_yards": 30,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 6,
+                "receptions": 4,
+                "receiving_yards": 138,
+                "receiving_tds": 2
+              }
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036550",
+      "name": "Rashod Bateman",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "7",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gtktmsfcxc1eijwpwzyq",
+      "height": "73",
+      "weight": "193",
+      "experience": "5",
+      "college": "Minnesota",
+      "depth_position": "WR",
+      "depth_slot": "2",
+      "depth_rank": 2,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 38,
+            "receptions": 19,
+            "receiving_yards": 224,
+            "receiving_tds": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 10
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 15
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {
+                "targets": 7,
+                "receptions": 5,
+                "receiving_yards": 63,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 24
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 3
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 51
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 13,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 10
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 23
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {
+                "targets": 2
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 7
+              }
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040870",
+      "name": "Ja'Kobi Lane",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "6",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gjezd2a8imfrxyv16wuj",
+      "height": "76",
+      "weight": "200",
+      "experience": "0",
+      "college": "USC",
+      "depth_position": "WR",
+      "depth_slot": "8",
+      "depth_rank": 3,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039792",
+      "name": "Devontez Walker",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "81",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x3x3k5ispk44ms0f7vrv",
+      "height": "73",
+      "weight": "200",
+      "experience": "2",
+      "college": "North Carolina; Kent State; North Carolina Central",
+      "depth_position": "WR",
+      "depth_slot": "1",
+      "depth_rank": 4,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 8,
+            "receptions": 6,
+            "receiving_yards": 136,
+            "receiving_tds": 3
+          },
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 26,
+                "receiving_tds": 2
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 34
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 30
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 2
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 46,
+                "receiving_tds": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040075",
+      "name": "LaJohntay Wester",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "10",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t6cyhtqoihm88xppswud",
+      "height": "69",
+      "weight": "170",
+      "experience": "1",
+      "college": "Colorado; Florida Atlantic",
+      "depth_position": "PR",
+      "depth_slot": "4",
+      "depth_rank": 1,
+      "depth_order": 76,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040876",
+      "name": "Elijah Sarratt",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "13",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rbtitvma6hjyotcajqtv",
+      "height": "74",
+      "weight": "210",
+      "experience": "0",
+      "college": "Indiana; James Madison; St. Francis PA",
+      "depth_position": "PR",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 76,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{{/*
+  Project override for Hugo 0.160 development builds. The theme's SCSS does
+  not contain Hugo template expressions, so compiling it directly avoids a
+  stale ExecuteAsTemplate resource reference during live reloads.
+*/}}
+{{ if hugo.IsServer }}
+  {{ $styles := resources.Get "scss/coder.scss" | toCSS (dict "targetPath" "css/coder.css" "enableSourceMap" true) }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
+{{ else }}
+  {{ $styles := resources.Get "scss/coder.scss" | toCSS (dict "targetPath" "css/coder.css") | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen">
+{{ end }}
+
+{{ if .Site.Params.rtl }}
+  {{ if hugo.IsServer }}
+    {{ $styles := resources.Get "scss/coder-rtl.scss" | toCSS (dict "targetPath" "css/coder-rtl.css" "enableSourceMap" true) }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
+  {{ else }}
+    {{ $styles := resources.Get "scss/coder-rtl.scss" | toCSS (dict "targetPath" "css/coder-rtl.css") | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen">
+  {{ end }}
+{{ end }}

@@ -1,0 +1,37 @@
+{{ define "title" }}NFL Player · {{ .Site.Title }}{{ end }}
+{{ define "content" }}
+<section class="player-page" data-player-app data-team-data-base-url="{{ "sports/data/teams/" | relURL }}" data-team-base-url="{{ "sports/teams/" | relURL }}">
+  <a class="team-back" data-player-back href="{{ "sports/" | relURL }}">← NFL Sports Center</a>
+  <div class="sports-notice" data-player-notice role="status">Loading player…</div>
+  <header class="player-page-hero" data-player-hero hidden>
+    <img data-player-headshot alt="" width="180" height="180">
+    <div class="player-page-identity">
+      <p data-player-team></p>
+      <h1 data-player-name>NFL player</h1>
+      <p data-player-meta></p>
+      <a data-player-team-link href="#">View team</a>
+    </div>
+    <button type="button" class="team-favorite-toggle player-favorite-toggle" data-player-favorite aria-pressed="false"><span aria-hidden="true">☆</span><span data-player-favorite-label>Add favorite</span></button>
+  </header>
+  <section class="player-page-section" data-player-content data-player-injury-section hidden>
+    <div class="sports-section-heading"><h2>Current status</h2></div>
+    <p data-player-injury></p>
+  </section>
+  <section class="player-page-section" data-player-content hidden>
+    <div class="sports-section-heading"><h2>Season totals</h2><div class="player-season-control" data-player-season-control hidden><label for="player-season-select">Season</label><select id="player-season-select" data-player-season-select></select></div></div>
+    <dl class="player-page-stats" data-player-totals></dl>
+  </section>
+  <section class="player-page-section" data-player-content hidden>
+    <div class="sports-section-heading"><h2>Week-by-week</h2><span data-player-week-count></span></div>
+    <div class="player-week-list" data-player-weeks></div>
+  </section>
+</section>
+{{ with resources.Get "js/sports-player.js" }}
+  {{ if hugo.IsServer }}
+    <script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>
+  {{ else }}
+    {{ $playerScript := . | minify | fingerprint }}
+    <script src="{{ $playerScript.RelPermalink }}" integrity="{{ $playerScript.Data.Integrity }}" crossorigin="anonymous"></script>
+  {{ end }}
+{{ end }}
+{{ end }}

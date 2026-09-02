@@ -7,10 +7,12 @@ import csv
 import hashlib
 import io
 import json
+import math
 import os
 import re
 import sys
 import time
+from collections import defaultdict
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 from pathlib import Path
@@ -47,6 +49,10 @@ NOTION_BASE = "https://api.notion.com/v1"
 SCHEDULE_URL = "https://raw.githubusercontent.com/nflverse/nfldata/master/data/games.csv"
 INJURIES_URL = "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_{season}.csv"
 SLEEPER_PLAYERS_URL = "https://api.sleeper.app/v1/players/nfl"
+ROSTER_URL = "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_{season}.csv"
+# Week-level rows let the static export build both weekly cards and season totals.
+PLAYER_STATS_URL = "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_{season}.csv"
+DEPTH_CHART_URL = "https://github.com/nflverse/nflverse-data/releases/download/depth_charts/depth_charts_{season}.csv"
 NOTION_TOKEN = os.getenv("NOTION_TOKEN", "").strip()
 SEASON = int(os.getenv("NFL_SEASON", str(datetime.now().year)))
 DRY_RUN = os.getenv("DRY_RUN", "false").lower() == "true"
@@ -390,7 +396,7 @@ TEAM_STYLE = {
     "Carolina Panthers": ("car", "CAR", "#0085CA", "#101820"), "Chicago Bears": ("chi", "CHI", "#0B162A", "#C83803"),
     "Cincinnati Bengals": ("cin", "CIN", "#FB4F14", "#000000"), "Cleveland Browns": ("cle", "CLE", "#311D00", "#FF3C00"),
     "Dallas Cowboys": ("dal", "DAL", "#003594", "#041E42"), "Denver Broncos": ("den", "DEN", "#FB4F14", "#002244"),
-    "Detroit Lions": ("det", "DET", "#0076B6", "#123B55"), "Green Bay Packers": ("gb", "GB", "#203731", "#B9975B"),
+    "Detroit Lions": ("det", "DET", "#0076B6", "#123B55"), "Green Bay Packers": ("gb", "GB", "#203731", "#FFB612"),
     "Houston Texans": ("hou", "HOU", "#03202F", "#A71930"), "Indianapolis Colts": ("ind", "IND", "#002C5F", "#A2AAAD"),
     "Jacksonville Jaguars": ("jax", "JAX", "#006778", "#101820"), "Kansas City Chiefs": ("kc", "KC", "#E31837", "#6B0F1A"),
     "Las Vegas Raiders": ("lv", "LV", "#000000", "#4B4B4B"), "Los Angeles Chargers": ("lac", "LAC", "#0080C6", "#FFC20E"),
@@ -496,6 +502,160 @@ def export_sports_source(path: Path) -> None:
     temporary.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     os.replace(temporary, path)
     print(f"Exported {len(output_games)} games for public sanitization")
+    export_team_sources(path.parent / "sports-teams", payload, injuries_by_team)
+
+
+STAT_FIELDS = (
+    "games", "completions", "attempts", "passing_yards", "passing_tds", "interceptions",
+    "carries", "rushing_yards", "rushing_tds", "targets", "receptions", "receiving_yards",
+    "receiving_tds", "tackles", "tackles_solo", "sacks", "def_interceptions", "forced_fumbles",
+    "field_goals_made", "field_goals_attempted", "extra_points_made", "extra_points_attempted",
+)
+
+
+def first_value(row: dict[str, Any], *names: str) -> str:
+    return next((str(row.get(name)).strip() for name in names if row.get(name) not in (None, "")), "")
+
+
+def numeric_value(value: Any) -> int | float | None:
+    if value in (None, ""): return None
+    try:
+        number_value = float(value)
+        if not math.isfinite(number_value): return None
+        return int(number_value) if number_value.is_integer() else round(number_value, 2)
+    except (TypeError, ValueError):
+        return None
+
+
+def position_group(position: str) -> str:
+    position = position.upper()
+    if position in {"QB"}: return "Quarterbacks"
+    if position in {"RB", "FB"}: return "Running Backs"
+    if position in {"WR"}: return "Wide Receivers"
+    if position in {"TE"}: return "Tight Ends"
+    if position in {"C", "G", "OG", "OT", "T", "OL"}: return "Offensive Line"
+    if position in {"DE", "DT", "NT", "DL"}: return "Defensive Line"
+    if position in {"LB", "ILB", "OLB"}: return "Linebackers"
+    if position in {"CB"}: return "Cornerbacks"
+    if position in {"S", "FS", "SS", "DB"}: return "Safeties"
+    if position in {"K", "P", "LS"}: return "Specialists"
+    return "Other"
+
+
+def export_team_sources(directory: Path, sports_payload: dict[str, Any], injuries_by_team: dict[str, list[dict[str, str]]]) -> None:
+    rosters = fetch_csv(ROSTER_URL.format(season=SEASON))
+    stats_rows_by_season: dict[int, list[dict[str, str]]] = {}
+    for stats_season in (SEASON, SEASON - 1):
+        try:
+            stats_rows_by_season[stats_season] = fetch_csv(PLAYER_STATS_URL.format(season=stats_season))
+        except requests.HTTPError as exc:
+            if exc.response is None or exc.response.status_code != 404: raise
+            stats_rows_by_season[stats_season] = []
+    try:
+        depth_rows = fetch_csv(DEPTH_CHART_URL.format(season=SEASON))
+    except requests.HTTPError as exc:
+        if exc.response is None or exc.response.status_code != 404: raise
+        depth_rows = []
+    latest_depth_date: dict[str, str] = {}
+    for row in depth_rows:
+        team_name = canonical_team(first_value(row, "team", "club_code"))
+        chart_date = first_value(row, "dt", "week")
+        if team_name in TEAM_STYLE and chart_date > latest_depth_date.get(team_name, ""):
+            latest_depth_date[team_name] = chart_date
+    depth_by_player: dict[tuple[str, str], dict[str, Any]] = {}
+    for row in depth_rows:
+        team_name = canonical_team(first_value(row, "team", "club_code"))
+        if team_name not in TEAM_STYLE or first_value(row, "dt", "week") != latest_depth_date.get(team_name): continue
+        player_id = first_value(row, "gsis_id")
+        rank = numeric_value(first_value(row, "pos_rank", "depth_team"))
+        if not player_id or rank is None: continue
+        entry = {
+            "depth_rank": int(rank),
+            "depth_position": first_value(row, "pos_abb", "depth_position", "position"),
+            "depth_slot": first_value(row, "pos_slot", "formation"),
+            "depth_order": numeric_value(first_value(row, "pos_id")) or 999,
+        }
+        key = (team_name, player_id)
+        if key not in depth_by_player or entry["depth_rank"] < depth_by_player[key]["depth_rank"]:
+            depth_by_player[key] = entry
+    stats_by_player: dict[str, list[dict[str, str]]] = defaultdict(list)
+    for stats_season, stats_rows in stats_rows_by_season.items():
+        for row in stats_rows:
+            player_id = first_value(row, "player_id", "gsis_id")
+            if player_id:
+                row["_sports_season"] = str(stats_season)
+                stats_by_player[player_id].append(row)
+    games_by_team: dict[str, list[dict[str, Any]]] = {name: [] for name in TEAM_STYLE}
+    for game in sports_payload["games"]:
+        games_by_team[game["away_team"]["name"]].append(game)
+        games_by_team[game["home_team"]["name"]].append(game)
+    players_by_team: dict[str, list[dict[str, Any]]] = {name: [] for name in TEAM_STYLE}
+    for row in rosters:
+        team_name = canonical_team(first_value(row, "team"))
+        if team_name not in TEAM_STYLE: continue
+        status = first_value(row, "status").upper()
+        if status and status not in {"ACT", "ACTIVE"}: continue
+        player_id = first_value(row, "gsis_id", "player_id", "nfl_id")
+        name = first_value(row, "full_name", "player_name", "football_name")
+        position = first_value(row, "position", "depth_chart_position").upper()
+        if not player_id or not name or not position: continue
+        player_stat_rows = stats_by_player.get(player_id, [])
+        seasons: list[dict[str, Any]] = []
+        for stats_season in (SEASON, SEASON - 1):
+            season_rows = [stats_row for stats_row in player_stat_rows if first_value(stats_row, "_sports_season") == str(stats_season)]
+            stats: dict[str, int | float] = {}
+            weekly_stats: list[dict[str, Any]] = []
+            for stats_row in season_rows:
+                week = numeric_value(stats_row.get("week"))
+                if week is None: continue
+                week_values = {field: value for field in STAT_FIELDS if (value := numeric_value(stats_row.get(field))) is not None and value != 0}
+                for field, value in week_values.items(): stats[field] = round(stats.get(field, 0) + value, 2)
+                weekly_stats.append({"week": int(week), "opponent": first_value(stats_row, "opponent_team", "opponent"), "stats": week_values})
+            affiliation = next((canonical_team(first_value(stats_row, "recent_team", "team", "team_abbr")) for stats_row in reversed(season_rows) if canonical_team(first_value(stats_row, "recent_team", "team", "team_abbr")) in TEAM_STYLE), team_name if stats_season == SEASON else "")
+            if season_rows or stats_season == SEASON:
+                season_payload: dict[str, Any] = {"season": stats_season, "stats": stats, "weekly_stats": sorted(weekly_stats, key=lambda item: item["week"])}
+                if affiliation: season_payload["team"] = team_payload(affiliation)
+                seasons.append(season_payload)
+        current = next((entry for entry in seasons if entry["season"] == SEASON), {"stats": {}, "weekly_stats": []})
+        player: dict[str, Any] = {
+            "id": player_id, "name": name, "position": position, "group": position_group(position),
+            "stats": current["stats"], "weekly_stats": current["weekly_stats"], "seasons": seasons,
+        }
+        if depth := depth_by_player.get((team_name, player_id)):
+            player.update(depth)
+        for output_name, candidates in {
+            "number": ("jersey_number", "number"), "headshot_url": ("headshot_url",), "height": ("height",),
+            "weight": ("weight",), "experience": ("years_exp", "experience"), "college": ("college", "college_name"),
+        }.items():
+            value = first_value(row, *candidates) or next((first_value(stats_row, *candidates) for stats_row in player_stat_rows if first_value(stats_row, *candidates)), "")
+            if value: player[output_name] = value
+        players_by_team[team_name].append(player)
+    directory.mkdir(parents=True, exist_ok=True)
+    for team_name, (team_id, _abbr, _primary, _secondary) in TEAM_STYLE.items():
+        team_games = sorted(games_by_team[team_name], key=lambda item: item["kickoff"])
+        wins = losses = ties = 0
+        for game in team_games:
+            if game["status"] != "final": continue
+            own = game["home_score"] if game["home_team"]["id"] == team_id else game["away_score"]
+            other = game["away_score"] if game["home_team"]["id"] == team_id else game["home_score"]
+            if own > other: wins += 1
+            elif own < other: losses += 1
+            else: ties += 1
+        record = f"{wins}-{losses}" + (f"-{ties}" if ties else "")
+        payload = {
+            "schema_version": 1, "generated_at": NOW, "season": SEASON,
+            "team": team_payload(team_name, record), "games": team_games,
+            "injuries": injuries_by_team.get(team_name, []),
+            "players": sorted(players_by_team[team_name], key=lambda item: (
+                item["group"], item.get("depth_order", 999), item.get("depth_position", item["position"]),
+                item.get("depth_rank", 999), item["name"],
+            )),
+        }
+        output = directory / f"{team_id}.json"
+        temporary = output.with_suffix(".json.tmp")
+        temporary.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        os.replace(temporary, output)
+    print("Exported 32 team roster sources for public sanitization")
 
 
 def main() -> None:

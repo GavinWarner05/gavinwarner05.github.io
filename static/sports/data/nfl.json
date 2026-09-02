@@ -1,11 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-01T20:27:21+00:00",
+  "generated_at": "2026-09-02T05:32:12+00:00",
   "display_timezone": "America/Los_Angeles",
-  "favorites": [
-    "atl",
-    "min"
-  ],
+  "favorites": [],
   "games": [
     {
       "id": "2026_01_NE_SEA",
@@ -1664,7 +1661,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "home_team": {
@@ -3064,7 +3061,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "home_team": {
@@ -4402,7 +4399,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "away_score": null,
@@ -4998,6 +4995,8 @@
       "away_score": null,
       "home_score": null,
       "venue": "Lucas Oil Stadium",
+      "away_jersey": "Rivalry Series",
+      "home_jersey": "Rivalry Series",
       "injuries": [
         {
           "team": "Houston Texans",
@@ -7742,7 +7741,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "home_team": {
@@ -10146,12 +10145,14 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "away_score": null,
       "home_score": null,
       "venue": "Lambeau Field",
+      "away_jersey": "Rivalry Series",
+      "home_jersey": "Rivalry Series",
       "injuries": [
         {
           "team": "Chicago Bears",
@@ -12338,7 +12339,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "away_score": null,
@@ -14104,7 +14105,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "home_team": {
@@ -14620,7 +14621,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "away_score": null,
@@ -15108,6 +15109,8 @@
       "away_score": null,
       "home_score": null,
       "venue": "Ford Field",
+      "away_jersey": "Rivalry Series",
+      "home_jersey": "Rivalry Series",
       "injuries": [
         {
           "team": "Minnesota Vikings",
@@ -15254,6 +15257,8 @@
       "away_score": null,
       "home_score": null,
       "venue": "EverBank Stadium",
+      "away_jersey": "Rivalry Series",
+      "home_jersey": "Rivalry Series",
       "injuries": [
         {
           "team": "Indianapolis Colts",
@@ -17960,7 +17965,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "home_team": {
@@ -19048,7 +19053,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "away_score": null,
@@ -19656,6 +19661,8 @@
       "away_score": null,
       "home_score": null,
       "venue": "Nissan Stadium",
+      "away_jersey": "Rivalry Series",
+      "home_jersey": "Rivalry Series",
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
@@ -20394,6 +20401,8 @@
       "away_score": null,
       "home_score": null,
       "venue": "Reliant Stadium",
+      "away_jersey": "Rivalry Series",
+      "home_jersey": "Rivalry Series",
       "injuries": [
         {
           "team": "Indianapolis Colts",
@@ -22186,7 +22195,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "home_team": {
@@ -24914,7 +24923,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "home_team": {
@@ -25324,6 +25333,7 @@
       "away_score": null,
       "home_score": null,
       "venue": "Raymond James Stadium",
+      "home_jersey": "Throwback",
       "injuries": [
         {
           "team": "Los Angeles Chargers",
@@ -28168,7 +28178,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "away_score": null,
@@ -29110,7 +29120,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "away_score": null,
@@ -30378,6 +30388,8 @@
       "away_score": null,
       "home_score": null,
       "venue": "U.S. Bank Stadium",
+      "away_jersey": "Rivalry Series",
+      "home_jersey": "Rivalry Series",
       "injuries": [
         {
           "team": "Detroit Lions",
@@ -30764,7 +30776,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "home_team": {
@@ -30780,6 +30792,8 @@
       "away_score": null,
       "home_score": null,
       "venue": "Soldier Field",
+      "away_jersey": "Rivalry Series",
+      "home_jersey": "Rivalry Series",
       "injuries": [
         {
           "team": "Green Bay Packers",
@@ -31676,6 +31690,7 @@
       "away_score": null,
       "home_score": null,
       "venue": "U.S. Bank Stadium",
+      "home_jersey": "Winter Warrior White/Purple",
       "injuries": [
         {
           "team": "Washington Commanders",
@@ -34860,7 +34875,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "away_score": null,
@@ -35870,7 +35885,7 @@
         "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "colors": {
           "primary": "#203731",
-          "secondary": "#B9975B"
+          "secondary": "#FFB612"
         }
       },
       "away_score": null,

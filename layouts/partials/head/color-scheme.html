@@ -1,0 +1,14 @@
+{{/* See head/theme-styles.html for why this compiles the theme SCSS directly. */}}
+{{ if or (eq .Site.Params.colorScheme "auto") (eq .Site.Params.colorScheme "dark") }}
+  {{ if hugo.IsServer }}
+    {{ $styles := resources.Get "scss/coder-dark.scss" | toCSS (dict "targetPath" "css/coder-dark.css" "enableSourceMap" true) }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
+  {{ else }}
+    {{ $styles := resources.Get "scss/coder-dark.scss" | toCSS (dict "targetPath" "css/coder-dark.css") | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen">
+  {{ end }}
+{{ end }}
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>

@@ -24,7 +24,7 @@ jobs:
       - name: Compile synchronization scripts
         env:
           PYTHONPYCACHEPREFIX: ${{ runner.temp }}/pycache
-        run: python -m py_compile scripts/sync.py scripts/build_sports_data.py
+        run: python -m py_compile scripts/sync.py scripts/build_sports_data.py scripts/build_team_data.py
       - name: Build sanitized fixture
         run: python scripts/build_sports_data.py --input data/sports/sample.json --output static/sports/data/nfl.json
       - uses: peaceiris/actions-hugo@v3

@@ -1,0 +1,30 @@
+{{ define "title" }}{{ .Title }} · NFL Sports Center{{ end }}
+{{ define "content" }}
+<section class="team-page" data-team-app data-team-id="{{ .Params.team_id }}" data-data-url="{{ printf "sports/data/teams/%s.json" .Params.team_id | relURL }}" data-team-base-url="{{ "sports/teams/" | relURL }}" data-player-url="{{ "sports/player/" | relURL }}">
+  <a class="team-back" data-team-back href="{{ "sports/" | relURL }}">← NFL Sports Center</a>
+  <header class="team-page-hero" data-team-hero>
+    <div class="team-page-identity">
+      <div class="team-page-logo" data-team-logo></div>
+      <div><p data-season-label>NFL team</p><h1>{{ .Title }}</h1><strong data-team-record></strong></div>
+    </div>
+    <button type="button" class="team-favorite-toggle" data-team-favorite aria-pressed="false"><span aria-hidden="true">☆</span><span data-team-favorite-label>Add favorite</span></button>
+    <p data-team-updated aria-live="polite">Loading roster and season…</p>
+  </header>
+  <div class="sports-notice" data-team-notice role="status" hidden></div>
+  <details class="team-page-section team-collapsible" data-collapse-key="schedule" open>
+    <summary class="sports-section-heading team-collapse-summary"><span class="team-section-title">Season schedule</span><span data-schedule-count></span></summary>
+    <div class="team-schedule" data-team-schedule></div>
+  </details>
+  <details class="team-page-section team-collapsible" data-team-injuries-section data-collapse-key="injuries" open hidden>
+    <summary class="sports-section-heading team-collapse-summary"><span class="team-section-title">Active injuries</span><span data-injury-count></span></summary>
+    <div class="team-injury-list" data-team-injuries></div>
+  </details>
+  <section class="team-page-section">
+    <div class="sports-section-heading team-roster-heading">
+      <h2>Active roster</h2>
+      <div class="team-roster-actions"><span data-roster-count></span><button type="button" class="team-collapse-all" data-roster-toggle>Collapse all positions</button></div>
+    </div>
+    <div data-roster-groups></div>
+  </section>
+</section>
+{{ end }}

@@ -1,0 +1,7219 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T05:32:12+00:00",
+  "season": 2026,
+  "team": {
+    "id": "lv",
+    "name": "Las Vegas Raiders",
+    "abbreviation": "LV",
+    "record": "0-0",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#4B4B4B"
+    }
+  },
+  "games": [
+    {
+      "id": "2026_01_MIA_LV",
+      "kickoff": "2026-09-13T16:25:00-04:00",
+      "status": "scheduled",
+      "week": 1,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "mia",
+        "name": "Miami Dolphins",
+        "abbreviation": "MIA",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+        "colors": {
+          "primary": "#008E97",
+          "secondary": "#FC4C02"
+        }
+      },
+      "home_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Allegiant Stadium",
+      "injuries": [
+        {
+          "team": "Miami Dolphins",
+          "player": "Zach Sieler",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Storm Duck",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Will Kacmarek",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Ronnie Harrison",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Jacob Rodriguez",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Ollie Gordon",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Ben Sims",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Darrell Baker",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Trey Moore",
+          "status": "IR/PUP",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Kenneth Grant",
+          "status": "IR/PUP",
+          "detail": "Leg"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        }
+      ]
+    },
+    {
+      "id": "2026_02_LV_LAC",
+      "kickoff": "2026-09-20T16:05:00-04:00",
+      "status": "scheduled",
+      "week": 2,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "home_team": {
+        "id": "lac",
+        "name": "Los Angeles Chargers",
+        "abbreviation": "LAC",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+        "colors": {
+          "primary": "#0080C6",
+          "secondary": "#FFC20E"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "SoFi Stadium",
+      "injuries": [
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Rashawn Slater",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Isaiah World",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Keaton Mitchell",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Tre' Harris",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Cameron Dicker",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Brenen Thompson",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        }
+      ]
+    },
+    {
+      "id": "2026_03_LV_NO",
+      "kickoff": "2026-09-27T16:25:00-04:00",
+      "status": "scheduled",
+      "week": 3,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "home_team": {
+        "id": "no",
+        "name": "New Orleans Saints",
+        "abbreviation": "NO",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+        "colors": {
+          "primary": "#101820",
+          "secondary": "#D3BC8D"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Caesars Superdome",
+      "injuries": [
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Nick Saldiveri",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Cameron Jordan",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Oscar Delp",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Alvin Kamara",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "John Ridgeway",
+          "status": "Questionable",
+          "detail": "Back"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Lorenzo Styles",
+          "status": "Questionable",
+          "detail": "Calf"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Jaylan Ford",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Quincy Riley",
+          "status": "Questionable",
+          "detail": "Groin"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Pete Werner",
+          "status": "Questionable",
+          "detail": "Groin"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Mason Tipton",
+          "status": "IR/PUP",
+          "detail": "Groin"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Chris Rumph",
+          "status": "Questionable",
+          "detail": "Ankle"
+        }
+      ]
+    },
+    {
+      "id": "2026_04_KC_LV",
+      "kickoff": "2026-10-04T16:25:00-04:00",
+      "status": "scheduled",
+      "week": 4,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "kc",
+        "name": "Kansas City Chiefs",
+        "abbreviation": "KC",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+        "colors": {
+          "primary": "#E31837",
+          "secondary": "#6B0F1A"
+        }
+      },
+      "home_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Allegiant Stadium",
+      "injuries": [
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Ashton Gillotte",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Kenneth Walker",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "L'Jarius Sneed",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Drue Tranquill",
+          "status": "Questionable",
+          "detail": "Back"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Trey Smith",
+          "status": "Questionable",
+          "detail": "Hip"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Alohi Gilman",
+          "status": "Questionable",
+          "detail": "Back"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Patrick Mahomes",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Omarr Norman-Lott",
+          "status": "IR/PUP",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        }
+      ]
+    },
+    {
+      "id": "2026_05_LV_NE",
+      "kickoff": "2026-10-11T13:00:00-04:00",
+      "status": "scheduled",
+      "week": 5,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "home_team": {
+        "id": "ne",
+        "name": "New England Patriots",
+        "abbreviation": "NE",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+        "colors": {
+          "primary": "#002244",
+          "secondary": "#C60C30"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Gillette Stadium",
+      "injuries": [
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Brenden Schooler",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Harold Landry",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Marcus Bryant",
+          "status": "IR/PUP",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Khalil Jacobs",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Questionable",
+          "detail": "Leg"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Bryce Baringer",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        }
+      ]
+    },
+    {
+      "id": "2026_06_BUF_LV",
+      "kickoff": "2026-10-18T16:25:00-04:00",
+      "status": "scheduled",
+      "week": 6,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "buf",
+        "name": "Buffalo Bills",
+        "abbreviation": "BUF",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+        "colors": {
+          "primary": "#00338D",
+          "secondary": "#C60C30"
+        }
+      },
+      "home_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Allegiant Stadium",
+      "injuries": [
+        {
+          "team": "Buffalo Bills",
+          "player": "Michael Hoecht",
+          "status": "Questionable",
+          "detail": "Achilles"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Terrel Bernard",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Jedrick Wills",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Phidarian Mathis",
+          "status": "Out",
+          "detail": "Suspension"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Ty Johnson",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Tyrell Shavers",
+          "status": "IR/PUP",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Keon Coleman",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Connor McGovern",
+          "status": "Questionable",
+          "detail": "Leg"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Jude Bowry",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Khalil Shakir",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        }
+      ]
+    },
+    {
+      "id": "2026_07_LA_LV",
+      "kickoff": "2026-10-25T16:25:00-04:00",
+      "status": "scheduled",
+      "week": 7,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lar",
+        "name": "Los Angeles Rams",
+        "abbreviation": "LAR",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+        "colors": {
+          "primary": "#003594",
+          "secondary": "#FFA300"
+        }
+      },
+      "home_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Allegiant Stadium",
+      "injuries": [
+        {
+          "team": "Los Angeles Rams",
+          "player": "Kobie Turner",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Keagen Trost",
+          "status": "IR/PUP",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Justin Dedich",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alaric Jackson",
+          "status": "Questionable",
+          "detail": "Illness"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Davis Allen",
+          "status": "Questionable",
+          "detail": "Quadriceps"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Shaun Dolac",
+          "status": "Questionable",
+          "detail": "Knee - PCL"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Myles Garrett",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Puka Nacua",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Terrance Ferguson",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        }
+      ]
+    },
+    {
+      "id": "2026_08_LV_NYJ",
+      "kickoff": "2026-11-01T13:00:00-05:00",
+      "status": "scheduled",
+      "week": 8,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "home_team": {
+        "id": "nyj",
+        "name": "New York Jets",
+        "abbreviation": "NYJ",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+        "colors": {
+          "primary": "#125740",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "MetLife Stadium",
+      "injuries": [
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Breece Hall",
+          "status": "Questionable",
+          "detail": "Thigh"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Da'Quan Felton",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Qwan'tez Stiggers",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Joseph Ossai",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Anez Cooper",
+          "status": "IR/PUP",
+          "detail": "Shoulder"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Nahshon Wright",
+          "status": "Questionable",
+          "detail": "Hip"
+        },
+        {
+          "team": "New York Jets",
+          "player": "D'Angelo Ponds",
+          "status": "Questionable",
+          "detail": "Calf"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Kenyon Sadiq",
+          "status": "Questionable",
+          "detail": "Abdomen"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Tyler Baron",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Isaiah Davis",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "New York Jets",
+          "player": "VJ Payne",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        }
+      ]
+    },
+    {
+      "id": "2026_09_LV_SF",
+      "kickoff": "2026-11-08T16:05:00-05:00",
+      "status": "scheduled",
+      "week": 9,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "home_team": {
+        "id": "sf",
+        "name": "San Francisco 49ers",
+        "abbreviation": "SF",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+        "colors": {
+          "primary": "#AA0000",
+          "secondary": "#B3995D"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Levi's Stadium",
+      "injuries": [
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Dominick Puni",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Bosa",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Vederian Lowe",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Kyle Juszczyk",
+          "status": "Questionable",
+          "detail": "Finger"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Brandon Aiyuk",
+          "status": "Out",
+          "detail": "Knee - ACL + MCL"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Gracen Halton",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Keion White",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Upton Stout",
+          "status": "Questionable",
+          "detail": "Hip"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Austen Pleasants",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Kurtis Rourke",
+          "status": "Questionable",
+          "detail": "Ribs"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "George Kittle",
+          "status": "Questionable",
+          "detail": "Achilles"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Ephesians Prysock",
+          "status": "Questionable",
+          "detail": "Shoulder"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Luke Gifford",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Romello Height",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Christian McCaffrey",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Renardo Green",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Brayden Willis",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "De'Zhaun Stribling",
+          "status": "Questionable",
+          "detail": "Shoulder"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Mike Evans",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Isaac Guerendo",
+          "status": "IR/PUP",
+          "detail": "Pectoral"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Malik Mustapha",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nate Hobbs",
+          "status": "Questionable",
+          "detail": "Groin"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Jacob Cowing",
+          "status": "Questionable",
+          "detail": "Groin"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Mykel Williams",
+          "status": "IR/PUP",
+          "detail": "Knee - ACL"
+        }
+      ]
+    },
+    {
+      "id": "2026_10_SEA_LV",
+      "kickoff": "2026-11-15T16:05:00-05:00",
+      "status": "scheduled",
+      "week": 10,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "sea",
+        "name": "Seattle Seahawks",
+        "abbreviation": "SEA",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+        "colors": {
+          "primary": "#002244",
+          "secondary": "#69BE28"
+        }
+      },
+      "home_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Allegiant Stadium",
+      "injuries": [
+        {
+          "team": "Seattle Seahawks",
+          "player": "Zach Charbonnet",
+          "status": "IR/PUP",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Brandon Pili",
+          "status": "Questionable",
+          "detail": "Lower Leg"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Questionable",
+          "detail": "Leg"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Terrion Arnold",
+          "status": "Out",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Irv Charles",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        }
+      ]
+    },
+    {
+      "id": "2026_11_LV_DEN",
+      "kickoff": "2026-11-22T16:25:00-05:00",
+      "status": "scheduled",
+      "week": 11,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "home_team": {
+        "id": "den",
+        "name": "Denver Broncos",
+        "abbreviation": "DEN",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+        "colors": {
+          "primary": "#FB4F14",
+          "secondary": "#002244"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Empower Field at Mile High",
+      "injuries": [
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Riley Moss",
+          "status": "Questionable",
+          "detail": "Ribs"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Frank Crum",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Marvin Mims",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Caleb Lohner",
+          "status": "IR/PUP",
+          "detail": "Lower Body"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Jonathon Cooper",
+          "status": "Out",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Nick Gargiulo",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Josh Banderas",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Luke Wattenberg",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        }
+      ]
+    },
+    {
+      "id": "2026_12_LV_CLE",
+      "kickoff": "2026-11-29T13:00:00-05:00",
+      "status": "scheduled",
+      "week": 12,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "home_team": {
+        "id": "cle",
+        "name": "Cleveland Browns",
+        "abbreviation": "CLE",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+        "colors": {
+          "primary": "#311D00",
+          "secondary": "#FF3C00"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Huntington Bank Field",
+      "injuries": [
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Joe Royer",
+          "status": "IR/PUP",
+          "detail": "Personal"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Jeremiah Owusu-Koramoah",
+          "status": "IR/PUP",
+          "detail": "Neck"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Isaiah Bond",
+          "status": "Questionable",
+          "detail": "Concussion"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Parker Brailsford",
+          "status": "Questionable",
+          "detail": "Hand"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Michael Coats",
+          "status": "Questionable",
+          "detail": "Ankle"
+        }
+      ]
+    },
+    {
+      "id": "2026_14_LAC_LV",
+      "kickoff": "2026-12-13T16:05:00-05:00",
+      "status": "scheduled",
+      "week": 14,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lac",
+        "name": "Los Angeles Chargers",
+        "abbreviation": "LAC",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+        "colors": {
+          "primary": "#0080C6",
+          "secondary": "#FFC20E"
+        }
+      },
+      "home_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Allegiant Stadium",
+      "injuries": [
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Rashawn Slater",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Isaiah World",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Keaton Mitchell",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Tre' Harris",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Cameron Dicker",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Brenen Thompson",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        }
+      ]
+    },
+    {
+      "id": "2026_15_DEN_LV",
+      "kickoff": "2026-12-20T16:25:00-05:00",
+      "status": "scheduled",
+      "week": 15,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "den",
+        "name": "Denver Broncos",
+        "abbreviation": "DEN",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+        "colors": {
+          "primary": "#FB4F14",
+          "secondary": "#002244"
+        }
+      },
+      "home_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Allegiant Stadium",
+      "injuries": [
+        {
+          "team": "Denver Broncos",
+          "player": "Riley Moss",
+          "status": "Questionable",
+          "detail": "Ribs"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Frank Crum",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Marvin Mims",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Caleb Lohner",
+          "status": "IR/PUP",
+          "detail": "Lower Body"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Jonathon Cooper",
+          "status": "Out",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Nick Gargiulo",
+          "status": "IR/PUP",
+          "detail": "Knee"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Josh Banderas",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Luke Wattenberg",
+          "status": "Questionable",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        }
+      ]
+    },
+    {
+      "id": "2026_16_TEN_LV",
+      "kickoff": "2026-12-27T16:05:00-05:00",
+      "status": "scheduled",
+      "week": 16,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "ten",
+        "name": "Tennessee Titans",
+        "abbreviation": "TEN",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+        "colors": {
+          "primary": "#0C2340",
+          "secondary": "#4B92DB"
+        }
+      },
+      "home_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "Allegiant Stadium",
+      "injuries": [
+        {
+          "team": "Tennessee Titans",
+          "player": "Wan'Dale Robinson",
+          "status": "Questionable",
+          "detail": "Head"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Kalel Mullings",
+          "status": "Questionable",
+          "detail": "Hip"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Keldric Faulk",
+          "status": "Questionable",
+          "detail": "Shoulder"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Dorian Mausi",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Mitchell Trubisky",
+          "status": "Questionable",
+          "detail": "Biceps"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Joshua Williams",
+          "status": "IR/PUP",
+          "detail": "Pectoral"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        }
+      ]
+    },
+    {
+      "id": "2026_17_LV_ARI",
+      "kickoff": "2027-01-03T16:05:00-05:00",
+      "status": "scheduled",
+      "week": 17,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "home_team": {
+        "id": "ari",
+        "name": "Arizona Cardinals",
+        "abbreviation": "ARI",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+        "colors": {
+          "primary": "#97233F",
+          "secondary": "#000000"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "State Farm Stadium",
+      "injuries": [
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Tip Reiman",
+          "status": "IR/PUP",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Jeremiyah Love",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Blake Gillikin",
+          "status": "Questionable",
+          "detail": "Groin"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Will Johnson",
+          "status": "Questionable",
+          "detail": "Lower Body"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Dadrion Taylor-Demerson",
+          "status": "Questionable",
+          "detail": "Ribs"
+        }
+      ]
+    },
+    {
+      "id": "2026_18_LV_KC",
+      "kickoff": "2027-01-10T13:00:00-05:00",
+      "status": "scheduled",
+      "week": 18,
+      "season_phase": "Regular Season",
+      "away_team": {
+        "id": "lv",
+        "name": "Las Vegas Raiders",
+        "abbreviation": "LV",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#4B4B4B"
+        }
+      },
+      "home_team": {
+        "id": "kc",
+        "name": "Kansas City Chiefs",
+        "abbreviation": "KC",
+        "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+        "colors": {
+          "primary": "#E31837",
+          "secondary": "#6B0F1A"
+        }
+      },
+      "away_score": null,
+      "home_score": null,
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "injuries": [
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Carter Runyon",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Ashton Jeanty",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Ashton Gillotte",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Kenneth Walker",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "L'Jarius Sneed",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Drue Tranquill",
+          "status": "Questionable",
+          "detail": "Back"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Trey Smith",
+          "status": "Questionable",
+          "detail": "Hip"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Alohi Gilman",
+          "status": "Questionable",
+          "detail": "Back"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Patrick Mahomes",
+          "status": "Questionable",
+          "detail": "Knee - ACL"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Omarr Norman-Lott",
+          "status": "IR/PUP",
+          "detail": "Knee - ACL"
+        }
+      ]
+    }
+  ],
+  "injuries": [
+    {
+      "team": "Las Vegas Raiders",
+      "player": "Carter Runyon",
+      "status": "IR/PUP",
+      "detail": "Undisclosed"
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "player": "Ashton Jeanty",
+      "status": "Questionable",
+      "detail": "Knee"
+    }
+  ],
+  "players": [
+    {
+      "id": "00-0037262",
+      "name": "Thomas Booker",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "99",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/awrlnfwnvv3ehlnbe4cp",
+      "height": "75",
+      "weight": "310",
+      "experience": "4",
+      "college": "Stanford",
+      "depth_position": "LDE",
+      "depth_slot": "1",
+      "depth_rank": 1,
+      "depth_order": 11,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034275",
+      "name": "Foley Fatukasi",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "63",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ttcdigwndhyvmhvgof25",
+      "height": "76",
+      "weight": "318",
+      "experience": "8",
+      "college": "Connecticut",
+      "depth_position": "LDE",
+      "depth_slot": "1",
+      "depth_rank": 2,
+      "depth_order": 11,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "TEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0033381",
+      "name": "Adam Butler",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "69",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lhf00svlch3ueul8msuq",
+      "height": "77",
+      "weight": "300",
+      "experience": "9",
+      "college": "Vanderbilt",
+      "depth_position": "NT",
+      "depth_slot": "2",
+      "depth_rank": 1,
+      "depth_order": 12,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040199",
+      "name": "JJ Pegues",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "92",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dvqvxiv0lmy8wyunoztu",
+      "height": "74",
+      "weight": "325",
+      "experience": "1",
+      "college": "Mississippi; Auburn",
+      "depth_position": "NT",
+      "depth_slot": "2",
+      "depth_rank": 2,
+      "depth_order": 12,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039423",
+      "name": "Jonah Laulu",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "96",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kxxw0cwdafdxbsvh5un9",
+      "height": "77",
+      "weight": "289",
+      "experience": "2",
+      "college": "Oklahoma; Hawaii",
+      "depth_position": "RDE",
+      "depth_slot": "3",
+      "depth_rank": 1,
+      "depth_order": 13,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040169",
+      "name": "Tonka Hemingway",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "97",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/naoeqgrcfxdgtdrimc6v",
+      "height": "75",
+      "weight": "285",
+      "experience": "1",
+      "college": "South Carolina",
+      "depth_position": "RDE",
+      "depth_slot": "3",
+      "depth_rank": 2,
+      "depth_order": 13,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034973",
+      "name": "Maxx Crosby",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "98",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r9gqe3lrjstj55ydljhk",
+      "height": "77",
+      "weight": "255",
+      "experience": "7",
+      "college": "Eastern Michigan",
+      "depth_position": "WLB",
+      "depth_slot": "4",
+      "depth_rank": 1,
+      "depth_order": 26,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036989",
+      "name": "Malcolm Koonce",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "51",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cujkqhjibrywjodwgfyp",
+      "height": "74",
+      "weight": "250",
+      "experience": "5",
+      "college": "Buffalo",
+      "depth_position": "WLB",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 26,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036479",
+      "name": "Kwity Paye",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "95",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ejgftgdqggikc5u1xqme",
+      "height": "74",
+      "weight": "265",
+      "experience": "5",
+      "college": "Michigan",
+      "depth_position": "SLB",
+      "depth_slot": "7",
+      "depth_rank": 1,
+      "depth_order": 28,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "HOU",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037615",
+      "name": "Nakobe Dean",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "17",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cyowdu41yhyzblsz2aam",
+      "height": "71",
+      "weight": "225",
+      "experience": "4",
+      "college": "Georgia",
+      "depth_position": "LILB",
+      "depth_slot": "5",
+      "depth_rank": 1,
+      "depth_order": 15,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 7,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "SF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039374",
+      "name": "Tommy Eichenberg",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "44",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nzujkx5ycu6leuz2ctie",
+      "height": "74",
+      "weight": "239",
+      "experience": "2",
+      "college": "Ohio State",
+      "depth_position": "LILB",
+      "depth_slot": "5",
+      "depth_rank": 2,
+      "depth_order": 15,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037074",
+      "name": "Quay Walker",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "7",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bqhumgranhitojob30mp",
+      "height": "76",
+      "weight": "240",
+      "experience": "4",
+      "college": "Georgia",
+      "depth_position": "RILB",
+      "depth_slot": "6",
+      "depth_rank": 1,
+      "depth_order": 16,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "CHI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040228",
+      "name": "Cody Lindenberg",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "55",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fkyosruw3thae4zuxksu",
+      "height": "74",
+      "weight": "235",
+      "experience": "1",
+      "college": "Minnesota",
+      "depth_position": "RILB",
+      "depth_slot": "6",
+      "depth_rank": 2,
+      "depth_order": 16,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036922",
+      "name": "Patrick Johnson",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "93",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qtngv13hh6rm4kfc52jt",
+      "height": "74",
+      "weight": "251",
+      "experience": "5",
+      "college": "Tulane",
+      "depth_position": "WLB",
+      "depth_slot": "4",
+      "depth_rank": 3,
+      "depth_order": 26,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CHI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034759",
+      "name": "Kolton Miller",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "74",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jaq8p0tiipizksjbt3aa",
+      "height": "80",
+      "weight": "325",
+      "experience": "8",
+      "college": "UCLA",
+      "depth_position": "LT",
+      "depth_slot": "3",
+      "depth_rank": 1,
+      "depth_order": 2,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040151",
+      "name": "Charles Grant",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "60",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pffkzj4vnk6gwfutt3ck",
+      "height": "77",
+      "weight": "300",
+      "experience": "1",
+      "college": "William & Mary",
+      "depth_position": "LT",
+      "depth_slot": "3",
+      "depth_rank": 2,
+      "depth_order": 2,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037829",
+      "name": "Spencer Burford",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "70",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wtff3ynyk6usevyirayk",
+      "height": "76",
+      "weight": "300",
+      "experience": "4",
+      "college": "Texas-San Antonio",
+      "depth_position": "LG",
+      "depth_slot": "4",
+      "depth_rank": 1,
+      "depth_order": 3,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 10,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "TEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "sf",
+            "name": "San Francisco 49ers",
+            "abbreviation": "SF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+            "colors": {
+              "primary": "#AA0000",
+              "secondary": "#B3995D"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040150",
+      "name": "Caleb Rogers",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "76",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ov3wd6opxyreuuofq5rk",
+      "height": "76",
+      "weight": "310",
+      "experience": "1",
+      "college": "Texas Tech",
+      "depth_position": "LG",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 3,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037825",
+      "name": "Tyler Linderbaum",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "65",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fh4i4wf9f4nslburymqu",
+      "height": "74",
+      "weight": "305",
+      "experience": "4",
+      "college": "Iowa",
+      "depth_position": "C",
+      "depth_slot": "5",
+      "depth_rank": 1,
+      "depth_order": 4,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039735",
+      "name": "Jackson Powers-Johnson",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "58",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o2lpxcphdigzwbjr12jh",
+      "height": "75",
+      "weight": "320",
+      "experience": "2",
+      "college": "Oregon",
+      "depth_position": "RG",
+      "depth_slot": "6",
+      "depth_rank": 1,
+      "depth_order": 5,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038586",
+      "name": "Atonio Mafi",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "56",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uvnz2p1foa0oivg3oq55",
+      "height": "74",
+      "weight": "339",
+      "experience": "3",
+      "college": "UCLA",
+      "depth_position": "RG",
+      "depth_slot": "6",
+      "depth_rank": 2,
+      "depth_order": 5,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039349",
+      "name": "DJ Glaze",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "71",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ypxzwxzy64kiigpmue1y",
+      "height": "76",
+      "weight": "305",
+      "experience": "2",
+      "college": "Maryland",
+      "depth_position": "RT",
+      "depth_slot": "7",
+      "depth_rank": 1,
+      "depth_order": 6,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040871",
+      "name": "Trey Zuhn III",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "66",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k2qgtsvaic93xeu4jqhh",
+      "height": "78",
+      "weight": "312",
+      "experience": "0",
+      "college": "Texas A&M",
+      "depth_position": "RT",
+      "depth_slot": "7",
+      "depth_rank": 2,
+      "depth_order": 6,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0029604",
+      "name": "Kirk Cousins",
+      "position": "QB",
+      "group": "Quarterbacks",
+      "number": "8",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/za7cynvpwlsro1tsaijk",
+      "height": "75",
+      "weight": "202",
+      "experience": "14",
+      "college": "Michigan State",
+      "depth_position": "QB",
+      "depth_slot": "9",
+      "depth_rank": 1,
+      "depth_order": 8,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "completions": 166,
+            "attempts": 269,
+            "passing_yards": 1721,
+            "carries": 14,
+            "rushing_yards": 7,
+            "passing_tds": 10,
+            "rushing_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "CAR",
+              "stats": {
+                "completions": 5,
+                "attempts": 7,
+                "passing_yards": 29
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "MIA",
+              "stats": {
+                "completions": 21,
+                "attempts": 31,
+                "passing_yards": 173,
+                "carries": 2,
+                "rushing_yards": 2
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "CAR",
+              "stats": {
+                "completions": 6,
+                "attempts": 14,
+                "passing_yards": 48,
+                "carries": 1,
+                "rushing_yards": 2
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "NO",
+              "stats": {
+                "completions": 16,
+                "attempts": 23,
+                "passing_yards": 199,
+                "passing_tds": 2,
+                "carries": 2,
+                "rushing_yards": 5
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "NYJ",
+              "stats": {
+                "completions": 21,
+                "attempts": 33,
+                "passing_yards": 234,
+                "passing_tds": 1
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "SEA",
+              "stats": {
+                "completions": 15,
+                "attempts": 30,
+                "passing_yards": 162
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "TB",
+              "stats": {
+                "completions": 30,
+                "attempts": 44,
+                "passing_yards": 373,
+                "passing_tds": 3
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "ARI",
+              "stats": {
+                "completions": 21,
+                "attempts": 35,
+                "passing_yards": 197,
+                "passing_tds": 2,
+                "carries": 5,
+                "rushing_yards": -3,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "LA",
+              "stats": {
+                "completions": 13,
+                "attempts": 20,
+                "passing_yards": 126,
+                "passing_tds": 1,
+                "carries": 1,
+                "rushing_yards": 1
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "NO",
+              "stats": {
+                "completions": 18,
+                "attempts": 32,
+                "passing_yards": 180,
+                "passing_tds": 1,
+                "carries": 3
+              }
+            }
+          ],
+          "team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041562",
+      "name": "Fernando Mendoza",
+      "position": "QB",
+      "group": "Quarterbacks",
+      "number": "15",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/umygvel2pumkyvxt3jm9",
+      "height": "77",
+      "weight": "236",
+      "experience": "0",
+      "college": "Indiana; California",
+      "depth_position": "QB",
+      "depth_slot": "9",
+      "depth_rank": 2,
+      "depth_order": 8,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038579",
+      "name": "Aidan O'Connell",
+      "position": "QB",
+      "group": "Quarterbacks",
+      "number": "12",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bcejxo7ofgk5pszhup12",
+      "height": "75",
+      "weight": "210",
+      "experience": "3",
+      "college": "Purdue",
+      "depth_position": "QB",
+      "depth_slot": "9",
+      "depth_rank": 3,
+      "depth_order": 8,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "completions": 10,
+            "attempts": 22,
+            "passing_yards": 102,
+            "carries": 1,
+            "rushing_yards": 7
+          },
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {
+                "completions": 10,
+                "attempts": 22,
+                "passing_yards": 102,
+                "carries": 1,
+                "rushing_yards": 7
+              }
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040122",
+      "name": "Ashton Jeanty",
+      "position": "RB",
+      "group": "Running Backs",
+      "number": "2",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/syspis1mntov9kgspb7r",
+      "height": "68",
+      "weight": "215",
+      "experience": "1",
+      "college": "Boise State",
+      "depth_position": "RB",
+      "depth_slot": "11",
+      "depth_rank": 1,
+      "depth_order": 9,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 266,
+            "rushing_yards": 975,
+            "rushing_tds": 5,
+            "targets": 73,
+            "receptions": 55,
+            "receiving_yards": 346,
+            "receiving_tds": 5
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {
+                "carries": 19,
+                "rushing_yards": 38,
+                "rushing_tds": 1,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 2
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {
+                "carries": 11,
+                "rushing_yards": 43,
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 1
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {
+                "carries": 17,
+                "rushing_yards": 63
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 21,
+                "rushing_yards": 138,
+                "rushing_tds": 1,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 17,
+                "receiving_tds": 2
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {
+                "carries": 14,
+                "rushing_yards": 67,
+                "targets": 7,
+                "receptions": 5,
+                "receiving_yards": 42
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {
+                "carries": 23,
+                "rushing_yards": 75,
+                "rushing_tds": 1,
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 11
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {
+                "carries": 6,
+                "rushing_yards": 21,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {
+                "carries": 13,
+                "rushing_yards": 42,
+                "targets": 5,
+                "receptions": 5,
+                "receiving_yards": 47,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {
+                "carries": 19,
+                "rushing_yards": 60,
+                "rushing_tds": 1,
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 6,
+                "rushing_yards": 7,
+                "targets": 8,
+                "receptions": 6,
+                "receiving_yards": 27
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 17,
+                "rushing_yards": 50,
+                "targets": 8,
+                "receptions": 8,
+                "receiving_yards": 58,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {
+                "carries": 15,
+                "rushing_yards": 31,
+                "targets": 8,
+                "receptions": 6,
+                "receiving_yards": 30
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {
+                "carries": 10,
+                "rushing_yards": 30,
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {
+                "carries": 9,
+                "rushing_yards": 35,
+                "targets": 6,
+                "receptions": 4,
+                "receiving_yards": 7
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {
+                "carries": 24,
+                "rushing_yards": 128,
+                "rushing_tds": 1,
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 60,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {
+                "carries": 16,
+                "rushing_yards": 60,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {
+                "carries": 26,
+                "rushing_yards": 87,
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 7
+              }
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037304",
+      "name": "Connor Heyward",
+      "position": "RB",
+      "group": "Running Backs",
+      "number": "34",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nbbhxtutzvbj0ejljyyp",
+      "height": "71",
+      "weight": "230",
+      "experience": "4",
+      "college": "Michigan State",
+      "depth_position": "FB",
+      "depth_slot": "12",
+      "depth_rank": 1,
+      "depth_order": 10,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 4,
+            "receptions": 3,
+            "receiving_yards": 21,
+            "carries": 15,
+            "rushing_yards": 43,
+            "receiving_tds": 1,
+            "rushing_tds": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "SEA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "MIN",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 2
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 12,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "IND",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CIN",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 3
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 1
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "BAL",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 2
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "MIA",
+              "stats": {
+                "carries": 4,
+                "rushing_yards": 4,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 26
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "BAL",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 2,
+                "rushing_tds": 1,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            }
+          ],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039407",
+      "name": "Dylan Laube",
+      "position": "RB",
+      "group": "Running Backs",
+      "number": "23",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lpizdza73bgksstymv5t",
+      "height": "70",
+      "weight": "208",
+      "experience": "2",
+      "college": "New Hampshire",
+      "depth_position": "KR",
+      "depth_slot": "5",
+      "depth_rank": 2,
+      "depth_order": 77,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 4,
+            "receptions": 3,
+            "receiving_yards": 18,
+            "carries": 7,
+            "rushing_yards": 9
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 17
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 2,
+                "targets": 1
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 3,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 4
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040878",
+      "name": "Mike Washington Jr.",
+      "position": "RB",
+      "group": "Running Backs",
+      "number": "30",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ocdjq5ohmtgdghqdh5m4",
+      "height": "73",
+      "weight": "223",
+      "experience": "0",
+      "college": "Arkansas; New Mexico State; Buffalo",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036901",
+      "name": "Eric Stokes",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "5",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q7fnhbnyadsru3swpgdf",
+      "height": "72",
+      "weight": "190",
+      "experience": "5",
+      "college": "Georgia",
+      "depth_position": "LCB",
+      "depth_slot": "8",
+      "depth_rank": 1,
+      "depth_order": 18,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040641",
+      "name": "Darien Porter",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "26",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gnds1mpnqkorwzagcoau",
+      "height": "74",
+      "weight": "200",
+      "experience": "1",
+      "college": "Iowa State",
+      "depth_position": "RCB",
+      "depth_slot": "11",
+      "depth_rank": 1,
+      "depth_order": 19,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040889",
+      "name": "Hezekiah Masses",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "35",
+      "height": "72",
+      "weight": "179",
+      "experience": "0",
+      "college": "California; Florida International",
+      "depth_position": "RCB",
+      "depth_slot": "11",
+      "depth_rank": 2,
+      "depth_order": 19,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036293",
+      "name": "Jeremy Chinn",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "11",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qdvollzto5i4xs6q9gov",
+      "height": "75",
+      "weight": "212",
+      "experience": "6",
+      "college": "Southern Illinois",
+      "depth_position": "SS",
+      "depth_slot": "9",
+      "depth_rank": 1,
+      "depth_order": 20,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040883",
+      "name": "Dalton Johnson",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "43",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xtnd8hztdo6o1q9xpuw6",
+      "height": "71",
+      "weight": "192",
+      "experience": "0",
+      "college": "Arizona",
+      "depth_position": "SS",
+      "depth_slot": "9",
+      "depth_rank": 2,
+      "depth_order": 20,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037512",
+      "name": "Isaiah Pola-Mao",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "20",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iv2fsbkqbciaglpqrlbd",
+      "height": "75",
+      "weight": "205",
+      "experience": "4",
+      "college": "USC",
+      "depth_position": "FS",
+      "depth_slot": "10",
+      "depth_rank": 1,
+      "depth_order": 21,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 2,
+            "carries": 1,
+            "rushing_yards": 3
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 3
+              }
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040868",
+      "name": "Treydan Stukes",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "31",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhljscop4d7yxtanrwop",
+      "height": "72",
+      "weight": "190",
+      "experience": "0",
+      "college": "Arizona",
+      "depth_position": "FS",
+      "depth_slot": "10",
+      "depth_rank": 2,
+      "depth_order": 21,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037461",
+      "name": "Tristin McCollum",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "27",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lob4yulcbxvkweblc0dg",
+      "height": "72",
+      "weight": "195",
+      "experience": "4",
+      "college": "Sam Houston State",
+      "depth_position": "FS",
+      "depth_slot": "10",
+      "depth_rank": 3,
+      "depth_order": 21,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034376",
+      "name": "Taron Johnson",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "3",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ga88tpaiiaafgcecjboi",
+      "height": "71",
+      "weight": "192",
+      "experience": "8",
+      "college": "Weber State",
+      "depth_position": "NB",
+      "depth_slot": "12",
+      "depth_rank": 1,
+      "depth_order": 34,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "DEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041563",
+      "name": "Jermod McCoy",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "28",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dhihcvbhqkm7sqcmhhwr",
+      "height": "72",
+      "weight": "188",
+      "experience": "0",
+      "college": "Tennessee; Oregon State",
+      "depth_position": "PR",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 76,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039357",
+      "name": "Decamerion Richardson",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "25",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/glaqpoapm3t8ponuj55p",
+      "height": "74",
+      "weight": "195",
+      "experience": "2",
+      "college": "Mississippi State",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0035269",
+      "name": "Matt Gay",
+      "position": "K",
+      "group": "Specialists",
+      "number": "14",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/opglxpqmhu21eydoyvg2",
+      "height": "72",
+      "weight": "232",
+      "experience": "7",
+      "college": "Utah; Utah Valley",
+      "depth_position": "PK",
+      "depth_slot": "1",
+      "depth_rank": 1,
+      "depth_order": 22,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CLE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "sf",
+            "name": "San Francisco 49ers",
+            "abbreviation": "SF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+            "colors": {
+              "primary": "#AA0000",
+              "secondary": "#B3995D"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0035190",
+      "name": "AJ Cole",
+      "position": "P",
+      "group": "Specialists",
+      "number": "6",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t6ah2u0wptbb8n22tehr",
+      "height": "76",
+      "weight": "220",
+      "experience": "7",
+      "college": "N.C. State",
+      "depth_position": "P",
+      "depth_slot": "2",
+      "depth_rank": 1,
+      "depth_order": 23,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038360",
+      "name": "Alex Ward",
+      "position": "LS",
+      "group": "Specialists",
+      "number": "47",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/libjdgzvuq7q57noway9",
+      "height": "76",
+      "weight": "240",
+      "experience": "3",
+      "college": "UCF",
+      "depth_position": "LS",
+      "depth_slot": "6",
+      "depth_rank": 1,
+      "depth_order": 39,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "JAX",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039338",
+      "name": "Brock Bowers",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "89",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/waorceny0ggpaeckaol8",
+      "height": "75",
+      "weight": "230",
+      "experience": "2",
+      "college": "Georgia",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 1,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 86,
+            "receptions": 64,
+            "receiving_yards": 680,
+            "carries": 2,
+            "rushing_yards": 2,
+            "receiving_tds": 7
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {
+                "targets": 8,
+                "receptions": 5,
+                "receiving_yards": 103
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 8,
+                "receptions": 5,
+                "receiving_yards": 38
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {
+                "targets": 5,
+                "receptions": 4,
+                "receiving_yards": 38
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 46
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 6,
+                "targets": 13,
+                "receptions": 12,
+                "receiving_yards": 127,
+                "receiving_tds": 3
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": -4,
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 31
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {
+                "targets": 12,
+                "receptions": 7,
+                "receiving_yards": 72
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 9,
+                "receptions": 6,
+                "receiving_yards": 55
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 63,
+                "receiving_tds": 2
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 5,
+                "receptions": 4,
+                "receiving_yards": 46,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 8,
+                "receptions": 6,
+                "receiving_yards": 28
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 5,
+                "receptions": 5,
+                "receiving_yards": 33,
+                "receiving_tds": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039066",
+      "name": "Michael Mayer",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "87",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/twnkr9uq1phvukxb5jmh",
+      "height": "76",
+      "weight": "265",
+      "experience": "3",
+      "college": "Notre Dame",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 2,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 50,
+            "receptions": 35,
+            "receiving_yards": 328,
+            "receiving_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 38
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 9
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 7,
+                "receptions": 5,
+                "receiving_yards": 50,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 10
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {
+                "targets": 7,
+                "receptions": 3,
+                "receiving_yards": 26
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 22
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 14
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 10
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {
+                "targets": 10,
+                "receptions": 9,
+                "receiving_yards": 89
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 47
+              }
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034365",
+      "name": "Ian Thomas",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "80",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gvpwnq0mjefjlekgzxro",
+      "height": "75",
+      "weight": "260",
+      "experience": "8",
+      "college": "Indiana; Nassau CC",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 3,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 13,
+            "receptions": 13,
+            "receiving_yards": 114
+          },
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 20
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 9
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 20
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 36
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 17
+              }
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037291",
+      "name": "Jalen Nailor",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "9",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nojopyt8hxuwycxyaokb",
+      "height": "71",
+      "weight": "191",
+      "experience": "4",
+      "college": "Michigan State",
+      "depth_position": "WR",
+      "depth_slot": "2",
+      "depth_rank": 2,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 53,
+            "receptions": 29,
+            "receiving_yards": 444,
+            "receiving_tds": 4,
+            "carries": 2,
+            "rushing_yards": 13
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 28
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "ATL",
+              "stats": {
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 31
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 37
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 4,
+                "receptions": 1,
+                "receiving_yards": 2,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 15,
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 27
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 37
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "DET",
+              "stats": {
+                "targets": 4,
+                "receptions": 1,
+                "receiving_yards": 16
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 124,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 16
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "GB",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "SEA",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "WAS",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 30
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": -2,
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 47,
+                "receiving_tds": 2
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NYG",
+              "stats": {
+                "targets": 2
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "DET",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "GB",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 49
+              }
+            }
+          ],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040729",
+      "name": "Jack Bech",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "18",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/feplgtl0x1svqen9szwv",
+      "height": "73",
+      "weight": "215",
+      "experience": "1",
+      "college": "TCU; LSU",
+      "depth_position": "WR",
+      "depth_slot": "8",
+      "depth_rank": 3,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 29,
+            "receptions": 20,
+            "receiving_yards": 224
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 23
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 10
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 27
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 19
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 22
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 6,
+                "receptions": 6,
+                "receiving_yards": 50
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 17
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 43
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {
+                "targets": 2
+              }
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040894",
+      "name": "Malik Benson",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "19",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tndlq4zmq6r9nsvmzih6",
+      "height": "72",
+      "weight": "189",
+      "experience": "0",
+      "college": "Oregon; Florida State; Alabama; Hutchinson CC",
+      "depth_position": "WR",
+      "depth_slot": "1",
+      "depth_rank": 4,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037093",
+      "name": "Dareke Young",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "81",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xd0585sr1fy1wpry0ued",
+      "height": "74",
+      "weight": "210",
+      "experience": "4",
+      "college": "Lenoir Rhyne",
+      "depth_position": "WR",
+      "depth_slot": "2",
+      "depth_rank": 5,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 3,
+            "receptions": 2,
+            "receiving_yards": 48
+          },
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "NO",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "TB",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 36
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CAR",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 20,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 21,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 22,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040581",
+      "name": "Dont'e Thornton Jr.",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "10",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hlxztd3lpjaxtzojuxwh",
+      "height": "77",
+      "weight": "205",
+      "experience": "1",
+      "college": "Tennessee; Oregon",
+      "depth_position": "WR",
+      "depth_slot": "8",
+      "depth_rank": 6,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 30,
+            "receptions": 10,
+            "receiving_yards": 135
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 45
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 4,
+                "receptions": 1,
+                "receiving_yards": 20
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 29
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 2
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {
+                "targets": 2
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {
+                "targets": 3
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 14
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 11
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {
+                "targets": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038563",
+      "name": "Tre Tucker",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "1",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hazzk3hrcequzosdgzgv",
+      "height": "68",
+      "weight": "185",
+      "experience": "3",
+      "college": "Cincinnati",
+      "depth_position": "PR",
+      "depth_slot": "4",
+      "depth_rank": 1,
+      "depth_order": 76,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 92,
+            "receptions": 57,
+            "receiving_yards": 696,
+            "receiving_tds": 5,
+            "carries": 11,
+            "rushing_yards": 51
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 54,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 7,
+                "targets": 8,
+                "receptions": 3,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4,
+                "targets": 9,
+                "receptions": 8,
+                "receiving_yards": 145,
+                "receiving_tds": 3
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 9,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 9,
+                "targets": 6,
+                "receptions": 4,
+                "receiving_yards": 62
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 5,
+                "receptions": 5,
+                "receiving_yards": 70
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 33
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 38
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 7,
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 28
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {
+                "targets": 8,
+                "receptions": 4,
+                "receiving_yards": 47,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 10,
+                "receptions": 3,
+                "receiving_yards": 28
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 20
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 5,
+                "receptions": 2,
+                "receiving_yards": 24
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 3
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 11,
+                "targets": 5,
+                "receptions": 4,
+                "receiving_yards": 43
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {
+                "carries": 2,
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 49
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4,
+                "targets": 6,
+                "receptions": 2,
+                "receiving_yards": 30
+              }
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
