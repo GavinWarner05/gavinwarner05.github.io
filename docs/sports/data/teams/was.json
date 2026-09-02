@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "was",
@@ -2924,6 +2924,54 @@
       "player": "Rachaad White",
       "status": "Questionable",
       "detail": "Undisclosed"
+    },
+    {
+      "team": "Washington Commanders",
+      "player": "Jeremy McNichols",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Washington Commanders",
+      "player": "Drake Jackson",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Washington Commanders",
+      "player": "Curtis Jacobs",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Washington Commanders",
+      "player": "T.J. Maguranyanga",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Washington Commanders",
+      "player": "Jacoby Jones",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Washington Commanders",
+      "player": "Trey Amos",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Washington Commanders",
+      "player": "Quentin Moore",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Washington Commanders",
+      "player": "Malik Spencer",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

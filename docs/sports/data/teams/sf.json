@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "sf",
@@ -3931,6 +3931,54 @@
       "player": "Mykel Williams",
       "status": "IR/PUP",
       "detail": "Knee - ACL"
+    },
+    {
+      "team": "San Francisco 49ers",
+      "player": "Christian Kirk",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "San Francisco 49ers",
+      "player": "Brett Toth",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "San Francisco 49ers",
+      "player": "Darrick Forrest",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "San Francisco 49ers",
+      "player": "Victor Dimukeje",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "San Francisco 49ers",
+      "player": "Nick Zakelj",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "San Francisco 49ers",
+      "player": "Andrew Farmer",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "San Francisco 49ers",
+      "player": "Ricky Pearsall",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "San Francisco 49ers",
+      "player": "Mikail Kamara",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [
@@ -3951,6 +3999,12 @@
       "name": "Austen Pleasants",
       "position": "OL",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/smhaysadli3ersrjufft"
+    },
+    {
+      "id": "00-0036261",
+      "name": "Brandon Aiyuk",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/avzzxycxyculxxqce5k7"
     },
     {
       "id": "00-0035743",

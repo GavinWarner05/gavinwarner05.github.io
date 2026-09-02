@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "min",
@@ -2370,6 +2370,60 @@
       "player": "Jacob Thomas",
       "status": "Questionable",
       "detail": "Ankle"
+    },
+    {
+      "team": "Minnesota Vikings",
+      "player": "Jamal Adams",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Minnesota Vikings",
+      "player": "Jermar Jefferson",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Minnesota Vikings",
+      "player": "Kenny Dyson",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Minnesota Vikings",
+      "player": "Taki Taimani",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Minnesota Vikings",
+      "player": "Tyler Batty",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Minnesota Vikings",
+      "player": "Dontae Fleming",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Minnesota Vikings",
+      "player": "Jacob Roberts",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Minnesota Vikings",
+      "player": "Marcus Allen",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Minnesota Vikings",
+      "player": "Tyreek Chappell",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

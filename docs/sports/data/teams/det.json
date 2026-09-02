@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "det",
@@ -2891,6 +2891,30 @@
       "player": "Cade Mays",
       "status": "IR/PUP",
       "detail": "Wrist"
+    },
+    {
+      "team": "Detroit Lions",
+      "player": "Payton Turner",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Detroit Lions",
+      "player": "Damone Clark",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Detroit Lions",
+      "player": "Michael Niese",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Detroit Lions",
+      "player": "Kendrick Law",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

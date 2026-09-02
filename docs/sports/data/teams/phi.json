@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "phi",
@@ -2533,6 +2533,30 @@
       "player": "Micah Morris",
       "status": "Questionable",
       "detail": "Shoulder"
+    },
+    {
+      "team": "Philadelphia Eagles",
+      "player": "Grant Calcaterra",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Philadelphia Eagles",
+      "player": "Johnny Wilson",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Philadelphia Eagles",
+      "player": "Andre' Sam",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Philadelphia Eagles",
+      "player": "Ja'Quinden Jackson",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

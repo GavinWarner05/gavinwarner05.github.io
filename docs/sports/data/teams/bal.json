@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "bal",
@@ -1873,6 +1873,36 @@
       "player": "Jay Higgins",
       "status": "Questionable",
       "detail": "Concussion"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Danny Pinter",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Skylar Thompson",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Bilhal Kone",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Adam Randall",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Baltimore Ravens",
+      "player": "Jahquez Robinson",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

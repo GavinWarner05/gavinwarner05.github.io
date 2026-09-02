@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "ind",
@@ -2203,6 +2203,30 @@
       "player": "Will Mallory",
       "status": "IR/PUP",
       "detail": "Thumb"
+    },
+    {
+      "team": "Indianapolis Colts",
+      "player": "D.J. Montgomery",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Indianapolis Colts",
+      "player": "Cameron Mitchell",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Indianapolis Colts",
+      "player": "Coleman Owen",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Indianapolis Colts",
+      "player": "Carson Towt",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

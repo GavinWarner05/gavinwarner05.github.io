@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "ne",
@@ -2119,6 +2119,42 @@
       "player": "Bryce Baringer",
       "status": "IR/PUP",
       "detail": "Undisclosed"
+    },
+    {
+      "team": "New England Patriots",
+      "player": "Julian Hill",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New England Patriots",
+      "player": "Isaiah Iton",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New England Patriots",
+      "player": "Jeremiah Webb",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New England Patriots",
+      "player": "Jimmy Kibble",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New England Patriots",
+      "player": "Myles Montgomery",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New England Patriots",
+      "player": "Eric Butler",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

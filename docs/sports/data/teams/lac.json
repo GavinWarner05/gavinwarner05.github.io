@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "lac",
@@ -2036,6 +2036,42 @@
       "player": "Brenen Thompson",
       "status": "Questionable",
       "detail": "Undisclosed"
+    },
+    {
+      "team": "Los Angeles Chargers",
+      "player": "Tyler Biadasz",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Los Angeles Chargers",
+      "player": "Scott Matlock",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Los Angeles Chargers",
+      "player": "Kyle Kennard",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Los Angeles Chargers",
+      "player": "Branson Taylor",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Los Angeles Chargers",
+      "player": "Dalevon Campbell",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Los Angeles Chargers",
+      "player": "Sincere Brown",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

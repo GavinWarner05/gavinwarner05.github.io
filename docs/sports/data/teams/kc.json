@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "kc",
@@ -2251,6 +2251,54 @@
       "player": "Omarr Norman-Lott",
       "status": "IR/PUP",
       "detail": "Knee - ACL"
+    },
+    {
+      "team": "Kansas City Chiefs",
+      "player": "Matt Waletzko",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Kansas City Chiefs",
+      "player": "Chris Oladokun",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Kansas City Chiefs",
+      "player": "C.J. Hanson",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Kansas City Chiefs",
+      "player": "Jimmy Holiday",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Kansas City Chiefs",
+      "player": "Ethan Downs",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Kansas City Chiefs",
+      "player": "Jeff Caldwell",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Kansas City Chiefs",
+      "player": "John Michael Gyllenborg",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Kansas City Chiefs",
+      "player": "EJ Smith",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

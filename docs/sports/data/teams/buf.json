@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "buf",
@@ -2497,6 +2497,24 @@
       "player": "Khalil Shakir",
       "status": "Questionable",
       "detail": "Undisclosed"
+    },
+    {
+      "team": "Buffalo Bills",
+      "player": "Demetrius Flannigan-Fowles",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Buffalo Bills",
+      "player": "Dorian Strong",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Buffalo Bills",
+      "player": "Zane Durant",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [
@@ -2582,6 +2600,12 @@
       "name": "Ja'Mori Maclin",
       "position": "WR",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pzy27lpwlernu820cyfd"
+    },
+    {
+      "id": "00-0036267",
+      "name": "Jedrick Wills",
+      "position": "OT",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/yb2yk8uqsoakf8yyrlf9"
     },
     {
       "id": "00-0039277",
