@@ -16,23 +16,36 @@ jobs:
   synchronize:
     runs-on: ubuntu-24.04
     timeout-minutes: 20
+    env:
+      NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+      NOTION_TEAMS_DATABASE_ID: ${{ vars.NOTION_TEAMS_DATABASE_ID }}
+      NOTION_GAMES_DATABASE_ID: ${{ vars.NOTION_GAMES_DATABASE_ID }}
+      NOTION_INJURIES_DATABASE_ID: ${{ vars.NOTION_INJURIES_DATABASE_ID }}
+      NOTION_TEAMS_DATA_SOURCE_NAME: ${{ vars.NOTION_TEAMS_DATA_SOURCE_NAME }}
+      NOTION_GAMES_DATA_SOURCE_NAME: ${{ vars.NOTION_GAMES_DATA_SOURCE_NAME }}
+      NOTION_INJURIES_DATA_SOURCE_NAME: ${{ vars.NOTION_INJURIES_DATA_SOURCE_NAME }}
+      NOTION_API_VERSION: ${{ vars.NOTION_API_VERSION }}
     steps:
+      - name: Check Notion configuration
+        id: notion-config
+        run: |
+          if [ -n "$NOTION_TOKEN" ] && [ -n "$NOTION_TEAMS_DATABASE_ID" ] && [ -n "$NOTION_GAMES_DATABASE_ID" ] && [ -n "$NOTION_INJURIES_DATABASE_ID" ]; then
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice::Skipping sync-notion.yml because the required Notion Actions secret/variables are not fully configured."
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/checkout@v4
+        if: steps.notion-config.outputs.configured == 'true'
       - uses: actions/setup-python@v5
+        if: steps.notion-config.outputs.configured == 'true'
         with:
           python-version: "3.12"
           cache: pip
           cache-dependency-path: scripts/requirements.txt
       - name: Install dependencies
+        if: steps.notion-config.outputs.configured == 'true'
         run: python -m pip install --requirement scripts/requirements.txt
       - name: Synchronize games and injuries to Notion
-        env:
-          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-          NOTION_TEAMS_DATABASE_ID: ${{ vars.NOTION_TEAMS_DATABASE_ID }}
-          NOTION_GAMES_DATABASE_ID: ${{ vars.NOTION_GAMES_DATABASE_ID }}
-          NOTION_INJURIES_DATABASE_ID: ${{ vars.NOTION_INJURIES_DATABASE_ID }}
-          NOTION_TEAMS_DATA_SOURCE_NAME: ${{ vars.NOTION_TEAMS_DATA_SOURCE_NAME }}
-          NOTION_GAMES_DATA_SOURCE_NAME: ${{ vars.NOTION_GAMES_DATA_SOURCE_NAME }}
-          NOTION_INJURIES_DATA_SOURCE_NAME: ${{ vars.NOTION_INJURIES_DATA_SOURCE_NAME }}
-          NOTION_API_VERSION: ${{ vars.NOTION_API_VERSION }}
+        if: steps.notion-config.outputs.configured == 'true'
         run: python scripts/sync.py
