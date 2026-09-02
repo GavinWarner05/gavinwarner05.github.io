@@ -8,7 +8,7 @@
     chi: { "rivalry series": ["#0B162A", "#C83803", false, 64, null, null, "#F5F5F5"] },
     det: { "rivalry series": ["#0076B6", "#111111", false, 58, null, null, "#B0B7BC"] },
     gb: { "rivalry series": ["#294936", "#E8DFC8", true, 66, null, null, "#FFB612", "#173224"] },
-    hou: { "rivalry series": ["#F7F5EF", "#69C9E8", true, 58, null, null, "#D7193F"] },
+    hou: { "rivalry series": ["#F7F5EF", "#69C9E8", true, 58, null, null, "#D7193F", "#03202F"] },
     ind: { "rivalry series": ["#292C31", "#003A70", false, 62, null, null, "#BFC3C7"] },
     jax: { "rivalry series": ["#F7F5EF", "#007A8B", true, 48, "#101820", 72, "#D7A22A", "#101820"] },
     min: {
@@ -175,6 +175,8 @@
     if (!url) return node("span", alt.split(" ").map((part) => part[0]).join("").slice(0, 2), className + " image-fallback");
     const result = document.createElement("img");
     result.src = url; result.alt = alt; result.className = className; result.loading = "lazy";
+    if (String(url).includes("colts-rivalry")) result.classList.add("colts-rivalry-logo");
+    if (String(url).includes("texans-rivalry")) result.classList.add("texans-rivalry-logo");
     result.addEventListener("error", function () { result.replaceWith(node("span", alt.split(" ").map((part) => part[0]).join("").slice(0, 2), className + " image-fallback")); }, { once: true });
     return result;
   }
@@ -186,7 +188,22 @@
   }
 
   function normalizedPlayerName(value) {
-    return String(value || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+    const words = String(value || "").toLowerCase().match(/[a-z0-9]+/g) || [];
+    while (words.length && ["jr", "sr", "ii", "iii", "iv", "v"].includes(words[words.length - 1])) words.pop();
+    return words.join("");
+  }
+
+  function matchingPlayer(players, name) {
+    const exact = players.find((player) => normalizedPlayerName(player.name) === normalizedPlayerName(name));
+    if (exact) return exact;
+    const parts = String(name || "").toLowerCase().match(/[a-z0-9]+/g) || [];
+    const first = parts[0] || ""; const last = parts[parts.length - 1] || "";
+    const matches = players.filter((player) => {
+      const candidate = String(player.name || "").toLowerCase().match(/[a-z0-9]+/g) || [];
+      const candidateFirst = candidate[0] || ""; const candidateLast = candidate[candidate.length - 1] || "";
+      return last === candidateLast && first && candidateFirst && (first.includes(candidateFirst) || candidateFirst.includes(first));
+    });
+    return matches.length === 1 ? matches[0] : null;
   }
 
   function brighterTeamColor(team) {
@@ -232,9 +249,8 @@
     source.then((data) => {
       if (!data || !group.isConnected) return;
       const available = (data.injury_players || []).concat(data.players || []);
-      const players = new Map(available.map((player) => [normalizedPlayerName(player.name), player]));
       rows.forEach((entry) => {
-        const player = players.get(normalizedPlayerName(entry.injury.player));
+        const player = matchingPlayer(available, entry.injury.player);
         if (!player) return;
         const link = node("a", null, "detail-injury-player-link");
         link.href = app.dataset.playerUrl + "?view=player-v2&team=" + encodeURIComponent(team.id) + "&id=" + encodeURIComponent(player.id);
@@ -298,6 +314,8 @@
     if (accentBorder) { matchupDialog.style.setProperty("--team-accent-border", accentBorder); matchupDialog.dataset.teamAccentBorder = "true"; }
     else { matchupDialog.style.removeProperty("--team-accent-border"); delete matchupDialog.dataset.teamAccentBorder; }
     matchupDialog.dataset.matchupGradient = "true";
+    if (hasDarkVariantText || isCreamsicle || isHoustonRivalry) matchupDialog.dataset.darkText = "true";
+    else delete matchupDialog.dataset.darkText;
     if (isCreamsicle) matchupDialog.dataset.creamsicle = "true"; else delete matchupDialog.dataset.creamsicle;
     if (isHoustonRivalry) matchupDialog.dataset.houstonRivalry = "true"; else delete matchupDialog.dataset.houstonRivalry;
     if (game.home_jersey) matchupDialog.dataset.jerseyGradient = game.home_jersey; else delete matchupDialog.dataset.jerseyGradient;
@@ -400,16 +418,21 @@
       if (isCreamsicle) item.classList.add("team-game-row-creamsicle");
       if (isHoustonRivalry) item.classList.add("team-game-row-houston-rivalry");
       item.style.background = overlay + "," + gradientBackground(gradient);
-      if (isGreenBayRivalry) item.style.color = "#FFFFFF";
-      else if (gradient[7]) item.style.color = gradient[7];
+      if (isGreenBayRivalry) {
+        item.style.color = "#FFFFFF";
+        item.style.setProperty("--game-row-foreground", "#FFFFFF");
+      } else if (gradient[7]) {
+        item.style.color = gradient[7];
+        item.style.setProperty("--game-row-foreground", gradient[7]);
+      } else {
+        item.style.setProperty("--game-row-foreground", "#FFFFFF");
+      }
       if (gradient[6] || teamAccentBorders[data.team.id]) item.style.borderColor = gradient[6] || teamAccentBorders[data.team.id];
       item.append(node("span", (game.season_phase || "Season") + (game.week ? " · W" + game.week : ""), "team-game-week"));
-      const matchup = document.createElement("a");
+      const matchup = document.createElement("div");
       matchup.className = "team-game-opponent";
       if (isGreenBayRivalry) matchup.style.color = "#FFFFFF";
       else if (gradient[7]) matchup.style.color = gradient[7];
-      matchup.href = app.dataset.teamBaseUrl + opponent.id + "/";
-      matchup.setAttribute("aria-label", "View " + opponent.name + " team page");
       const opponentLogo = image(teamLogo(opponent, opponentJersey), opponent.name + " logo", "team-game-logo");
       matchup.append(opponentLogo, node("strong", (isHome ? "vs " : "at ") + opponent.name));
       item.append(matchup);
@@ -420,7 +443,7 @@
         result = (own > other ? "W " : own < other ? "L " : "T ") + own + "–" + other;
       } else result = new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", hour: "numeric", minute: "2-digit", timeZone: "America/Los_Angeles" }).format(new Date(game.kickoff));
       item.append(node("strong", result, "team-game-result"));
-      item.addEventListener("click", function (event) { if (!event.target.closest("a")) openMatchupDetail(data, game); });
+      item.addEventListener("click", function () { openMatchupDetail(data, game); });
       item.addEventListener("keydown", function (event) {
         if (event.target !== item || !["Enter", " "].includes(event.key)) return;
         event.preventDefault(); openMatchupDetail(data, game);
@@ -434,11 +457,10 @@
     const section = el("[data-team-injuries-section]");
     if (!data.injuries.length) return;
     const availablePlayers = (data.injury_players || []).concat(data.players || []);
-    const players = new Map(availablePlayers.map((player) => [normalizedPlayerName(player.name), player]));
     section.hidden = false;
     data.injuries.forEach((injury) => {
       const row = node("div", null, "team-injury-row");
-      const player = players.get(normalizedPlayerName(injury.player));
+      const player = matchingPlayer(availablePlayers, injury.player);
       if (player) {
         const link = node("a", null, "team-injury-player");
         link.href = app.dataset.playerUrl + "?view=player-v2&team=" + encodeURIComponent(app.dataset.teamId) + "&id=" + encodeURIComponent(player.id);
@@ -511,7 +533,8 @@
       el("[data-team-updated]").textContent = "Updated " + new Intl.DateTimeFormat("en-US", { dateStyle: "medium", timeStyle: "short", timeZone: "America/Los_Angeles" }).format(new Date(data.generated_at));
       app.querySelectorAll("details[data-collapse-key]").forEach((details) => {
         const isSchedule = details.dataset.collapseKey === "schedule";
-        setupDisclosure(details, details.dataset.collapseKey, !isSchedule, !isSchedule);
+        const isInjuries = details.dataset.collapseKey === "injuries";
+        setupDisclosure(details, details.dataset.collapseKey, !isSchedule && !isInjuries, !isSchedule);
       });
       renderTimeline(data); renderSchedule(data); renderInjuries(data); renderRoster(data);
     })

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "cle",
@@ -1891,6 +1891,54 @@
       "player": "Michael Coats",
       "status": "Questionable",
       "detail": "Ankle"
+    },
+    {
+      "team": "Cleveland Browns",
+      "player": "Kendrick Green",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Cleveland Browns",
+      "player": "Alex Wright",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Cleveland Browns",
+      "player": "Damarri Mathis",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Cleveland Browns",
+      "player": "Travis Bell",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Cleveland Browns",
+      "player": "Jamari Thrash",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Cleveland Browns",
+      "player": "Elijah Chatman",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Cleveland Browns",
+      "player": "Edefuan Ulofoshio",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Cleveland Browns",
+      "player": "Dillon Gabriel",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [
@@ -2014,7 +2062,8 @@
     {
       "id": "00-0041087",
       "name": "Joe Royer",
-      "position": "TE"
+      "position": "TE",
+      "headshot_url": "https://a.espncdn.com/i/headshots/nfl/players/full/4565859.png"
     },
     {
       "id": "00-0036249",
@@ -3756,6 +3805,7 @@
       "position": "OL",
       "group": "Offensive Line",
       "number": "52",
+      "headshot_url": "https://a.espncdn.com/i/headshots/nfl/players/full/4816090.png",
       "height": "74",
       "weight": "289",
       "experience": "0",
@@ -5909,6 +5959,7 @@
       "position": "DB",
       "group": "Safeties",
       "number": "39",
+      "headshot_url": "https://a.espncdn.com/i/headshots/nfl/players/full/5160391.png",
       "height": "69",
       "weight": "185",
       "experience": "0",

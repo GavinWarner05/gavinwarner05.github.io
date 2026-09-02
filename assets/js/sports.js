@@ -31,7 +31,7 @@
     chi: { "rivalry series": ["#0B162A", "#C83803", false, 64, null, null, "#F5F5F5"] },
     det: { "rivalry series": ["#0076B6", "#111111", false, 58, null, null, "#B0B7BC"] },
     gb: { "rivalry series": ["#294936", "#E8DFC8", true, 66, null, null, "#FFB612", "#173224"] },
-    hou: { "rivalry series": ["#F7F5EF", "#69C9E8", true, 58, null, null, "#D7193F"] },
+    hou: { "rivalry series": ["#F7F5EF", "#69C9E8", true, 58, null, null, "#D7193F", "#03202F"] },
     ind: { "rivalry series": ["#292C31", "#003A70", false, 62, null, null, "#BFC3C7"] },
     jax: { "rivalry series": ["#F7F5EF", "#007A8B", true, 48, "#101820", 72, "#D7A22A", "#101820"] },
     min: {
@@ -113,6 +113,8 @@
     if (!logoUrl) return text("span", team.abbreviation, "team-logo team-logo-fallback");
     const img = document.createElement("img");
     img.className = "team-logo";
+    if (team.id === "ind" && variantFor(team, jersey)) img.classList.add("colts-rivalry-logo");
+    if (team.id === "hou" && variantFor(team, jersey)) img.classList.add("texans-rivalry-logo");
     img.src = logoUrl;
     img.alt = decorative ? "" : team.name + " logo";
     img.width = 64;
@@ -357,7 +359,22 @@
   }
 
   function normalizedPlayerName(value) {
-    return String(value || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+    const words = String(value || "").toLowerCase().match(/[a-z0-9]+/g) || [];
+    while (words.length && ["jr", "sr", "ii", "iii", "iv", "v"].includes(words[words.length - 1])) words.pop();
+    return words.join("");
+  }
+
+  function matchingPlayer(players, name) {
+    const exact = players.find((player) => normalizedPlayerName(player.name) === normalizedPlayerName(name));
+    if (exact) return exact;
+    const parts = String(name || "").toLowerCase().match(/[a-z0-9]+/g) || [];
+    const first = parts[0] || ""; const last = parts[parts.length - 1] || "";
+    const matches = players.filter((player) => {
+      const candidate = String(player.name || "").toLowerCase().match(/[a-z0-9]+/g) || [];
+      const candidateFirst = candidate[0] || ""; const candidateLast = candidate[candidate.length - 1] || "";
+      return last === candidateLast && first && candidateFirst && (first.includes(candidateFirst) || candidateFirst.includes(first));
+    });
+    return matches.length === 1 ? matches[0] : null;
   }
 
   function enrichInjuryPlayers(group, team, rows) {
@@ -369,9 +386,8 @@
     teamDataCache.get(team.id).then((data) => {
       if (!data || !Array.isArray(data.players) || !group.isConnected) return;
       const availablePlayers = (data.injury_players || []).concat(data.players);
-      const players = new Map(availablePlayers.map((player) => [normalizedPlayerName(player.name), player]));
       rows.forEach((entry) => {
-        const matched = players.get(normalizedPlayerName(entry.injury.player));
+        const matched = matchingPlayer(availablePlayers, entry.injury.player);
         if (!matched) return;
         const link = document.createElement("a");
         link.className = "detail-injury-player-link";
@@ -472,6 +488,8 @@
       delete els.dialog.dataset.teamAccentBorder;
     }
     els.dialog.dataset.matchupGradient = "true";
+    if (hasDarkVariantText || isCreamsicle || isHoustonRivalry) els.dialog.dataset.darkText = "true";
+    else delete els.dialog.dataset.darkText;
     if (isCreamsicle) els.dialog.dataset.creamsicle = "true";
     else delete els.dialog.dataset.creamsicle;
     if (isHoustonRivalry) els.dialog.dataset.houstonRivalry = "true";

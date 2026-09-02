@@ -75,6 +75,7 @@
   function logo(team, jersey, className) {
     const image = document.createElement("img");
     image.className = className || "sports-home-team-logo";
+    if (team.id === "hou" && variant(team, jersey)) image.classList.add("texans-rivalry-logo");
     image.src = logoUrl(team, jersey);
     image.alt = team.name + " logo";
     image.width = 96;
@@ -441,6 +442,7 @@
       renderAround(data);
       renderPlayerFavorites();
       renderTeams(teams);
+      if (new URLSearchParams(window.location.search).get("favorites") === "open") openFavorites();
     })
     .catch(() => {
       els.updated.textContent = "Data unavailable";

@@ -40,6 +40,22 @@ class SyncMappingTests(unittest.TestCase):
     def test_missing_manual_property_is_safe(self):
         self.assertEqual(self.sync.prop_value({"properties": {}}, "Public Notes", ""), "")
 
+    def test_reserve_statuses_are_distinct_from_cuts(self):
+        for status in ("RES", "IR", "PUP", "NFI", "SUSPENDED"):
+            with self.subTest(status=status):
+                self.assertTrue(self.sync.reserve_roster_status(status))
+        for status in ("ACT", "ACTIVE", "CUT", "DEV"):
+            with self.subTest(status=status):
+                self.assertFalse(self.sync.reserve_roster_status(status))
+
+    def test_player_name_matching_ignores_common_suffixes(self):
+        self.assertEqual(self.sync.normalized_player_name("Michael Penix Jr."), "michaelpenix")
+        self.assertEqual(self.sync.normalized_player_name("Tony Fields II"), "tonyfields")
+
+    def test_directory_matching_handles_team_scoped_nicknames(self):
+        rows = [{"display_name": "Daxton Hill", "latest_team": "CIN"}, {"display_name": "Drew Hill", "latest_team": "ATL"}]
+        self.assertEqual(self.sync.directory_player_match(rows, "Dax Hill", "CIN")["display_name"], "Daxton Hill")
+
     def test_database_with_one_source_resolves_automatically(self):
         original = self.sync.notion
         self.sync.notion = lambda *_args, **_kwargs: {"data_sources": [{"id": "resolved-source", "name": "Games"}]}

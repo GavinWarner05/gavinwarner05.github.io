@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "gb",
@@ -2609,6 +2609,36 @@
       "player": "Collin Oliver",
       "status": "IR/PUP",
       "detail": "Undisclosed"
+    },
+    {
+      "team": "Green Bay Packers",
+      "player": "Trey Dean III",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Green Bay Packers",
+      "player": "Thomas Yassmin",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Green Bay Packers",
+      "player": "Savion Williams",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Green Bay Packers",
+      "player": "Johnathan Baldwin",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Green Bay Packers",
+      "player": "Marlon Jones",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

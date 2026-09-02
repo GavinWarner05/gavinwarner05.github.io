@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "hou",
@@ -2309,6 +2309,60 @@
       "player": "Dominique Robinson",
       "status": "Questionable",
       "detail": "Calf"
+    },
+    {
+      "team": "Houston Texans",
+      "player": "Ja'Marcus Ingram",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Houston Texans",
+      "player": "Ali Gaye",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Houston Texans",
+      "player": "Tank Dell",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Houston Texans",
+      "player": "Dylan Horton",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Houston Texans",
+      "player": "Solomon Byrd",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Houston Texans",
+      "player": "Jayden Higgins",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Houston Texans",
+      "player": "Graham Mertz",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Houston Texans",
+      "player": "Kyonte Hamilton",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Houston Texans",
+      "player": "K.C. Ossai",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [
@@ -2329,6 +2383,12 @@
       "name": "Brandon Codrington",
       "position": "DB",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/icpo89rrbnus0apxhezm"
+    },
+    {
+      "id": "00-0036556",
+      "name": "Brevin Jordan",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ypyec24t4prirebsdcg4"
     },
     {
       "id": "00-0036241",
@@ -2359,6 +2419,12 @@
       "name": "Dominic Bailey",
       "position": "DL",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/czwksuefvmz0av1ffop0"
+    },
+    {
+      "id": "00-0037082",
+      "name": "Dominique Robinson",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ces5sntijczc3q0pabay"
     },
     {
       "id": "00-0039009",

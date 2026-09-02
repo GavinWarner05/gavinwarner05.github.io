@@ -40,6 +40,8 @@ body.colorscheme-dark .sports-week-option[aria-pressed="true"] { border-color: #
 .matchup-dialog[data-creamsicle="true"] .detail-list li { border-bottom-color: rgba(50,20,7,.2); }
 .matchup-card[data-houston-rivalry="true"] { color: #03202f; }
 .matchup-card[data-houston-rivalry="true"]::after { background: linear-gradient(100deg,rgba(3,32,47,.08),rgba(3,32,47,.14)); }
+.matchup-card[data-light-variant="true"] .matchup-card-inner { color: inherit; text-shadow: none; }
+.matchup-card[data-light-variant="true"] .matchup-topline, .matchup-card[data-light-variant="true"] .team-row, .matchup-card[data-light-variant="true"] .matchup-meta { color: inherit; }
 .team-game-row-houston-rivalry { color: #03202f; text-shadow: none; }
 .team-themed-page .team-game-row-houston-rivalry .team-game-opponent { color: #03202f; }
 .matchup-dialog[data-houston-rivalry="true"] .detail-list li { border-bottom-color: rgba(3,32,47,.2); }
@@ -109,6 +111,10 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .matchup-dialog[data-matchup-gradient="true"] .matchup-close { background: rgba(0,0,0,.38); color: #fff; }
 .matchup-dialog[data-matchup-gradient="true"] .detail-list li { border-bottom-color: rgba(255,255,255,.2); }
 .matchup-dialog[data-matchup-gradient="true"] .detail-notes { background: rgba(0,0,0,.24); }
+.matchup-dialog[data-dark-text="true"] .matchup-detail, .matchup-dialog[data-dark-text="true"] .matchup-detail h2, .matchup-dialog[data-dark-text="true"] .detail-kicker, .matchup-dialog[data-dark-text="true"] .detail-list { color: inherit; text-shadow: none; }
+.matchup-dialog[data-dark-text="true"] .detail-team, .content .matchup-dialog[data-dark-text="true"] .detail-team, .content .matchup-dialog[data-dark-text="true"] .detail-team:hover, .content .matchup-dialog[data-dark-text="true"] .detail-team:focus-visible { color: inherit; }
+.matchup-dialog[data-dark-text="true"] .detail-injuries { border-color: rgba(3,32,47,.24); background: rgba(255,255,255,.22); }
+.matchup-dialog[data-dark-text="true"] .detail-injury-team { color: #fff; text-shadow: 0 .1rem .25rem rgba(0,0,0,.72); }
 @media (min-width: 700px) { .sports-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } .sports-shell { width: calc(100% - 6rem); } }
 @media (min-width: 1050px) { .sports-grid { grid-template-columns: repeat(3,minmax(0,1fr)); } }
 @media (prefers-reduced-motion: no-preference) { .matchup-card { transition: transform .18s ease,box-shadow .18s ease; } .matchup-card:hover { transform: translateY(-.25rem); box-shadow: 0 1.4rem 3.6rem rgba(0,0,0,.18); } }
@@ -136,6 +142,12 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .team-favorite-toggle:hover { background: rgba(0,0,0,.34); }
 .team-favorite-toggle[aria-pressed="true"]:hover { background: rgba(248,214,109,.25); }
 .team-favorite-toggle:focus-visible { outline: .3rem solid #fff; outline-offset: .3rem; }
+.sports-navigation { position: sticky; top: 0; z-index: 1000; border-bottom: 1px solid rgba(255,255,255,.1); background: rgba(24,24,27,.86); box-shadow: 0 .5rem 1.5rem rgba(0,0,0,.18); backdrop-filter: blur(1rem); }
+.sports-navigation .navigation-link.is-active { color: #c4b5fd; text-decoration: underline; text-decoration-thickness: .14rem; text-underline-offset: .55rem; }
+@media only screen and (max-width:768px) {
+  .sports-navigation .navigation-list { background: rgba(24,24,27,.97) !important; }
+}
+
 .team-page-section { margin-top: 3.2rem; padding: 1.8rem; border: 1px solid rgba(255,255,255,.12); border-radius: 1.8rem; background: rgba(7,10,18,.68); backdrop-filter: blur(1.2rem); }
 .team-collapsible > summary { list-style: none; }
 .team-collapsible > summary::-webkit-details-marker { display: none; }
@@ -152,8 +164,8 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .team-schedule { display: grid; gap: .8rem; }
 .team-season-timeline-section { overflow: hidden; }
 .team-season-timeline { position: relative; display: flex; gap: .8rem; overflow-x: auto; padding: .5rem .15rem 1rem; scroll-snap-type: x proximity; scrollbar-color: rgba(255,255,255,.28) transparent; }
-.team-season-timeline::before { content: ""; position: absolute; top: 3.25rem; right: 1rem; left: 1rem; height: .16rem; background: rgba(255,255,255,.16); }
 .team-timeline-marker { --timeline-gradient: linear-gradient(145deg,#334155,#0f172a); position: relative; z-index: 1; display: grid; grid-template-columns: 3.1rem 1fr; grid-template-rows: auto auto; align-items: center; flex: 0 0 9.5rem; gap: .5rem .8rem; min-height: 6.3rem; padding: .8rem .95rem; border: 1px solid rgba(255,255,255,.24); border-radius: 1.1rem; background: linear-gradient(rgba(0,0,0,.42),rgba(0,0,0,.62)),var(--timeline-gradient); background-clip: padding-box; color: #fff; font: inherit; text-align: left; text-shadow: 0 .1rem .25rem rgba(0,0,0,.7); scroll-snap-align: center; cursor: pointer; transition: transform .16s ease,filter .16s ease,border-color .16s ease; }
+.team-timeline-marker:not(:last-child)::after { content: ""; position: absolute; z-index: -1; top: 3.17rem; left: 100%; width: .85rem; height: .16rem; background: rgba(255,255,255,.16); pointer-events: none; }
 .team-timeline-marker:hover { z-index: 2; transform: translateY(-.18rem); filter: brightness(1.1); border-color: rgba(255,255,255,.55); }
 .team-timeline-marker:focus-visible { z-index: 2; outline: .2rem solid #fff; outline-offset: .2rem; }
 .team-timeline-marker[data-status="final"] { border-color: rgba(255,255,255,.48); }
@@ -164,6 +176,7 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .team-timeline-marker small { grid-column: 2; grid-row: 2; align-self: center; overflow: hidden; font-size: .98rem; font-weight: 780; opacity: .92; white-space: nowrap; }
 .team-injury-list { overflow: hidden; border: 1px solid rgba(255,255,255,.16); border-radius: 1.5rem; }
 .team-game-row { display: grid; grid-template-columns: 8rem minmax(0,1fr) auto; align-items: center; gap: 1rem; min-height: 6.2rem; padding: 1rem 1.4rem; border: 1px solid rgba(255,255,255,.18); border-radius: 1.2rem; background-clip: padding-box !important; color: #fff; box-shadow: 0 .5rem 1.4rem rgba(0,0,0,.16); cursor: pointer; transition: filter .16s ease,border-color .16s ease,box-shadow .16s ease; }
+.team-game-row .team-game-week, .team-game-row .team-game-opponent, .team-game-row .team-game-result { color: var(--game-row-foreground,#fff) !important; text-shadow: none; }
 .team-game-row:hover { filter: brightness(1.08); border-color: rgba(255,255,255,.38); }
 .team-game-row:focus-visible { outline: .22rem solid #fff; outline-offset: .22rem; }
 .team-game-row.is-timeline-target { outline: .22rem solid rgba(255,255,255,.88); outline-offset: .22rem; box-shadow: 0 0 0 .5rem rgba(255,255,255,.12),0 .8rem 2rem rgba(0,0,0,.25); }
@@ -174,6 +187,8 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .team-game-opponent:focus-visible { border-radius: .5rem; outline: .2rem solid #fff; outline-offset: .3rem; }
 .team-game-opponent strong { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .team-game-logo { width: 3.6rem; height: 3.6rem; object-fit: contain; }
+.colts-rivalry-logo { box-sizing: border-box; padding: .28rem; border: 1px solid rgba(255,255,255,.72); border-radius: 50%; background: #003a70; filter: drop-shadow(0 .2rem .4rem rgba(0,0,0,.32)); }
+.texans-rivalry-logo { transform: scale(1.16); transform-origin: center; }
 .team-game-opponent .image-fallback { display: grid; place-items: center; border-radius: 50%; background: rgba(127,127,127,.15); font-size: 1rem; }
 .team-game-result { font-variant-numeric: tabular-nums; text-align: right; }
 .team-injury-row { display: flex; justify-content: space-between; gap: 2rem; padding: 1.2rem 1.4rem; }
@@ -324,7 +339,7 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .player-page { width: calc(100% - 3.2rem); max-width: 96rem; margin: 3rem auto 7rem; }
 .player-page [hidden] { display: none !important; }
 .player-page-hero { --player-gradient: linear-gradient(135deg,#334155,#0f172a); position: relative; display: grid; grid-template-columns: 15rem minmax(0,1fr); align-items: center; gap: 2.2rem; overflow: hidden; min-height: 20rem; margin-top: .8rem; padding: 2.4rem; border: 1px solid rgba(255,255,255,.2); border-radius: 2.4rem; background: linear-gradient(110deg,rgba(0,0,0,.36),rgba(0,0,0,.08)),var(--player-gradient); background-clip: padding-box; color: #fff; box-shadow: 0 1.4rem 4rem rgba(0,0,0,.18); }
-.player-page-hero > img { align-self: end; width: 15rem; height: 17rem; object-fit: cover; object-position: top center; filter: drop-shadow(0 1rem 1.6rem rgba(0,0,0,.25)); }
+.player-page-hero > img { align-self: end; justify-self: center; display: block; width: 15rem; min-width: 15rem; max-width: none; height: 17rem; object-fit: cover; object-position: top center; filter: drop-shadow(0 1rem 1.6rem rgba(0,0,0,.25)); }
 .player-page-identity { min-width: 0; padding-right: 13rem; }
 .player-page-identity p { margin: 0; opacity: .76; }
 .player-page-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 1rem; margin-top: 1.4rem; }
@@ -426,7 +441,7 @@ body.colorscheme-dark .sports-favorites-actions .sports-favorites-save { border-
   .sports-player-favorite-card > div:nth-child(2) { padding: 1.1rem; }
   .sports-player-favorite-team-logo { display: none; }
   .player-page-hero { grid-template-columns: 1fr; justify-items: center; gap: 1rem; min-height: 0; padding: 7rem 1.6rem 2rem; text-align: center; }
-  .player-page-hero > img { align-self: auto; width: 78vw; max-width: 20rem; height: 18rem; object-fit: contain; object-position: center bottom; filter: drop-shadow(0 1rem 1.4rem rgba(0,0,0,.28)); }
+  .player-page-hero > img { align-self: auto; width: 78vw; min-width: 0; max-width: 20rem; height: 18rem; object-fit: contain; object-position: center bottom; filter: drop-shadow(0 1rem 1.4rem rgba(0,0,0,.28)); }
   .player-page-identity { width: 100%; padding: 0; }
   .player-page-identity h1 { overflow-wrap: anywhere; font-size: clamp(2.7rem,10vw,3.7rem); }
   .player-page-identity p { font-size: 1.25rem; }

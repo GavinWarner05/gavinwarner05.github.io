@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "chi",
@@ -2903,6 +2903,66 @@
       "player": "Elijah Hicks",
       "status": "Questionable",
       "detail": "Shin"
+    },
+    {
+      "team": "Chicago Bears",
+      "player": "Ray-Ray McCloud",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Chicago Bears",
+      "player": "Jonathan Garvin",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Chicago Bears",
+      "player": "Nikola Kalinic",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Chicago Bears",
+      "player": "Jaylon Jones",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Chicago Bears",
+      "player": "Brittain Brown",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Chicago Bears",
+      "player": "Dallis Flowers",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Chicago Bears",
+      "player": "Nephi Sewell",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Chicago Bears",
+      "player": "Beanie Bishop Jr.",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Chicago Bears",
+      "player": "Ruben Hyppolite II",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Chicago Bears",
+      "player": "Dontae Manning",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

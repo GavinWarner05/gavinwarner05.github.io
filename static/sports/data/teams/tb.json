@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "tb",
@@ -2018,6 +2018,30 @@
       "player": "Rueben Bain",
       "status": "Questionable",
       "detail": "Shoulder - AC Joint"
+    },
+    {
+      "team": "Tampa Bay Buccaneers",
+      "player": "Pepe Williams",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Tampa Bay Buccaneers",
+      "player": "Mohamed Kamara",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Tampa Bay Buccaneers",
+      "player": "Deshawn McKnight",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Tampa Bay Buccaneers",
+      "player": "Xavier Williams",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

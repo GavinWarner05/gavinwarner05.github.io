@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "lv",
@@ -1669,6 +1669,54 @@
       "player": "Ashton Jeanty",
       "status": "Questionable",
       "detail": "Knee"
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "player": "Justin Shorter",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "player": "Chris Collier",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "player": "Chigozie Anusiem",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "player": "Brennan Jackson",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "player": "Justin Pickett",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "player": "Chase Roberts",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "player": "Corey Rucker",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "player": "Keyron Crawford",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

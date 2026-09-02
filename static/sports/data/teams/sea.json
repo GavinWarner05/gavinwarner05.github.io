@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "sea",
@@ -2437,6 +2437,60 @@
       "player": "Nick Emmanwori",
       "status": "Questionable",
       "detail": "Ankle"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Irvin Charles",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Jake Bobo",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Amari Kight",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Power Echols",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Aaron Smith",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Brock Lampe",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Robbie Ouzts",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Mason Richman",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Bud Clark",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [

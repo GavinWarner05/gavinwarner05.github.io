@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "atl",
@@ -2563,6 +2563,42 @@
       "player": "Anterio Thompson",
       "status": "IR/PUP",
       "detail": "Undisclosed"
+    },
+    {
+      "team": "Atlanta Falcons",
+      "player": "Darren Hall",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Atlanta Falcons",
+      "player": "Trey Sermon",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Atlanta Falcons",
+      "player": "Keshawn Banks",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Atlanta Falcons",
+      "player": "Beaux Collins",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Atlanta Falcons",
+      "player": "Malik Verdon",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Atlanta Falcons",
+      "player": "Jalon Walker",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [
@@ -2581,7 +2617,8 @@
     {
       "id": "00-0041484",
       "name": "Anterio Thompson",
-      "position": "DL"
+      "position": "DL",
+      "headshot_url": "https://a.espncdn.com/i/headshots/nfl/players/full/5150660.png"
     },
     {
       "id": "00-0040438",
@@ -2786,6 +2823,12 @@
       "name": "Tyler Goodson",
       "position": "RB",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqmesi6fwv82lhfzlht6"
+    },
+    {
+      "id": "00-0036966",
+      "name": "Tyrone Wheatley Jr.",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qvien8ehdx9deeql2c1t"
     },
     {
       "id": "00-0041185",

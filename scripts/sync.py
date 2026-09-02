@@ -50,6 +50,7 @@ SCHEDULE_URL = "https://raw.githubusercontent.com/nflverse/nfldata/master/data/g
 INJURIES_URL = "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_{season}.csv"
 SLEEPER_PLAYERS_URL = "https://api.sleeper.app/v1/players/nfl"
 ROSTER_URL = "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_{season}.csv"
+PLAYER_DIRECTORY_URL = "https://github.com/nflverse/nflverse-data/releases/download/players/players.csv"
 # Week-level rows let the static export build both weekly cards and season totals.
 PLAYER_STATS_URL = "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_{season}.csv"
 DEPTH_CHART_URL = "https://github.com/nflverse/nflverse-data/releases/download/depth_charts/depth_charts_{season}.csv"
@@ -572,8 +573,54 @@ def position_group(position: str) -> str:
     return "Other"
 
 
+def reserve_roster_status(status: str) -> bool:
+    """Return true for players who still belong in roster/injury views."""
+    value = str(status or "").strip().upper()
+    return value in {"RES", "IR", "PUP", "NFI", "SUS", "SUSP", "SUSPENDED"}
+
+
+def normalized_player_name(value: str) -> str:
+    words = re.findall(r"[a-z0-9]+", str(value or "").lower())
+    while words and words[-1] in {"jr", "sr", "ii", "iii", "iv", "v"}:
+        words.pop()
+    return "".join(words)
+
+
+def player_name_parts(value: str) -> tuple[str, str]:
+    words = re.findall(r"[a-z0-9]+", str(value or "").lower())
+    while words and words[-1] in {"jr", "sr", "ii", "iii", "iv", "v"}:
+        words.pop()
+    return (words[0], words[-1]) if len(words) >= 2 else ("", words[-1] if words else "")
+
+
+def directory_player_match(rows: list[dict[str, str]], name: str, team_abbreviation: str) -> dict[str, str] | None:
+    key = normalized_player_name(name)
+    exact = next((row for row in rows if normalized_player_name(first_value(row, "display_name", "football_name")) == key), None)
+    if exact: return exact
+    first, last = player_name_parts(name)
+    candidates = []
+    for row in rows:
+        candidate_name = first_value(row, "display_name", "football_name")
+        candidate_first, candidate_last = player_name_parts(candidate_name)
+        same_team = first_value(row, "latest_team").upper() == team_abbreviation.upper()
+        related_first = first and candidate_first and (first in candidate_first or candidate_first in first)
+        if same_team and last == candidate_last and related_first:
+            candidates.append(row)
+    return candidates[0] if len(candidates) == 1 else None
+
+
 def export_team_sources(directory: Path, sports_payload: dict[str, Any], injuries_by_team: dict[str, list[dict[str, str]]]) -> None:
     rosters = fetch_csv(ROSTER_URL.format(season=SEASON))
+    try:
+        previous_rosters = fetch_csv(ROSTER_URL.format(season=SEASON - 1))
+    except requests.HTTPError as exc:
+        if exc.response is None or exc.response.status_code != 404: raise
+        previous_rosters = []
+    try:
+        player_directory = fetch_csv(PLAYER_DIRECTORY_URL)
+    except requests.HTTPError as exc:
+        if exc.response is None or exc.response.status_code != 404: raise
+        player_directory = []
     stats_rows_by_season: dict[int, list[dict[str, str]]] = {}
     for stats_season in (SEASON, SEASON - 1):
         try:
@@ -621,6 +668,7 @@ def export_team_sources(directory: Path, sports_payload: dict[str, Any], injurie
         games_by_team[game["home_team"]["name"]].append(game)
     players_by_team: dict[str, list[dict[str, Any]]] = {name: [] for name in TEAM_STYLE}
     injury_players_by_team: dict[str, list[dict[str, Any]]] = {name: [] for name in TEAM_STYLE}
+    reserve_players_by_team: dict[str, list[dict[str, str]]] = {name: [] for name in TEAM_STYLE}
     for row in rosters:
         team_name = canonical_team(first_value(row, "team"))
         if team_name not in TEAM_STYLE: continue
@@ -634,6 +682,8 @@ def export_team_sources(directory: Path, sports_payload: dict[str, Any], injurie
             if headshot_url := first_value(row, "headshot_url"):
                 injury_player["headshot_url"] = headshot_url
             injury_players_by_team[team_name].append(injury_player)
+            if reserve_roster_status(status):
+                reserve_players_by_team[team_name].append({"name": name, "status": status})
             continue
         player_stat_rows = stats_by_player.get(player_id, [])
         seasons: list[dict[str, Any]] = []
@@ -666,6 +716,57 @@ def export_team_sources(directory: Path, sports_payload: dict[str, Any], injurie
             value = first_value(row, *candidates) or next((first_value(stats_row, *candidates) for stats_row in player_stat_rows if first_value(stats_row, *candidates)), "")
             if value: player[output_name] = value
         players_by_team[team_name].append(player)
+    previous_by_name: dict[str, dict[str, str]] = {}
+    for row in previous_rosters:
+        name = first_value(row, "full_name", "player_name", "football_name")
+        player_id = first_value(row, "gsis_id", "player_id", "nfl_id")
+        position = first_value(row, "position", "depth_chart_position").upper()
+        if name and player_id and position:
+            previous_by_name.setdefault(normalized_player_name(name), row)
+    for team_name in TEAM_STYLE:
+        known_players = {
+            normalized_player_name(player["name"]): player
+            for player in injury_players_by_team[team_name] + players_by_team[team_name]
+        }
+        for injury in injuries_by_team.get(team_name, []):
+            key = normalized_player_name(injury.get("player", ""))
+            if not key: continue
+            previous_row = previous_by_name.get(key)
+            directory_match = directory_player_match(player_directory, injury.get("player", ""), TEAM_STYLE[team_name][1])
+            row = previous_row or directory_match
+            existing = known_players.get(key)
+            if existing and existing.get("headshot_url"): continue
+            if not row: continue
+            headshot_url = first_value(row, "headshot_url", "headshot")
+            if not headshot_url and directory_match:
+                headshot_url = first_value(directory_match, "headshot")
+            if not headshot_url and directory_match and (espn_id := first_value(directory_match, "espn_id")):
+                headshot_url = f"https://a.espncdn.com/i/headshots/nfl/players/full/{espn_id}.png"
+            if existing:
+                if headshot_url: existing["headshot_url"] = headshot_url
+                continue
+            matched_id = first_value(row, "gsis_id", "player_id", "nfl_id")
+            same_id = next((player for player in known_players.values() if player.get("id") == matched_id), None)
+            if same_id:
+                if headshot_url: same_id["headshot_url"] = headshot_url
+                continue
+            injury_player = {
+                "id": matched_id,
+                "name": first_value(row, "display_name", "full_name", "player_name", "football_name"),
+                "position": first_value(row, "position", "depth_chart_position").upper(),
+            }
+            if headshot_url: injury_player["headshot_url"] = headshot_url
+            injury_players_by_team[team_name].append(injury_player)
+            known_players[key] = injury_player
+        listed_injuries = {normalized_player_name(injury.get("player", "")) for injury in injuries_by_team.get(team_name, [])}
+        for reserve in reserve_players_by_team[team_name]:
+            if normalized_player_name(reserve["name"]) in listed_injuries: continue
+            injuries_by_team.setdefault(team_name, []).append({
+                "team": team_name,
+                "player": reserve["name"],
+                "status": "IR/PUP",
+                "detail": "Reserve list",
+            })
     directory.mkdir(parents=True, exist_ok=True)
     for team_name, (team_id, _abbr, _primary, _secondary) in TEAM_STYLE.items():
         team_games = sorted(games_by_team[team_name], key=lambda item: item["kickoff"])

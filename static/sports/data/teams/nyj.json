@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "nyj",
@@ -2551,6 +2551,48 @@
       "player": "VJ Payne",
       "status": "IR/PUP",
       "detail": "Undisclosed"
+    },
+    {
+      "team": "New York Jets",
+      "player": "Mykal Walker",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Jets",
+      "player": "Tre Brown",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Jets",
+      "player": "Kingsley Jonathan",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Jets",
+      "player": "Dominic Richardson",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Jets",
+      "player": "Chase Curtis",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Jets",
+      "player": "Chip Trayanum",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Jets",
+      "player": "Connor Hulstein",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [
@@ -2606,6 +2648,12 @@
       "name": "Courtland Ford",
       "position": "OL",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/my8b4xjgqpcssj0bijr3"
+    },
+    {
+      "id": "00-0040456",
+      "name": "Da'Quan Felton",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sg0t3s0irndtl7zeodfk"
     },
     {
       "id": "00-0040396",

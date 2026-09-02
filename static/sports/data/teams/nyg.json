@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T17:12:33+00:00",
+  "generated_at": "2026-09-02T22:26:15+00:00",
   "season": 2026,
   "team": {
     "id": "nyg",
@@ -2587,6 +2587,48 @@
       "player": "Greg Newsome",
       "status": "Questionable",
       "detail": "Knee"
+    },
+    {
+      "team": "New York Giants",
+      "player": "Roy Robertson-Harris",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Giants",
+      "player": "Gunner Olszewski",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Giants",
+      "player": "Calvin Austin III",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Giants",
+      "player": "Jarrick Bernard-Converse",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Giants",
+      "player": "Rico Payton",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Giants",
+      "player": "DJ James",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Giants",
+      "player": "Thaddeus Dixon",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [
