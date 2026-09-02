@@ -74,4 +74,6 @@ Configure the repository before enabling production deployment:
 8. Manually run **Deploy GitHub Pages** once and review `/sports/` before relying on the schedule.
 9. Never echo environment variables or enable shell tracing in the synchronization step.
 
+If the required Notion secret or database ID variables are missing, the production workflows now emit a notice and skip their Notion-dependent steps instead of failing immediately.
+
 Do not commit tokens, `.env` files, raw Notion exports, or generated source payloads. Local secrets should remain in an ignored environment file or shell environment; never paste their contents into issues, logs, or chat.
