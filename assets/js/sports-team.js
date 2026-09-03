@@ -171,10 +171,20 @@
     return result;
   }
 
+  function optimizedHeadshot(url, width) {
+    const source = String(url || "");
+    if (source.includes("static.www.nfl.com/image/upload/")) {
+      return source.replace(/\/image\/upload\/(?:f_auto,q_auto\/)?/, "/image/upload/f_auto,q_auto,c_limit,w_" + width + "/");
+    }
+    if (source.includes("a.espncdn.com/i/headshots/")) return source + (source.includes("?") ? "&" : "?") + "w=" + width;
+    return source;
+  }
+
   function image(url, alt, className) {
     if (!url) return node("span", alt.split(" ").map((part) => part[0]).join("").slice(0, 2), className + " image-fallback");
     const result = document.createElement("img");
-    result.src = url; result.alt = alt; result.className = className; result.loading = "lazy";
+    const headshotWidth = className === "player-headshot" ? 320 : className.includes("injury-player-image") ? 128 : 0;
+    result.src = headshotWidth ? optimizedHeadshot(url, headshotWidth) : url; result.alt = alt; result.className = className; result.loading = "lazy"; result.decoding = "async";
     if (String(url).includes("colts-rivalry")) result.classList.add("colts-rivalry-logo");
     if (String(url).includes("texans-rivalry")) result.classList.add("texans-rivalry-logo");
     result.addEventListener("error", function () { result.replaceWith(node("span", alt.split(" ").map((part) => part[0]).join("").slice(0, 2), className + " image-fallback")); }, { once: true });

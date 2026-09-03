@@ -17,6 +17,15 @@
   const defenseOrder = ["tackles", "tackles_solo", "sacks", "def_interceptions", "forced_fumbles"];
   const el = (selector) => app.querySelector(selector);
 
+  function optimizedHeadshot(url, width) {
+    const source = String(url || "");
+    if (source.includes("static.www.nfl.com/image/upload/")) {
+      return source.replace(/\/image\/upload\/(?:f_auto,q_auto\/)?/, "/image/upload/f_auto,q_auto,c_limit,w_" + width + "/");
+    }
+    if (source.includes("a.espncdn.com/i/headshots/")) return source + (source.includes("?") ? "&" : "?") + "w=" + width;
+    return source;
+  }
+
   function orderedStats(player, stats) {
     const defensivePositions = ["DE", "DT", "NT", "DL", "LB", "ILB", "OLB", "CB", "S", "FS", "SS", "DB"];
     const preferred = statOrder[player.position] || (defensivePositions.includes(player.position) ? defenseOrder : []);
@@ -101,7 +110,7 @@
     document.body.style.setProperty("--team-background-gradient", "linear-gradient(rgba(7,10,18,.78),rgba(7,10,18,.92))," + gradient);
     el("[data-player-hero]").style.setProperty("--player-gradient", gradient);
     const headshot = el("[data-player-headshot]");
-    if (player.headshot_url) { headshot.src = player.headshot_url; headshot.alt = player.name + " headshot"; headshot.addEventListener("error", function () { headshot.hidden = true; }, { once: true }); }
+    if (player.headshot_url) { headshot.src = optimizedHeadshot(player.headshot_url, 640); headshot.alt = player.name + " headshot"; headshot.decoding = "async"; headshot.addEventListener("error", function () { headshot.hidden = true; }, { once: true }); }
     else headshot.hidden = true;
     el("[data-player-name]").textContent = player.name;
     el("[data-player-meta]").textContent = [player.number ? "#" + player.number : "", player.position, player.depth_rank ? (player.depth_position || player.position) + player.depth_rank : ""].filter(Boolean).join(" · ");

@@ -95,7 +95,7 @@ body.colorscheme-dark .sports-week-option[aria-pressed="true"] { border-color: #
 .content .detail-injury-player-link, .content .detail-injury-player-link:hover, .content .detail-injury-player-link:focus-visible { color: inherit; text-decoration: none; }
 .detail-injury-player-link:hover strong { text-decoration: underline; text-underline-offset: .2em; }
 .detail-injury-player-link:focus-visible { outline: .25rem solid #fff; outline-offset: .25rem; }
-.detail-injury-player-image { flex: 0 0 3.8rem; width: 3.8rem; height: 3.8rem; border-radius: 50%; background: rgba(255,255,255,.1); object-fit: cover; object-position: top center; }
+.detail-injury-player-image { flex: 0 0 3.8rem; width: 3.8rem; height: 3.8rem; border-radius: 50%; background: rgba(255,255,255,.1); object-fit: cover; object-position: top center; image-rendering: auto; }
 .detail-injury-row + .detail-injury-row { border-top: 1px solid rgba(255,255,255,.1); }
 .detail-injury-row strong, .detail-injury-detail { display: block; }
 .detail-injury-row strong { font-size: 1.3rem; }
@@ -196,7 +196,7 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .team-injury-player { display: flex; align-items: center; gap: .9rem; min-width: 0; color: #fff !important; text-decoration: none !important; transition: transform .16s ease,filter .16s ease; }
 .team-injury-player:hover { transform: translateY(-.12rem); filter: brightness(1.12); }
 .team-injury-player:focus-visible { border-radius: .5rem; outline: .2rem solid #fff; outline-offset: .3rem; }
-.team-injury-player-image { flex: 0 0 auto; width: 3.2rem; height: 3.2rem; border: 1px solid rgba(255,255,255,.18); border-radius: 50%; background: rgba(255,255,255,.1); object-fit: cover; object-position: center top; }
+.team-injury-player-image { flex: 0 0 auto; width: 3.2rem; height: 3.2rem; border: 1px solid rgba(255,255,255,.18); border-radius: 50%; background: rgba(255,255,255,.1); object-fit: cover; object-position: center top; image-rendering: auto; }
 .roster-group { margin-top: 1rem; padding: 1.4rem; border: 1px solid rgba(255,255,255,.12); border-radius: 1.4rem; background: rgba(7,10,18,.4); }
 .roster-group-summary { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1.2rem; }
 .roster-group-summary .team-section-title { font-size: 1.7rem; }

@@ -29,6 +29,15 @@
   const favoritesStorageKey = "sports-center:favorite-teams:v1";
   const playerFavoritesStorageKey = "sports-center:favorite-players:v1";
   const state = { data: null, teams: null };
+
+  function optimizedHeadshot(url, width) {
+    const source = String(url || "");
+    if (source.includes("static.www.nfl.com/image/upload/")) {
+      return source.replace(/\/image\/upload\/(?:f_auto,q_auto\/)?/, "/image/upload/f_auto,q_auto,c_limit,w_" + width + "/");
+    }
+    if (source.includes("a.espncdn.com/i/headshots/")) return source + (source.includes("?") ? "&" : "?") + "w=" + width;
+    return source;
+  }
   const rivalryLogos = {
     hou: "/images/sports/logos/texans-rivalry.png",
     ind: "/images/sports/logos/colts-rivalry.png",
@@ -332,7 +341,7 @@
         link.style.setProperty("--player-card-gradient", cardGradient);
         const portrait = document.createElement("div"); portrait.className = "sports-player-favorite-photo";
         if (player.headshot_url) {
-          const headshot = document.createElement("img"); headshot.className = "sports-player-favorite-image"; headshot.src = player.headshot_url; headshot.alt = player.name + " headshot"; headshot.loading = "lazy";
+          const headshot = document.createElement("img"); headshot.className = "sports-player-favorite-image"; headshot.src = optimizedHeadshot(player.headshot_url, 400); headshot.alt = player.name + " headshot"; headshot.loading = "lazy"; headshot.decoding = "async";
           headshot.addEventListener("error", function () { headshot.replaceWith(node("span", player.position)); }, { once: true }); portrait.append(headshot);
         } else portrait.append(node("span", player.position));
         const copy = document.createElement("div");
