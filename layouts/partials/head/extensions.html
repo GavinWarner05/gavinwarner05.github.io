@@ -4,6 +4,11 @@
 */}}
 {{ if eq .Section "sports" -}}
   <meta name="robots" content="{{ .Params.robots | default "noindex, nofollow" }}">
+  <meta name="theme-color" content="#171429">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Sports Center">
   {{ $sportsStyles := resources.Get "scss/sports.scss" | toCSS }}
   {{ if hugo.IsServer }}
     <link rel="stylesheet" href="{{ $sportsStyles.RelPermalink }}">
