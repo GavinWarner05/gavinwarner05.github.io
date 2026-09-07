@@ -144,9 +144,14 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .team-favorite-toggle:focus-visible { outline: .3rem solid #fff; outline-offset: .3rem; }
 .sports-navigation { position: sticky; top: 0; z-index: 1000; border-bottom: 1px solid rgba(255,255,255,.1); background: rgba(24,24,27,.86); box-shadow: 0 .5rem 1.5rem rgba(0,0,0,.18); backdrop-filter: blur(1rem); }
 .sports-navigation .navigation-link.is-active { color: #c4b5fd; text-decoration: underline; text-decoration-thickness: .14rem; text-underline-offset: .55rem; }
+@media (display-mode: standalone) and (pointer: coarse) {
+  .sports-navigation::before { content: ""; position: absolute; right: 0; bottom: 100%; left: 0; height: 2.4rem; background: rgb(24,24,27); }
+}
 @media only screen and (max-width:768px) {
-  .sports-navigation .container { position: relative; }
-  .sports-navigation .navigation-title { position: absolute; left: 50%; max-width: calc(100% - 10rem); overflow: hidden; transform: translateX(-50%); text-align: center; text-overflow: ellipsis; white-space: nowrap; }
+  .sports-navigation .container { position: relative; height: 4rem; }
+  .sports-navigation .navigation-title { position: absolute; top: 50%; left: 50%; max-width: calc(100% - 10rem); overflow: hidden; transform: translate(-50%,-50%); text-align: center; text-overflow: ellipsis; white-space: nowrap; }
+  .sports-navigation .menu-button { position: absolute; top: 50%; right: 2rem; display: flex; align-items: center; justify-content: center; width: 4rem; height: 4rem; margin: 0; transform: translateY(-50%); line-height: 1; }
+  .sports-navigation .menu-button i { display: block; line-height: 1; }
   .sports-navigation .navigation-list { background: rgba(24,24,27,.97) !important; }
 }
 
