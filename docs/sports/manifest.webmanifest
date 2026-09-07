@@ -1,0 +1,37 @@
+{
+  "id": "/sports/",
+  "name": "NFL Sports Center",
+  "short_name": "Sports Center",
+  "description": "Your personalized NFL schedules, scores, teams, players, jerseys, and injuries.",
+  "start_url": "/sports/",
+  "scope": "/sports/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111018",
+  "theme_color": "#171429",
+  "icons": [
+    {
+      "src": "/sports/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/sports/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/sports/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    { "name": "Scores", "url": "/sports/scores/" },
+    { "name": "Teams", "url": "/sports/teams/" },
+    { "name": "Live games", "url": "/sports/scores/?view=live" }
+  ]
+}
