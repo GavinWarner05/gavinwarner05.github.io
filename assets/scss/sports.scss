@@ -145,6 +145,8 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .sports-navigation { position: sticky; top: 0; z-index: 1000; border-bottom: 1px solid rgba(255,255,255,.1); background: rgba(24,24,27,.86); box-shadow: 0 .5rem 1.5rem rgba(0,0,0,.18); backdrop-filter: blur(1rem); }
 .sports-navigation .navigation-link.is-active { color: #c4b5fd; text-decoration: underline; text-decoration-thickness: .14rem; text-underline-offset: .55rem; }
 @media only screen and (max-width:768px) {
+  .sports-navigation .container { position: relative; }
+  .sports-navigation .navigation-title { position: absolute; left: 50%; max-width: calc(100% - 10rem); overflow: hidden; transform: translateX(-50%); text-align: center; text-overflow: ellipsis; white-space: nowrap; }
   .sports-navigation .navigation-list { background: rgba(24,24,27,.97) !important; }
 }
 
@@ -449,8 +451,10 @@ body.colorscheme-dark .sports-favorites-actions .sports-favorites-save { border-
   .player-page-actions { flex-direction: column; gap: .75rem; }
   .player-page-identity .player-injury-badge { margin-right: auto; margin-left: auto; font-size: 1.05rem; }
   .player-favorite-toggle { top: 1.4rem; right: 1.4rem; }
-  .sports-home-intro { display: block; padding-top: 3rem; }
-  .sports-home-intro .sports-updated { margin-top: 1.4rem; text-align: left; }
+  .content .sports-home-intro { display: block; margin: 0; padding: 2rem 0 1.8rem; }
+  .sports-home-intro .sports-eyebrow { margin-bottom: 1rem; }
+  .sports-home-intro h1 { font-size: clamp(3.5rem,12vw,4.8rem); line-height: .98; }
+  .sports-home-intro .sports-updated { margin: 1.2rem 0 0; text-align: left; }
   .sports-home-hero { padding: 2.2rem; border-radius: 2.4rem; }
   .sports-home-hero h2 { font-size: 3.2rem; }
   .sports-home-nav { margin-bottom: 3.8rem; }
