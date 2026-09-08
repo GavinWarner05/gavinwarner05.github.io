@@ -1,6 +1,8 @@
 scripts/.env
+node_modules/
+.dev.vars
+.wrangler/
 scripts/config.json
 .venv/
 __pycache__/
 *.py[cod]
-

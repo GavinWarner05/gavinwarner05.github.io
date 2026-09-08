@@ -22,7 +22,9 @@
     dialog: document.querySelector("[data-matchup-dialog]"),
     detail: document.querySelector("[data-matchup-detail]")
   };
-  const requestedFilter = new URLSearchParams(window.location.search).get("view");
+  const query = new URLSearchParams(window.location.search);
+  const requestedFilter = query.get("view");
+  const requestedGame = query.get("game");
   const state = { data: null, filter: ["yesterday", "today", "upcoming", "live", "final"].includes(requestedFilter) ? requestedFilter : "today", weekKey: null };
   const teamDataCache = new Map();
   const favoritesStorageKey = "sports-center:favorite-teams:v1";
@@ -535,6 +537,10 @@
       state.data = data;
       els.updated.textContent = "Updated " + new Intl.DateTimeFormat("en-US", { dateStyle: "medium", timeStyle: "short", timeZone: data.display_timezone }).format(new Date(data.generated_at));
       render();
+      if (requestedGame) {
+        const game = data.games.find((item) => item.id === requestedGame);
+        if (game) openDetail(game);
+      }
     })
     .catch(() => {
       els.updated.textContent = "Data unavailable";

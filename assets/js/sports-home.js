@@ -395,6 +395,7 @@
     renderHero(state.data);
     renderWeek(state.data);
     renderFavorites(state.data, state.teams);
+    window.dispatchEvent(new CustomEvent("sports:favorites-changed"));
   }
 
   function renderFavoriteOptions() {

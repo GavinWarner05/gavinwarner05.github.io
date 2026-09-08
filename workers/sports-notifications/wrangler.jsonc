@@ -1,0 +1,32 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "nfl-sports-notifications",
+	"main": "src/index.js",
+	"compatibility_date": "2026-09-01",
+	"workers_dev": true,
+	"preview_urls": false,
+	"vars": {
+		"ALLOWED_ORIGIN": "https://gavinwarner.digital",
+		"SPORTS_DATA_URL": "https://gavinwarner.digital/sports/data/nfl.json",
+		"SPORTS_TEAM_DATA_BASE_URL": "https://gavinwarner.digital/sports/data/teams/",
+		"VAPID_SUBJECT": "https://gavinwarner.digital"
+	},
+	"triggers": {
+		"crons": [
+			"2,7,12,17,22,27,32,37,42,47,52,57 * * * *"
+		]
+	},
+	"secrets": {
+		"required": [
+			"VAPID_PUBLIC_KEY",
+			"VAPID_PRIVATE_KEY"
+		]
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "sports-notifications",
+			"database_id": "a3e34191-6bb5-4a99-aeea-398c0c6dadfe"
+		}
+	]
+}

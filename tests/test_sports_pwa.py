@@ -32,6 +32,28 @@ class SportsPwaTests(unittest.TestCase):
         self.assertIn('url.pathname.startsWith("/sports/")', worker)
         self.assertIn('url.pathname.endsWith(".json")', worker)
 
+    def test_service_worker_handles_push_and_notification_clicks(self):
+        worker = (SPORTS / "service-worker.js").read_text()
+        self.assertIn('addEventListener("push"', worker)
+        self.assertIn('addEventListener("notificationclick"', worker)
+        self.assertIn("showNotification", worker)
+
+    def test_notification_config_is_public(self):
+        config = json.loads((SPORTS / "data/notifications.json").read_text())
+        self.assertEqual(set(config), {"enabled", "api_url"})
+        self.assertIsInstance(config["enabled"], bool)
+        self.assertTrue(config["api_url"].startswith("https://"))
+
+    def test_notification_backend_has_required_storage_and_no_notion_access(self):
+        worker_root = ROOT / "workers" / "sports-notifications"
+        source = (worker_root / "src/index.js").read_text()
+        migration = (worker_root / "migrations/0001_initial.sql").read_text()
+        for table in ("subscriptions", "game_states", "injury_states", "sent_events"):
+            self.assertIn("CREATE TABLE IF NOT EXISTS " + table, migration)
+        self.assertIn('origin === env.ALLOWED_ORIGIN', source)
+        self.assertNotIn("NOTION_TOKEN", source)
+        self.assertNotIn("NOTION_", source)
+
 
 if __name__ == "__main__":
     unittest.main()

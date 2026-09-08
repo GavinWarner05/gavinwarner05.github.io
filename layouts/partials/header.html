@@ -10,6 +10,7 @@
       <li class="navigation-item"><a class="navigation-link{{ if or (eq .Layout "teams") (eq .Layout "team") }} is-active{{ end }}" href="{{ "sports/teams/" | relURL }}">Teams</a></li>
       <li class="navigation-item"><a class="navigation-link" href="{{ "sports/scores/?view=live" | relURL }}">Live</a></li>
       <li class="navigation-item"><a class="navigation-link" href="{{ "sports/?favorites=open" | relURL }}">Favorites</a></li>
+      <li class="navigation-item"><a class="navigation-link" href="{{ "sports/?notifications=open" | relURL }}">Alerts</a></li>
       <li class="navigation-item"><a class="navigation-link" href="{{ "" | relURL }}">Portfolio</a></li>
     </ul>
   </section>

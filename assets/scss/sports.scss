@@ -420,6 +420,20 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .sports-favorites-actions button { min-height: 4.4rem; padding: .9rem 1.5rem; border: 1px solid rgba(127,127,127,.3); border-radius: 999px; background: rgba(127,127,127,.08); color: inherit; font: inherit; font-weight: 800; cursor: pointer; }
 .sports-favorites-actions .sports-favorites-save { border-color: #1f2937; background: #1f2937; color: #fff; }
 .sports-favorites-close:focus-visible, .sports-favorite-option:focus-within, .sports-favorites-actions button:focus-visible { outline: .3rem solid #3b82f6; outline-offset: .25rem; }
+.sports-notifications-panel { padding: 2.4rem; }
+.sports-notifications-status { margin: 1.4rem 0; padding: 1rem 1.2rem; border: 1px solid rgba(127,127,127,.2); border-radius: 1rem; background: rgba(127,127,127,.07); font-size: 1.15rem; }
+.sports-notifications-status[data-error="true"] { border-color: rgba(220,38,38,.4); background: rgba(220,38,38,.1); }
+.sports-notifications-options { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .8rem; margin: 1.5rem 0; padding: 0; border: 0; }
+.sports-notifications-options legend { grid-column: 1 / -1; margin-bottom: .5rem; font-size: 1.35rem; font-weight: 850; }
+.sports-notifications-options label { display: flex; align-items: center; gap: .8rem; padding: 1rem 1.1rem; border: 1px solid rgba(127,127,127,.2); border-radius: 1rem; background: rgba(127,127,127,.05); font-size: 1.15rem; font-weight: 700; cursor: pointer; }
+.sports-notifications-options input { width: 1.35rem; height: 1.35rem; accent-color: #8b5cf6; }
+.sports-notifications-privacy { margin: 1.5rem 0; font-size: 1rem; line-height: 1.55; opacity: .68; }
+.sports-notifications-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 1.8rem; }
+.sports-notifications-actions button { min-height: 4.2rem; padding: .85rem 1.35rem; border: 1px solid rgba(127,127,127,.3); border-radius: 999px; background: rgba(127,127,127,.08); color: inherit; font: inherit; font-weight: 800; cursor: pointer; }
+.sports-notifications-actions .sports-notifications-primary { border-color: #f3f4f6; background: #f3f4f6; color: #111827; }
+.sports-notifications-actions .sports-notifications-danger { color: #ef4444; }
+.sports-notifications-actions button:focus-visible { outline: .3rem solid #c4b5fd; outline-offset: .25rem; }
+.sports-notifications-actions button:disabled { cursor: wait; opacity: .55; }
 body.colorscheme-dark .sports-favorites-dialog { background: #171a1f; color: #f5f7fa; }
 body.colorscheme-dark .sports-favorites-actions .sports-favorites-save { border-color: #f3f4f6; background: #f3f4f6; color: #111827; }
 @media (prefers-color-scheme: dark) {
@@ -473,6 +487,9 @@ body.colorscheme-dark .sports-favorites-actions .sports-favorites-save { border-
   .sports-team-grid-logo { width: 3.8rem; height: 3.8rem; }
   .sports-favorites-options { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .sports-favorites-dialog form { padding: 1.8rem; }
+  .sports-notifications-panel { padding: 1.8rem; }
+  .sports-notifications-options { grid-template-columns: 1fr; }
+  .sports-notifications-actions button { flex: 1 1 100%; }
   .content .sports-scores-page .sports-scores-hero { grid-template-columns: 1fr; padding: 1.8rem; }
   .sports-scores-page .sports-filters { border-radius: 1.6rem; }
   .sports-empty-state { grid-template-columns: auto minmax(0,1fr); }

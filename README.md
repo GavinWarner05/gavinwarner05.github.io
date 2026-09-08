@@ -75,3 +75,11 @@ Configure the repository before enabling production deployment:
 9. Never echo environment variables or enable shell tracing in the synchronization step.
 
 Do not commit tokens, `.env` files, raw Notion exports, or generated source payloads. Local secrets should remain in an ignored environment file or shell environment; never paste their contents into issues, logs, or chat.
+
+## Sports push notifications
+
+The installable Sports Center includes optional Web Push alerts for favorite-team kickoffs, live starts, final scores, and favorite team/player injury changes. The browser asks for permission only after the visitor presses **Enable notifications**. On iPhone and iPad, Web Push requires adding the site to the Home Screen first.
+
+GitHub Pages remains fully static. The separate Cloudflare Worker in `workers/sports-notifications/` stores anonymous push subscriptions in D1 and reads only the public sanitized sports JSON. It runs every five minutes through a Cloudflare Cron Trigger. Notion credentials are never available to the Worker or browser, and VAPID private keys must be stored as Cloudflare secrets.
+
+The checked-in `static/sports/data/notifications.json` contains only the public Worker address and enablement flag. Full setup, testing, rollback, and privacy details are in `workers/sports-notifications/README.md`.

@@ -91,6 +91,7 @@
       try { window.localStorage.setItem(favoritesStorageKey, JSON.stringify(favorites)); }
       catch (_) { /* The team page remains usable when browser storage is unavailable. */ }
       updateFavoriteButton(favorites);
+      window.dispatchEvent(new CustomEvent("sports:favorites-changed"));
     });
   }
 

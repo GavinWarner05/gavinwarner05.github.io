@@ -47,6 +47,7 @@
     else saved.splice(index, 1);
     try { window.localStorage.setItem(favoritesKey, JSON.stringify(saved)); } catch (_) { /* The page remains usable without storage. */ }
     updateFavorite(player);
+    window.dispatchEvent(new CustomEvent("sports:favorites-changed"));
   }
 
   function updateFavorite(player) {
