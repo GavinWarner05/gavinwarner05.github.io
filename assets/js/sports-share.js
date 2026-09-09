@@ -192,11 +192,19 @@
     return new Intl.DateTimeFormat("en-US", { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit", timeZone: timeZone || "America/Los_Angeles" }).format(new Date(game.kickoff));
   }
 
+  function seasonForGame(game, explicitSeason) {
+    if (Number.isInteger(Number(explicitSeason))) return Number(explicitSeason);
+    const kickoff = new Date(game.kickoff);
+    const year = kickoff.getUTCFullYear();
+    return kickoff.getUTCMonth() < 2 ? year - 1 : year;
+  }
+
   async function drawGame(canvas, data) {
     const ctx = canvas.getContext("2d"); const game = data.game; const home = game.home_team; const away = game.away_team;
     const colors = data.colors || home.colors || {};
     background(ctx, colors.primary, colors.secondary);
-    brand(ctx, `${String(game.season_phase || "NFL").toUpperCase()} · WEEK ${game.week || "–"}`);
+    const season = seasonForGame(game, data.season);
+    brand(ctx, `${season} · ${String(game.season_phase || "NFL").toUpperCase()} · WEEK ${game.week || "–"}`);
     const [awayLogo, homeLogo] = await Promise.all([loadImage(data.awayLogo || away.logo_url), loadImage(data.homeLogo || home.logo_url)]);
     watermark(ctx, homeLogo, 610, 500, 580, 580);
     watermark(ctx, awayLogo, -130, 570, 510, 510);
@@ -212,12 +220,19 @@
     const title = `${away.name} at ${home.name}`;
     const titleSize = fitText(ctx, title, 952, 58, 38, 800);
     text(ctx, title, 540, 590, titleSize, 800, "#fff", "center");
+    const kickoff = new Date(game.kickoff);
+    const timeZone = data.timeZone || "America/Los_Angeles";
     const rows = [
-      { label: "NETWORK", value: game.network || "Not announced" },
-      { label: "VENUE", value: game.venue || "Not listed" },
-      { label: "INJURY REPORT", value: `${(game.injuries || []).length} listed` },
-      { label: "JERSEYS", value: [game.away_jersey, game.home_jersey].filter(Boolean).join(" / ") || "Not listed" }
+      { label: "GAME DATE", value: new Intl.DateTimeFormat("en-US", { weekday: "short", month: "short", day: "numeric", year: "numeric", timeZone: timeZone }).format(kickoff) },
+      { label: "KICKOFF", value: new Intl.DateTimeFormat("en-US", { hour: "numeric", minute: "2-digit", timeZoneName: "short", timeZone: timeZone }).format(kickoff) },
+      { label: "VENUE", value: game.venue || "To be announced" }
     ];
+    if (game.status === "final" && game.away_score != null && game.home_score != null) {
+      const margin = Math.abs(game.away_score - game.home_score);
+      rows.push({ label: "RESULT", value: margin ? `${game.away_score > game.home_score ? away.abbreviation : home.abbreviation} won by ${margin}` : "Tie game" });
+    } else if (game.network) rows.push({ label: "NETWORK", value: game.network });
+    else if ((game.injuries || []).length) rows.push({ label: "INJURY REPORT", value: `${game.injuries.length} listed` });
+    else rows.push({ label: "GAME STATUS", value: gameStatus(game, timeZone) });
     statGrid(ctx, rows, 650);
     text(ctx, "gavinwarner.digital/sports", 64, 1030, 21, 650, "rgba(255,255,255,.55)");
     text(ctx, "MATCHUP CARD", 1016, 1030, 20, 800, "rgba(255,255,255,.48)", "right");

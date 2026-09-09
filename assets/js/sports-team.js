@@ -345,11 +345,12 @@
       if (!window.SportsShare) return;
       window.SportsShare.game({
         game: game,
+        season: data.season,
         timeZone: "America/Los_Angeles",
         colors: { primary: gradient[0], secondary: gradient[1] },
         awayLogo: teamLogo(game.away_team, game.away_jersey),
         homeLogo: teamLogo(game.home_team, game.home_jersey),
-        filename: `${game.away_team.abbreviation.toLowerCase()}-${game.home_team.abbreviation.toLowerCase()}-week-${game.week || "game"}.png`,
+        filename: `${data.season}-${game.away_team.abbreviation.toLowerCase()}-${game.home_team.abbreviation.toLowerCase()}-week-${game.week || "game"}.png`,
         title: `${game.away_team.name} at ${game.home_team.name}`
       });
     });
