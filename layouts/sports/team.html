@@ -11,6 +11,10 @@
     <p data-team-updated aria-live="polite">Loading roster and season…</p>
   </header>
   <div class="sports-notice" data-team-notice role="status" hidden></div>
+  <div class="team-season-switcher" data-team-season-control hidden>
+    <label for="team-season-select">Season</label>
+    <select id="team-season-select" data-team-season-select aria-label="Choose team schedule season"></select>
+  </div>
   <details class="team-page-section team-collapsible team-season-timeline-section" data-collapse-key="timeline" open>
     <summary class="sports-section-heading team-collapse-summary"><span class="team-section-title">Season timeline</span><span data-timeline-progress></span></summary>
     <div class="team-season-timeline" data-team-timeline aria-label="Season timeline"></div>

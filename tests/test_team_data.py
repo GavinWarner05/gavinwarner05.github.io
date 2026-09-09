@@ -31,6 +31,22 @@ class TeamDataTests(unittest.TestCase):
         self.assertNotIn("private_metric", clean["players"][0]["stats"])
         self.assertEqual(clean["injury_players"][0]["name"], "Reserve Player")
         self.assertNotIn("private_note", clean["injury_players"][0])
+        self.assertEqual(clean["seasons"][0]["season"], 2026)
+
+    def test_historical_team_schedule_is_preserved(self):
+        raw = copy.deepcopy(self.snapshot)
+        historical_game = copy.deepcopy(raw["games"][0])
+        historical_game["id"] = "2025_sample_game"
+        historical_game["kickoff"] = "2025-09-07T13:00:00-04:00"
+        historical_game["injuries"] = []
+        raw["seasons"] = [
+            {"season": 2026, "record": "0-0", "games": raw["games"]},
+            {"season": 2025, "record": "10-7", "games": [historical_game]},
+        ]
+        clean = sanitize_snapshot(raw)
+        self.assertEqual([entry["season"] for entry in clean["seasons"]], [2026, 2025])
+        self.assertEqual(clean["seasons"][1]["record"], "10-7")
+        self.assertEqual(clean["seasons"][1]["games"][0]["injuries"], [])
 
     def test_non_https_injury_player_headshot_is_rejected(self):
         player = copy.deepcopy(self.snapshot["injury_players"][0])
@@ -52,6 +68,13 @@ class TeamDataTests(unittest.TestCase):
         player = copy.deepcopy(self.snapshot["players"][0])
         player["weekly_stats"].append(copy.deepcopy(player["weekly_stats"][0]))
         with self.assertRaises(ValueError): sanitize_player(player, 0)
+
+    def test_duplicate_team_injuries_are_rejected(self):
+        raw = copy.deepcopy(self.snapshot)
+        injury = copy.deepcopy(raw["injuries"][0])
+        injury["player"] = injury["player"].upper()
+        raw["injuries"].append(injury)
+        with self.assertRaises(ValueError): sanitize_snapshot(raw)
 
     def test_negative_weekly_yardage_is_allowed(self):
         player = copy.deepcopy(self.snapshot["players"][0])

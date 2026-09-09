@@ -49,6 +49,14 @@ class SportsDataTests(unittest.TestCase):
         with self.assertRaises(ValidationError):
             sanitize(raw)
 
+    def test_duplicate_injuries_in_a_game_fail(self):
+        raw = copy.deepcopy(self.sample)
+        injury = copy.deepcopy(raw["games"][0]["injuries"][0])
+        injury["player"] = injury["player"].upper()
+        raw["games"][0]["injuries"].append(injury)
+        with self.assertRaises(ValidationError):
+            sanitize(raw)
+
     def test_week_metadata_is_preserved(self):
         result = sanitize(self.sample)
         self.assertEqual(result["games"][0]["week"], 1)

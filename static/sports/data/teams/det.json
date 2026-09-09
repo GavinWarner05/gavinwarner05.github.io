@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T22:18:54+00:00",
+  "generated_at": "2026-09-09T23:26:56+00:00",
   "season": 2026,
   "team": {
     "id": "det",
@@ -111,6 +111,66 @@
           "detail": "Ankle"
         },
         {
+          "team": "New Orleans Saints",
+          "player": "David Long",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Dillon Radunz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Ty Chandler",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Rejzohn Wright",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Bryan Bresee",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Devin Neal",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Moliki Matavao",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Jordyn Tyson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Michael Heldman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Brock Rechsteiner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Detroit Lions",
           "player": "D.J. Reed",
           "status": "Questionable",
@@ -187,6 +247,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -299,6 +383,30 @@
           "detail": "Wrist"
         },
         {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Buffalo Bills",
           "player": "Michael Hoecht",
           "status": "Questionable",
@@ -357,6 +465,24 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -457,6 +583,42 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "New York Jets",
+          "player": "Mykal Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Tre Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Kingsley Jonathan",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Dominic Richardson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Chip Trayanum",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Connor Hulstein",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Detroit Lions",
           "player": "D.J. Reed",
           "status": "Questionable",
@@ -533,6 +695,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -645,6 +831,30 @@
           "detail": "Wrist"
         },
         {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Carolina Panthers",
           "player": "Chuba Hubbard",
           "status": "Questionable",
@@ -721,6 +931,30 @@
           "player": "Akayleb Evans",
           "status": "Questionable",
           "detail": "Neck"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Brady Christensen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Ryan Hayes",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Nic Scourton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Chris Brazzell II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -833,6 +1067,30 @@
           "detail": "Wrist"
         },
         {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Arizona Cardinals",
           "player": "Tip Reiman",
           "status": "IR/PUP",
@@ -861,6 +1119,48 @@
           "player": "Dadrion Taylor-Demerson",
           "status": "Questionable",
           "detail": "Ribs"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "James Conner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Joey Blount",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Zachary Carter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Trey Benson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Jameson Geers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Chase Bisontis",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Kaleb Proctor",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -955,6 +1255,42 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Green Bay Packers",
+          "player": "Trey Dean III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "McCallan Castles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Thomas Yassmin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Savion Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Johnathan Baldwin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Marlon Jones",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Detroit Lions",
           "player": "D.J. Reed",
           "status": "Questionable",
@@ -1031,6 +1367,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1103,6 +1463,60 @@
           "detail": "Ankle"
         },
         {
+          "team": "Minnesota Vikings",
+          "player": "Jamal Adams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jermar Jefferson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Taki Taimani",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyler Batty",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Dontae Fleming",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Bryson Nesbit",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jacob Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Marcus Allen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyreek Chappell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Detroit Lions",
           "player": "D.J. Reed",
           "status": "Questionable",
@@ -1179,6 +1593,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1291,6 +1729,30 @@
           "detail": "Wrist"
         },
         {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Miami Dolphins",
           "player": "Zach Sieler",
           "status": "Questionable",
@@ -1349,6 +1811,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1396,18 +1876,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -1438,15 +1906,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Detroit Lions",
@@ -1525,6 +2011,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1589,6 +2099,24 @@
           "detail": "Shoulder - AC Joint"
         },
         {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Detroit Lions",
           "player": "D.J. Reed",
           "status": "Questionable",
@@ -1665,6 +2193,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1777,6 +2329,66 @@
           "detail": "Shin"
         },
         {
+          "team": "Chicago Bears",
+          "player": "Ray-Ray McCloud",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Jonathan Garvin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nikola Kalinic",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Brittain Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dallis Flowers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nephi Sewell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Beanie Bishop Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ruben Hyppolite II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dontae Manning",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Hayden Large",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Detroit Lions",
           "player": "D.J. Reed",
           "status": "Questionable",
@@ -1853,6 +2465,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1965,6 +2601,30 @@
           "detail": "Wrist"
         },
         {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Atlanta Falcons",
           "player": "Gervon Dexter Sr.",
           "status": "Questionable",
@@ -2017,6 +2677,48 @@
           "player": "Anterio Thompson",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Darren Hall",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Trey Sermon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Keshawn Banks",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "JD Bertrand",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Beaux Collins",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Malik Verdon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Jalon Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2085,6 +2787,42 @@
           "player": "Joshua Williams",
           "status": "IR/PUP",
           "detail": "Pectoral"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Tanoh Kpassagnon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Milo Eifler",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Kendell Brooks",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Dominique Hampton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Jaylen Harrell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Jaren Kanak",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Detroit Lions",
@@ -2163,6 +2901,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2277,6 +3039,30 @@
           "detail": "Wrist"
         },
         {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Minnesota Vikings",
           "player": "Jeshaun Jones",
           "status": "Out",
@@ -2311,6 +3097,60 @@
           "player": "Jacob Thomas",
           "status": "Questionable",
           "detail": "Ankle"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jamal Adams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jermar Jefferson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Taki Taimani",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyler Batty",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Dontae Fleming",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Bryson Nesbit",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jacob Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Marcus Allen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyreek Chappell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2405,6 +3245,42 @@
           "detail": "Knee"
         },
         {
+          "team": "New York Giants",
+          "player": "Roy Robertson-Harris",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Calvin Austin III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Jarrick Bernard-Converse",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Rico Payton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Thaddeus Dixon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Detroit Lions",
           "player": "D.J. Reed",
           "status": "Questionable",
@@ -2481,6 +3357,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2593,6 +3493,30 @@
           "detail": "Wrist"
         },
         {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Chicago Bears",
           "player": "Shemar Turner",
           "status": "IR/PUP",
@@ -2669,6 +3593,66 @@
           "player": "Elijah Hicks",
           "status": "Questionable",
           "detail": "Shin"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ray-Ray McCloud",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Jonathan Garvin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nikola Kalinic",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Brittain Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dallis Flowers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nephi Sewell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Beanie Bishop Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ruben Hyppolite II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dontae Manning",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Hayden Large",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2781,6 +3765,30 @@
           "detail": "Wrist"
         },
         {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Green Bay Packers",
           "player": "Josh Jacobs",
           "status": "Out",
@@ -2839,6 +3847,4455 @@
           "player": "Collin Oliver",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Trey Dean III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "McCallan Castles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Thomas Yassmin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Savion Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Johnathan Baldwin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Marlon Jones",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        }
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2026,
+      "record": "0-0",
+      "games": [
+        {
+          "id": "2026_01_NO_DET",
+          "kickoff": "2026-09-13T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Ford Field",
+          "injuries": [
+            {
+              "team": "New Orleans Saints",
+              "player": "Nick Saldiveri",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Cameron Jordan",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Oscar Delp",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Alvin Kamara",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "John Ridgeway",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Lorenzo Styles Jr.",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Jaylan Ford",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Quincy Riley",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Pete Werner",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Mason Tipton",
+              "status": "IR/PUP",
+              "detail": "Groin"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Chris Rumph II",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "David Long",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Dillon Radunz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Ty Chandler",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Rejzohn Wright",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Bryan Bresee",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Devin Neal",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Moliki Matavao",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Jordyn Tyson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Michael Heldman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Brock Rechsteiner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_02_DET_BUF",
+          "kickoff": "2026-09-17T20:15:00-04:00",
+          "status": "scheduled",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_03_NYJ_DET",
+          "kickoff": "2026-09-27T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Ford Field",
+          "injuries": [
+            {
+              "team": "New York Jets",
+              "player": "Breece Hall",
+              "status": "Questionable",
+              "detail": "Thigh"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Da'Quan Felton",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Qwan'tez Stiggers",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Joseph Ossai",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Anez Cooper",
+              "status": "IR/PUP",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Nahshon Wright",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "New York Jets",
+              "player": "D'Angelo Ponds",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kenyon Sadiq",
+              "status": "Questionable",
+              "detail": "Abdomen"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tyler Baron",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Isaiah Davis",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "VJ Payne",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Mykal Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tre Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kingsley Jonathan",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Dominic Richardson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Chip Trayanum",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Connor Hulstein",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_04_DET_CAR",
+          "kickoff": "2026-10-04T20:20:00-04:00",
+          "status": "scheduled",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Bank of America Stadium",
+          "injuries": [
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Chuba Hubbard",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Xavier Legette",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Derrick Brown",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Jonathon Brooks",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Jaelan Phillips",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Trevor Etienne",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Ikem Ekwonu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Haynes King",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Devin Lloyd",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Bam Martin-Scott",
+              "status": "IR/PUP",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Tershawn Wharton",
+              "status": "IR/PUP",
+              "detail": "Neck"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Taylor Moton",
+              "status": "IR/PUP",
+              "detail": "Illness"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Akayleb Evans",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Brady Christensen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Ryan Hayes",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Nic Scourton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Chris Brazzell II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_05_DET_ARI",
+          "kickoff": "2026-10-11T16:25:00-04:00",
+          "status": "scheduled",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "State Farm Stadium",
+          "injuries": [
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Tip Reiman",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Jeremiyah Love",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Blake Gillikin",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Will Johnson",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Dadrion Taylor-Demerson",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "James Conner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Joey Blount",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Zachary Carter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Trey Benson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Jameson Geers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Chase Bisontis",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Kaleb Proctor",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_07_GB_DET",
+          "kickoff": "2026-10-25T16:25:00-04:00",
+          "status": "scheduled",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Ford Field",
+          "injuries": [
+            {
+              "team": "Green Bay Packers",
+              "player": "Josh Jacobs",
+              "status": "Out",
+              "detail": "Groin"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Warren Brinson",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Luke Musgrave",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Carrington Valentine",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Micah Parsons",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Javon Bullard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Tucker Kraft",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Dani Dennis-Sutton",
+              "status": "Questionable",
+              "detail": "Illness"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Jordon Riley",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Collin Oliver",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Trey Dean III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "McCallan Castles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Thomas Yassmin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Savion Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Johnathan Baldwin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Marlon Jones",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_08_MIN_DET",
+          "kickoff": "2026-11-01T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Ford Field",
+          "away_jersey": "Rivalry Series",
+          "home_jersey": "Rivalry Series",
+          "injuries": [
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jeshaun Jones",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Caleb Tiernan",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "J.J. McCarthy",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jakobe Thomas",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Michael Jurgens",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Thomas",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jamal Adams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jermar Jefferson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Taki Taimani",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyler Batty",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Dontae Fleming",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Bryson Nesbit",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Marcus Allen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyreek Chappell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_09_DET_MIA",
+          "kickoff": "2026-11-08T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_10_NE_DET",
+          "kickoff": "2026-11-15T09:30:00-05:00",
+          "status": "scheduled",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "FC Bayern Munich Stadium",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_11_TB_DET",
+          "kickoff": "2026-11-22T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Ford Field",
+          "injuries": [
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_12_CHI_DET",
+          "kickoff": "2026-11-26T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Ford Field",
+          "injuries": [
+            {
+              "team": "Chicago Bears",
+              "player": "Shemar Turner",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Coby Bryant",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jaylon Johnson",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Noah Sewell",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyler Gordon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyle Monangai",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tyrique Stevenson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Keyshaun Elliott",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Austin Booker",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Xavier Woods",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Luther Burden III",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tony Fields II",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Elijah Hicks",
+              "status": "Questionable",
+              "detail": "Shin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ray-Ray McCloud",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jonathan Garvin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nikola Kalinic",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Brittain Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dallis Flowers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nephi Sewell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Beanie Bishop Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ruben Hyppolite II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dontae Manning",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Hayden Large",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_13_DET_ATL",
+          "kickoff": "2026-12-06T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Mercedes-Benz Stadium",
+          "injuries": [
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Gervon Dexter Sr.",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Storm Norton",
+              "status": "IR/PUP",
+              "detail": "Foot"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Michael Penix Jr.",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Tyrone Wheatley Jr.",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "James Pearce Jr.",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Billy Bowman Jr.",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "DeAngelo Malone",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Da'Shawn Hand",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Anterio Thompson",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Darren Hall",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Trey Sermon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Keshawn Banks",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "JD Bertrand",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Beaux Collins",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Malik Verdon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Jalon Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_14_TEN_DET",
+          "kickoff": "2026-12-13T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Ford Field",
+          "injuries": [
+            {
+              "team": "Tennessee Titans",
+              "player": "Wan'Dale Robinson",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Kalel Mullings",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Keldric Faulk",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Dorian Mausi",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Mitchell Trubisky",
+              "status": "Questionable",
+              "detail": "Biceps"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Joshua Williams",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Tanoh Kpassagnon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Milo Eifler",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Kendell Brooks",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Dominique Hampton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Jaylen Harrell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Jaren Kanak",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_15_DET_MIN",
+          "kickoff": "2026-12-20T20:20:00-05:00",
+          "status": "scheduled",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "U.S. Bank Stadium",
+          "away_jersey": "Rivalry Series",
+          "home_jersey": "Rivalry Series",
+          "injuries": [
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jeshaun Jones",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Caleb Tiernan",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "J.J. McCarthy",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jakobe Thomas",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Michael Jurgens",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Thomas",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jamal Adams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jermar Jefferson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Taki Taimani",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyler Batty",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Dontae Fleming",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Bryson Nesbit",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Marcus Allen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyreek Chappell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_16_NYG_DET",
+          "kickoff": "2026-12-28T20:15:00-05:00",
+          "status": "scheduled",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Ford Field",
+          "injuries": [
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Korie Black",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Malik Nabers",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Colton Hood",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Tyrone Tracy Jr.",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Andru Phillips",
+              "status": "Questionable",
+              "detail": "Lower Leg"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Francis Mauigoa",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Theo Johnson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "John Michael Schmitz",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Greg Newsome II",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Roy Robertson-Harris",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Calvin Austin III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Jarrick Bernard-Converse",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Rico Payton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Thaddeus Dixon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_17_DET_CHI",
+          "kickoff": "2027-01-03T16:25:00-05:00",
+          "status": "scheduled",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Soldier Field",
+          "injuries": [
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Shemar Turner",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Coby Bryant",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jaylon Johnson",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Noah Sewell",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyler Gordon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyle Monangai",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tyrique Stevenson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Keyshaun Elliott",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Austin Booker",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Xavier Woods",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Luther Burden III",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tony Fields II",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Elijah Hicks",
+              "status": "Questionable",
+              "detail": "Shin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ray-Ray McCloud",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jonathan Garvin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nikola Kalinic",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Brittain Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dallis Flowers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nephi Sewell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Beanie Bishop Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ruben Hyppolite II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dontae Manning",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Hayden Large",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_18_DET_GB",
+          "kickoff": "2027-01-10T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lambeau Field",
+          "injuries": [
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Josh Jacobs",
+              "status": "Out",
+              "detail": "Groin"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Warren Brinson",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Luke Musgrave",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Carrington Valentine",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Micah Parsons",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Javon Bullard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Tucker Kraft",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Dani Dennis-Sutton",
+              "status": "Questionable",
+              "detail": "Illness"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Jordon Riley",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Collin Oliver",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Trey Dean III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "McCallan Castles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Thomas Yassmin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Savion Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Johnathan Baldwin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Marlon Jones",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "record": "9-8",
+      "games": [
+        {
+          "id": "2025_01_DET_GB",
+          "kickoff": "2025-09-07T16:25:00-04:00",
+          "status": "final",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": 13,
+          "home_score": 27,
+          "venue": "Lambeau Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_02_CHI_DET",
+          "kickoff": "2025-09-14T13:00:00-04:00",
+          "status": "final",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": 21,
+          "home_score": 52,
+          "venue": "Ford Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_03_DET_BAL",
+          "kickoff": "2025-09-22T20:15:00-04:00",
+          "status": "final",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 38,
+          "home_score": 30,
+          "venue": "M&T Bank Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_04_CLE_DET",
+          "kickoff": "2025-09-28T13:00:00-04:00",
+          "status": "final",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": 10,
+          "home_score": 34,
+          "venue": "Ford Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_05_DET_CIN",
+          "kickoff": "2025-10-05T16:25:00-04:00",
+          "status": "final",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 37,
+          "home_score": 24,
+          "venue": "Paycor Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_06_DET_KC",
+          "kickoff": "2025-10-12T20:20:00-04:00",
+          "status": "final",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "away_score": 17,
+          "home_score": 30,
+          "venue": "GEHA Field at Arrowhead Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_07_TB_DET",
+          "kickoff": "2025-10-20T19:00:00-04:00",
+          "status": "final",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": 9,
+          "home_score": 24,
+          "venue": "Ford Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_09_MIN_DET",
+          "kickoff": "2025-11-02T13:00:00-05:00",
+          "status": "final",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": 27,
+          "home_score": 24,
+          "venue": "Ford Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_10_DET_WAS",
+          "kickoff": "2025-11-09T16:25:00-05:00",
+          "status": "final",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "was",
+            "name": "Washington Commanders",
+            "abbreviation": "WAS",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/was.png",
+            "colors": {
+              "primary": "#5A1414",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": 44,
+          "home_score": 22,
+          "venue": "FedExField",
+          "injuries": []
+        },
+        {
+          "id": "2025_11_DET_PHI",
+          "kickoff": "2025-11-16T20:20:00-05:00",
+          "status": "final",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 9,
+          "home_score": 16,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_12_NYG_DET",
+          "kickoff": "2025-11-23T13:00:00-05:00",
+          "status": "final",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": 27,
+          "home_score": 34,
+          "venue": "Ford Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_13_GB_DET",
+          "kickoff": "2025-11-27T13:00:00-05:00",
+          "status": "final",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": 31,
+          "home_score": 24,
+          "venue": "Ford Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_14_DAL_DET",
+          "kickoff": "2025-12-04T20:15:00-05:00",
+          "status": "final",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": 30,
+          "home_score": 44,
+          "venue": "Ford Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_15_DET_LA",
+          "kickoff": "2025-12-14T16:25:00-05:00",
+          "status": "final",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          },
+          "away_score": 34,
+          "home_score": 41,
+          "venue": "SoFi Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_16_PIT_DET",
+          "kickoff": "2025-12-21T16:25:00-05:00",
+          "status": "final",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": 29,
+          "home_score": 24,
+          "venue": "Ford Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_17_DET_MIN",
+          "kickoff": "2025-12-25T16:30:00-05:00",
+          "status": "final",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          },
+          "away_score": 10,
+          "home_score": 23,
+          "venue": "U.S. Bank Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_18_DET_CHI",
+          "kickoff": "2026-01-04T16:25:00-05:00",
+          "status": "final",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          },
+          "away_score": 19,
+          "home_score": 16,
+          "venue": "Soldier Field",
+          "injuries": []
         }
       ]
     }

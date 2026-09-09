@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T22:18:54+00:00",
+  "generated_at": "2026-09-09T23:26:56+00:00",
   "season": 2026,
   "team": {
     "id": "ne",
@@ -58,18 +58,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -100,27 +88,45 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Seattle Seahawks",
           "player": "Nick Emmanwori",
-          "status": "Questionable",
-          "detail": "Ankle"
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
           "player": "Tory Horton",
-          "status": "Questionable",
-          "detail": "Hamstring"
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
@@ -131,18 +137,6 @@
         {
           "team": "Seattle Seahawks",
           "player": "Julian Neal",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Nick Emmanwori",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Tory Horton",
           "status": "Out",
           "detail": "Injury"
         },
@@ -166,12 +160,6 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Ty Okada",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
           "player": "Josh Jones",
           "status": "Out",
           "detail": "Injury"
@@ -184,27 +172,9 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Emanuel Wilson",
-          "status": "Questionable",
-          "detail": "Hamstring"
-        },
-        {
-          "team": "Seattle Seahawks",
           "player": "Brandon Pili",
           "status": "Questionable",
           "detail": "Lower Leg"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Tory Horton",
-          "status": "Questionable",
-          "detail": "Undisclosed"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Julian Neal",
-          "status": "Questionable",
-          "detail": "Leg"
         },
         {
           "team": "Seattle Seahawks",
@@ -220,9 +190,39 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Nick Emmanwori",
-          "status": "Questionable",
-          "detail": "Ankle"
+          "player": "Jake Bobo",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Amari Kight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Aaron Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Robbie Ouzts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Mason Richman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Bud Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -317,6 +317,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Pittsburgh Steelers",
+          "player": "Logan Lee",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Cole Burgess",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Daequan Hardy",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -327,18 +345,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -372,15 +378,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -428,18 +452,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -470,15 +482,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Jacksonville Jaguars",
@@ -515,6 +545,36 @@
           "player": "Wyatt Milum",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Sam Mustipher",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Carter Bradley",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Jared Bartlett",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Parker Hughes",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Garrett DiGiorgio",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -562,18 +622,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -604,15 +652,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Buffalo Bills",
@@ -673,6 +739,24 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -719,6 +803,60 @@
           "detail": "Knee"
         },
         {
+          "team": "Las Vegas Raiders",
+          "player": "Justin Shorter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chris Collier",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chigozie Anusiem",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Brennan Jackson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Dont'e Thornton Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Justin Pickett",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chase Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Corey Rucker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Keyron Crawford",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -729,18 +867,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -774,15 +900,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -883,6 +1027,42 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "New York Jets",
+          "player": "Mykal Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Tre Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Kingsley Jonathan",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Dominic Richardson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Chip Trayanum",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Connor Hulstein",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -893,18 +1073,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -938,15 +1106,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -994,18 +1180,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -1036,15 +1210,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Chicago Bears",
@@ -1123,6 +1315,66 @@
           "player": "Elijah Hicks",
           "status": "Questionable",
           "detail": "Shin"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ray-Ray McCloud",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Jonathan Garvin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nikola Kalinic",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Brittain Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dallis Flowers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nephi Sewell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Beanie Bishop Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ruben Hyppolite II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dontae Manning",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Hayden Large",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1170,18 +1422,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -1212,15 +1452,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Miami Dolphins",
@@ -1281,6 +1539,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1375,6 +1651,42 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Green Bay Packers",
+          "player": "Trey Dean III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "McCallan Castles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Thomas Yassmin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Savion Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Johnathan Baldwin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Marlon Jones",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -1385,18 +1697,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -1430,15 +1730,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1486,18 +1804,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -1528,15 +1834,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Detroit Lions",
@@ -1615,6 +1939,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1662,18 +2010,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -1704,15 +2040,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Los Angeles Chargers",
@@ -1749,6 +2103,48 @@
           "player": "Brenen Thompson",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Denzel Perryman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Tyler Biadasz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Scott Matlock",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Kyle Kennard",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Branson Taylor",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Dalevon Campbell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Sincere Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1843,6 +2239,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -1853,18 +2267,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -1898,15 +2300,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1977,6 +2397,60 @@
           "detail": "Ankle"
         },
         {
+          "team": "Minnesota Vikings",
+          "player": "Jamal Adams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jermar Jefferson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Taki Taimani",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyler Batty",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Dontae Fleming",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Bryson Nesbit",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jacob Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Marcus Allen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyreek Chappell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -1987,18 +2461,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -2032,15 +2494,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2088,18 +2568,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -2130,15 +2598,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Kansas City Chiefs",
@@ -2187,6 +2673,54 @@
           "player": "Omarr Norman-Lott",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Matt Waletzko",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Chris Oladokun",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "C.J. Hanson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jimmy Holiday",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Ethan Downs",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jeff Caldwell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "John Michael Gyllenborg",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "EJ Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2234,18 +2768,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -2276,15 +2798,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "New York Jets",
@@ -2351,6 +2891,42 @@
           "player": "VJ Payne",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Mykal Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Tre Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Kingsley Jonathan",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Dominic Richardson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Chip Trayanum",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Connor Hulstein",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2433,6 +3009,30 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -2443,18 +3043,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -2488,15 +3076,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2591,6 +3197,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -2601,18 +3225,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -2646,15 +3258,3972 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        }
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2026,
+      "record": "0-0",
+      "games": [
+        {
+          "id": "2026_01_NE_SEA",
+          "kickoff": "2026-09-09T20:20:00-04:00",
+          "status": "scheduled",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lumen Field",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Nick Emmanwori",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Tory Horton",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Ty Okada",
+              "status": "Out",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Julian Neal",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "AJ Barner",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Anthony Bradford",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Emanuel Wilson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Josh Jones",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Zach Charbonnet",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Brandon Pili",
+              "status": "Questionable",
+              "detail": "Lower Leg"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Terrion Arnold",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Irvin Charles",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Jake Bobo",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Amari Kight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Aaron Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Robbie Ouzts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Mason Richman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Bud Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_02_PIT_NE",
+          "kickoff": "2026-09-20T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "DK Metcalf",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Michael Pittman",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jack Driscoll",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jalen Ramsey",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Ben Skowronek",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "DeShon Elliott",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jaquan Brisker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Will Howard",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Brandin Echols",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Donte Kent",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Logan Lee",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Cole Burgess",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Daequan Hardy",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_03_NE_JAX",
+          "kickoff": "2026-09-27T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "EverBank Stadium",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "LeQuint Allen Jr.",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Brian Thomas Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jakobi Meyers",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Patrick Mekari",
+              "status": "IR/PUP",
+              "detail": "Back"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Zach Durfee",
+              "status": "IR/PUP",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Wyatt Milum",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Sam Mustipher",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Carter Bradley",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jared Bartlett",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Parker Hughes",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Garrett DiGiorgio",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_04_NE_BUF",
+          "kickoff": "2026-10-04T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_05_LV_NE",
+          "kickoff": "2026-10-11T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Carter Runyon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Ashton Jeanty",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Justin Shorter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chris Collier",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chigozie Anusiem",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Brennan Jackson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Dont'e Thornton Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Justin Pickett",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chase Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Corey Rucker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Keyron Crawford",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_06_NYJ_NE",
+          "kickoff": "2026-10-18T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "New York Jets",
+              "player": "Breece Hall",
+              "status": "Questionable",
+              "detail": "Thigh"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Da'Quan Felton",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Qwan'tez Stiggers",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Joseph Ossai",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Anez Cooper",
+              "status": "IR/PUP",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Nahshon Wright",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "New York Jets",
+              "player": "D'Angelo Ponds",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kenyon Sadiq",
+              "status": "Questionable",
+              "detail": "Abdomen"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tyler Baron",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Isaiah Davis",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "VJ Payne",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Mykal Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tre Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kingsley Jonathan",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Dominic Richardson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Chip Trayanum",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Connor Hulstein",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_07_NE_CHI",
+          "kickoff": "2026-10-22T20:15:00-04:00",
+          "status": "scheduled",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Soldier Field",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Shemar Turner",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Coby Bryant",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jaylon Johnson",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Noah Sewell",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyler Gordon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyle Monangai",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tyrique Stevenson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Keyshaun Elliott",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Austin Booker",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Xavier Woods",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Luther Burden III",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tony Fields II",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Elijah Hicks",
+              "status": "Questionable",
+              "detail": "Shin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ray-Ray McCloud",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jonathan Garvin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nikola Kalinic",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Brittain Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dallis Flowers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nephi Sewell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Beanie Bishop Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ruben Hyppolite II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dontae Manning",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Hayden Large",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_08_NE_MIA",
+          "kickoff": "2026-11-01T16:25:00-05:00",
+          "status": "scheduled",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_09_GB_NE",
+          "kickoff": "2026-11-08T16:25:00-05:00",
+          "status": "scheduled",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "Green Bay Packers",
+              "player": "Josh Jacobs",
+              "status": "Out",
+              "detail": "Groin"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Warren Brinson",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Luke Musgrave",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Carrington Valentine",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Micah Parsons",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Javon Bullard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Tucker Kraft",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Dani Dennis-Sutton",
+              "status": "Questionable",
+              "detail": "Illness"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Jordon Riley",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Collin Oliver",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Trey Dean III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "McCallan Castles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Thomas Yassmin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Savion Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Johnathan Baldwin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Marlon Jones",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_10_NE_DET",
+          "kickoff": "2026-11-15T09:30:00-05:00",
+          "status": "scheduled",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "FC Bayern Munich Stadium",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_12_NE_LAC",
+          "kickoff": "2026-11-29T20:20:00-05:00",
+          "status": "scheduled",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "SoFi Stadium",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Rashawn Slater",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Isaiah World",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Keaton Mitchell",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tre Harris",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Cameron Dicker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Brenen Thompson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Denzel Perryman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tyler Biadasz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Scott Matlock",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Kyle Kennard",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Branson Taylor",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Dalevon Campbell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Sincere Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_13_BUF_NE",
+          "kickoff": "2026-12-06T16:25:00-05:00",
+          "status": "scheduled",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_14_MIN_NE",
+          "kickoff": "2026-12-10T20:15:00-05:00",
+          "status": "scheduled",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jeshaun Jones",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Caleb Tiernan",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "J.J. McCarthy",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jakobe Thomas",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Michael Jurgens",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Thomas",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jamal Adams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jermar Jefferson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Taki Taimani",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyler Batty",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Dontae Fleming",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Bryson Nesbit",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Marcus Allen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyreek Chappell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_15_NE_KC",
+          "kickoff": "2026-12-21T20:15:00-05:00",
+          "status": "scheduled",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "GEHA Field at Arrowhead Stadium",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ashton Gillotte",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Kenneth Walker III",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "L'Jarius Sneed",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Drue Tranquill",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Trey Smith",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Alohi Gilman",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Patrick Mahomes",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Omarr Norman-Lott",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Matt Waletzko",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Chris Oladokun",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "C.J. Hanson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jimmy Holiday",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ethan Downs",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jeff Caldwell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "John Michael Gyllenborg",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "EJ Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_16_NE_NYJ",
+          "kickoff": "2026-12-27T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "MetLife Stadium",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Breece Hall",
+              "status": "Questionable",
+              "detail": "Thigh"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Da'Quan Felton",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Qwan'tez Stiggers",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Joseph Ossai",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Anez Cooper",
+              "status": "IR/PUP",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Nahshon Wright",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "New York Jets",
+              "player": "D'Angelo Ponds",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kenyon Sadiq",
+              "status": "Questionable",
+              "detail": "Abdomen"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tyler Baron",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Isaiah Davis",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "VJ Payne",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Mykal Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tre Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kingsley Jonathan",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Dominic Richardson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Chip Trayanum",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Connor Hulstein",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_17_DEN_NE",
+          "kickoff": "2027-01-03T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_18_MIA_NE",
+          "kickoff": "2027-01-10T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "record": "14-3",
+      "games": [
+        {
+          "id": "2025_01_LV_NE",
+          "kickoff": "2025-09-07T13:00:00-04:00",
+          "status": "final",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 20,
+          "home_score": 13,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_02_NE_MIA",
+          "kickoff": "2025-09-14T13:00:00-04:00",
+          "status": "final",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 33,
+          "home_score": 27,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_03_PIT_NE",
+          "kickoff": "2025-09-21T13:00:00-04:00",
+          "status": "final",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 21,
+          "home_score": 14,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_04_CAR_NE",
+          "kickoff": "2025-09-28T13:00:00-04:00",
+          "status": "final",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 13,
+          "home_score": 42,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_05_NE_BUF",
+          "kickoff": "2025-10-05T20:20:00-04:00",
+          "status": "final",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 23,
+          "home_score": 20,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_06_NE_NO",
+          "kickoff": "2025-10-12T13:00:00-04:00",
+          "status": "final",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          },
+          "away_score": 25,
+          "home_score": 19,
+          "venue": "Mercedes-Benz Superdome",
+          "injuries": []
+        },
+        {
+          "id": "2025_07_NE_TEN",
+          "kickoff": "2025-10-19T13:00:00-04:00",
+          "status": "final",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          },
+          "away_score": 31,
+          "home_score": 13,
+          "venue": "Nissan Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_08_CLE_NE",
+          "kickoff": "2025-10-26T13:00:00-04:00",
+          "status": "final",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 13,
+          "home_score": 32,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_09_ATL_NE",
+          "kickoff": "2025-11-02T13:00:00-05:00",
+          "status": "final",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 23,
+          "home_score": 24,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_10_NE_TB",
+          "kickoff": "2025-11-09T13:00:00-05:00",
+          "status": "final",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": 28,
+          "home_score": 23,
+          "venue": "Raymond James Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_11_NYJ_NE",
+          "kickoff": "2025-11-13T20:15:00-05:00",
+          "status": "final",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 14,
+          "home_score": 27,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_12_NE_CIN",
+          "kickoff": "2025-11-23T13:00:00-05:00",
+          "status": "final",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 26,
+          "home_score": 20,
+          "venue": "Paycor Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_13_NYG_NE",
+          "kickoff": "2025-12-01T20:15:00-05:00",
+          "status": "final",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 15,
+          "home_score": 33,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_15_BUF_NE",
+          "kickoff": "2025-12-14T13:00:00-05:00",
+          "status": "final",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 35,
+          "home_score": 31,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_16_NE_BAL",
+          "kickoff": "2025-12-21T20:20:00-05:00",
+          "status": "final",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 28,
+          "home_score": 24,
+          "venue": "M&T Bank Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_17_NE_NYJ",
+          "kickoff": "2025-12-28T13:00:00-05:00",
+          "status": "final",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 42,
+          "home_score": 10,
+          "venue": "MetLife Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_18_MIA_NE",
+          "kickoff": "2026-01-04T16:25:00-05:00",
+          "status": "final",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 10,
+          "home_score": 38,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_19_LAC_NE",
+          "kickoff": "2026-01-11T20:00:00-05:00",
+          "status": "final",
+          "week": 19,
+          "season_phase": "Wild Card",
+          "away_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 3,
+          "home_score": 16,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_20_HOU_NE",
+          "kickoff": "2026-01-18T15:00:00-05:00",
+          "status": "final",
+          "week": 20,
+          "season_phase": "Divisional",
+          "away_team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 16,
+          "home_score": 28,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_21_NE_DEN",
+          "kickoff": "2026-01-25T15:00:00-05:00",
+          "status": "final",
+          "week": 21,
+          "season_phase": "Conference Championship",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 10,
+          "home_score": 7,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_22_SEA_NE",
+          "kickoff": "2026-02-08T18:30:00-05:00",
+          "status": "final",
+          "week": 22,
+          "season_phase": "Super Bowl",
+          "away_team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 29,
+          "home_score": 13,
+          "venue": "Levi's Stadium",
+          "injuries": []
         }
       ]
     }

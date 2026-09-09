@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T22:18:54+00:00",
+  "generated_at": "2026-09-09T23:26:56+00:00",
   "season": 2026,
   "team": {
     "id": "ind",
@@ -75,6 +75,36 @@
           "detail": "Concussion"
         },
         {
+          "team": "Baltimore Ravens",
+          "player": "Danny Pinter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Skylar Thompson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Bilhal Kone",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Adam Randall",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jahquez Robinson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Indianapolis Colts",
           "player": "Charvarius Ward",
           "status": "Questionable",
@@ -121,6 +151,30 @@
           "player": "Will Mallory",
           "status": "IR/PUP",
           "detail": "Thumb"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -203,6 +257,30 @@
           "detail": "Thumb"
         },
         {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Kansas City Chiefs",
           "player": "Ashton Gillotte",
           "status": "Questionable",
@@ -249,6 +327,54 @@
           "player": "Omarr Norman-Lott",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Matt Waletzko",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Chris Oladokun",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "C.J. Hanson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jimmy Holiday",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Ethan Downs",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jeff Caldwell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "John Michael Gyllenborg",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "EJ Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -339,6 +465,72 @@
           "detail": "Calf"
         },
         {
+          "team": "Houston Texans",
+          "player": "Braden Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Ja'Marcus Ingram",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Ali Gaye",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Tank Dell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Dylan Horton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Solomon Byrd",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Jayden Higgins",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Graham Mertz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Kyonte Hamilton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "K.C. Ossai",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Sam Hagen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Indianapolis Colts",
           "player": "Charvarius Ward",
           "status": "Questionable",
@@ -385,6 +577,30 @@
           "player": "Will Mallory",
           "status": "IR/PUP",
           "detail": "Thumb"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -465,6 +681,30 @@
           "player": "Will Mallory",
           "status": "IR/PUP",
           "detail": "Thumb"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Washington Commanders",
@@ -549,6 +789,54 @@
           "player": "Rachaad White",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Jeremy McNichols",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Drake Jackson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Curtis Jacobs",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "T.J. Maguranyanga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Jacoby Jones",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Trey Amos",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Quentin Moore",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Malik Spencer",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -631,6 +919,30 @@
           "detail": "Thumb"
         },
         {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Pittsburgh Steelers",
           "player": "DK Metcalf",
           "status": "Questionable",
@@ -689,6 +1001,24 @@
           "player": "Donte Kent",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Logan Lee",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Cole Burgess",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Daequan Hardy",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -759,6 +1089,42 @@
           "detail": "Pectoral"
         },
         {
+          "team": "Tennessee Titans",
+          "player": "Tanoh Kpassagnon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Milo Eifler",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Kendell Brooks",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Dominique Hampton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Jaylen Harrell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Jaren Kanak",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Indianapolis Colts",
           "player": "Charvarius Ward",
           "status": "Questionable",
@@ -805,6 +1171,30 @@
           "player": "Will Mallory",
           "status": "IR/PUP",
           "detail": "Thumb"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -887,6 +1277,30 @@
           "detail": "Thumb"
         },
         {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Minnesota Vikings",
           "player": "Jeshaun Jones",
           "status": "Out",
@@ -921,6 +1335,60 @@
           "player": "Jacob Thomas",
           "status": "Questionable",
           "detail": "Ankle"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jamal Adams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jermar Jefferson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Taki Taimani",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyler Batty",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Dontae Fleming",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Bryson Nesbit",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jacob Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Marcus Allen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyreek Chappell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1005,6 +1473,30 @@
           "detail": "Thumb"
         },
         {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Jacksonville Jaguars",
           "player": "LeQuint Allen Jr.",
           "status": "Questionable",
@@ -1039,6 +1531,36 @@
           "player": "Wyatt Milum",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Sam Mustipher",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Carter Bradley",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Jared Bartlett",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Parker Hughes",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Garrett DiGiorgio",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1097,6 +1619,30 @@
           "detail": "Elbow"
         },
         {
+          "team": "Dallas Cowboys",
+          "player": "Matt Hennessy",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Princeton Fant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Kelvin Gilliam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "DJ Rogers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Indianapolis Colts",
           "player": "Charvarius Ward",
           "status": "Questionable",
@@ -1143,6 +1689,30 @@
           "player": "Will Mallory",
           "status": "IR/PUP",
           "detail": "Thumb"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1237,6 +1807,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Indianapolis Colts",
           "player": "Charvarius Ward",
           "status": "Questionable",
@@ -1283,6 +1871,30 @@
           "player": "Will Mallory",
           "status": "IR/PUP",
           "detail": "Thumb"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1367,6 +1979,30 @@
           "detail": "Thumb"
         },
         {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Houston Texans",
           "player": "Jaylin Noel",
           "status": "Questionable",
@@ -1419,6 +2055,72 @@
           "player": "Dominique Robinson",
           "status": "Questionable",
           "detail": "Calf"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Braden Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Ja'Marcus Ingram",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Ali Gaye",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Tank Dell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Dylan Horton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Solomon Byrd",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Jayden Higgins",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Graham Mertz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Kyonte Hamilton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "K.C. Ossai",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Sam Hagen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1513,6 +2215,42 @@
           "detail": "Knee"
         },
         {
+          "team": "New York Giants",
+          "player": "Roy Robertson-Harris",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Calvin Austin III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Jarrick Bernard-Converse",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Rico Payton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Thaddeus Dixon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Indianapolis Colts",
           "player": "Charvarius Ward",
           "status": "Questionable",
@@ -1559,6 +2297,30 @@
           "player": "Will Mallory",
           "status": "IR/PUP",
           "detail": "Thumb"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1641,6 +2403,30 @@
           "detail": "Thumb"
         },
         {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Philadelphia Eagles",
           "player": "Jonathan Jones",
           "status": "Questionable",
@@ -1693,6 +2479,24 @@
           "player": "Micah Morris",
           "status": "Questionable",
           "detail": "Shoulder"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1775,6 +2579,30 @@
           "detail": "Thumb"
         },
         {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Tennessee Titans",
           "player": "Wan'Dale Robinson",
           "status": "Questionable",
@@ -1809,6 +2637,42 @@
           "player": "Joshua Williams",
           "status": "IR/PUP",
           "detail": "Pectoral"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Tanoh Kpassagnon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Milo Eifler",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Kendell Brooks",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Dominique Hampton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Jaylen Harrell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Jaren Kanak",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1879,6 +2743,12 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Cincinnati Bengals",
+          "player": "Brian Parker II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Indianapolis Colts",
           "player": "Charvarius Ward",
           "status": "Questionable",
@@ -1925,6 +2795,30 @@
           "player": "Will Mallory",
           "status": "IR/PUP",
           "detail": "Thumb"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2007,6 +2901,30 @@
           "detail": "Thumb"
         },
         {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Cleveland Browns",
           "player": "Joe Royer",
           "status": "IR/PUP",
@@ -2035,6 +2953,60 @@
           "player": "Michael Coats Jr.",
           "status": "Questionable",
           "detail": "Ankle"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Kendrick Green",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Alex Wright",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Kalia Davis",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Damarri Mathis",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Travis Bell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Jamari Thrash",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Elijah Chatman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Edefuan Ulofoshio",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Dillon Gabriel",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2105,6 +3077,36 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Jacksonville Jaguars",
+          "player": "Sam Mustipher",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Carter Bradley",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Jared Bartlett",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Parker Hughes",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Garrett DiGiorgio",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Indianapolis Colts",
           "player": "Charvarius Ward",
           "status": "Questionable",
@@ -2151,6 +3153,3737 @@
           "player": "Will Mallory",
           "status": "IR/PUP",
           "detail": "Thumb"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        }
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2026,
+      "record": "0-0",
+      "games": [
+        {
+          "id": "2026_01_BAL_IND",
+          "kickoff": "2026-09-13T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lucas Oil Stadium",
+          "injuries": [
+            {
+              "team": "Baltimore Ravens",
+              "player": "Zay Flowers",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Aeneas Peebles",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Nnamdi Madubuike",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Teddye Buchanan",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Jay Higgins",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Danny Pinter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Skylar Thompson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Bilhal Kone",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Adam Randall",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Jahquez Robinson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_02_IND_KC",
+          "kickoff": "2026-09-20T20:20:00-04:00",
+          "status": "scheduled",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "GEHA Field at Arrowhead Stadium",
+          "injuries": [
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ashton Gillotte",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Kenneth Walker III",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "L'Jarius Sneed",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Drue Tranquill",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Trey Smith",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Alohi Gilman",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Patrick Mahomes",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Omarr Norman-Lott",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Matt Waletzko",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Chris Oladokun",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "C.J. Hanson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jimmy Holiday",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ethan Downs",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jeff Caldwell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "John Michael Gyllenborg",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "EJ Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_03_HOU_IND",
+          "kickoff": "2026-09-27T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lucas Oil Stadium",
+          "away_jersey": "Rivalry Series",
+          "home_jersey": "Rivalry Series",
+          "injuries": [
+            {
+              "team": "Houston Texans",
+              "player": "Jaylin Noel",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Brevin Jordan",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jadeveon Clowney",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Wade Woodaz",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jake Hansen",
+              "status": "Questionable",
+              "detail": "Chest"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "British Brooks",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "E.J. Speed",
+              "status": "IR/PUP",
+              "detail": "Quadriceps"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "M.J. Stewart",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Dominique Robinson",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Braden Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Ja'Marcus Ingram",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Ali Gaye",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Tank Dell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Dylan Horton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Solomon Byrd",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jayden Higgins",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Graham Mertz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Kyonte Hamilton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "K.C. Ossai",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Sam Hagen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_04_IND_WAS",
+          "kickoff": "2026-10-04T09:30:00-04:00",
+          "status": "scheduled",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "was",
+            "name": "Washington Commanders",
+            "abbreviation": "WAS",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/was.png",
+            "colors": {
+              "primary": "#5A1414",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Tottenham Hotspur Stadium",
+          "injuries": [
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "John Bates",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Marcus Mariota",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "K'Lavon Chaisson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Nick Allegretti",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jer'Zhan Newton",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Deatrich Wise",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jordan Magee",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jacory Croskey-Merritt",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Dorance Armstrong",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Tim Settle",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Ben Sinnott",
+              "status": "Questionable",
+              "detail": "Oblique"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Laremy Tunsil",
+              "status": "IR/PUP",
+              "detail": "Triceps"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Odafe Oweh",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Rachaad White",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jeremy McNichols",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Drake Jackson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Curtis Jacobs",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "T.J. Maguranyanga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jacoby Jones",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Trey Amos",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Quentin Moore",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Malik Spencer",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_05_IND_PIT",
+          "kickoff": "2026-10-11T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Acrisure Stadium",
+          "injuries": [
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "DK Metcalf",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Michael Pittman",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jack Driscoll",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jalen Ramsey",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Ben Skowronek",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "DeShon Elliott",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jaquan Brisker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Will Howard",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Brandin Echols",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Donte Kent",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Logan Lee",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Cole Burgess",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Daequan Hardy",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_06_TEN_IND",
+          "kickoff": "2026-10-18T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lucas Oil Stadium",
+          "injuries": [
+            {
+              "team": "Tennessee Titans",
+              "player": "Wan'Dale Robinson",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Kalel Mullings",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Keldric Faulk",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Dorian Mausi",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Mitchell Trubisky",
+              "status": "Questionable",
+              "detail": "Biceps"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Joshua Williams",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Tanoh Kpassagnon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Milo Eifler",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Kendell Brooks",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Dominique Hampton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Jaylen Harrell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Jaren Kanak",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_07_IND_MIN",
+          "kickoff": "2026-10-25T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "U.S. Bank Stadium",
+          "injuries": [
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jeshaun Jones",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Caleb Tiernan",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "J.J. McCarthy",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jakobe Thomas",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Michael Jurgens",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Thomas",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jamal Adams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jermar Jefferson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Taki Taimani",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyler Batty",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Dontae Fleming",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Bryson Nesbit",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Marcus Allen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyreek Chappell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_08_IND_JAX",
+          "kickoff": "2026-11-01T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "EverBank Stadium",
+          "away_jersey": "Rivalry Series",
+          "home_jersey": "Rivalry Series",
+          "injuries": [
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "LeQuint Allen Jr.",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Brian Thomas Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jakobi Meyers",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Patrick Mekari",
+              "status": "IR/PUP",
+              "detail": "Back"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Zach Durfee",
+              "status": "IR/PUP",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Wyatt Milum",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Sam Mustipher",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Carter Bradley",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jared Bartlett",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Parker Hughes",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Garrett DiGiorgio",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_09_DAL_IND",
+          "kickoff": "2026-11-08T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lucas Oil Stadium",
+          "injuries": [
+            {
+              "team": "Dallas Cowboys",
+              "player": "Marist Liufau",
+              "status": "IR/PUP",
+              "detail": "Forearm"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Jonathan Bullard",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Devin Moore",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Tyler Guyton",
+              "status": "Questionable",
+              "detail": "Elbow"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Matt Hennessy",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Princeton Fant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Kelvin Gilliam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "DJ Rogers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_10_MIA_IND",
+          "kickoff": "2026-11-15T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lucas Oil Stadium",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_11_IND_HOU",
+          "kickoff": "2026-11-19T20:15:00-05:00",
+          "status": "scheduled",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Reliant Stadium",
+          "away_jersey": "Rivalry Series",
+          "home_jersey": "Rivalry Series",
+          "injuries": [
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jaylin Noel",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Brevin Jordan",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jadeveon Clowney",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Wade Woodaz",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jake Hansen",
+              "status": "Questionable",
+              "detail": "Chest"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "British Brooks",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "E.J. Speed",
+              "status": "IR/PUP",
+              "detail": "Quadriceps"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "M.J. Stewart",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Dominique Robinson",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Braden Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Ja'Marcus Ingram",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Ali Gaye",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Tank Dell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Dylan Horton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Solomon Byrd",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jayden Higgins",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Graham Mertz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Kyonte Hamilton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "K.C. Ossai",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Sam Hagen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_12_NYG_IND",
+          "kickoff": "2026-11-29T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lucas Oil Stadium",
+          "injuries": [
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Korie Black",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Malik Nabers",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Colton Hood",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Tyrone Tracy Jr.",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Andru Phillips",
+              "status": "Questionable",
+              "detail": "Lower Leg"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Francis Mauigoa",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Theo Johnson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "John Michael Schmitz",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Greg Newsome II",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Roy Robertson-Harris",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Calvin Austin III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Jarrick Bernard-Converse",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Rico Payton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Thaddeus Dixon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_14_IND_PHI",
+          "kickoff": "2026-12-13T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lincoln Financial Field",
+          "injuries": [
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_15_IND_TEN",
+          "kickoff": "2026-12-20T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Nissan Stadium",
+          "injuries": [
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Wan'Dale Robinson",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Kalel Mullings",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Keldric Faulk",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Dorian Mausi",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Mitchell Trubisky",
+              "status": "Questionable",
+              "detail": "Biceps"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Joshua Williams",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Tanoh Kpassagnon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Milo Eifler",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Kendell Brooks",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Dominique Hampton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Jaylen Harrell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Jaren Kanak",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_16_CIN_IND",
+          "kickoff": "2026-12-27T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lucas Oil Stadium",
+          "injuries": [
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Myles Murphy",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Shemar Stewart",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Daxton Hill",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Tee Higgins",
+              "status": "Questionable",
+              "detail": "Heel"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Ja'Marr Chase",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Ja'Sir Taylor",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Brian Parker II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_17_IND_CLE",
+          "kickoff": "2027-01-03T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Huntington Bank Field",
+          "injuries": [
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Joe Royer",
+              "status": "IR/PUP",
+              "detail": "Personal"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Jeremiah Owusu-Koramoah",
+              "status": "IR/PUP",
+              "detail": "Neck"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Isaiah Bond",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Parker Brailsford",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Michael Coats Jr.",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Kendrick Green",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Alex Wright",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Kalia Davis",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Damarri Mathis",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Travis Bell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Jamari Thrash",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Elijah Chatman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Edefuan Ulofoshio",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Dillon Gabriel",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_18_JAX_IND",
+          "kickoff": "2027-01-10T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lucas Oil Stadium",
+          "injuries": [
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "LeQuint Allen Jr.",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Brian Thomas Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jakobi Meyers",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Patrick Mekari",
+              "status": "IR/PUP",
+              "detail": "Back"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Zach Durfee",
+              "status": "IR/PUP",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Wyatt Milum",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Sam Mustipher",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Carter Bradley",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jared Bartlett",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Parker Hughes",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Garrett DiGiorgio",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "record": "8-9",
+      "games": [
+        {
+          "id": "2025_01_MIA_IND",
+          "kickoff": "2025-09-07T13:00:00-04:00",
+          "status": "final",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 8,
+          "home_score": 33,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_02_DEN_IND",
+          "kickoff": "2025-09-14T16:05:00-04:00",
+          "status": "final",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 28,
+          "home_score": 29,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_03_IND_TEN",
+          "kickoff": "2025-09-21T13:00:00-04:00",
+          "status": "final",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          },
+          "away_score": 41,
+          "home_score": 20,
+          "venue": "Nissan Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_04_IND_LA",
+          "kickoff": "2025-09-28T16:05:00-04:00",
+          "status": "final",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          },
+          "away_score": 20,
+          "home_score": 27,
+          "venue": "SoFi Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_05_LV_IND",
+          "kickoff": "2025-10-05T13:00:00-04:00",
+          "status": "final",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 6,
+          "home_score": 40,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_06_ARI_IND",
+          "kickoff": "2025-10-12T13:00:00-04:00",
+          "status": "final",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 27,
+          "home_score": 31,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_07_IND_LAC",
+          "kickoff": "2025-10-19T16:05:00-04:00",
+          "status": "final",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "away_score": 38,
+          "home_score": 24,
+          "venue": "SoFi Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_08_TEN_IND",
+          "kickoff": "2025-10-26T16:25:00-04:00",
+          "status": "final",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 14,
+          "home_score": 38,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_09_IND_PIT",
+          "kickoff": "2025-11-02T13:00:00-05:00",
+          "status": "final",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": 20,
+          "home_score": 27,
+          "venue": "Acrisure Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_10_ATL_IND",
+          "kickoff": "2025-11-09T09:30:00-05:00",
+          "status": "final",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 25,
+          "home_score": 31,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_12_IND_KC",
+          "kickoff": "2025-11-23T13:00:00-05:00",
+          "status": "final",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "away_score": 20,
+          "home_score": 23,
+          "venue": "GEHA Field at Arrowhead Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_13_HOU_IND",
+          "kickoff": "2025-11-30T13:00:00-05:00",
+          "status": "final",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 20,
+          "home_score": 16,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_14_IND_JAX",
+          "kickoff": "2025-12-07T13:00:00-05:00",
+          "status": "final",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": 19,
+          "home_score": 36,
+          "venue": "TIAA Bank Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_15_IND_SEA",
+          "kickoff": "2025-12-14T16:25:00-05:00",
+          "status": "final",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          },
+          "away_score": 16,
+          "home_score": 18,
+          "venue": "Lumen Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_16_SF_IND",
+          "kickoff": "2025-12-22T20:15:00-05:00",
+          "status": "final",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "sf",
+            "name": "San Francisco 49ers",
+            "abbreviation": "SF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+            "colors": {
+              "primary": "#AA0000",
+              "secondary": "#B3995D"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 48,
+          "home_score": 27,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_17_JAX_IND",
+          "kickoff": "2025-12-28T13:00:00-05:00",
+          "status": "final",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 23,
+          "home_score": 17,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_18_IND_HOU",
+          "kickoff": "2026-01-04T13:00:00-05:00",
+          "status": "final",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          },
+          "away_score": 30,
+          "home_score": 38,
+          "venue": "NRG Stadium",
+          "injuries": []
         }
       ]
     }

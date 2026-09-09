@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T22:18:54+00:00",
+  "generated_at": "2026-09-09T23:26:56+00:00",
   "season": 2026,
   "team": {
     "id": "phi",
@@ -129,6 +129,54 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Washington Commanders",
+          "player": "Jeremy McNichols",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Drake Jackson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Curtis Jacobs",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "T.J. Maguranyanga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Jacoby Jones",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Trey Amos",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Quentin Moore",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Malik Spencer",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Philadelphia Eagles",
           "player": "Jonathan Jones",
           "status": "Questionable",
@@ -181,6 +229,24 @@
           "player": "Micah Morris",
           "status": "Questionable",
           "detail": "Shoulder"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -269,6 +335,24 @@
           "detail": "Shoulder"
         },
         {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Tennessee Titans",
           "player": "Wan'Dale Robinson",
           "status": "Questionable",
@@ -303,6 +387,42 @@
           "player": "Joshua Williams",
           "status": "IR/PUP",
           "detail": "Pectoral"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Tanoh Kpassagnon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Milo Eifler",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Kendell Brooks",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Dominique Hampton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Jaylen Harrell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Jaren Kanak",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -391,6 +511,24 @@
           "detail": "Shoulder"
         },
         {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Chicago Bears",
           "player": "Shemar Turner",
           "status": "IR/PUP",
@@ -467,6 +605,66 @@
           "player": "Elijah Hicks",
           "status": "Questionable",
           "detail": "Shin"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ray-Ray McCloud",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Jonathan Garvin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nikola Kalinic",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Brittain Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dallis Flowers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nephi Sewell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Beanie Bishop Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ruben Hyppolite II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dontae Manning",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Hayden Large",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -562,12 +760,6 @@
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Alaric Jackson",
-          "status": "Questionable",
-          "detail": "Illness"
-        },
-        {
-          "team": "Los Angeles Rams",
           "player": "Davis Allen",
           "status": "Questionable",
           "detail": "Quadriceps"
@@ -580,12 +772,6 @@
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Myles Garrett",
-          "status": "Questionable",
-          "detail": "Knee"
-        },
-        {
-          "team": "Los Angeles Rams",
           "player": "Puka Nacua",
           "status": "Questionable",
           "detail": "Undisclosed"
@@ -595,6 +781,42 @@
           "player": "Terrance Ferguson",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Zech McPhearson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Keir Thomas",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alex Johnson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Matthew Caldwell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Eddie Walls III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Daniel Rickert",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Philadelphia Eagles",
@@ -649,6 +871,24 @@
           "player": "Micah Morris",
           "status": "Questionable",
           "detail": "Shoulder"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -737,6 +977,24 @@
           "detail": "Shoulder"
         },
         {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Jacksonville Jaguars",
           "player": "LeQuint Allen Jr.",
           "status": "Questionable",
@@ -771,6 +1029,36 @@
           "player": "Wyatt Milum",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Sam Mustipher",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Carter Bradley",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Jared Bartlett",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Parker Hughes",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Garrett DiGiorgio",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -883,6 +1171,30 @@
           "detail": "Neck"
         },
         {
+          "team": "Carolina Panthers",
+          "player": "Brady Christensen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Ryan Hayes",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Nic Scourton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Chris Brazzell II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Philadelphia Eagles",
           "player": "Jonathan Jones",
           "status": "Questionable",
@@ -935,6 +1247,24 @@
           "player": "Micah Morris",
           "status": "Questionable",
           "detail": "Shoulder"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -993,6 +1323,30 @@
           "detail": "Elbow"
         },
         {
+          "team": "Dallas Cowboys",
+          "player": "Matt Hennessy",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Princeton Fant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Kelvin Gilliam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "DJ Rogers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Philadelphia Eagles",
           "player": "Jonathan Jones",
           "status": "Questionable",
@@ -1045,6 +1399,24 @@
           "player": "Micah Morris",
           "status": "Questionable",
           "detail": "Shoulder"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1133,6 +1505,24 @@
           "detail": "Shoulder"
         },
         {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Washington Commanders",
           "player": "John Bates",
           "status": "Questionable",
@@ -1215,6 +1605,54 @@
           "player": "Rachaad White",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Jeremy McNichols",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Drake Jackson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Curtis Jacobs",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "T.J. Maguranyanga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Jacoby Jones",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Trey Amos",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Quentin Moore",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Washington Commanders",
+          "player": "Malik Spencer",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1309,6 +1747,42 @@
           "detail": "Knee"
         },
         {
+          "team": "New York Giants",
+          "player": "Roy Robertson-Harris",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Calvin Austin III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Jarrick Bernard-Converse",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Rico Payton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Thaddeus Dixon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Philadelphia Eagles",
           "player": "Jonathan Jones",
           "status": "Questionable",
@@ -1361,6 +1835,24 @@
           "player": "Micah Morris",
           "status": "Questionable",
           "detail": "Shoulder"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1455,6 +1947,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Pittsburgh Steelers",
+          "player": "Logan Lee",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Cole Burgess",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Daequan Hardy",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Philadelphia Eagles",
           "player": "Jonathan Jones",
           "status": "Questionable",
@@ -1507,6 +2017,24 @@
           "player": "Micah Morris",
           "status": "Questionable",
           "detail": "Shoulder"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1595,6 +2123,24 @@
           "detail": "Shoulder"
         },
         {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Dallas Cowboys",
           "player": "Marist Liufau",
           "status": "IR/PUP",
@@ -1617,6 +2163,30 @@
           "player": "Tyler Guyton",
           "status": "Questionable",
           "detail": "Elbow"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Matt Hennessy",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Princeton Fant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Kelvin Gilliam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "DJ Rogers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1705,6 +2275,24 @@
           "detail": "Shoulder"
         },
         {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Arizona Cardinals",
           "player": "Tip Reiman",
           "status": "IR/PUP",
@@ -1733,6 +2321,48 @@
           "player": "Dadrion Taylor-Demerson",
           "status": "Questionable",
           "detail": "Ribs"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "James Conner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Joey Blount",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Zachary Carter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Trey Benson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Jameson Geers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Chase Bisontis",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Kaleb Proctor",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1815,6 +2445,30 @@
           "detail": "Thumb"
         },
         {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Philadelphia Eagles",
           "player": "Jonathan Jones",
           "status": "Questionable",
@@ -1867,6 +2521,24 @@
           "player": "Micah Morris",
           "status": "Questionable",
           "detail": "Shoulder"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1903,14 +2575,14 @@
         {
           "team": "Seattle Seahawks",
           "player": "Nick Emmanwori",
-          "status": "Questionable",
-          "detail": "Ankle"
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
           "player": "Tory Horton",
-          "status": "Questionable",
-          "detail": "Hamstring"
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
@@ -1921,18 +2593,6 @@
         {
           "team": "Seattle Seahawks",
           "player": "Julian Neal",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Nick Emmanwori",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Tory Horton",
           "status": "Out",
           "detail": "Injury"
         },
@@ -1956,12 +2616,6 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Ty Okada",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
           "player": "Josh Jones",
           "status": "Out",
           "detail": "Injury"
@@ -1974,27 +2628,9 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Emanuel Wilson",
-          "status": "Questionable",
-          "detail": "Hamstring"
-        },
-        {
-          "team": "Seattle Seahawks",
           "player": "Brandon Pili",
           "status": "Questionable",
           "detail": "Lower Leg"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Tory Horton",
-          "status": "Questionable",
-          "detail": "Undisclosed"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Julian Neal",
-          "status": "Questionable",
-          "detail": "Leg"
         },
         {
           "team": "Seattle Seahawks",
@@ -2010,9 +2646,39 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Nick Emmanwori",
-          "status": "Questionable",
-          "detail": "Ankle"
+          "player": "Jake Bobo",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Amari Kight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Aaron Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Robbie Ouzts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Mason Richman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Bud Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Philadelphia Eagles",
@@ -2067,6 +2733,24 @@
           "player": "Micah Morris",
           "status": "Questionable",
           "detail": "Shoulder"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2155,6 +2839,72 @@
           "detail": "Calf"
         },
         {
+          "team": "Houston Texans",
+          "player": "Braden Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Ja'Marcus Ingram",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Ali Gaye",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Tank Dell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Dylan Horton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Solomon Byrd",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Jayden Higgins",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Graham Mertz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Kyonte Hamilton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "K.C. Ossai",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Sam Hagen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Philadelphia Eagles",
           "player": "Jonathan Jones",
           "status": "Questionable",
@@ -2207,6 +2957,24 @@
           "player": "Micah Morris",
           "status": "Questionable",
           "detail": "Shoulder"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2295,6 +3063,24 @@
           "detail": "Shoulder"
         },
         {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "San Francisco 49ers",
           "player": "Gracen Halton",
           "status": "Out",
@@ -2368,21 +3154,9 @@
         },
         {
           "team": "San Francisco 49ers",
-          "player": "Nick Bosa",
-          "status": "Questionable",
-          "detail": "Knee - ACL"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Vederian Lowe",
           "status": "Questionable",
           "detail": "Ankle"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Kyle Juszczyk",
-          "status": "Questionable",
-          "detail": "Finger"
         },
         {
           "team": "San Francisco 49ers",
@@ -2392,21 +3166,9 @@
         },
         {
           "team": "San Francisco 49ers",
-          "player": "Gracen Halton",
-          "status": "Questionable",
-          "detail": "Ankle"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Keion White",
           "status": "Questionable",
           "detail": "Ankle"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Upton Stout",
-          "status": "Questionable",
-          "detail": "Hip"
         },
         {
           "team": "San Francisco 49ers",
@@ -2422,39 +3184,15 @@
         },
         {
           "team": "San Francisco 49ers",
-          "player": "George Kittle",
-          "status": "Questionable",
-          "detail": "Achilles"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Ephesians Prysock",
           "status": "Questionable",
           "detail": "Shoulder"
         },
         {
           "team": "San Francisco 49ers",
-          "player": "Luke Gifford",
-          "status": "Questionable",
-          "detail": "Hamstring"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Romello Height",
-          "status": "Questionable",
-          "detail": "Undisclosed"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Christian McCaffrey",
           "status": "Questionable",
           "detail": "Undisclosed"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Renardo Green",
-          "status": "Questionable",
-          "detail": "Hamstring"
         },
         {
           "team": "San Francisco 49ers",
@@ -2503,6 +3241,66 @@
           "player": "Mykel Williams",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Christian Kirk",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Brett Toth",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Darrick Forrest",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Victor Dimukeje",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Sam Okuayinonu",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Zakelj",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Andrew Farmer",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Ricky Pearsall",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Martin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Mikail Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2591,6 +3389,24 @@
           "detail": "Shoulder"
         },
         {
+          "team": "Philadelphia Eagles",
+          "player": "Grant Calcaterra",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Johnny Wilson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New York Giants",
           "player": "Paulson Adebo",
           "status": "Questionable",
@@ -2649,6 +3465,4104 @@
           "player": "Greg Newsome II",
           "status": "Questionable",
           "detail": "Knee"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Roy Robertson-Harris",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Calvin Austin III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Jarrick Bernard-Converse",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Rico Payton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Thaddeus Dixon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        }
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2026,
+      "record": "0-0",
+      "games": [
+        {
+          "id": "2026_01_WAS_PHI",
+          "kickoff": "2026-09-13T16:25:00-04:00",
+          "status": "scheduled",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "was",
+            "name": "Washington Commanders",
+            "abbreviation": "WAS",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/was.png",
+            "colors": {
+              "primary": "#5A1414",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lincoln Financial Field",
+          "injuries": [
+            {
+              "team": "Washington Commanders",
+              "player": "John Bates",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Marcus Mariota",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "K'Lavon Chaisson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Nick Allegretti",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jer'Zhan Newton",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Deatrich Wise",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jordan Magee",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jacory Croskey-Merritt",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Dorance Armstrong",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Tim Settle",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Ben Sinnott",
+              "status": "Questionable",
+              "detail": "Oblique"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Laremy Tunsil",
+              "status": "IR/PUP",
+              "detail": "Triceps"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Odafe Oweh",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Rachaad White",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jeremy McNichols",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Drake Jackson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Curtis Jacobs",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "T.J. Maguranyanga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jacoby Jones",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Trey Amos",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Quentin Moore",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Malik Spencer",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_02_PHI_TEN",
+          "kickoff": "2026-09-20T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Nissan Stadium",
+          "injuries": [
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Wan'Dale Robinson",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Kalel Mullings",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Keldric Faulk",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Dorian Mausi",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Mitchell Trubisky",
+              "status": "Questionable",
+              "detail": "Biceps"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Joshua Williams",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Tanoh Kpassagnon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Milo Eifler",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Kendell Brooks",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Dominique Hampton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Jaylen Harrell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Jaren Kanak",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_03_PHI_CHI",
+          "kickoff": "2026-09-28T20:15:00-04:00",
+          "status": "scheduled",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Soldier Field",
+          "injuries": [
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Shemar Turner",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Coby Bryant",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jaylon Johnson",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Noah Sewell",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyler Gordon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyle Monangai",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tyrique Stevenson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Keyshaun Elliott",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Austin Booker",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Xavier Woods",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Luther Burden III",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tony Fields II",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Elijah Hicks",
+              "status": "Questionable",
+              "detail": "Shin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ray-Ray McCloud",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jonathan Garvin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nikola Kalinic",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Brittain Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dallis Flowers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nephi Sewell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Beanie Bishop Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ruben Hyppolite II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dontae Manning",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Hayden Large",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_04_LA_PHI",
+          "kickoff": "2026-10-04T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lincoln Financial Field",
+          "injuries": [
+            {
+              "team": "Los Angeles Rams",
+              "player": "Byron Young",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Jaylen Watson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Grant Stuard",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Alaric Jackson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Myles Garrett",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Tyler Higbee",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Aaron Donald",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Kobie Turner",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Keagen Trost",
+              "status": "IR/PUP",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Justin Dedich",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Davis Allen",
+              "status": "Questionable",
+              "detail": "Quadriceps"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Shaun Dolac",
+              "status": "Questionable",
+              "detail": "Knee - PCL"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Puka Nacua",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Terrance Ferguson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Zech McPhearson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Keir Thomas",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Alex Johnson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Matthew Caldwell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Eddie Walls III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Daniel Rickert",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_05_PHI_JAX",
+          "kickoff": "2026-10-11T09:30:00-04:00",
+          "status": "scheduled",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Tottenham Hotspur Stadium",
+          "injuries": [
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "LeQuint Allen Jr.",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Brian Thomas Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jakobi Meyers",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Patrick Mekari",
+              "status": "IR/PUP",
+              "detail": "Back"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Zach Durfee",
+              "status": "IR/PUP",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Wyatt Milum",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Sam Mustipher",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Carter Bradley",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jared Bartlett",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Parker Hughes",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Garrett DiGiorgio",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_06_CAR_PHI",
+          "kickoff": "2026-10-18T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lincoln Financial Field",
+          "injuries": [
+            {
+              "team": "Carolina Panthers",
+              "player": "Chuba Hubbard",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Xavier Legette",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Derrick Brown",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Jonathon Brooks",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Jaelan Phillips",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Trevor Etienne",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Ikem Ekwonu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Haynes King",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Devin Lloyd",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Bam Martin-Scott",
+              "status": "IR/PUP",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Tershawn Wharton",
+              "status": "IR/PUP",
+              "detail": "Neck"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Taylor Moton",
+              "status": "IR/PUP",
+              "detail": "Illness"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Akayleb Evans",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Brady Christensen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Ryan Hayes",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Nic Scourton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Chris Brazzell II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_07_DAL_PHI",
+          "kickoff": "2026-10-26T20:15:00-04:00",
+          "status": "scheduled",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lincoln Financial Field",
+          "injuries": [
+            {
+              "team": "Dallas Cowboys",
+              "player": "Marist Liufau",
+              "status": "IR/PUP",
+              "detail": "Forearm"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Jonathan Bullard",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Devin Moore",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Tyler Guyton",
+              "status": "Questionable",
+              "detail": "Elbow"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Matt Hennessy",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Princeton Fant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Kelvin Gilliam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "DJ Rogers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_08_PHI_WAS",
+          "kickoff": "2026-11-01T20:20:00-05:00",
+          "status": "scheduled",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "was",
+            "name": "Washington Commanders",
+            "abbreviation": "WAS",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/was.png",
+            "colors": {
+              "primary": "#5A1414",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Northwest Stadium",
+          "injuries": [
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "John Bates",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Marcus Mariota",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "K'Lavon Chaisson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Nick Allegretti",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jer'Zhan Newton",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Deatrich Wise",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jordan Magee",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jacory Croskey-Merritt",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Dorance Armstrong",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Tim Settle",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Ben Sinnott",
+              "status": "Questionable",
+              "detail": "Oblique"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Laremy Tunsil",
+              "status": "IR/PUP",
+              "detail": "Triceps"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Odafe Oweh",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Rachaad White",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jeremy McNichols",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Drake Jackson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Curtis Jacobs",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "T.J. Maguranyanga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Jacoby Jones",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Trey Amos",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Quentin Moore",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Washington Commanders",
+              "player": "Malik Spencer",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_09_NYG_PHI",
+          "kickoff": "2026-11-08T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lincoln Financial Field",
+          "injuries": [
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Korie Black",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Malik Nabers",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Colton Hood",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Tyrone Tracy Jr.",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Andru Phillips",
+              "status": "Questionable",
+              "detail": "Lower Leg"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Francis Mauigoa",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Theo Johnson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "John Michael Schmitz",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Greg Newsome II",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Roy Robertson-Harris",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Calvin Austin III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Jarrick Bernard-Converse",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Rico Payton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Thaddeus Dixon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_11_PIT_PHI",
+          "kickoff": "2026-11-22T16:25:00-05:00",
+          "status": "scheduled",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lincoln Financial Field",
+          "injuries": [
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "DK Metcalf",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Michael Pittman",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jack Driscoll",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jalen Ramsey",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Ben Skowronek",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "DeShon Elliott",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jaquan Brisker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Will Howard",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Brandin Echols",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Donte Kent",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Logan Lee",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Cole Burgess",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Daequan Hardy",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_12_PHI_DAL",
+          "kickoff": "2026-11-26T16:30:00-05:00",
+          "status": "scheduled",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "AT&T Stadium",
+          "injuries": [
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Marist Liufau",
+              "status": "IR/PUP",
+              "detail": "Forearm"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Jonathan Bullard",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Devin Moore",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Tyler Guyton",
+              "status": "Questionable",
+              "detail": "Elbow"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Matt Hennessy",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Princeton Fant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Kelvin Gilliam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "DJ Rogers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_13_PHI_ARI",
+          "kickoff": "2026-12-06T16:05:00-05:00",
+          "status": "scheduled",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "State Farm Stadium",
+          "injuries": [
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Tip Reiman",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Jeremiyah Love",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Blake Gillikin",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Will Johnson",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Dadrion Taylor-Demerson",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "James Conner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Joey Blount",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Zachary Carter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Trey Benson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Jameson Geers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Chase Bisontis",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Kaleb Proctor",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_14_IND_PHI",
+          "kickoff": "2026-12-13T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lincoln Financial Field",
+          "injuries": [
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_15_SEA_PHI",
+          "kickoff": "2026-12-19T17:00:00-05:00",
+          "status": "scheduled",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lincoln Financial Field",
+          "injuries": [
+            {
+              "team": "Seattle Seahawks",
+              "player": "Nick Emmanwori",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Tory Horton",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Ty Okada",
+              "status": "Out",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Julian Neal",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "AJ Barner",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Anthony Bradford",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Emanuel Wilson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Josh Jones",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Zach Charbonnet",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Brandon Pili",
+              "status": "Questionable",
+              "detail": "Lower Leg"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Terrion Arnold",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Irvin Charles",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Jake Bobo",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Amari Kight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Aaron Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Robbie Ouzts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Mason Richman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Bud Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_16_HOU_PHI",
+          "kickoff": "2026-12-24T20:15:00-05:00",
+          "status": "scheduled",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lincoln Financial Field",
+          "injuries": [
+            {
+              "team": "Houston Texans",
+              "player": "Jaylin Noel",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Brevin Jordan",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jadeveon Clowney",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Wade Woodaz",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jake Hansen",
+              "status": "Questionable",
+              "detail": "Chest"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "British Brooks",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "E.J. Speed",
+              "status": "IR/PUP",
+              "detail": "Quadriceps"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "M.J. Stewart",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Dominique Robinson",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Braden Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Ja'Marcus Ingram",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Ali Gaye",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Tank Dell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Dylan Horton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Solomon Byrd",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jayden Higgins",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Graham Mertz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Kyonte Hamilton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "K.C. Ossai",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Sam Hagen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_17_PHI_SF",
+          "kickoff": "2027-01-03T20:20:00-05:00",
+          "status": "scheduled",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "sf",
+            "name": "San Francisco 49ers",
+            "abbreviation": "SF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+            "colors": {
+              "primary": "#AA0000",
+              "secondary": "#B3995D"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Levi's Stadium",
+          "injuries": [
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Gracen Halton",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Romello Height",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "James Thompson Jr.",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Alfred Collins",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Upton Stout",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Renardo Green",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nick Bosa",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Luke Gifford",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Dre Greenlaw",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "George Kittle",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Kyle Juszczyk",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Dominick Puni",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Vederian Lowe",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Brandon Aiyuk",
+              "status": "Out",
+              "detail": "Knee - ACL + MCL"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Keion White",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Austen Pleasants",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Kurtis Rourke",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Ephesians Prysock",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Christian McCaffrey",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Brayden Willis",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "De'Zhaun Stribling",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Mike Evans",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Isaac Guerendo",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Malik Mustapha",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nate Hobbs",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Jacob Cowing",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Mykel Williams",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Christian Kirk",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Brett Toth",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Darrick Forrest",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Victor Dimukeje",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Sam Okuayinonu",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nick Zakelj",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Andrew Farmer",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Ricky Pearsall",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nick Martin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Mikail Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_18_PHI_NYG",
+          "kickoff": "2027-01-10T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "MetLife Stadium",
+          "injuries": [
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Jones",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Byron Young",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jonathan Greenard",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cooper DeJean",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Markel Bell",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Jakorian Bennett",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Grant Calcaterra",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Johnny Wilson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Korie Black",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Malik Nabers",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Colton Hood",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Tyrone Tracy Jr.",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Andru Phillips",
+              "status": "Questionable",
+              "detail": "Lower Leg"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Francis Mauigoa",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Theo Johnson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Giants",
+              "player": "John Michael Schmitz",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Greg Newsome II",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Roy Robertson-Harris",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Calvin Austin III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Jarrick Bernard-Converse",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Rico Payton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Thaddeus Dixon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "record": "11-6",
+      "games": [
+        {
+          "id": "2025_01_DAL_PHI",
+          "kickoff": "2025-09-04T20:20:00-04:00",
+          "status": "final",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 20,
+          "home_score": 24,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_02_PHI_KC",
+          "kickoff": "2025-09-14T16:25:00-04:00",
+          "status": "final",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "away_score": 20,
+          "home_score": 17,
+          "venue": "GEHA Field at Arrowhead Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_03_LA_PHI",
+          "kickoff": "2025-09-21T13:00:00-04:00",
+          "status": "final",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 26,
+          "home_score": 33,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_04_PHI_TB",
+          "kickoff": "2025-09-28T13:00:00-04:00",
+          "status": "final",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": 31,
+          "home_score": 25,
+          "venue": "Raymond James Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_05_DEN_PHI",
+          "kickoff": "2025-10-05T13:00:00-04:00",
+          "status": "final",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 21,
+          "home_score": 17,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_06_PHI_NYG",
+          "kickoff": "2025-10-09T20:15:00-04:00",
+          "status": "final",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          },
+          "away_score": 17,
+          "home_score": 34,
+          "venue": "MetLife Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_07_PHI_MIN",
+          "kickoff": "2025-10-19T13:00:00-04:00",
+          "status": "final",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          },
+          "away_score": 28,
+          "home_score": 22,
+          "venue": "U.S. Bank Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_08_NYG_PHI",
+          "kickoff": "2025-10-26T13:00:00-04:00",
+          "status": "final",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 20,
+          "home_score": 38,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_10_PHI_GB",
+          "kickoff": "2025-11-10T20:15:00-05:00",
+          "status": "final",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": 10,
+          "home_score": 7,
+          "venue": "Lambeau Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_11_DET_PHI",
+          "kickoff": "2025-11-16T20:20:00-05:00",
+          "status": "final",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 9,
+          "home_score": 16,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_12_PHI_DAL",
+          "kickoff": "2025-11-23T16:25:00-05:00",
+          "status": "final",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          },
+          "away_score": 21,
+          "home_score": 24,
+          "venue": "AT&T Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_13_CHI_PHI",
+          "kickoff": "2025-11-28T15:00:00-05:00",
+          "status": "final",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 24,
+          "home_score": 15,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_14_PHI_LAC",
+          "kickoff": "2025-12-08T20:15:00-05:00",
+          "status": "final",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "away_score": 19,
+          "home_score": 22,
+          "venue": "SoFi Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_15_LV_PHI",
+          "kickoff": "2025-12-14T13:00:00-05:00",
+          "status": "final",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 0,
+          "home_score": 31,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_16_PHI_WAS",
+          "kickoff": "2025-12-20T17:00:00-05:00",
+          "status": "final",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "was",
+            "name": "Washington Commanders",
+            "abbreviation": "WAS",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/was.png",
+            "colors": {
+              "primary": "#5A1414",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": 29,
+          "home_score": 18,
+          "venue": "FedExField",
+          "injuries": []
+        },
+        {
+          "id": "2025_17_PHI_BUF",
+          "kickoff": "2025-12-28T16:25:00-05:00",
+          "status": "final",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 13,
+          "home_score": 12,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_18_WAS_PHI",
+          "kickoff": "2026-01-04T16:25:00-05:00",
+          "status": "final",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "was",
+            "name": "Washington Commanders",
+            "abbreviation": "WAS",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/was.png",
+            "colors": {
+              "primary": "#5A1414",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 24,
+          "home_score": 17,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_19_SF_PHI",
+          "kickoff": "2026-01-11T16:30:00-05:00",
+          "status": "final",
+          "week": 19,
+          "season_phase": "Wild Card",
+          "away_team": {
+            "id": "sf",
+            "name": "San Francisco 49ers",
+            "abbreviation": "SF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+            "colors": {
+              "primary": "#AA0000",
+              "secondary": "#B3995D"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 23,
+          "home_score": 19,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
         }
       ]
     }

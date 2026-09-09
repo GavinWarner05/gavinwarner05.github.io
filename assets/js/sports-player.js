@@ -115,7 +115,7 @@
       const title = document.createElement("span"); title.className = "player-week-label"; title.textContent = "Week " + week.week;
       const opponent = document.createElement("h3"); opponent.className = "player-week-opponent"; opponent.textContent = week.opponent ? "vs. " + week.opponent : "Regular season";
       const share = document.createElement("button"); share.type = "button"; share.className = "sports-share-trigger player-week-share"; share.textContent = "Share";
-      share.setAttribute("aria-label", `Share ${player.name} Week ${week.week} statistics`);
+      share.setAttribute("aria-label", `Share ${player.name} ${season} Week ${week.week} statistics`);
       share.addEventListener("click", function () { sharePlayerCard(player, team, season, week.stats || {}, week); });
       heading.append(title, opponent, share);
       const stats = document.createElement("dl"); stats.className = "player-page-stats player-week-stats";

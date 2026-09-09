@@ -81,6 +81,13 @@ def sanitize_injury(raw: object, path: str) -> dict:
     return out
 
 
+def injury_identity(injury: dict) -> tuple[str, str]:
+    """Return a comparison key that ignores harmless name punctuation/casing."""
+    team = re.sub(r"[^a-z0-9]", "", injury["team"].casefold())
+    player = re.sub(r"[^a-z0-9]", "", injury["player"].casefold())
+    return team, player
+
+
 def sanitize_game(raw: object, index: int) -> dict:
     path = f"games[{index}]"
     require(isinstance(raw, dict), f"{path} must be an object")
@@ -104,6 +111,8 @@ def sanitize_game(raw: object, index: int) -> dict:
     injuries = out.get("injuries", [])
     require(isinstance(injuries, list) and len(injuries) <= 100, f"{path}.injuries is invalid")
     out["injuries"] = [sanitize_injury(item, f"{path}.injuries[{i}]") for i, item in enumerate(injuries)]
+    injury_ids = [injury_identity(injury) for injury in out["injuries"]]
+    require(len(injury_ids) == len(set(injury_ids)), f"{path}.injuries contains duplicate players")
     return out
 
 

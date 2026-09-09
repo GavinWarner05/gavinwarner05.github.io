@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T22:18:54+00:00",
+  "generated_at": "2026-09-09T23:26:56+00:00",
   "season": 2026,
   "team": {
     "id": "tb",
@@ -75,6 +75,24 @@
           "detail": "Shoulder - AC Joint"
         },
         {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Cincinnati Bengals",
           "player": "Myles Murphy",
           "status": "Questionable",
@@ -109,6 +127,12 @@
           "player": "Ja'Sir Taylor",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Cincinnati Bengals",
+          "player": "Brian Parker II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -173,6 +197,60 @@
           "detail": "Ankle"
         },
         {
+          "team": "Cleveland Browns",
+          "player": "Kendrick Green",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Alex Wright",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Kalia Davis",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Damarri Mathis",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Travis Bell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Jamari Thrash",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Elijah Chatman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Edefuan Ulofoshio",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Dillon Gabriel",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Tampa Bay Buccaneers",
           "player": "Josh Hayes",
           "status": "IR/PUP",
@@ -201,6 +279,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -271,6 +367,60 @@
           "detail": "Ankle"
         },
         {
+          "team": "Minnesota Vikings",
+          "player": "Jamal Adams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jermar Jefferson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Taki Taimani",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyler Batty",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Dontae Fleming",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Bryson Nesbit",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jacob Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Marcus Allen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyreek Chappell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Tampa Bay Buccaneers",
           "player": "Josh Hayes",
           "status": "IR/PUP",
@@ -299,6 +449,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -393,6 +561,42 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Green Bay Packers",
+          "player": "Trey Dean III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "McCallan Castles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Thomas Yassmin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Savion Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Johnathan Baldwin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Marlon Jones",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Tampa Bay Buccaneers",
           "player": "Josh Hayes",
           "status": "IR/PUP",
@@ -421,6 +625,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -485,6 +707,24 @@
           "detail": "Shoulder - AC Joint"
         },
         {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Dallas Cowboys",
           "player": "Marist Liufau",
           "status": "IR/PUP",
@@ -507,6 +747,30 @@
           "player": "Tyler Guyton",
           "status": "Questionable",
           "detail": "Elbow"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Matt Hennessy",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Princeton Fant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Kelvin Gilliam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "DJ Rogers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -601,6 +865,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Pittsburgh Steelers",
+          "player": "Logan Lee",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Cole Burgess",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Daequan Hardy",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Tampa Bay Buccaneers",
           "player": "Josh Hayes",
           "status": "IR/PUP",
@@ -629,6 +911,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -691,6 +991,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Carolina Panthers",
@@ -769,6 +1087,30 @@
           "player": "Akayleb Evans",
           "status": "Questionable",
           "detail": "Neck"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Brady Christensen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Ryan Hayes",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Nic Scourton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Chris Brazzell II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -857,6 +1199,48 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Atlanta Falcons",
+          "player": "Darren Hall",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Trey Sermon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Keshawn Banks",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "JD Bertrand",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Beaux Collins",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Malik Verdon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Jalon Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Tampa Bay Buccaneers",
           "player": "Josh Hayes",
           "status": "IR/PUP",
@@ -885,6 +1269,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -947,6 +1349,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Chicago Bears",
@@ -1025,6 +1445,66 @@
           "player": "Elijah Hicks",
           "status": "Questionable",
           "detail": "Shin"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ray-Ray McCloud",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Jonathan Garvin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nikola Kalinic",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Brittain Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dallis Flowers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nephi Sewell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Beanie Bishop Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ruben Hyppolite II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dontae Manning",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Hayden Large",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1087,6 +1567,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Detroit Lions",
@@ -1165,6 +1663,30 @@
           "player": "Cade Mays",
           "status": "IR/PUP",
           "detail": "Wrist"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1277,6 +1799,30 @@
           "detail": "Neck"
         },
         {
+          "team": "Carolina Panthers",
+          "player": "Brady Christensen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Ryan Hayes",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Nic Scourton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Chris Brazzell II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Tampa Bay Buccaneers",
           "player": "Josh Hayes",
           "status": "IR/PUP",
@@ -1305,6 +1851,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1376,6 +1940,48 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Los Angeles Chargers",
+          "player": "Denzel Perryman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Tyler Biadasz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Scott Matlock",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Kyle Kennard",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Branson Taylor",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Dalevon Campbell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Sincere Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Tampa Bay Buccaneers",
           "player": "Josh Hayes",
           "status": "IR/PUP",
@@ -1404,6 +2010,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1468,6 +2092,24 @@
           "detail": "Shoulder - AC Joint"
         },
         {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Baltimore Ravens",
           "player": "Zay Flowers",
           "status": "Questionable",
@@ -1496,6 +2138,36 @@
           "player": "Jay Higgins",
           "status": "Questionable",
           "detail": "Concussion"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Danny Pinter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Skylar Thompson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Bilhal Kone",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Adam Randall",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jahquez Robinson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1596,6 +2268,66 @@
           "detail": "Ankle"
         },
         {
+          "team": "New Orleans Saints",
+          "player": "David Long",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Dillon Radunz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Ty Chandler",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Rejzohn Wright",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Bryan Bresee",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Devin Neal",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Moliki Matavao",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Jordyn Tyson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Michael Heldman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Brock Rechsteiner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Tampa Bay Buccaneers",
           "player": "Josh Hayes",
           "status": "IR/PUP",
@@ -1624,6 +2356,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1688,6 +2438,24 @@
           "detail": "Shoulder - AC Joint"
         },
         {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Atlanta Falcons",
           "player": "Gervon Dexter Sr.",
           "status": "Questionable",
@@ -1740,6 +2508,48 @@
           "player": "Anterio Thompson",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Darren Hall",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Trey Sermon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Keshawn Banks",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "JD Bertrand",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Beaux Collins",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Malik Verdon",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Atlanta Falcons",
+          "player": "Jalon Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1835,12 +2645,6 @@
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Alaric Jackson",
-          "status": "Questionable",
-          "detail": "Illness"
-        },
-        {
-          "team": "Los Angeles Rams",
           "player": "Davis Allen",
           "status": "Questionable",
           "detail": "Quadriceps"
@@ -1853,12 +2657,6 @@
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Myles Garrett",
-          "status": "Questionable",
-          "detail": "Knee"
-        },
-        {
-          "team": "Los Angeles Rams",
           "player": "Puka Nacua",
           "status": "Questionable",
           "detail": "Undisclosed"
@@ -1868,6 +2666,42 @@
           "player": "Terrance Ferguson",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Zech McPhearson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Keir Thomas",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alex Johnson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Matthew Caldwell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Eddie Walls III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Daniel Rickert",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Tampa Bay Buccaneers",
@@ -1898,6 +2732,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1960,6 +2812,24 @@
           "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Mohamed Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Deshawn McKnight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Tampa Bay Buccaneers",
+          "player": "Xavier Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "New Orleans Saints",
@@ -2026,6 +2896,3552 @@
           "player": "Chris Rumph II",
           "status": "Questionable",
           "detail": "Ankle"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "David Long",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Dillon Radunz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Ty Chandler",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Rejzohn Wright",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Bryan Bresee",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Devin Neal",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Moliki Matavao",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Jordyn Tyson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Michael Heldman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Brock Rechsteiner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        }
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2026,
+      "record": "0-0",
+      "games": [
+        {
+          "id": "2026_01_TB_CIN",
+          "kickoff": "2026-09-13T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Paycor Stadium",
+          "injuries": [
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Myles Murphy",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Shemar Stewart",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Daxton Hill",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Tee Higgins",
+              "status": "Questionable",
+              "detail": "Heel"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Ja'Marr Chase",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Ja'Sir Taylor",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Brian Parker II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_02_CLE_TB",
+          "kickoff": "2026-09-20T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Raymond James Stadium",
+          "injuries": [
+            {
+              "team": "Cleveland Browns",
+              "player": "Joe Royer",
+              "status": "IR/PUP",
+              "detail": "Personal"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Jeremiah Owusu-Koramoah",
+              "status": "IR/PUP",
+              "detail": "Neck"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Isaiah Bond",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Parker Brailsford",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Michael Coats Jr.",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Kendrick Green",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Alex Wright",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Kalia Davis",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Damarri Mathis",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Travis Bell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Jamari Thrash",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Elijah Chatman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Edefuan Ulofoshio",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Dillon Gabriel",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_03_MIN_TB",
+          "kickoff": "2026-09-27T16:05:00-04:00",
+          "status": "scheduled",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Raymond James Stadium",
+          "injuries": [
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jeshaun Jones",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Caleb Tiernan",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "J.J. McCarthy",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jakobe Thomas",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Michael Jurgens",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Thomas",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jamal Adams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jermar Jefferson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Taki Taimani",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyler Batty",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Dontae Fleming",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Bryson Nesbit",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Marcus Allen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyreek Chappell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_04_GB_TB",
+          "kickoff": "2026-10-04T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Raymond James Stadium",
+          "injuries": [
+            {
+              "team": "Green Bay Packers",
+              "player": "Josh Jacobs",
+              "status": "Out",
+              "detail": "Groin"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Warren Brinson",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Luke Musgrave",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Carrington Valentine",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Micah Parsons",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Javon Bullard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Tucker Kraft",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Dani Dennis-Sutton",
+              "status": "Questionable",
+              "detail": "Illness"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Jordon Riley",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Collin Oliver",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Trey Dean III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "McCallan Castles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Thomas Yassmin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Savion Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Johnathan Baldwin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Marlon Jones",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_05_TB_DAL",
+          "kickoff": "2026-10-08T20:15:00-04:00",
+          "status": "scheduled",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "AT&T Stadium",
+          "injuries": [
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Marist Liufau",
+              "status": "IR/PUP",
+              "detail": "Forearm"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Jonathan Bullard",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Devin Moore",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Tyler Guyton",
+              "status": "Questionable",
+              "detail": "Elbow"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Matt Hennessy",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Princeton Fant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Kelvin Gilliam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "DJ Rogers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_06_PIT_TB",
+          "kickoff": "2026-10-18T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Raymond James Stadium",
+          "injuries": [
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "DK Metcalf",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Michael Pittman",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jack Driscoll",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jalen Ramsey",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Ben Skowronek",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "DeShon Elliott",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jaquan Brisker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Will Howard",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Brandin Echols",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Donte Kent",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Logan Lee",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Cole Burgess",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Daequan Hardy",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_07_TB_CAR",
+          "kickoff": "2026-10-25T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Bank of America Stadium",
+          "injuries": [
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Chuba Hubbard",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Xavier Legette",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Derrick Brown",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Jonathon Brooks",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Jaelan Phillips",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Trevor Etienne",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Ikem Ekwonu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Haynes King",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Devin Lloyd",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Bam Martin-Scott",
+              "status": "IR/PUP",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Tershawn Wharton",
+              "status": "IR/PUP",
+              "detail": "Neck"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Taylor Moton",
+              "status": "IR/PUP",
+              "detail": "Illness"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Akayleb Evans",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Brady Christensen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Ryan Hayes",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Nic Scourton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Chris Brazzell II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_08_ATL_TB",
+          "kickoff": "2026-11-01T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Raymond James Stadium",
+          "injuries": [
+            {
+              "team": "Atlanta Falcons",
+              "player": "Gervon Dexter Sr.",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Storm Norton",
+              "status": "IR/PUP",
+              "detail": "Foot"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Michael Penix Jr.",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Tyrone Wheatley Jr.",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "James Pearce Jr.",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Billy Bowman Jr.",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "DeAngelo Malone",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Da'Shawn Hand",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Anterio Thompson",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Darren Hall",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Trey Sermon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Keshawn Banks",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "JD Bertrand",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Beaux Collins",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Malik Verdon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Jalon Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_09_TB_CHI",
+          "kickoff": "2026-11-08T20:20:00-05:00",
+          "status": "scheduled",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Soldier Field",
+          "injuries": [
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Shemar Turner",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Coby Bryant",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jaylon Johnson",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Noah Sewell",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyler Gordon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyle Monangai",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tyrique Stevenson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Keyshaun Elliott",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Austin Booker",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Xavier Woods",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Luther Burden III",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tony Fields II",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Elijah Hicks",
+              "status": "Questionable",
+              "detail": "Shin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ray-Ray McCloud",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jonathan Garvin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nikola Kalinic",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Brittain Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dallis Flowers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nephi Sewell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Beanie Bishop Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ruben Hyppolite II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dontae Manning",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Hayden Large",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_11_TB_DET",
+          "kickoff": "2026-11-22T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Ford Field",
+          "injuries": [
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_12_CAR_TB",
+          "kickoff": "2026-11-30T20:15:00-05:00",
+          "status": "scheduled",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Raymond James Stadium",
+          "injuries": [
+            {
+              "team": "Carolina Panthers",
+              "player": "Chuba Hubbard",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Xavier Legette",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Derrick Brown",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Jonathon Brooks",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Jaelan Phillips",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Trevor Etienne",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Ikem Ekwonu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Haynes King",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Devin Lloyd",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Bam Martin-Scott",
+              "status": "IR/PUP",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Tershawn Wharton",
+              "status": "IR/PUP",
+              "detail": "Neck"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Taylor Moton",
+              "status": "IR/PUP",
+              "detail": "Illness"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Akayleb Evans",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Brady Christensen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Ryan Hayes",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Nic Scourton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Chris Brazzell II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_13_LAC_TB",
+          "kickoff": "2026-12-06T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Raymond James Stadium",
+          "home_jersey": "Throwback",
+          "injuries": [
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Rashawn Slater",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Isaiah World",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Keaton Mitchell",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tre Harris",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Cameron Dicker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Brenen Thompson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Denzel Perryman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tyler Biadasz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Scott Matlock",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Kyle Kennard",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Branson Taylor",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Dalevon Campbell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Sincere Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_14_TB_BAL",
+          "kickoff": "2026-12-13T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "M&T Bank Stadium",
+          "injuries": [
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Zay Flowers",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Aeneas Peebles",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Nnamdi Madubuike",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Teddye Buchanan",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Jay Higgins",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Danny Pinter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Skylar Thompson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Bilhal Kone",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Adam Randall",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Jahquez Robinson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_15_NO_TB",
+          "kickoff": "2026-12-20T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Raymond James Stadium",
+          "injuries": [
+            {
+              "team": "New Orleans Saints",
+              "player": "Nick Saldiveri",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Cameron Jordan",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Oscar Delp",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Alvin Kamara",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "John Ridgeway",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Lorenzo Styles Jr.",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Jaylan Ford",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Quincy Riley",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Pete Werner",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Mason Tipton",
+              "status": "IR/PUP",
+              "detail": "Groin"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Chris Rumph II",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "David Long",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Dillon Radunz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Ty Chandler",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Rejzohn Wright",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Bryan Bresee",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Devin Neal",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Moliki Matavao",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Jordyn Tyson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Michael Heldman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Brock Rechsteiner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_16_TB_ATL",
+          "kickoff": "2026-12-27T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Mercedes-Benz Stadium",
+          "injuries": [
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Gervon Dexter Sr.",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Storm Norton",
+              "status": "IR/PUP",
+              "detail": "Foot"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Michael Penix Jr.",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Tyrone Wheatley Jr.",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "James Pearce Jr.",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Billy Bowman Jr.",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "DeAngelo Malone",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Da'Shawn Hand",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Anterio Thompson",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Darren Hall",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Trey Sermon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Keshawn Banks",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "JD Bertrand",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Beaux Collins",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Malik Verdon",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Atlanta Falcons",
+              "player": "Jalon Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_17_LA_TB",
+          "kickoff": "2027-01-03T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Raymond James Stadium",
+          "injuries": [
+            {
+              "team": "Los Angeles Rams",
+              "player": "Byron Young",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Jaylen Watson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Grant Stuard",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Alaric Jackson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Myles Garrett",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Tyler Higbee",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Aaron Donald",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Kobie Turner",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Keagen Trost",
+              "status": "IR/PUP",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Justin Dedich",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Davis Allen",
+              "status": "Questionable",
+              "detail": "Quadriceps"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Shaun Dolac",
+              "status": "Questionable",
+              "detail": "Knee - PCL"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Puka Nacua",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Terrance Ferguson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Zech McPhearson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Keir Thomas",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Alex Johnson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Matthew Caldwell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Eddie Walls III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Daniel Rickert",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_18_TB_NO",
+          "kickoff": "2027-01-10T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Caesars Superdome",
+          "injuries": [
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Josh Hayes",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "David Sills",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Emeka Egbuka",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Jalen McMillan",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Rueben Bain Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder - AC Joint"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Mohamed Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Deshawn McKnight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Tampa Bay Buccaneers",
+              "player": "Xavier Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Nick Saldiveri",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Cameron Jordan",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Oscar Delp",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Alvin Kamara",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "John Ridgeway",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Lorenzo Styles Jr.",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Jaylan Ford",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Quincy Riley",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Pete Werner",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Mason Tipton",
+              "status": "IR/PUP",
+              "detail": "Groin"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Chris Rumph II",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "David Long",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Dillon Radunz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Ty Chandler",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Rejzohn Wright",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Bryan Bresee",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Devin Neal",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Moliki Matavao",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Jordyn Tyson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Michael Heldman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Brock Rechsteiner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "record": "8-9",
+      "games": [
+        {
+          "id": "2025_01_TB_ATL",
+          "kickoff": "2025-09-07T13:00:00-04:00",
+          "status": "final",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 23,
+          "home_score": 20,
+          "venue": "Mercedes-Benz Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_02_TB_HOU",
+          "kickoff": "2025-09-15T19:00:00-04:00",
+          "status": "final",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          },
+          "away_score": 20,
+          "home_score": 19,
+          "venue": "NRG Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_03_NYJ_TB",
+          "kickoff": "2025-09-21T13:00:00-04:00",
+          "status": "final",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": 27,
+          "home_score": 29,
+          "venue": "Raymond James Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_04_PHI_TB",
+          "kickoff": "2025-09-28T13:00:00-04:00",
+          "status": "final",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": 31,
+          "home_score": 25,
+          "venue": "Raymond James Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_05_TB_SEA",
+          "kickoff": "2025-10-05T16:05:00-04:00",
+          "status": "final",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          },
+          "away_score": 38,
+          "home_score": 35,
+          "venue": "Lumen Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_06_SF_TB",
+          "kickoff": "2025-10-12T16:25:00-04:00",
+          "status": "final",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "sf",
+            "name": "San Francisco 49ers",
+            "abbreviation": "SF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+            "colors": {
+              "primary": "#AA0000",
+              "secondary": "#B3995D"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": 19,
+          "home_score": 30,
+          "venue": "Raymond James Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_07_TB_DET",
+          "kickoff": "2025-10-20T19:00:00-04:00",
+          "status": "final",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "away_score": 9,
+          "home_score": 24,
+          "venue": "Ford Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_08_TB_NO",
+          "kickoff": "2025-10-26T16:05:00-04:00",
+          "status": "final",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          },
+          "away_score": 23,
+          "home_score": 3,
+          "venue": "Mercedes-Benz Superdome",
+          "injuries": []
+        },
+        {
+          "id": "2025_10_NE_TB",
+          "kickoff": "2025-11-09T13:00:00-05:00",
+          "status": "final",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": 28,
+          "home_score": 23,
+          "venue": "Raymond James Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_11_TB_BUF",
+          "kickoff": "2025-11-16T13:00:00-05:00",
+          "status": "final",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 32,
+          "home_score": 44,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_12_TB_LA",
+          "kickoff": "2025-11-23T20:20:00-05:00",
+          "status": "final",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          },
+          "away_score": 7,
+          "home_score": 34,
+          "venue": "SoFi Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_13_ARI_TB",
+          "kickoff": "2025-11-30T13:00:00-05:00",
+          "status": "final",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": 17,
+          "home_score": 20,
+          "venue": "Raymond James Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_14_NO_TB",
+          "kickoff": "2025-12-07T13:00:00-05:00",
+          "status": "final",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": 24,
+          "home_score": 20,
+          "venue": "Raymond James Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_15_ATL_TB",
+          "kickoff": "2025-12-11T20:15:00-05:00",
+          "status": "final",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": 29,
+          "home_score": 28,
+          "venue": "Raymond James Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_16_TB_CAR",
+          "kickoff": "2025-12-21T13:00:00-05:00",
+          "status": "final",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": 20,
+          "home_score": 23,
+          "venue": "Bank of America Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_17_TB_MIA",
+          "kickoff": "2025-12-28T13:00:00-05:00",
+          "status": "final",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 17,
+          "home_score": 20,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_18_CAR_TB",
+          "kickoff": "2026-01-03T16:30:00-05:00",
+          "status": "final",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          },
+          "home_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "away_score": 14,
+          "home_score": 16,
+          "venue": "Raymond James Stadium",
+          "injuries": []
         }
       ]
     }

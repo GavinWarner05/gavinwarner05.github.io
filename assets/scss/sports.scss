@@ -136,6 +136,10 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .team-page-hero h1 { margin: .2rem 0; font-size: clamp(2.8rem,6vw,4.8rem); line-height: 1.05; }
 .team-page-hero p { margin: 0; opacity: .75; }
 .team-page-hero > p { margin-top: 1.4rem; font-size: 1.3rem; }
+.team-season-switcher { display: flex; justify-content: flex-end; align-items: center; gap: .75rem; margin: 1.1rem 0; }
+.team-season-switcher label { font-size: 1rem; font-weight: 850; letter-spacing: .08em; text-transform: uppercase; opacity: .68; }
+.team-season-switcher select { appearance: none; -webkit-appearance: none; min-width: 7.5rem; padding: .7rem 1rem; border: 1px solid rgba(255,255,255,.2); border-radius: 999px; background: linear-gradient(145deg,rgba(255,255,255,.1),rgba(255,255,255,.045)); color: #fff; font-family: inherit; font-size: 1.1rem; font-weight: 800; line-height: 1; cursor: pointer; color-scheme: dark; }
+.team-season-switcher select:focus-visible { outline: .2rem solid #c4b5fd; outline-offset: .2rem; }
 .team-favorite-toggle { position: absolute; top: 2.4rem; right: 2.4rem; display: inline-flex; align-items: center; gap: .7rem; min-height: 4.4rem; padding: .8rem 1.4rem; border: 1px solid rgba(255,255,255,.38); border-radius: 999px; background: rgba(0,0,0,.22); color: #fff; font: inherit; font-size: 1.25rem; font-weight: 850; cursor: pointer; backdrop-filter: blur(.8rem); }
 .team-favorite-toggle > span:first-child { font-size: 1.8rem; line-height: 1; }
 .team-favorite-toggle[aria-pressed="true"] { border-color: #f8d66d; background: rgba(248,214,109,.18); color: #fff4bd; }

@@ -162,7 +162,7 @@
     const ctx = canvas.getContext("2d");
     const team = data.team || {};
     background(ctx, team.colors?.primary, team.colors?.secondary);
-    brand(ctx, data.week ? `WEEK ${data.week.week}` : `${data.season} SEASON`);
+    brand(ctx, data.week ? `${data.season} · WEEK ${data.week.week}` : `${data.season} SEASON`);
     const [headshot, logo] = await Promise.all([loadImage(data.player.headshot_url), loadImage(team.logo_url)]);
     watermark(ctx, logo, -120, 520, 650, 650);
     if (logo) contain(ctx, logo, 64, 105, 82, 82);

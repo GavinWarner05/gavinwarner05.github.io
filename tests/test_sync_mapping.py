@@ -65,6 +65,15 @@ class SyncMappingTests(unittest.TestCase):
         self.assertEqual(len(result), 1)
         self.assertEqual(result[0]["detail"], "Knee")
 
+    def test_duplicate_injuries_keep_the_more_severe_status(self):
+        injuries = [
+            {"player": "TreVeyon Henderson", "status": "Questionable", "detail": "Ankle"},
+            {"player": "TreVeyon Henderson", "status": "Out", "detail": "Ankle"},
+        ]
+        result = self.sync.dedupe_injuries(injuries)
+        self.assertEqual(len(result), 1)
+        self.assertEqual(result[0]["status"], "Out")
+
     def test_database_with_one_source_resolves_automatically(self):
         original = self.sync.notion
         self.sync.notion = lambda *_args, **_kwargs: {"data_sources": [{"id": "resolved-source", "name": "Games"}]}

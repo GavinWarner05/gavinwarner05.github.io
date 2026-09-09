@@ -391,6 +391,7 @@
 
   function renderTimeline(data) {
     const timeline = el("[data-team-timeline]");
+    timeline.replaceChildren();
     const games = data.games.slice().sort((a, b) => new Date(a.kickoff) - new Date(b.kickoff));
     const completed = games.filter((game) => game.status === "final").length;
     el("[data-timeline-progress]").textContent = completed ? completed + " of " + games.length + " complete" : games.length + " chapters ahead";
@@ -424,6 +425,7 @@
 
   function renderSchedule(data) {
     const container = el("[data-team-schedule]");
+    container.replaceChildren();
     data.games.forEach((game) => {
       const isHome = game.home_team.id === data.team.id;
       const opponent = isHome ? game.away_team : game.home_team;
@@ -554,15 +556,32 @@
       document.body.classList.add("team-themed-page");
       document.body.style.setProperty("--team-background-gradient", "linear-gradient(rgba(7,10,18,.76),rgba(7,10,18,.9))," + defaultGradient);
       el("[data-team-logo]").append(image(data.team.logo_url, data.team.name + " logo", "team-page-logo-image"));
-      el("[data-season-label]").textContent = data.season + " NFL season";
-      el("[data-team-record]").textContent = data.team.record || "0-0";
       el("[data-team-updated]").textContent = "Updated " + new Intl.DateTimeFormat("en-US", { dateStyle: "medium", timeStyle: "short", timeZone: "America/Los_Angeles" }).format(new Date(data.generated_at));
       app.querySelectorAll("details[data-collapse-key]").forEach((details) => {
         const isSchedule = details.dataset.collapseKey === "schedule";
         const isInjuries = details.dataset.collapseKey === "injuries";
         setupDisclosure(details, details.dataset.collapseKey, !isSchedule && !isInjuries, !isSchedule);
       });
-      renderTimeline(data); renderSchedule(data); renderInjuries(data); renderRoster(data);
+      const seasons = (data.seasons && data.seasons.length ? data.seasons : [{ season: data.season, record: data.team.record || "0-0", games: data.games }]).slice().sort((a, b) => b.season - a.season);
+      const seasonControl = el("[data-team-season-control]");
+      const seasonSelect = el("[data-team-season-select]");
+      seasons.forEach((entry) => {
+        const option = document.createElement("option");
+        option.value = String(entry.season); option.textContent = String(entry.season);
+        seasonSelect.append(option);
+      });
+      seasonControl.hidden = seasons.length < 2;
+      function showSeason(season) {
+        const entry = seasons.find((candidate) => candidate.season === Number(season)) || seasons[0];
+        const view = Object.assign({}, data, { season: entry.season, games: entry.games || [], team: Object.assign({}, data.team, { record: entry.record || "0-0" }) });
+        el("[data-season-label]").textContent = entry.season + " NFL season";
+        el("[data-team-record]").textContent = entry.record || "0-0";
+        renderTimeline(view); renderSchedule(view);
+      }
+      seasonSelect.addEventListener("change", function () { showSeason(seasonSelect.value); });
+      seasonSelect.value = String(data.season);
+      showSeason(data.season);
+      renderInjuries(data); renderRoster(data);
     })
     .catch(() => { el("[data-team-updated]").textContent = "Data unavailable"; const notice = el("[data-team-notice]"); notice.hidden = false; notice.textContent = "This team snapshot could not be loaded."; });
 }());

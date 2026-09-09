@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T22:18:54+00:00",
+  "generated_at": "2026-09-09T23:26:56+00:00",
   "season": 2026,
   "team": {
     "id": "den",
@@ -93,6 +93,30 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Kansas City Chiefs",
           "player": "Ashton Gillotte",
           "status": "Questionable",
@@ -139,6 +163,54 @@
           "player": "Omarr Norman-Lott",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Matt Waletzko",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Chris Oladokun",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "C.J. Hanson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jimmy Holiday",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Ethan Downs",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jeff Caldwell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "John Michael Gyllenborg",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "EJ Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -209,6 +281,36 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Jacksonville Jaguars",
+          "player": "Sam Mustipher",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Carter Bradley",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Jared Bartlett",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Parker Hughes",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Garrett DiGiorgio",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Denver Broncos",
           "player": "Riley Moss",
           "status": "Questionable",
@@ -255,6 +357,30 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -350,12 +476,6 @@
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Alaric Jackson",
-          "status": "Questionable",
-          "detail": "Illness"
-        },
-        {
-          "team": "Los Angeles Rams",
           "player": "Davis Allen",
           "status": "Questionable",
           "detail": "Quadriceps"
@@ -368,12 +488,6 @@
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Myles Garrett",
-          "status": "Questionable",
-          "detail": "Knee"
-        },
-        {
-          "team": "Los Angeles Rams",
           "player": "Puka Nacua",
           "status": "Questionable",
           "detail": "Undisclosed"
@@ -383,6 +497,42 @@
           "player": "Terrance Ferguson",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Zech McPhearson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Keir Thomas",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alex Johnson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Matthew Caldwell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Eddie Walls III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Daniel Rickert",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Denver Broncos",
@@ -431,6 +581,30 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -513,6 +687,30 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "San Francisco 49ers",
           "player": "Gracen Halton",
           "status": "Out",
@@ -586,21 +784,9 @@
         },
         {
           "team": "San Francisco 49ers",
-          "player": "Nick Bosa",
-          "status": "Questionable",
-          "detail": "Knee - ACL"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Vederian Lowe",
           "status": "Questionable",
           "detail": "Ankle"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Kyle Juszczyk",
-          "status": "Questionable",
-          "detail": "Finger"
         },
         {
           "team": "San Francisco 49ers",
@@ -610,21 +796,9 @@
         },
         {
           "team": "San Francisco 49ers",
-          "player": "Gracen Halton",
-          "status": "Questionable",
-          "detail": "Ankle"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Keion White",
           "status": "Questionable",
           "detail": "Ankle"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Upton Stout",
-          "status": "Questionable",
-          "detail": "Hip"
         },
         {
           "team": "San Francisco 49ers",
@@ -640,39 +814,15 @@
         },
         {
           "team": "San Francisco 49ers",
-          "player": "George Kittle",
-          "status": "Questionable",
-          "detail": "Achilles"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Ephesians Prysock",
           "status": "Questionable",
           "detail": "Shoulder"
         },
         {
           "team": "San Francisco 49ers",
-          "player": "Luke Gifford",
-          "status": "Questionable",
-          "detail": "Hamstring"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Romello Height",
-          "status": "Questionable",
-          "detail": "Undisclosed"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Christian McCaffrey",
           "status": "Questionable",
           "detail": "Undisclosed"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Renardo Green",
-          "status": "Questionable",
-          "detail": "Hamstring"
         },
         {
           "team": "San Francisco 49ers",
@@ -721,6 +871,66 @@
           "player": "Mykel Williams",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Christian Kirk",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Brett Toth",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Darrick Forrest",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Victor Dimukeje",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Sam Okuayinonu",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Zakelj",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Andrew Farmer",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Ricky Pearsall",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Martin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Mikail Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -803,6 +1013,30 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Los Angeles Chargers",
           "player": "Rashawn Slater",
           "status": "Questionable",
@@ -837,6 +1071,48 @@
           "player": "Brenen Thompson",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Denzel Perryman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Tyler Biadasz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Scott Matlock",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Kyle Kennard",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Branson Taylor",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Dalevon Campbell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Sincere Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -873,14 +1149,14 @@
         {
           "team": "Seattle Seahawks",
           "player": "Nick Emmanwori",
-          "status": "Questionable",
-          "detail": "Ankle"
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
           "player": "Tory Horton",
-          "status": "Questionable",
-          "detail": "Hamstring"
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
@@ -891,18 +1167,6 @@
         {
           "team": "Seattle Seahawks",
           "player": "Julian Neal",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Nick Emmanwori",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Tory Horton",
           "status": "Out",
           "detail": "Injury"
         },
@@ -926,12 +1190,6 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Ty Okada",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
           "player": "Josh Jones",
           "status": "Out",
           "detail": "Injury"
@@ -944,27 +1202,9 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Emanuel Wilson",
-          "status": "Questionable",
-          "detail": "Hamstring"
-        },
-        {
-          "team": "Seattle Seahawks",
           "player": "Brandon Pili",
           "status": "Questionable",
           "detail": "Lower Leg"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Tory Horton",
-          "status": "Questionable",
-          "detail": "Undisclosed"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Julian Neal",
-          "status": "Questionable",
-          "detail": "Leg"
         },
         {
           "team": "Seattle Seahawks",
@@ -980,9 +1220,39 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Nick Emmanwori",
-          "status": "Questionable",
-          "detail": "Ankle"
+          "player": "Jake Bobo",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Amari Kight",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Aaron Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Robbie Ouzts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Mason Richman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Bud Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Denver Broncos",
@@ -1031,6 +1301,30 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1113,6 +1407,30 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Arizona Cardinals",
           "player": "Tip Reiman",
           "status": "IR/PUP",
@@ -1141,6 +1459,48 @@
           "player": "Dadrion Taylor-Demerson",
           "status": "Questionable",
           "detail": "Ribs"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "James Conner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Joey Blount",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Zachary Carter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Trey Benson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Jameson Geers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Chase Bisontis",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Kaleb Proctor",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1223,6 +1583,54 @@
           "detail": "Knee - ACL"
         },
         {
+          "team": "Kansas City Chiefs",
+          "player": "Matt Waletzko",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Chris Oladokun",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "C.J. Hanson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jimmy Holiday",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Ethan Downs",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jeff Caldwell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "John Michael Gyllenborg",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "EJ Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Denver Broncos",
           "player": "Riley Moss",
           "status": "Questionable",
@@ -1269,6 +1677,30 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1351,6 +1783,30 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Carolina Panthers",
           "player": "Chuba Hubbard",
           "status": "Questionable",
@@ -1427,6 +1883,30 @@
           "player": "Akayleb Evans",
           "status": "Questionable",
           "detail": "Neck"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Brady Christensen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Ryan Hayes",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Nic Scourton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Carolina Panthers",
+          "player": "Chris Brazzell II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1471,6 +1951,60 @@
           "player": "Ashton Jeanty",
           "status": "Questionable",
           "detail": "Knee"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Justin Shorter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chris Collier",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chigozie Anusiem",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Brennan Jackson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Dont'e Thornton Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Justin Pickett",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chase Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Corey Rucker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Keyron Crawford",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Denver Broncos",
@@ -1519,6 +2053,30 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1601,6 +2159,30 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Pittsburgh Steelers",
           "player": "DK Metcalf",
           "status": "Questionable",
@@ -1659,6 +2241,24 @@
           "player": "Donte Kent",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Logan Lee",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Cole Burgess",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Pittsburgh Steelers",
+          "player": "Daequan Hardy",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1753,6 +2353,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Denver Broncos",
           "player": "Riley Moss",
           "status": "Questionable",
@@ -1799,6 +2417,30 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1881,6 +2523,30 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New York Jets",
           "player": "Breece Hall",
           "status": "Questionable",
@@ -1945,6 +2611,42 @@
           "player": "VJ Payne",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Mykal Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Tre Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Kingsley Jonathan",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Dominic Richardson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Chip Trayanum",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Connor Hulstein",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2027,6 +2729,30 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Las Vegas Raiders",
           "player": "Carter Runyon",
           "status": "IR/PUP",
@@ -2037,6 +2763,60 @@
           "player": "Ashton Jeanty",
           "status": "Questionable",
           "detail": "Knee"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Justin Shorter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chris Collier",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chigozie Anusiem",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Brennan Jackson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Dont'e Thornton Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Justin Pickett",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chase Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Corey Rucker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Keyron Crawford",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2131,6 +2911,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Denver Broncos",
           "player": "Riley Moss",
           "status": "Questionable",
@@ -2177,6 +2975,30 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2259,6 +3081,30 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -2269,18 +3115,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -2314,15 +3148,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2393,6 +3245,48 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Los Angeles Chargers",
+          "player": "Denzel Perryman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Tyler Biadasz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Scott Matlock",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Kyle Kennard",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Branson Taylor",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Dalevon Campbell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Sincere Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Denver Broncos",
           "player": "Riley Moss",
           "status": "Questionable",
@@ -2439,6 +3333,3979 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        }
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2026,
+      "record": "0-0",
+      "games": [
+        {
+          "id": "2026_01_DEN_KC",
+          "kickoff": "2026-09-14T20:15:00-04:00",
+          "status": "scheduled",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "GEHA Field at Arrowhead Stadium",
+          "injuries": [
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ashton Gillotte",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Kenneth Walker III",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "L'Jarius Sneed",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Drue Tranquill",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Trey Smith",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Alohi Gilman",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Patrick Mahomes",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Omarr Norman-Lott",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Matt Waletzko",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Chris Oladokun",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "C.J. Hanson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jimmy Holiday",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ethan Downs",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jeff Caldwell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "John Michael Gyllenborg",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "EJ Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_02_JAX_DEN",
+          "kickoff": "2026-09-20T16:05:00-04:00",
+          "status": "scheduled",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Empower Field at Mile High",
+          "injuries": [
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "LeQuint Allen Jr.",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Brian Thomas Jr.",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jakobi Meyers",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Patrick Mekari",
+              "status": "IR/PUP",
+              "detail": "Back"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Zach Durfee",
+              "status": "IR/PUP",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Wyatt Milum",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Sam Mustipher",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Carter Bradley",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jared Bartlett",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Parker Hughes",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Garrett DiGiorgio",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_03_LA_DEN",
+          "kickoff": "2026-09-27T20:20:00-04:00",
+          "status": "scheduled",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Empower Field at Mile High",
+          "injuries": [
+            {
+              "team": "Los Angeles Rams",
+              "player": "Byron Young",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Jaylen Watson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Grant Stuard",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Alaric Jackson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Myles Garrett",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Tyler Higbee",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Aaron Donald",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Kobie Turner",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Keagen Trost",
+              "status": "IR/PUP",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Justin Dedich",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Davis Allen",
+              "status": "Questionable",
+              "detail": "Quadriceps"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Shaun Dolac",
+              "status": "Questionable",
+              "detail": "Knee - PCL"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Puka Nacua",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Terrance Ferguson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Zech McPhearson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Keir Thomas",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Alex Johnson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Matthew Caldwell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Eddie Walls III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Daniel Rickert",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_04_DEN_SF",
+          "kickoff": "2026-10-04T16:25:00-04:00",
+          "status": "scheduled",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "sf",
+            "name": "San Francisco 49ers",
+            "abbreviation": "SF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+            "colors": {
+              "primary": "#AA0000",
+              "secondary": "#B3995D"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Levi's Stadium",
+          "injuries": [
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Gracen Halton",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Romello Height",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "James Thompson Jr.",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Alfred Collins",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Upton Stout",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Renardo Green",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nick Bosa",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Luke Gifford",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Dre Greenlaw",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "George Kittle",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Kyle Juszczyk",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Dominick Puni",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Vederian Lowe",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Brandon Aiyuk",
+              "status": "Out",
+              "detail": "Knee - ACL + MCL"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Keion White",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Austen Pleasants",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Kurtis Rourke",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Ephesians Prysock",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Christian McCaffrey",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Brayden Willis",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "De'Zhaun Stribling",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Mike Evans",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Isaac Guerendo",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Malik Mustapha",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nate Hobbs",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Jacob Cowing",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Mykel Williams",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Christian Kirk",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Brett Toth",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Darrick Forrest",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Victor Dimukeje",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Sam Okuayinonu",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nick Zakelj",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Andrew Farmer",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Ricky Pearsall",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nick Martin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Mikail Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_05_DEN_LAC",
+          "kickoff": "2026-10-11T16:05:00-04:00",
+          "status": "scheduled",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "SoFi Stadium",
+          "injuries": [
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Rashawn Slater",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Isaiah World",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Keaton Mitchell",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tre Harris",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Cameron Dicker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Brenen Thompson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Denzel Perryman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tyler Biadasz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Scott Matlock",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Kyle Kennard",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Branson Taylor",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Dalevon Campbell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Sincere Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_06_SEA_DEN",
+          "kickoff": "2026-10-15T20:15:00-04:00",
+          "status": "scheduled",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Empower Field at Mile High",
+          "injuries": [
+            {
+              "team": "Seattle Seahawks",
+              "player": "Nick Emmanwori",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Tory Horton",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Ty Okada",
+              "status": "Out",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Julian Neal",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "AJ Barner",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Anthony Bradford",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Emanuel Wilson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Josh Jones",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Zach Charbonnet",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Brandon Pili",
+              "status": "Questionable",
+              "detail": "Lower Leg"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Terrion Arnold",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Irvin Charles",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Jake Bobo",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Amari Kight",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Aaron Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Robbie Ouzts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Mason Richman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Bud Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_07_DEN_ARI",
+          "kickoff": "2026-10-25T16:05:00-04:00",
+          "status": "scheduled",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "State Farm Stadium",
+          "injuries": [
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Tip Reiman",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Jeremiyah Love",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Blake Gillikin",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Will Johnson",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Dadrion Taylor-Demerson",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "James Conner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Joey Blount",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Zachary Carter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Trey Benson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Jameson Geers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Chase Bisontis",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Kaleb Proctor",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_08_KC_DEN",
+          "kickoff": "2026-11-01T16:25:00-05:00",
+          "status": "scheduled",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Empower Field at Mile High",
+          "injuries": [
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ashton Gillotte",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Kenneth Walker III",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "L'Jarius Sneed",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Drue Tranquill",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Trey Smith",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Alohi Gilman",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Patrick Mahomes",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Omarr Norman-Lott",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Matt Waletzko",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Chris Oladokun",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "C.J. Hanson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jimmy Holiday",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ethan Downs",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jeff Caldwell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "John Michael Gyllenborg",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "EJ Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_09_DEN_CAR",
+          "kickoff": "2026-11-08T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Bank of America Stadium",
+          "injuries": [
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Chuba Hubbard",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Xavier Legette",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Derrick Brown",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Jonathon Brooks",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Jaelan Phillips",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Trevor Etienne",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Ikem Ekwonu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Haynes King",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Devin Lloyd",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Bam Martin-Scott",
+              "status": "IR/PUP",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Tershawn Wharton",
+              "status": "IR/PUP",
+              "detail": "Neck"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Taylor Moton",
+              "status": "IR/PUP",
+              "detail": "Illness"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Akayleb Evans",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Brady Christensen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Ryan Hayes",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Nic Scourton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Carolina Panthers",
+              "player": "Chris Brazzell II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_11_LV_DEN",
+          "kickoff": "2026-11-22T16:25:00-05:00",
+          "status": "scheduled",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Empower Field at Mile High",
+          "injuries": [
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Carter Runyon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Ashton Jeanty",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Justin Shorter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chris Collier",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chigozie Anusiem",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Brennan Jackson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Dont'e Thornton Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Justin Pickett",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chase Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Corey Rucker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Keyron Crawford",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_12_DEN_PIT",
+          "kickoff": "2026-11-27T15:00:00-05:00",
+          "status": "scheduled",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Acrisure Stadium",
+          "injuries": [
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "DK Metcalf",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Michael Pittman",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jack Driscoll",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jalen Ramsey",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Ben Skowronek",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "DeShon Elliott",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Jaquan Brisker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Will Howard",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Brandin Echols",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Donte Kent",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Logan Lee",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Cole Burgess",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Pittsburgh Steelers",
+              "player": "Daequan Hardy",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_13_MIA_DEN",
+          "kickoff": "2026-12-06T16:05:00-05:00",
+          "status": "scheduled",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Empower Field at Mile High",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_14_DEN_NYJ",
+          "kickoff": "2026-12-13T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "MetLife Stadium",
+          "injuries": [
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Breece Hall",
+              "status": "Questionable",
+              "detail": "Thigh"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Da'Quan Felton",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Qwan'tez Stiggers",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Joseph Ossai",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Anez Cooper",
+              "status": "IR/PUP",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Nahshon Wright",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "New York Jets",
+              "player": "D'Angelo Ponds",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kenyon Sadiq",
+              "status": "Questionable",
+              "detail": "Abdomen"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tyler Baron",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Isaiah Davis",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "VJ Payne",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Mykal Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tre Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kingsley Jonathan",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Dominic Richardson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Chip Trayanum",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Connor Hulstein",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_15_DEN_LV",
+          "kickoff": "2026-12-20T16:25:00-05:00",
+          "status": "scheduled",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Allegiant Stadium",
+          "injuries": [
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Carter Runyon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Ashton Jeanty",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Justin Shorter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chris Collier",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chigozie Anusiem",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Brennan Jackson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Dont'e Thornton Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Justin Pickett",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chase Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Corey Rucker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Keyron Crawford",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_16_BUF_DEN",
+          "kickoff": "2026-12-25T16:30:00-05:00",
+          "status": "scheduled",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Empower Field at Mile High",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_17_DEN_NE",
+          "kickoff": "2027-01-03T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_18_LAC_DEN",
+          "kickoff": "2027-01-10T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Empower Field at Mile High",
+          "injuries": [
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Rashawn Slater",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Isaiah World",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Keaton Mitchell",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tre Harris",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Cameron Dicker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Brenen Thompson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Denzel Perryman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tyler Biadasz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Scott Matlock",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Kyle Kennard",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Branson Taylor",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Dalevon Campbell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Sincere Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "record": "14-3",
+      "games": [
+        {
+          "id": "2025_01_TEN_DEN",
+          "kickoff": "2025-09-07T16:05:00-04:00",
+          "status": "final",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 12,
+          "home_score": 20,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_02_DEN_IND",
+          "kickoff": "2025-09-14T16:05:00-04:00",
+          "status": "final",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 28,
+          "home_score": 29,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_03_DEN_LAC",
+          "kickoff": "2025-09-21T16:05:00-04:00",
+          "status": "final",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "away_score": 20,
+          "home_score": 23,
+          "venue": "SoFi Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_04_CIN_DEN",
+          "kickoff": "2025-09-29T20:15:00-04:00",
+          "status": "final",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 3,
+          "home_score": 28,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_05_DEN_PHI",
+          "kickoff": "2025-10-05T13:00:00-04:00",
+          "status": "final",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "away_score": 21,
+          "home_score": 17,
+          "venue": "Lincoln Financial Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_06_DEN_NYJ",
+          "kickoff": "2025-10-12T09:30:00-04:00",
+          "status": "final",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 13,
+          "home_score": 11,
+          "venue": "MetLife Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_07_NYG_DEN",
+          "kickoff": "2025-10-19T16:05:00-04:00",
+          "status": "final",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 32,
+          "home_score": 33,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_08_DAL_DEN",
+          "kickoff": "2025-10-26T16:25:00-04:00",
+          "status": "final",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 24,
+          "home_score": 44,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_09_DEN_HOU",
+          "kickoff": "2025-11-02T13:00:00-05:00",
+          "status": "final",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          },
+          "away_score": 18,
+          "home_score": 15,
+          "venue": "NRG Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_10_LV_DEN",
+          "kickoff": "2025-11-06T20:15:00-05:00",
+          "status": "final",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 7,
+          "home_score": 10,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_11_KC_DEN",
+          "kickoff": "2025-11-16T16:25:00-05:00",
+          "status": "final",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 19,
+          "home_score": 22,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_13_DEN_WAS",
+          "kickoff": "2025-11-30T20:20:00-05:00",
+          "status": "final",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "was",
+            "name": "Washington Commanders",
+            "abbreviation": "WAS",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/was.png",
+            "colors": {
+              "primary": "#5A1414",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": 27,
+          "home_score": 26,
+          "venue": "FedExField",
+          "injuries": []
+        },
+        {
+          "id": "2025_14_DEN_LV",
+          "kickoff": "2025-12-07T16:05:00-05:00",
+          "status": "final",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          },
+          "away_score": 24,
+          "home_score": 17,
+          "venue": "Allegiant Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_15_GB_DEN",
+          "kickoff": "2025-12-14T16:25:00-05:00",
+          "status": "final",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 26,
+          "home_score": 34,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_16_JAX_DEN",
+          "kickoff": "2025-12-21T16:05:00-05:00",
+          "status": "final",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 34,
+          "home_score": 20,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_17_DEN_KC",
+          "kickoff": "2025-12-25T20:15:00-05:00",
+          "status": "final",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "home_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "away_score": 20,
+          "home_score": 13,
+          "venue": "GEHA Field at Arrowhead Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_18_LAC_DEN",
+          "kickoff": "2026-01-04T16:25:00-05:00",
+          "status": "final",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 3,
+          "home_score": 19,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_20_BUF_DEN",
+          "kickoff": "2026-01-17T16:30:00-05:00",
+          "status": "final",
+          "week": 20,
+          "season_phase": "Divisional",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 30,
+          "home_score": 33,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
+        },
+        {
+          "id": "2025_21_NE_DEN",
+          "kickoff": "2026-01-25T15:00:00-05:00",
+          "status": "final",
+          "week": 21,
+          "season_phase": "Conference Championship",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 10,
+          "home_score": 7,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T22:18:54+00:00",
+  "generated_at": "2026-09-09T23:26:56+00:00",
   "season": 2026,
   "team": {
     "id": "mia",
@@ -105,6 +105,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Las Vegas Raiders",
           "player": "Carter Runyon",
           "status": "IR/PUP",
@@ -115,6 +133,60 @@
           "player": "Ashton Jeanty",
           "status": "Questionable",
           "detail": "Knee"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Justin Shorter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chris Collier",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chigozie Anusiem",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Brennan Jackson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Dont'e Thornton Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Justin Pickett",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chase Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Corey Rucker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Keyron Crawford",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -209,6 +281,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "San Francisco 49ers",
           "player": "Gracen Halton",
           "status": "Out",
@@ -282,21 +372,9 @@
         },
         {
           "team": "San Francisco 49ers",
-          "player": "Nick Bosa",
-          "status": "Questionable",
-          "detail": "Knee - ACL"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Vederian Lowe",
           "status": "Questionable",
           "detail": "Ankle"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Kyle Juszczyk",
-          "status": "Questionable",
-          "detail": "Finger"
         },
         {
           "team": "San Francisco 49ers",
@@ -306,21 +384,9 @@
         },
         {
           "team": "San Francisco 49ers",
-          "player": "Gracen Halton",
-          "status": "Questionable",
-          "detail": "Ankle"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Keion White",
           "status": "Questionable",
           "detail": "Ankle"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Upton Stout",
-          "status": "Questionable",
-          "detail": "Hip"
         },
         {
           "team": "San Francisco 49ers",
@@ -336,39 +402,15 @@
         },
         {
           "team": "San Francisco 49ers",
-          "player": "George Kittle",
-          "status": "Questionable",
-          "detail": "Achilles"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Ephesians Prysock",
           "status": "Questionable",
           "detail": "Shoulder"
         },
         {
           "team": "San Francisco 49ers",
-          "player": "Luke Gifford",
-          "status": "Questionable",
-          "detail": "Hamstring"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Romello Height",
-          "status": "Questionable",
-          "detail": "Undisclosed"
-        },
-        {
-          "team": "San Francisco 49ers",
           "player": "Christian McCaffrey",
           "status": "Questionable",
           "detail": "Undisclosed"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Renardo Green",
-          "status": "Questionable",
-          "detail": "Hamstring"
         },
         {
           "team": "San Francisco 49ers",
@@ -417,6 +459,66 @@
           "player": "Mykel Williams",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Christian Kirk",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Brett Toth",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Darrick Forrest",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Victor Dimukeje",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Sam Okuayinonu",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Zakelj",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Andrew Farmer",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Ricky Pearsall",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Martin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Mikail Kamara",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -499,6 +601,54 @@
           "detail": "Knee - ACL"
         },
         {
+          "team": "Kansas City Chiefs",
+          "player": "Matt Waletzko",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Chris Oladokun",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "C.J. Hanson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jimmy Holiday",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Ethan Downs",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jeff Caldwell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "John Michael Gyllenborg",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "EJ Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Miami Dolphins",
           "player": "Zach Sieler",
           "status": "Questionable",
@@ -557,6 +707,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -651,6 +819,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Minnesota Vikings",
           "player": "Jeshaun Jones",
           "status": "Out",
@@ -685,6 +871,60 @@
           "player": "Jacob Thomas",
           "status": "Questionable",
           "detail": "Ankle"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jamal Adams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jermar Jefferson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Taki Taimani",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyler Batty",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Dontae Fleming",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Bryson Nesbit",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jacob Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Marcus Allen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyreek Chappell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -755,6 +995,12 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Cincinnati Bengals",
+          "player": "Brian Parker II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Miami Dolphins",
           "player": "Zach Sieler",
           "status": "Questionable",
@@ -813,6 +1059,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -907,6 +1171,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New York Jets",
           "player": "Breece Hall",
           "status": "Questionable",
@@ -971,6 +1253,42 @@
           "player": "VJ Payne",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Mykal Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Tre Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Kingsley Jonathan",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Dominic Richardson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Chip Trayanum",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Connor Hulstein",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1018,18 +1336,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -1060,15 +1366,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Miami Dolphins",
@@ -1129,6 +1453,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1241,6 +1583,30 @@
           "detail": "Wrist"
         },
         {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Miami Dolphins",
           "player": "Zach Sieler",
           "status": "Questionable",
@@ -1299,6 +1665,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1393,6 +1777,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Indianapolis Colts",
           "player": "Charvarius Ward",
           "status": "Questionable",
@@ -1439,6 +1841,30 @@
           "player": "Will Mallory",
           "status": "IR/PUP",
           "detail": "Thumb"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "D.J. Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Cameron Mitchell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Coleman Owen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Carson Towt",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1533,6 +1959,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Buffalo Bills",
           "player": "Michael Hoecht",
           "status": "Questionable",
@@ -1591,6 +2035,24 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1691,6 +2153,42 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "New York Jets",
+          "player": "Mykal Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Tre Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Kingsley Jonathan",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Dominic Richardson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Chip Trayanum",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Connor Hulstein",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Miami Dolphins",
           "player": "Zach Sieler",
           "status": "Questionable",
@@ -1749,6 +2247,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1843,6 +2359,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Denver Broncos",
           "player": "Riley Moss",
           "status": "Questionable",
@@ -1889,6 +2423,30 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2001,6 +2559,66 @@
           "detail": "Shin"
         },
         {
+          "team": "Chicago Bears",
+          "player": "Ray-Ray McCloud",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Jonathan Garvin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nikola Kalinic",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Brittain Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dallis Flowers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nephi Sewell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Beanie Bishop Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ruben Hyppolite II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dontae Manning",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Hayden Large",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Miami Dolphins",
           "player": "Zach Sieler",
           "status": "Questionable",
@@ -2059,6 +2677,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2153,6 +2789,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Green Bay Packers",
           "player": "Josh Jacobs",
           "status": "Out",
@@ -2211,6 +2865,42 @@
           "player": "Collin Oliver",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Trey Dean III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "McCallan Castles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Thomas Yassmin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Savion Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Johnathan Baldwin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Marlon Jones",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2281,6 +2971,48 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Los Angeles Chargers",
+          "player": "Denzel Perryman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Tyler Biadasz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Scott Matlock",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Kyle Kennard",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Branson Taylor",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Dalevon Campbell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Sincere Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Miami Dolphins",
           "player": "Zach Sieler",
           "status": "Questionable",
@@ -2339,6 +3071,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2433,6 +3183,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Miami Dolphins",
           "player": "Zach Sieler",
           "status": "Questionable",
@@ -2491,6 +3259,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2585,6 +3371,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -2595,18 +3399,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -2640,15 +3432,4022 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        }
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2026,
+      "record": "0-0",
+      "games": [
+        {
+          "id": "2026_01_MIA_LV",
+          "kickoff": "2026-09-13T16:25:00-04:00",
+          "status": "scheduled",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Allegiant Stadium",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Carter Runyon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Ashton Jeanty",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Justin Shorter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chris Collier",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chigozie Anusiem",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Brennan Jackson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Dont'e Thornton Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Justin Pickett",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chase Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Corey Rucker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Keyron Crawford",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_02_MIA_SF",
+          "kickoff": "2026-09-20T16:25:00-04:00",
+          "status": "scheduled",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "sf",
+            "name": "San Francisco 49ers",
+            "abbreviation": "SF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+            "colors": {
+              "primary": "#AA0000",
+              "secondary": "#B3995D"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Levi's Stadium",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Gracen Halton",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Romello Height",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "James Thompson Jr.",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Alfred Collins",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Upton Stout",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Renardo Green",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nick Bosa",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Luke Gifford",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Dre Greenlaw",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "George Kittle",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Kyle Juszczyk",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Dominick Puni",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Vederian Lowe",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Brandon Aiyuk",
+              "status": "Out",
+              "detail": "Knee - ACL + MCL"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Keion White",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Austen Pleasants",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Kurtis Rourke",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Ephesians Prysock",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Christian McCaffrey",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Brayden Willis",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "De'Zhaun Stribling",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Mike Evans",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Isaac Guerendo",
+              "status": "IR/PUP",
+              "detail": "Pectoral"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Malik Mustapha",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nate Hobbs",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Jacob Cowing",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Mykel Williams",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Christian Kirk",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Brett Toth",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Darrick Forrest",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Victor Dimukeje",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Sam Okuayinonu",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nick Zakelj",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Andrew Farmer",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Ricky Pearsall",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Nick Martin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Mikail Kamara",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_03_KC_MIA",
+          "kickoff": "2026-09-27T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ashton Gillotte",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Kenneth Walker III",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "L'Jarius Sneed",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Drue Tranquill",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Trey Smith",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Alohi Gilman",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Patrick Mahomes",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Omarr Norman-Lott",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Matt Waletzko",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Chris Oladokun",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "C.J. Hanson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jimmy Holiday",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ethan Downs",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jeff Caldwell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "John Michael Gyllenborg",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "EJ Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_04_MIA_MIN",
+          "kickoff": "2026-10-04T16:05:00-04:00",
+          "status": "scheduled",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "U.S. Bank Stadium",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jeshaun Jones",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Caleb Tiernan",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "J.J. McCarthy",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jakobe Thomas",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Michael Jurgens",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Thomas",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jamal Adams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jermar Jefferson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Taki Taimani",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyler Batty",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Dontae Fleming",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Bryson Nesbit",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Marcus Allen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyreek Chappell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_05_CIN_MIA",
+          "kickoff": "2026-10-11T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Myles Murphy",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Shemar Stewart",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Daxton Hill",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Tee Higgins",
+              "status": "Questionable",
+              "detail": "Heel"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Ja'Marr Chase",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Ja'Sir Taylor",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Cincinnati Bengals",
+              "player": "Brian Parker II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_07_MIA_NYJ",
+          "kickoff": "2026-10-25T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "MetLife Stadium",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Breece Hall",
+              "status": "Questionable",
+              "detail": "Thigh"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Da'Quan Felton",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Qwan'tez Stiggers",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Joseph Ossai",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Anez Cooper",
+              "status": "IR/PUP",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Nahshon Wright",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "New York Jets",
+              "player": "D'Angelo Ponds",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kenyon Sadiq",
+              "status": "Questionable",
+              "detail": "Abdomen"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tyler Baron",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Isaiah Davis",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "VJ Payne",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Mykal Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tre Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kingsley Jonathan",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Dominic Richardson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Chip Trayanum",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Connor Hulstein",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_08_NE_MIA",
+          "kickoff": "2026-11-01T16:25:00-05:00",
+          "status": "scheduled",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_09_DET_MIA",
+          "kickoff": "2026-11-08T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_10_MIA_IND",
+          "kickoff": "2026-11-15T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lucas Oil Stadium",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "A.J. Haulcy",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cam Taylor-Britt",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Josh Downs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Sauce Gardner",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Alec Pierce",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Tyler Warren",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Will Mallory",
+              "status": "IR/PUP",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "D.J. Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Cameron Mitchell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Coleman Owen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Carson Towt",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_11_MIA_BUF",
+          "kickoff": "2026-11-22T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_12_NYJ_MIA",
+          "kickoff": "2026-11-29T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "New York Jets",
+              "player": "Breece Hall",
+              "status": "Questionable",
+              "detail": "Thigh"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Da'Quan Felton",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Qwan'tez Stiggers",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Joseph Ossai",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Anez Cooper",
+              "status": "IR/PUP",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Nahshon Wright",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "New York Jets",
+              "player": "D'Angelo Ponds",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kenyon Sadiq",
+              "status": "Questionable",
+              "detail": "Abdomen"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tyler Baron",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Isaiah Davis",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "VJ Payne",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Mykal Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tre Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kingsley Jonathan",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Dominic Richardson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Chip Trayanum",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Connor Hulstein",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_13_MIA_DEN",
+          "kickoff": "2026-12-06T16:05:00-05:00",
+          "status": "scheduled",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Empower Field at Mile High",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_14_CHI_MIA",
+          "kickoff": "2026-12-13T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "Chicago Bears",
+              "player": "Shemar Turner",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Coby Bryant",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jaylon Johnson",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Noah Sewell",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyler Gordon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyle Monangai",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tyrique Stevenson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Keyshaun Elliott",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Austin Booker",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Xavier Woods",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Luther Burden III",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tony Fields II",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Elijah Hicks",
+              "status": "Questionable",
+              "detail": "Shin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ray-Ray McCloud",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jonathan Garvin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nikola Kalinic",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Brittain Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dallis Flowers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nephi Sewell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Beanie Bishop Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ruben Hyppolite II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dontae Manning",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Hayden Large",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_15_MIA_GB",
+          "kickoff": "2026-12-20T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lambeau Field",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Josh Jacobs",
+              "status": "Out",
+              "detail": "Groin"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Warren Brinson",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Luke Musgrave",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Carrington Valentine",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Micah Parsons",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Javon Bullard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Tucker Kraft",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Dani Dennis-Sutton",
+              "status": "Questionable",
+              "detail": "Illness"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Jordon Riley",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Collin Oliver",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Trey Dean III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "McCallan Castles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Thomas Yassmin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Savion Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Johnathan Baldwin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Marlon Jones",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_16_LAC_MIA",
+          "kickoff": "2026-12-27T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Rashawn Slater",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Isaiah World",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Keaton Mitchell",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tre Harris",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Cameron Dicker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Brenen Thompson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Denzel Perryman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tyler Biadasz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Scott Matlock",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Kyle Kennard",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Branson Taylor",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Dalevon Campbell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Sincere Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_17_BUF_MIA",
+          "kickoff": "2027-01-03T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_18_MIA_NE",
+          "kickoff": "2027-01-10T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "record": "7-10",
+      "games": [
+        {
+          "id": "2025_01_MIA_IND",
+          "kickoff": "2025-09-07T13:00:00-04:00",
+          "status": "final",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          },
+          "away_score": 8,
+          "home_score": 33,
+          "venue": "Lucas Oil Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_02_NE_MIA",
+          "kickoff": "2025-09-14T13:00:00-04:00",
+          "status": "final",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 33,
+          "home_score": 27,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_03_MIA_BUF",
+          "kickoff": "2025-09-18T20:15:00-04:00",
+          "status": "final",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 21,
+          "home_score": 31,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_04_NYJ_MIA",
+          "kickoff": "2025-09-29T19:15:00-04:00",
+          "status": "final",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 21,
+          "home_score": 27,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_05_MIA_CAR",
+          "kickoff": "2025-10-05T13:00:00-04:00",
+          "status": "final",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": 24,
+          "home_score": 27,
+          "venue": "Bank of America Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_06_LAC_MIA",
+          "kickoff": "2025-10-12T13:00:00-04:00",
+          "status": "final",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 29,
+          "home_score": 27,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_07_MIA_CLE",
+          "kickoff": "2025-10-19T13:00:00-04:00",
+          "status": "final",
+          "week": 7,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          },
+          "away_score": 6,
+          "home_score": 31,
+          "venue": "FirstEnergy Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_08_MIA_ATL",
+          "kickoff": "2025-10-26T13:00:00-04:00",
+          "status": "final",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 34,
+          "home_score": 10,
+          "venue": "Mercedes-Benz Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_09_BAL_MIA",
+          "kickoff": "2025-10-30T20:15:00-04:00",
+          "status": "final",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 28,
+          "home_score": 6,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_10_BUF_MIA",
+          "kickoff": "2025-11-09T13:00:00-05:00",
+          "status": "final",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 13,
+          "home_score": 30,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_11_WAS_MIA",
+          "kickoff": "2025-11-16T09:30:00-05:00",
+          "status": "final",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "was",
+            "name": "Washington Commanders",
+            "abbreviation": "WAS",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/was.png",
+            "colors": {
+              "primary": "#5A1414",
+              "secondary": "#FFB612"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 13,
+          "home_score": 16,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_13_NO_MIA",
+          "kickoff": "2025-11-30T13:00:00-05:00",
+          "status": "final",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 17,
+          "home_score": 21,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_14_MIA_NYJ",
+          "kickoff": "2025-12-07T13:00:00-05:00",
+          "status": "final",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 34,
+          "home_score": 10,
+          "venue": "MetLife Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_15_MIA_PIT",
+          "kickoff": "2025-12-15T20:15:00-05:00",
+          "status": "final",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": 15,
+          "home_score": 28,
+          "venue": "Acrisure Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_16_CIN_MIA",
+          "kickoff": "2025-12-21T13:00:00-05:00",
+          "status": "final",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 45,
+          "home_score": 21,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_17_TB_MIA",
+          "kickoff": "2025-12-28T13:00:00-05:00",
+          "status": "final",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 17,
+          "home_score": 20,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_18_MIA_NE",
+          "kickoff": "2026-01-04T16:25:00-05:00",
+          "status": "final",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 10,
+          "home_score": 38,
+          "venue": "Gillette Stadium",
+          "injuries": []
         }
       ]
     }

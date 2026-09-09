@@ -498,7 +498,8 @@ def export_sports_source(path: Path) -> None:
         injuries_by_team.setdefault(team_name, []).append(injury)
 
     output_games: list[dict[str, Any]] = []
-    rows = [row for row in fetch_csv(SCHEDULE_URL) if str(row.get("season")) == str(SEASON)]
+    schedule_rows = fetch_csv(SCHEDULE_URL)
+    rows = [row for row in schedule_rows if str(row.get("season")) == str(SEASON)]
     for row in rows:
         game_id = str(row.get("game_id") or "")
         away_name = canonical_team(str(row.get("away_team") or ""))
@@ -528,12 +529,12 @@ def export_sports_source(path: Path) -> None:
         output_games.append(game)
 
     payload = {"schema_version": 1, "generated_at": NOW, "display_timezone": "America/Los_Angeles", "favorites": sorted(set(favorites)), "games": output_games}
+    export_team_sources(path.parent / "sports-teams", payload, injuries_by_team, schedule_rows)
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary = path.with_suffix(path.suffix + ".tmp")
     temporary.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     os.replace(temporary, path)
     print(f"Exported {len(output_games)} games for public sanitization")
-    export_team_sources(path.parent / "sports-teams", payload, injuries_by_team)
 
 
 STAT_FIELDS = (
@@ -632,7 +633,7 @@ def directory_player_match(rows: list[dict[str, str]], name: str, team_abbreviat
     return candidates[0] if len(candidates) == 1 else None
 
 
-def export_team_sources(directory: Path, sports_payload: dict[str, Any], injuries_by_team: dict[str, list[dict[str, str]]]) -> None:
+def export_team_sources(directory: Path, sports_payload: dict[str, Any], injuries_by_team: dict[str, list[dict[str, str]]], schedule_rows: list[dict[str, str]]) -> None:
     rosters = fetch_csv(ROSTER_URL.format(season=SEASON))
     try:
         previous_rosters = fetch_csv(ROSTER_URL.format(season=SEASON - 1))
@@ -709,6 +710,28 @@ def export_team_sources(directory: Path, sports_payload: dict[str, Any], injurie
     for game in sports_payload["games"]:
         games_by_team[game["away_team"]["name"]].append(game)
         games_by_team[game["home_team"]["name"]].append(game)
+    previous_games_by_team: dict[str, list[dict[str, Any]]] = {name: [] for name in TEAM_STYLE}
+    for row in schedule_rows:
+        if str(row.get("season")) != str(SEASON - 1): continue
+        game_id = str(row.get("game_id") or "")
+        away_name = canonical_team(str(row.get("away_team") or ""))
+        home_name = canonical_team(str(row.get("home_team") or ""))
+        kickoff_day, kickoff_time = row.get("gameday"), row.get("gametime")
+        if not game_id or not kickoff_day or away_name not in TEAM_STYLE or home_name not in TEAM_STYLE: continue
+        kickoff = datetime.fromisoformat(f"{kickoff_day}T{kickoff_time or '00:00'}:00").replace(tzinfo=ZoneInfo("America/New_York"))
+        away_raw, home_raw = row.get("away_score"), row.get("home_score")
+        away_score = int(float(away_raw)) if away_raw not in ("", None) else None
+        home_score = int(float(home_raw)) if home_raw not in ("", None) else None
+        game = {
+            "id": game_id, "kickoff": kickoff.isoformat(),
+            "status": "final" if away_score is not None and home_score is not None else "scheduled",
+            "week": week_number(row.get("week")), "season_phase": phase(str(row.get("game_type") or "REG")),
+            "away_team": team_payload(away_name), "home_team": team_payload(home_name),
+            "away_score": away_score, "home_score": home_score,
+            "venue": str(row.get("stadium") or ""), "injuries": [],
+        }
+        previous_games_by_team[away_name].append(game)
+        previous_games_by_team[home_name].append(game)
     players_by_team: dict[str, list[dict[str, Any]]] = {name: [] for name in TEAM_STYLE}
     injury_players_by_team: dict[str, list[dict[str, Any]]] = {name: [] for name in TEAM_STYLE}
     reserve_players_by_team: dict[str, list[dict[str, str]]] = {name: [] for name in TEAM_STYLE}
@@ -814,21 +837,34 @@ def export_team_sources(directory: Path, sports_payload: dict[str, Any], injurie
             player["stats"] = current["stats"]
             player["weekly_stats"] = current["weekly_stats"]
             player["seasons"] = seasons
+    for game in sports_payload["games"]:
+        away_name = game["away_team"]["name"]
+        home_name = game["home_team"]["name"]
+        game["injuries"] = injuries_by_team.get(away_name, []) + injuries_by_team.get(home_name, [])
     directory.mkdir(parents=True, exist_ok=True)
     for team_name, (team_id, _abbr, _primary, _secondary) in TEAM_STYLE.items():
         team_games = sorted(games_by_team[team_name], key=lambda item: item["kickoff"])
-        wins = losses = ties = 0
-        for game in team_games:
-            if game["status"] != "final": continue
-            own = game["home_score"] if game["home_team"]["id"] == team_id else game["away_score"]
-            other = game["away_score"] if game["home_team"]["id"] == team_id else game["home_score"]
-            if own > other: wins += 1
-            elif own < other: losses += 1
-            else: ties += 1
-        record = f"{wins}-{losses}" + (f"-{ties}" if ties else "")
+        previous_games = sorted(previous_games_by_team[team_name], key=lambda item: item["kickoff"])
+
+        def season_record(games: list[dict[str, Any]]) -> str:
+            wins = losses = ties = 0
+            for game in games:
+                if game["status"] != "final" or game.get("season_phase") != "Regular Season": continue
+                own = game["home_score"] if game["home_team"]["id"] == team_id else game["away_score"]
+                other = game["away_score"] if game["home_team"]["id"] == team_id else game["home_score"]
+                if own > other: wins += 1
+                elif own < other: losses += 1
+                else: ties += 1
+            return f"{wins}-{losses}" + (f"-{ties}" if ties else "")
+
+        record = season_record(team_games)
         payload = {
             "schema_version": 1, "generated_at": NOW, "season": SEASON,
             "team": team_payload(team_name, record), "games": team_games,
+            "seasons": [
+                {"season": SEASON, "record": record, "games": team_games},
+                {"season": SEASON - 1, "record": season_record(previous_games), "games": previous_games},
+            ],
             "injuries": injuries_by_team.get(team_name, []),
             "injury_players": sorted(injury_players_by_team[team_name], key=lambda item: item["name"]),
             "players": sorted(players_by_team[team_name], key=lambda item: (
@@ -875,6 +911,9 @@ if __name__ == "__main__":
                 pass
         print(f"Notion or data-source request failed (status={status}, code={code})", file=sys.stderr)
         raise SystemExit(1)
+    except requests.RequestException:
+        print("Notion or data-source request failed (network error)", file=sys.stderr)
+        raise SystemExit(1)
     except Exception as exc:
-        print(f"Sync failed: {exc}", file=sys.stderr)
+        print(f"Sync failed ({type(exc).__name__})", file=sys.stderr)
         raise SystemExit(1)

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T22:18:54+00:00",
+  "generated_at": "2026-09-09T23:26:56+00:00",
   "season": 2026,
   "team": {
     "id": "buf",
@@ -105,6 +105,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Houston Texans",
           "player": "Jaylin Noel",
           "status": "Questionable",
@@ -157,6 +175,72 @@
           "player": "Dominique Robinson",
           "status": "Questionable",
           "detail": "Calf"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Braden Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Ja'Marcus Ingram",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Ali Gaye",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Tank Dell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Dylan Horton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Solomon Byrd",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Jayden Higgins",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Graham Mertz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Kyonte Hamilton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "K.C. Ossai",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Sam Hagen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -269,6 +353,30 @@
           "detail": "Wrist"
         },
         {
+          "team": "Detroit Lions",
+          "player": "Payton Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Damone Clark",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Michael Niese",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Kendrick Law",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Buffalo Bills",
           "player": "Michael Hoecht",
           "status": "Questionable",
@@ -327,6 +435,24 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -397,6 +523,48 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Los Angeles Chargers",
+          "player": "Denzel Perryman",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Tyler Biadasz",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Scott Matlock",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Kyle Kennard",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Branson Taylor",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Dalevon Campbell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Chargers",
+          "player": "Sincere Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Buffalo Bills",
           "player": "Michael Hoecht",
           "status": "Questionable",
@@ -455,6 +623,24 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -502,18 +688,6 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Christian Barmore",
           "status": "Out",
           "detail": "Injury"
@@ -544,15 +718,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Buffalo Bills",
@@ -613,6 +805,24 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -707,6 +917,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Los Angeles Rams",
           "player": "Byron Young",
           "status": "Out",
@@ -768,12 +996,6 @@
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Alaric Jackson",
-          "status": "Questionable",
-          "detail": "Illness"
-        },
-        {
-          "team": "Los Angeles Rams",
           "player": "Davis Allen",
           "status": "Questionable",
           "detail": "Quadriceps"
@@ -786,12 +1008,6 @@
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Myles Garrett",
-          "status": "Questionable",
-          "detail": "Knee"
-        },
-        {
-          "team": "Los Angeles Rams",
           "player": "Puka Nacua",
           "status": "Questionable",
           "detail": "Undisclosed"
@@ -801,6 +1017,42 @@
           "player": "Terrance Ferguson",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Zech McPhearson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Keir Thomas",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alex Johnson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Matthew Caldwell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Eddie Walls III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Daniel Rickert",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -895,6 +1147,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Las Vegas Raiders",
           "player": "Carter Runyon",
           "status": "IR/PUP",
@@ -905,6 +1175,60 @@
           "player": "Ashton Jeanty",
           "status": "Questionable",
           "detail": "Knee"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Justin Shorter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chris Collier",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chigozie Anusiem",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Brennan Jackson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Dont'e Thornton Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Justin Pickett",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Chase Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Corey Rucker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Las Vegas Raiders",
+          "player": "Keyron Crawford",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -969,6 +1293,36 @@
           "detail": "Concussion"
         },
         {
+          "team": "Baltimore Ravens",
+          "player": "Danny Pinter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Skylar Thompson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Bilhal Kone",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Adam Randall",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Baltimore Ravens",
+          "player": "Jahquez Robinson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Buffalo Bills",
           "player": "Michael Hoecht",
           "status": "Questionable",
@@ -1027,6 +1381,24 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1121,6 +1493,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Minnesota Vikings",
           "player": "Jeshaun Jones",
           "status": "Out",
@@ -1155,6 +1545,60 @@
           "player": "Jacob Thomas",
           "status": "Questionable",
           "detail": "Ankle"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jamal Adams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jermar Jefferson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Taki Taimani",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyler Batty",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Dontae Fleming",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Bryson Nesbit",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Jacob Roberts",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Marcus Allen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Minnesota Vikings",
+          "player": "Tyreek Chappell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1249,6 +1693,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New York Jets",
           "player": "Breece Hall",
           "status": "Questionable",
@@ -1313,6 +1775,42 @@
           "player": "VJ Payne",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Mykal Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Tre Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Kingsley Jonathan",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Dominic Richardson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Chip Trayanum",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Connor Hulstein",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1407,6 +1905,24 @@
           "detail": "Leg"
         },
         {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Buffalo Bills",
           "player": "Michael Hoecht",
           "status": "Questionable",
@@ -1465,6 +1981,24 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1547,6 +2081,54 @@
           "detail": "Knee - ACL"
         },
         {
+          "team": "Kansas City Chiefs",
+          "player": "Matt Waletzko",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Chris Oladokun",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "C.J. Hanson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jimmy Holiday",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Ethan Downs",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "Jeff Caldwell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "John Michael Gyllenborg",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Kansas City Chiefs",
+          "player": "EJ Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Buffalo Bills",
           "player": "Michael Hoecht",
           "status": "Questionable",
@@ -1605,6 +2187,24 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1699,6 +2299,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "New England Patriots",
           "player": "TreVeyon Henderson",
           "status": "Out",
@@ -1709,18 +2327,6 @@
           "player": "Ben Brown",
           "status": "Out",
           "detail": "Knee"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New England Patriots",
-          "player": "Ben Brown",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "New England Patriots",
@@ -1754,15 +2360,33 @@
         },
         {
           "team": "New England Patriots",
-          "player": "TreVeyon Henderson",
-          "status": "Questionable",
-          "detail": "Leg"
-        },
-        {
-          "team": "New England Patriots",
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Julian Hill",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Isaiah Iton",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Jeremiah Webb",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Myles Montgomery",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1857,6 +2481,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Green Bay Packers",
           "player": "Josh Jacobs",
           "status": "Out",
@@ -1915,6 +2557,42 @@
           "player": "Collin Oliver",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Trey Dean III",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "McCallan Castles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Thomas Yassmin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Savion Williams",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Johnathan Baldwin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Green Bay Packers",
+          "player": "Marlon Jones",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2027,6 +2705,66 @@
           "detail": "Shin"
         },
         {
+          "team": "Chicago Bears",
+          "player": "Ray-Ray McCloud",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Jonathan Garvin",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nikola Kalinic",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Brittain Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dallis Flowers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Nephi Sewell",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Beanie Bishop Jr.",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Ruben Hyppolite II",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Dontae Manning",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Chicago Bears",
+          "player": "Hayden Large",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Buffalo Bills",
           "player": "Michael Hoecht",
           "status": "Questionable",
@@ -2085,6 +2823,24 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2179,6 +2935,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Denver Broncos",
           "player": "Riley Moss",
           "status": "Questionable",
@@ -2225,6 +2999,30 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Michael Deiter",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Matt Henningsen",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Drew Sanders",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Denver Broncos",
+          "player": "Levelle Bailey",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2319,6 +3117,24 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Miami Dolphins",
           "player": "Zach Sieler",
           "status": "Questionable",
@@ -2377,6 +3193,24 @@
           "player": "Kenneth Grant",
           "status": "IR/PUP",
           "detail": "Leg"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Cole Turner",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Carter Warren",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Miami Dolphins",
+          "player": "Rene Konga",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -2477,6 +3311,42 @@
           "detail": "Undisclosed"
         },
         {
+          "team": "New York Jets",
+          "player": "Mykal Walker",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Tre Brown",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Kingsley Jonathan",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Dominic Richardson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Chip Trayanum",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Jets",
+          "player": "Connor Hulstein",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
           "team": "Buffalo Bills",
           "player": "Michael Hoecht",
           "status": "Questionable",
@@ -2535,6 +3405,4039 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Demetrius Flannigan-Fowles",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Dorian Strong",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Buffalo Bills",
+          "player": "Zane Durant",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        }
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2026,
+      "record": "0-0",
+      "games": [
+        {
+          "id": "2026_01_BUF_HOU",
+          "kickoff": "2026-09-13T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Reliant Stadium",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jaylin Noel",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Brevin Jordan",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jadeveon Clowney",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Wade Woodaz",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jake Hansen",
+              "status": "Questionable",
+              "detail": "Chest"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "British Brooks",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "E.J. Speed",
+              "status": "IR/PUP",
+              "detail": "Quadriceps"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "M.J. Stewart",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Dominique Robinson",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Braden Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Ja'Marcus Ingram",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Ali Gaye",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Tank Dell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Dylan Horton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Solomon Byrd",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jayden Higgins",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Graham Mertz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Kyonte Hamilton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "K.C. Ossai",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Sam Hagen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_02_DET_BUF",
+          "kickoff": "2026-09-17T20:15:00-04:00",
+          "status": "scheduled",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "Detroit Lions",
+              "player": "D.J. Reed",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Derrick Moore",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Jimmy Rolder",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Mekhi Wingo",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Malcolm Rodriguez",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Seth McLaughlin",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Sam LaPorta",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Giovanni Manu",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kerby Joseph",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Isiah Pacheco",
+              "status": "Questionable",
+              "detail": "Knee - MCL"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Ennis Rakestraw Jr.",
+              "status": "Questionable",
+              "detail": "Upper Body"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Brian Branch",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Cade Mays",
+              "status": "IR/PUP",
+              "detail": "Wrist"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Payton Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Damone Clark",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Michael Niese",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Kendrick Law",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_03_LAC_BUF",
+          "kickoff": "2026-09-27T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Rashawn Slater",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Isaiah World",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Keaton Mitchell",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tre Harris",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Cameron Dicker",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Brenen Thompson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Denzel Perryman",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Tyler Biadasz",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Scott Matlock",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Kyle Kennard",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Branson Taylor",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Dalevon Campbell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Chargers",
+              "player": "Sincere Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_04_NE_BUF",
+          "kickoff": "2026-10-04T13:00:00-04:00",
+          "status": "scheduled",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_05_BUF_LA",
+          "kickoff": "2026-10-12T20:15:00-04:00",
+          "status": "scheduled",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "SoFi Stadium",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Byron Young",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Jaylen Watson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Grant Stuard",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Alaric Jackson",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Myles Garrett",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Tyler Higbee",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Aaron Donald",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Kobie Turner",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Keagen Trost",
+              "status": "IR/PUP",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Justin Dedich",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Davis Allen",
+              "status": "Questionable",
+              "detail": "Quadriceps"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Shaun Dolac",
+              "status": "Questionable",
+              "detail": "Knee - PCL"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Puka Nacua",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Terrance Ferguson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Zech McPhearson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Keir Thomas",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Alex Johnson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Matthew Caldwell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Eddie Walls III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Los Angeles Rams",
+              "player": "Daniel Rickert",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_06_BUF_LV",
+          "kickoff": "2026-10-18T16:25:00-04:00",
+          "status": "scheduled",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Allegiant Stadium",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Carter Runyon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Ashton Jeanty",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Justin Shorter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chris Collier",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chigozie Anusiem",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Brennan Jackson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Dont'e Thornton Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Justin Pickett",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Chase Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Corey Rucker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Las Vegas Raiders",
+              "player": "Keyron Crawford",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_08_BAL_BUF",
+          "kickoff": "2026-11-01T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "Baltimore Ravens",
+              "player": "Zay Flowers",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Aeneas Peebles",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Nnamdi Madubuike",
+              "status": "Questionable",
+              "detail": "Neck"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Teddye Buchanan",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Jay Higgins",
+              "status": "Questionable",
+              "detail": "Concussion"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Danny Pinter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Skylar Thompson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Bilhal Kone",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Adam Randall",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Baltimore Ravens",
+              "player": "Jahquez Robinson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_09_BUF_MIN",
+          "kickoff": "2026-11-09T20:15:00-05:00",
+          "status": "scheduled",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "U.S. Bank Stadium",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jeshaun Jones",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Caleb Tiernan",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "J.J. McCarthy",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jakobe Thomas",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Michael Jurgens",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Thomas",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jamal Adams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jermar Jefferson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Taki Taimani",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyler Batty",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Dontae Fleming",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Bryson Nesbit",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Jacob Roberts",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Marcus Allen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Minnesota Vikings",
+              "player": "Tyreek Chappell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_10_BUF_NYJ",
+          "kickoff": "2026-11-15T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "MetLife Stadium",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Breece Hall",
+              "status": "Questionable",
+              "detail": "Thigh"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Da'Quan Felton",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Qwan'tez Stiggers",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Joseph Ossai",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Anez Cooper",
+              "status": "IR/PUP",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Nahshon Wright",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "New York Jets",
+              "player": "D'Angelo Ponds",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kenyon Sadiq",
+              "status": "Questionable",
+              "detail": "Abdomen"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tyler Baron",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Isaiah Davis",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "VJ Payne",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Mykal Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tre Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kingsley Jonathan",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Dominic Richardson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Chip Trayanum",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Connor Hulstein",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_11_MIA_BUF",
+          "kickoff": "2026-11-22T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_12_KC_BUF",
+          "kickoff": "2026-11-26T20:20:00-05:00",
+          "status": "scheduled",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ashton Gillotte",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Kenneth Walker III",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "L'Jarius Sneed",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Drue Tranquill",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Trey Smith",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Alohi Gilman",
+              "status": "Questionable",
+              "detail": "Back"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Patrick Mahomes",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Omarr Norman-Lott",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Matt Waletzko",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Chris Oladokun",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "C.J. Hanson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jimmy Holiday",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Ethan Downs",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "Jeff Caldwell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "John Michael Gyllenborg",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Kansas City Chiefs",
+              "player": "EJ Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_13_BUF_NE",
+          "kickoff": "2026-12-06T16:25:00-05:00",
+          "status": "scheduled",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Gillette Stadium",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "TreVeyon Henderson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Ben Brown",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Christian Barmore",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Brenden Schooler",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Harold Landry III",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Marcus Bryant",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Khalil Jacobs",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Bryce Baringer",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Julian Hill",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Isaiah Iton",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Jeremiah Webb",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New England Patriots",
+              "player": "Myles Montgomery",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_14_BUF_GB",
+          "kickoff": "2026-12-13T20:20:00-05:00",
+          "status": "scheduled",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Lambeau Field",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Josh Jacobs",
+              "status": "Out",
+              "detail": "Groin"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Warren Brinson",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Luke Musgrave",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Carrington Valentine",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Micah Parsons",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Javon Bullard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Tucker Kraft",
+              "status": "Questionable",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Dani Dennis-Sutton",
+              "status": "Questionable",
+              "detail": "Illness"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Jordon Riley",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Collin Oliver",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Trey Dean III",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "McCallan Castles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Thomas Yassmin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Savion Williams",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Johnathan Baldwin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Green Bay Packers",
+              "player": "Marlon Jones",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_15_CHI_BUF",
+          "kickoff": "2026-12-19T20:20:00-05:00",
+          "status": "scheduled",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "Chicago Bears",
+              "player": "Shemar Turner",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Coby Bryant",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jaylon Johnson",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Noah Sewell",
+              "status": "IR/PUP",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyler Gordon",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Kyle Monangai",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tyrique Stevenson",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Keyshaun Elliott",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Austin Booker",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Xavier Woods",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Luther Burden III",
+              "status": "Questionable",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Tony Fields II",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Elijah Hicks",
+              "status": "Questionable",
+              "detail": "Shin"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ray-Ray McCloud",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Jonathan Garvin",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nikola Kalinic",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Brittain Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dallis Flowers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Nephi Sewell",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Beanie Bishop Jr.",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Ruben Hyppolite II",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Dontae Manning",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Chicago Bears",
+              "player": "Hayden Large",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_16_BUF_DEN",
+          "kickoff": "2026-12-25T16:30:00-05:00",
+          "status": "scheduled",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Empower Field at Mile High",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Riley Moss",
+              "status": "Questionable",
+              "detail": "Ribs"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Frank Crum",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Marvin Mims Jr.",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Caleb Lohner",
+              "status": "IR/PUP",
+              "detail": "Lower Body"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Jonathon Cooper",
+              "status": "Out",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Nick Gargiulo",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Josh Banderas",
+              "status": "Out",
+              "detail": "Injury"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Luke Wattenberg",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Michael Deiter",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Matt Henningsen",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Drew Sanders",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Denver Broncos",
+              "player": "Levelle Bailey",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_17_BUF_MIA",
+          "kickoff": "2027-01-03T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Hard Rock Stadium",
+          "injuries": [
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Zach Sieler",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Storm Duck",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Will Kacmarek",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ronnie Harrison",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Jacob Rodriguez",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ollie Gordon II",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Ben Sims",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Darrell Baker Jr.",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Trey Moore",
+              "status": "IR/PUP",
+              "detail": "Ankle"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Kenneth Grant",
+              "status": "IR/PUP",
+              "detail": "Leg"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Cole Turner",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Carter Warren",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Miami Dolphins",
+              "player": "Rene Konga",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        },
+        {
+          "id": "2026_18_NYJ_BUF",
+          "kickoff": "2027-01-10T13:00:00-05:00",
+          "status": "scheduled",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": null,
+          "home_score": null,
+          "venue": "Highmark Stadium",
+          "injuries": [
+            {
+              "team": "New York Jets",
+              "player": "Breece Hall",
+              "status": "Questionable",
+              "detail": "Thigh"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Da'Quan Felton",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Qwan'tez Stiggers",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Joseph Ossai",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Anez Cooper",
+              "status": "IR/PUP",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Nahshon Wright",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "New York Jets",
+              "player": "D'Angelo Ponds",
+              "status": "Questionable",
+              "detail": "Calf"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kenyon Sadiq",
+              "status": "Questionable",
+              "detail": "Abdomen"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tyler Baron",
+              "status": "IR/PUP",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Isaiah Davis",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "New York Jets",
+              "player": "VJ Payne",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Mykal Walker",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Tre Brown",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Kingsley Jonathan",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Dominic Richardson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Chip Trayanum",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Jets",
+              "player": "Connor Hulstein",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Michael Hoecht",
+              "status": "Questionable",
+              "detail": "Achilles"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Terrel Bernard",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jedrick Wills",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Phidarian Mathis",
+              "status": "Out",
+              "detail": "Suspension"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Ty Johnson",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Tyrell Shavers",
+              "status": "IR/PUP",
+              "detail": "Knee - ACL"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Keon Coleman",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Connor McGovern",
+              "status": "Questionable",
+              "detail": "Leg"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Jude Bowry",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Khalil Shakir",
+              "status": "Questionable",
+              "detail": "Undisclosed"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Demetrius Flannigan-Fowles",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Dorian Strong",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Buffalo Bills",
+              "player": "Zane Durant",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "record": "12-5",
+      "games": [
+        {
+          "id": "2025_01_BAL_BUF",
+          "kickoff": "2025-09-07T20:20:00-04:00",
+          "status": "final",
+          "week": 1,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 40,
+          "home_score": 41,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_02_BUF_NYJ",
+          "kickoff": "2025-09-14T13:00:00-04:00",
+          "status": "final",
+          "week": 2,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 30,
+          "home_score": 10,
+          "venue": "MetLife Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_03_MIA_BUF",
+          "kickoff": "2025-09-18T20:15:00-04:00",
+          "status": "final",
+          "week": 3,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 21,
+          "home_score": 31,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_04_NO_BUF",
+          "kickoff": "2025-09-28T13:00:00-04:00",
+          "status": "final",
+          "week": 4,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 19,
+          "home_score": 31,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_05_NE_BUF",
+          "kickoff": "2025-10-05T20:20:00-04:00",
+          "status": "final",
+          "week": 5,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 23,
+          "home_score": 20,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_06_BUF_ATL",
+          "kickoff": "2025-10-13T19:15:00-04:00",
+          "status": "final",
+          "week": 6,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          },
+          "away_score": 14,
+          "home_score": 24,
+          "venue": "Mercedes-Benz Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_08_BUF_CAR",
+          "kickoff": "2025-10-26T13:00:00-04:00",
+          "status": "final",
+          "week": 8,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": 40,
+          "home_score": 9,
+          "venue": "Bank of America Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_09_KC_BUF",
+          "kickoff": "2025-11-02T16:25:00-05:00",
+          "status": "final",
+          "week": 9,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 21,
+          "home_score": 28,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_10_BUF_MIA",
+          "kickoff": "2025-11-09T13:00:00-05:00",
+          "status": "final",
+          "week": 10,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          },
+          "away_score": 13,
+          "home_score": 30,
+          "venue": "Hard Rock Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_11_TB_BUF",
+          "kickoff": "2025-11-16T13:00:00-05:00",
+          "status": "final",
+          "week": 11,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 32,
+          "home_score": 44,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_12_BUF_HOU",
+          "kickoff": "2025-11-20T20:15:00-05:00",
+          "status": "final",
+          "week": 12,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          },
+          "away_score": 19,
+          "home_score": 23,
+          "venue": "NRG Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_13_BUF_PIT",
+          "kickoff": "2025-11-30T16:25:00-05:00",
+          "status": "final",
+          "week": 13,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          },
+          "away_score": 26,
+          "home_score": 7,
+          "venue": "Acrisure Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_14_CIN_BUF",
+          "kickoff": "2025-12-07T13:00:00-05:00",
+          "status": "final",
+          "week": 14,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 34,
+          "home_score": 39,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_15_BUF_NE",
+          "kickoff": "2025-12-14T13:00:00-05:00",
+          "status": "final",
+          "week": 15,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 35,
+          "home_score": 31,
+          "venue": "Gillette Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_16_BUF_CLE",
+          "kickoff": "2025-12-21T13:00:00-05:00",
+          "status": "final",
+          "week": 16,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "cle",
+            "name": "Cleveland Browns",
+            "abbreviation": "CLE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+            "colors": {
+              "primary": "#311D00",
+              "secondary": "#FF3C00"
+            }
+          },
+          "away_score": 23,
+          "home_score": 20,
+          "venue": "FirstEnergy Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_17_PHI_BUF",
+          "kickoff": "2025-12-28T16:25:00-05:00",
+          "status": "final",
+          "week": 17,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "phi",
+            "name": "Philadelphia Eagles",
+            "abbreviation": "PHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+            "colors": {
+              "primary": "#004C54",
+              "secondary": "#A5ACAF"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 13,
+          "home_score": 12,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_18_NYJ_BUF",
+          "kickoff": "2026-01-04T16:25:00-05:00",
+          "status": "final",
+          "week": 18,
+          "season_phase": "Regular Season",
+          "away_team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          },
+          "home_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "away_score": 8,
+          "home_score": 35,
+          "venue": "New Era Field",
+          "injuries": []
+        },
+        {
+          "id": "2025_19_BUF_JAX",
+          "kickoff": "2026-01-11T13:00:00-05:00",
+          "status": "final",
+          "week": 19,
+          "season_phase": "Wild Card",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          },
+          "away_score": 27,
+          "home_score": 24,
+          "venue": "TIAA Bank Stadium",
+          "injuries": []
+        },
+        {
+          "id": "2025_20_BUF_DEN",
+          "kickoff": "2026-01-17T16:30:00-05:00",
+          "status": "final",
+          "week": 20,
+          "season_phase": "Divisional",
+          "away_team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          },
+          "home_team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          },
+          "away_score": 30,
+          "home_score": 33,
+          "venue": "Empower Field at Mile High",
+          "injuries": []
         }
       ]
     }

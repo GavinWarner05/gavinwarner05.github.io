@@ -12,9 +12,9 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 try:
-    from build_sports_data import find_forbidden_keys, iso_datetime, require, sanitize_game, sanitize_injury, sanitize_team
+    from build_sports_data import find_forbidden_keys, injury_identity, iso_datetime, require, sanitize_game, sanitize_injury, sanitize_team
 except ImportError:  # Imported as scripts.build_team_data during tests.
-    from scripts.build_sports_data import find_forbidden_keys, iso_datetime, require, sanitize_game, sanitize_injury, sanitize_team
+    from scripts.build_sports_data import find_forbidden_keys, injury_identity, iso_datetime, require, sanitize_game, sanitize_injury, sanitize_team
 
 PLAYER_KEYS = ("id", "name", "position", "group", "number", "headshot_url", "height", "weight", "experience", "college", "depth_position", "depth_slot", "depth_rank", "depth_order", "stats", "weekly_stats", "seasons")
 INJURY_PLAYER_KEYS = ("id", "name", "position", "headshot_url", "stats", "weekly_stats", "seasons")
@@ -146,16 +146,44 @@ def sanitize_snapshot(raw: object) -> dict:
     require(isinstance(games, list) and isinstance(players, list) and isinstance(injury_players, list) and isinstance(injuries, list), "team collections must be arrays")
     clean_games = [sanitize_game(game, index) for index, game in enumerate(games)]
     require(all(team["id"] in (game["home_team"]["id"], game["away_team"]["id"]) for game in clean_games), "team snapshot contains an unrelated game")
+    seasons = raw.get("seasons", [{"season": season, "record": team.get("record", ""), "games": games}])
+    require(isinstance(seasons, list) and 1 <= len(seasons) <= 10, "seasons must be an array of at most 10 seasons")
+    clean_seasons = []
+    seen_team_seasons: set[int] = set()
+    for season_index, entry in enumerate(seasons):
+        path = f"seasons[{season_index}]"
+        require(isinstance(entry, dict), f"{path} must be an object")
+        entry_season = entry.get("season")
+        require(type(entry_season) is int and 2000 <= entry_season <= 2100 and entry_season not in seen_team_seasons, f"{path}.season is invalid")
+        seen_team_seasons.add(entry_season)
+        entry_games = entry.get("games", [])
+        require(isinstance(entry_games, list), f"{path}.games must be an array")
+        clean_entry_games = [sanitize_game(game, game_index) for game_index, game in enumerate(entry_games)]
+        require(all(team["id"] in (game["home_team"]["id"], game["away_team"]["id"]) for game in clean_entry_games), f"{path} contains an unrelated game")
+        game_ids = [game["id"] for game in clean_entry_games]
+        require(len(game_ids) == len(set(game_ids)), f"{path} game ids must be unique")
+        clean_seasons.append({
+            "season": entry_season,
+            "record": bounded(entry.get("record", ""), f"{path}.record", 20) or "",
+            "games": clean_entry_games,
+        })
+    require(season in seen_team_seasons, "seasons must include the current season")
+    clean_seasons.sort(key=lambda entry: entry["season"], reverse=True)
+    current_season_games = next(entry["games"] for entry in clean_seasons if entry["season"] == season)
+    require({game["id"] for game in current_season_games} == {game["id"] for game in clean_games}, "current season games do not match the compatibility schedule")
     clean_players = [sanitize_player(player, index) for index, player in enumerate(players)]
     ids = [player["id"] for player in clean_players]
     require(len(ids) == len(set(ids)), "player ids must be unique within a team")
     clean_injury_players = [sanitize_injury_player(player, index) for index, player in enumerate(injury_players)]
     injury_player_ids = [player["id"] for player in clean_injury_players]
     require(len(injury_player_ids) == len(set(injury_player_ids)), "injury player ids must be unique within a team")
+    clean_injuries = [sanitize_injury(injury, f"injuries[{index}]") for index, injury in enumerate(injuries)]
+    injury_ids = [injury_identity(injury) for injury in clean_injuries]
+    require(len(injury_ids) == len(set(injury_ids)), "injuries contains duplicate players")
     return {
         "schema_version": 1, "generated_at": iso_datetime(raw.get("generated_at"), "generated_at"),
-        "season": season, "team": team, "games": clean_games,
-        "injuries": [sanitize_injury(injury, f"injuries[{index}]") for index, injury in enumerate(injuries)],
+        "season": season, "team": team, "games": clean_games, "seasons": clean_seasons,
+        "injuries": clean_injuries,
         "injury_players": clean_injury_players,
         "players": clean_players,
     }
