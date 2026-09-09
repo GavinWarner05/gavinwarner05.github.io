@@ -21,6 +21,7 @@ class SportsPwaTests(unittest.TestCase):
             "icons/apple-touch-icon.png": (180, 180),
             "icons/icon-192.png": (192, 192),
             "icons/icon-512.png": (512, 512),
+            "icons/icon-1024.png": (1024, 1024),
         }
         for relative_path, dimensions in expected.items():
             data = (SPORTS / relative_path).read_bytes()

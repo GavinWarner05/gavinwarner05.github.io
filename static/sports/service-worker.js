@@ -1,13 +1,13 @@
-const CACHE_NAME = "nfl-sports-center-v2";
+const CACHE_NAME = "nfl-sports-center-v3";
 const APP_HOME = "/sports/";
 const APP_SHELL = [
   APP_HOME,
   "/sports/scores/",
   "/sports/teams/",
   "/sports/manifest.webmanifest",
-  "/sports/icons/icon.svg",
   "/sports/icons/icon-192.png",
   "/sports/icons/icon-512.png",
+  "/sports/icons/icon-1024.png",
   "/sports/icons/apple-touch-icon.png"
 ];
 
@@ -54,9 +54,12 @@ self.addEventListener("push", function (event) {
   const target = notification.navigate || notification.data?.url || APP_HOME;
   event.waitUntil(self.registration.showNotification(notification.title, {
     body: notification.body || "",
-    icon: notification.icon || "/sports/icons/icon-192.png",
+    icon: notification.icon || "/sports/icons/icon-512.png",
     badge: notification.badge || "/sports/icons/icon-192.png",
     tag: notification.tag,
+    renotify: Boolean(notification.renotify),
+    timestamp: notification.timestamp || Date.now(),
+    actions: Array.isArray(notification.actions) ? notification.actions : [],
     data: { url: target }
   }));
 });

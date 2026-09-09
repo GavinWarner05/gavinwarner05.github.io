@@ -3,6 +3,9 @@ import { buildPushPayload } from "@block65/webcrypto-web-push";
 const EVENT_NAMES = new Set(["kickoff", "live", "final", "injury"]);
 const TEAM_ID = /^[a-z0-9-]{2,24}$/;
 const PLAYER_ID = /^[A-Za-z0-9_-]{2,80}$/;
+const APP_HOME = "https://gavinwarner.digital/sports/";
+const APP_ICON = `${APP_HOME}icons/icon-512.png`;
+const APP_BADGE = `${APP_HOME}icons/icon-192.png`;
 
 function json(body, status = 200, headers = {}) {
   return new Response(JSON.stringify(body), {
@@ -101,11 +104,14 @@ async function sendPush(row, notification, env) {
       title: notification.title,
       body: notification.body,
       navigate: notification.url,
-      icon: "https://gavinwarner.digital/sports/icons/icon-192.png",
-      badge: "https://gavinwarner.digital/sports/icons/icon-192.png",
+      icon: APP_ICON,
+      badge: APP_BADGE,
       tag: notification.tag,
       data: { url: notification.url },
-      app_badge: notification.badge || 1
+      app_badge: notification.badge || 1,
+      timestamp: Date.now(),
+      renotify: true,
+      actions: [{ action: "open", title: notification.action || "Open Sports Center" }]
     }
   };
   try {
@@ -141,6 +147,14 @@ function gameUrl(game) {
 }
 
 function gameTeams(game) { return [game.away_team.id, game.home_team.id]; }
+
+function scoreLine(game) {
+  const away = game.away_score ?? "–";
+  const home = game.home_score ?? "–";
+  return `${game.away_team.abbreviation} ${away} · ${game.home_team.abbreviation} ${home}`;
+}
+
+function details(...values) { return values.filter(Boolean).join(" • "); }
 
 async function notify(env, eventName, teamIds, message, playerIds = []) {
   const rows = await recipients(env, eventName, teamIds, playerIds);
@@ -192,20 +206,23 @@ async function refresh(env) {
     const kickoff = new Date(game.kickoff).getTime();
     if (game.status === "scheduled" && kickoff >= now && kickoff - now <= 60 * 60 * 1000) {
       await once(env, `game:${game.id}:kickoff`, () => notify(env, "kickoff", teams, {
-        title: `${game.away_team.abbreviation} at ${game.home_team.abbreviation} starts soon`,
-        body: "Kickoff is less than an hour away.", url: gameUrl(game), tag: `kickoff-${game.id}`, ttl: 3600
+        title: `🏈 ${game.away_team.abbreviation} at ${game.home_team.abbreviation} starts soon`,
+        body: details("Kickoff is less than an hour away", game.network, "Tap for matchup details"),
+        action: "View matchup", url: gameUrl(game), tag: `kickoff-${game.id}`, ttl: 3600
       }));
     }
     if (previous && !["live", "halftime"].includes(previous.status) && ["live", "halftime"].includes(game.status)) {
       await once(env, `game:${game.id}:live`, () => notify(env, "live", teams, {
-        title: `${game.away_team.abbreviation} at ${game.home_team.abbreviation} is live`,
-        body: game.status_detail || "The game has started.", url: gameUrl(game), tag: `live-${game.id}`, ttl: 1800
+        title: `🔴 LIVE · ${game.away_team.abbreviation} at ${game.home_team.abbreviation}`,
+        body: details(scoreLine(game), game.status_detail || "The game has started"),
+        action: "Follow game", url: gameUrl(game), tag: `live-${game.id}`, ttl: 1800
       }));
     }
     if (previous && previous.status !== "final" && game.status === "final") {
       await once(env, `game:${game.id}:final`, () => notify(env, "final", teams, {
-        title: `Final: ${game.away_team.abbreviation} ${game.away_score} · ${game.home_team.abbreviation} ${game.home_score}`,
-        body: `${game.away_team.name} at ${game.home_team.name}`, url: gameUrl(game), tag: `final-${game.id}`, ttl: 86400
+        title: `FINAL · ${scoreLine(game)}`,
+        body: `${game.away_team.name} at ${game.home_team.name} • Tap for game details`,
+        action: "View final", url: gameUrl(game), tag: `final-${game.id}`, ttl: 86400
       }));
     }
     await env.DB.prepare(`INSERT INTO game_states(game_id,status,away_score,home_score,kickoff,updated_at) VALUES(?,?,?,?,?,?)
@@ -222,8 +239,9 @@ async function refresh(env) {
       const first = changed[0];
       const playerIds = await injuryPlayerIds(env, teamId, changed);
       await notify(env, "injury", [teamId], {
-        title: changed.length === 1 ? `${first.player}: ${first.status}` : `${changed.length || "New"} injury updates`,
-        body: first ? `${first.detail || "No detail listed"}${changed.length > 1 ? ` · plus ${changed.length - 1} more` : ""}` : "The active injury report changed.",
+        title: changed.length === 1 ? `Injury update · ${first.player}` : `${changed.length || "New"} injury updates`,
+        body: first ? `${first.status}${first.detail ? ` • ${first.detail}` : ""}${changed.length > 1 ? ` • plus ${changed.length - 1} more` : ""}` : "The active injury report changed.",
+        action: "View injury report",
         url: `https://gavinwarner.digital/sports/teams/${teamId}/#injuries`, tag: `injury-${teamId}-${fingerprint.slice(0, 12)}`, ttl: 21600
       }, playerIds);
     }
@@ -242,7 +260,11 @@ async function testNotification(request, env) {
   const row = await env.DB.prepare("SELECT * FROM subscriptions WHERE id = ? AND management_token_hash = ?").bind(id, tokenHash).first();
   if (!row) return json({ error: "Subscription not found" }, 404, cors(env, request));
   if (row.last_test_at && Date.now() - new Date(row.last_test_at).getTime() < 60000) return json({ error: "Please wait before sending another test" }, 429, cors(env, request));
-  const ok = await sendPush(row, { title: "Sports Center notifications are ready", body: "You’ll receive the NFL alerts you selected.", url: "https://gavinwarner.digital/sports/", tag: "sports-test", ttl: 300 }, env);
+  const ok = await sendPush(row, {
+    title: "🏈 Sports Center alerts are ready",
+    body: "Kickoff, live, final, and injury updates will appear here.",
+    action: "Open Sports Center", url: APP_HOME, tag: "sports-test", ttl: 300
+  }, env);
   await env.DB.prepare("UPDATE subscriptions SET last_test_at = ? WHERE id = ?").bind(new Date().toISOString(), id).run();
   return json({ sent: ok }, ok ? 200 : 502, cors(env, request));
 }
