@@ -1,13 +1,13 @@
-const CACHE_NAME = "nfl-sports-center-v1";
+const CACHE_NAME = "nfl-sports-center-v3";
 const APP_HOME = "/sports/";
 const APP_SHELL = [
   APP_HOME,
   "/sports/scores/",
   "/sports/teams/",
   "/sports/manifest.webmanifest",
-  "/sports/icons/icon.svg",
   "/sports/icons/icon-192.png",
   "/sports/icons/icon-512.png",
+  "/sports/icons/icon-1024.png",
   "/sports/icons/apple-touch-icon.png"
 ];
 
@@ -43,5 +43,33 @@ self.addEventListener("fetch", function (event) {
       return response;
     });
     return cached || update;
+  }));
+});
+
+self.addEventListener("push", function (event) {
+  let payload = {};
+  try { payload = event.data ? event.data.json() : {}; } catch (_) { payload = { notification: { title: "NFL Sports Center", body: event.data ? event.data.text() : "You have a new update." } }; }
+  const notification = payload.notification || payload;
+  if (!notification.title) notification.title = "NFL Sports Center";
+  const target = notification.navigate || notification.data?.url || APP_HOME;
+  event.waitUntil(self.registration.showNotification(notification.title, {
+    body: notification.body || "",
+    icon: notification.icon || "/sports/icons/icon-512.png",
+    badge: notification.badge || "/sports/icons/icon-192.png",
+    tag: notification.tag,
+    renotify: Boolean(notification.renotify),
+    timestamp: notification.timestamp || Date.now(),
+    actions: Array.isArray(notification.actions) ? notification.actions : [],
+    data: { url: target }
+  }));
+});
+
+self.addEventListener("notificationclick", function (event) {
+  event.notification.close();
+  const target = new URL(event.notification.data?.url || APP_HOME, self.location.origin).href;
+  event.waitUntil(self.clients.matchAll({ type: "window", includeUncontrolled: true }).then(function (clients) {
+    const existing = clients.find(function (client) { return client.url.startsWith(self.location.origin + APP_HOME); });
+    if (existing) return existing.focus().then(function () { return existing.navigate(target); });
+    return self.clients.openWindow(target);
   }));
 });
