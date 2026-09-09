@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "nyj",
@@ -464,7 +464,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -640,13 +640,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -714,7 +714,7 @@
         },
         {
           "team": "Cleveland Browns",
-          "player": "Michael Coats",
+          "player": "Michael Coats Jr.",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -884,13 +884,43 @@
         },
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -982,7 +1012,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Ollie Gordon",
+          "player": "Ollie Gordon II",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -994,7 +1024,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Darrell Baker",
+          "player": "Darrell Baker Jr.",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1292,7 +1322,7 @@
         },
         {
           "team": "Kansas City Chiefs",
-          "player": "Kenneth Walker",
+          "player": "Kenneth Walker III",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1608,7 +1638,7 @@
         },
         {
           "team": "Los Angeles Chargers",
-          "player": "Tre' Harris",
+          "player": "Tre Harris",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -1754,7 +1784,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Ollie Gordon",
+          "player": "Ollie Gordon II",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -1766,7 +1796,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Darrell Baker",
+          "player": "Darrell Baker Jr.",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1828,7 +1858,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -2090,13 +2120,43 @@
       "injuries": [
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2578,12 +2638,6 @@
     },
     {
       "team": "New York Jets",
-      "player": "Chase Curtis",
-      "status": "IR/PUP",
-      "detail": "Reserve list"
-    },
-    {
-      "team": "New York Jets",
       "player": "Chip Trayanum",
       "status": "IR/PUP",
       "detail": "Reserve list"
@@ -2600,246 +2654,1471 @@
       "id": "00-0041097",
       "name": "Anez Cooper",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ncjopahmd0bod5hqbt7k"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ncjopahmd0bod5hqbt7k",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041012",
       "name": "Anthony Dunn",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ugqwhzfpwxcpcnhsf1lv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ugqwhzfpwxcpcnhsf1lv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038108",
+      "name": "Bailey Zappe",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b6ntwwdcbjnzv2gml8tk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040034",
+      "name": "Brant Banks",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fgyysqdckajohxo82d6w",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040324",
       "name": "Cam Camper",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/amhkfbzt2w2yib8grx6c"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/amhkfbzt2w2yib8grx6c",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041199",
       "name": "Caullin Lacy",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sg9xmdh2jmwa2aocgdo8"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sg9xmdh2jmwa2aocgdo8",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041237",
       "name": "Chase Curtis",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ewonqlb329xgpuskooap"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ewonqlb329xgpuskooap",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041515",
       "name": "Chase Wilson",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fukmduvoolyuhzmcq7zl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fukmduvoolyuhzmcq7zl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041239",
       "name": "Chip Trayanum",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hdagffadajptx8nxfs8w"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hdagffadajptx8nxfs8w",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041577",
       "name": "Connor Hulstein",
-      "position": "TE"
+      "position": "TE",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041507",
       "name": "Courtland Ford",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/my8b4xjgqpcssj0bijr3"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/my8b4xjgqpcssj0bijr3",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040456",
       "name": "Da'Quan Felton",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sg0t3s0irndtl7zeodfk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sg0t3s0irndtl7zeodfk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040396",
       "name": "Dean Clark",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p5lpl4l1tltyogrszszq"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p5lpl4l1tltyogrszszq",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040937",
       "name": "Dominic Richardson",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o3embvhnbegqqvltpyug"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o3embvhnbegqqvltpyug",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036788",
       "name": "Jack Heflin",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vyvratpseoqy4rqej7fm"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vyvratpseoqy4rqej7fm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "ARI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041410",
       "name": "Jaden Keller",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uxfz8xexycjmemktijh6"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uxfz8xexycjmemktijh6",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040405",
       "name": "Jamaal Pritchett",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cskrvfgcpvpezccsdfky"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cskrvfgcpvpezccsdfky",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039285",
       "name": "Jarius Monroe",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b3txbatszz4qastkzivi"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b3txbatszz4qastkzivi",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 16,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0034794",
       "name": "Jason Sanders",
       "position": "K",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k3ldptfygihmqgl2eir6"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k3ldptfygihmqgl2eir6",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040397",
       "name": "Jordan Clark",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qiesv40i10bhxmfuf1md"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qiesv40i10bhxmfuf1md",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 15,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040247",
       "name": "Junior Bergen",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k8itazswvewvavt8ibpj"
-    },
-    {
-      "id": "00-0040414",
-      "name": "Junior Tafuna",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ezsa7ijhjnbirieoi6ud"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k8itazswvewvavt8ibpj",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040499",
       "name": "Keenan Garber",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/auto543j7dfxhjf2us0j"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/auto543j7dfxhjf2us0j",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037431",
       "name": "Kingsley Jonathan",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ippwcl86bpdf0ztu1w10"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ippwcl86bpdf0ztu1w10",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038194",
       "name": "Kohl Levao",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f16d2isapl5nje5kli1q"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f16d2isapl5nje5kli1q",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038223",
       "name": "Liam Fornadel",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yeqvjixqpc5h4u4tn0wz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yeqvjixqpc5h4u4tn0wz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041267",
       "name": "Malik McClain",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ekh5mirge1jmayln4tfe"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ekh5mirge1jmayln4tfe",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037748",
       "name": "Marquis Hayes",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/auuwluzhdqthflbvwxsu"
-    },
-    {
-      "id": "00-0038545",
-      "name": "Mazi Smith",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kgoofjfxbyjfjgcr5bcz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/auuwluzhdqthflbvwxsu",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041196",
       "name": "Mory Bamba",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wjft7vvf0zougklyuctc"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wjft7vvf0zougklyuctc",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036300",
       "name": "Mykal Walker",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s6dyb5vuiaeb0oppcf8q"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s6dyb5vuiaeb0oppcf8q",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039447",
       "name": "Nate Lynn",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knnvuw8oxhlads0vfpep"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knnvuw8oxhlads0vfpep",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040793",
       "name": "Paschal Ekeji",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tpq98s8c2d42cyctwnsp"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tpq98s8c2d42cyctwnsp",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040404",
       "name": "Payton Page",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lv2k8zefcvbgpgl5j6k1"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lv2k8zefcvbgpgl5j6k1",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 17,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040553",
       "name": "Quincy Skinner Jr.",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ni8qfwwvpyklvxqseorj"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ni8qfwwvpyklvxqseorj",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037830",
       "name": "Samuel Womack",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rjvnnjizl2wtqrava83i"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rjvnnjizl2wtqrava83i",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 11,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041010",
       "name": "Tanner Wall",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ll5krtaao8j1gletynbl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ll5krtaao8j1gletynbl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036885",
       "name": "Tre Brown",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qmxy8q4nrxr2ascsrs2m"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qmxy8q4nrxr2ascsrs2m",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 5,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035617",
       "name": "Troy Reeder",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/laiuwnorvmneuwvav61k"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/laiuwnorvmneuwvav61k",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 21,
+              "opponent": "SEA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040196",
       "name": "Tyler Baron",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v9mbzoaeie7jm6jt4gdx"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v9mbzoaeie7jm6jt4gdx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041120",
       "name": "VJ Payne",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mr1fz0yd8pvfjzis5ell"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mr1fz0yd8pvfjzis5ell",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041238",
       "name": "Xavier Hill",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ofbtbfdgqmsmr8dlko7a"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ofbtbfdgqmsmr8dlko7a",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037601",
       "name": "Xavier Newman-Johnson",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ltlojovue9gzntpaubjn"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ltlojovue9gzntpaubjn",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -6536,97 +7815,6 @@
       ]
     },
     {
-      "id": "00-0036941",
-      "name": "Andre Cisco",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "8",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sdk8jvmv30mvetujj7bs",
-      "height": "72",
-      "weight": "210",
-      "experience": "5",
-      "college": "Syracuse",
-      "depth_position": "SS",
-      "depth_slot": "9",
-      "depth_rank": 1,
-      "depth_order": 20,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "nyj",
-            "name": "New York Jets",
-            "abbreviation": "NYJ",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
-            "colors": {
-              "primary": "#125740",
-              "secondary": "#000000"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "PIT",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "MIA",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "DEN",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "CIN",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "nyj",
-            "name": "New York Jets",
-            "abbreviation": "NYJ",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
-            "colors": {
-              "primary": "#125740",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0038123",
       "name": "Dane Belton",
       "position": "DB",
@@ -6639,7 +7827,7 @@
       "college": "Iowa",
       "depth_position": "SS",
       "depth_slot": "9",
-      "depth_rank": 2,
+      "depth_rank": 1,
       "depth_order": 20,
       "stats": {},
       "weekly_stats": [],
@@ -6761,6 +7949,97 @@
             "colors": {
               "primary": "#0B2265",
               "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036941",
+      "name": "Andre Cisco",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "8",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sdk8jvmv30mvetujj7bs",
+      "height": "72",
+      "weight": "210",
+      "experience": "5",
+      "college": "Syracuse",
+      "depth_position": "SS",
+      "depth_slot": "9",
+      "depth_rank": 2,
+      "depth_order": 20,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
             }
           }
         }

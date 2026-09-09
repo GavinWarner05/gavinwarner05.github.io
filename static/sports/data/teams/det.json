@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "det",
@@ -76,7 +76,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Lorenzo Styles",
+          "player": "Lorenzo Styles Jr.",
           "status": "Questionable",
           "detail": "Calf"
         },
@@ -106,7 +106,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Chris Rumph",
+          "player": "Chris Rumph II",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -172,7 +172,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -282,7 +282,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -518,7 +518,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -628,7 +628,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -816,7 +816,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -1016,7 +1016,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -1164,7 +1164,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -1274,7 +1274,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -1322,7 +1322,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Ollie Gordon",
+          "player": "Ollie Gordon II",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -1334,7 +1334,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Darrell Baker",
+          "player": "Darrell Baker Jr.",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1384,13 +1384,43 @@
       "injuries": [
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1480,7 +1510,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -1554,7 +1584,7 @@
         },
         {
           "team": "Tampa Bay Buccaneers",
-          "player": "Rueben Bain",
+          "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
         },
@@ -1620,7 +1650,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -1730,13 +1760,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1808,7 +1838,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -1918,7 +1948,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -1936,7 +1966,7 @@
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Gervon Dexter",
+          "player": "Gervon Dexter Sr.",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -1948,25 +1978,25 @@
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Michael Penix",
+          "player": "Michael Penix Jr.",
           "status": "Questionable",
           "detail": "Knee - ACL"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Tyrone Wheatley",
+          "player": "Tyrone Wheatley Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "James Pearce",
+          "player": "James Pearce Jr.",
           "status": "Out",
           "detail": "Suspension"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Billy Bowman",
+          "player": "Billy Bowman Jr.",
           "status": "Questionable",
           "detail": "Achilles"
         },
@@ -2118,7 +2148,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -2230,7 +2260,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -2340,13 +2370,13 @@
         },
         {
           "team": "New York Giants",
-          "player": "Tyrone Tracy",
+          "player": "Tyrone Tracy Jr.",
           "status": "Questionable",
           "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Dru Phillips",
+          "player": "Andru Phillips",
           "status": "Questionable",
           "detail": "Lower Leg"
         },
@@ -2370,7 +2400,7 @@
         },
         {
           "team": "New York Giants",
-          "player": "Greg Newsome",
+          "player": "Greg Newsome II",
           "status": "Questionable",
           "detail": "Knee"
         },
@@ -2436,7 +2466,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -2546,7 +2576,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -2624,13 +2654,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2734,7 +2764,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -2876,7 +2906,7 @@
     },
     {
       "team": "Detroit Lions",
-      "player": "Ennis Rakestraw",
+      "player": "Ennis Rakestraw Jr.",
       "status": "Questionable",
       "detail": "Upper Body"
     },
@@ -2922,222 +2952,1688 @@
       "id": "00-0041454",
       "name": "Aamaris Brown",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ewwjcwikx8nqcgxdbbu1"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ewwjcwikx8nqcgxdbbu1",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036716",
       "name": "Amen Ogbongbemiga",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/liyabetbezsk9lvuuphd"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/liyabetbezsk9lvuuphd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 11,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041458",
       "name": "Anthony Lucas",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jz6cvd4ur6gwmje4eq57"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jz6cvd4ur6gwmje4eq57",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037356",
       "name": "Ben Stille",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wyj9urijpkzuz2noqk2g"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wyj9urijpkzuz2noqk2g",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039141",
       "name": "Brian Branch",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zcri8hzscyasi2nhjdlk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zcri8hzscyasi2nhjdlk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DAL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037297",
       "name": "Cade Mays",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lw5vbu41hbzw9nychtb7"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lw5vbu41hbzw9nychtb7",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038661",
       "name": "Chris Smith",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yczxmt0xfnqax2ueqz3j"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yczxmt0xfnqax2ueqz3j",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038592",
       "name": "Colby Sorsdal",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uewa3yfhev5xfmtxtwst"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uewa3yfhev5xfmtxtwst",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037281",
       "name": "Damone Clark",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ffk6kh200c0f38zgzmuo"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ffk6kh200c0f38zgzmuo",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040233",
       "name": "Dan Jackson",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/llgy42nhtuvd9f5zci70"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/llgy42nhtuvd9f5zci70",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037414",
       "name": "Devin Cochran",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xbxzyjodpatlv5edyuew"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xbxzyjodpatlv5edyuew",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040241",
       "name": "Dominic Lovett",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ccplcgivzomevih1erpl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ccplcgivzomevih1erpl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "WAS",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038956",
       "name": "Ekow Boye-Doe",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jrm1husugxjadz2wassn"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jrm1husugxjadz2wassn",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039411",
+      "name": "Elijah Klein",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lh6e9de7kp7jll2mgkud",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "NYJ",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038604",
       "name": "Eric Scott Jr.",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eo5ri5jizuskouhtased"
-    },
-    {
-      "id": "00-0041455",
-      "name": "Erick Hunter",
-      "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lj86qzcqducqtasd4au0"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eo5ri5jizuskouhtased",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039362",
       "name": "Giovanni Manu",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cjakbqctg8tjtt0lfgh2"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cjakbqctg8tjtt0lfgh2",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040401",
       "name": "Gus Hartwig",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e9anjdcbjlqqxyovquif"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e9anjdcbjlqqxyovquif",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037197",
+      "name": "Isiah Pacheco",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hkqb4imkum3vxxkwuetl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 118,
+            "rushing_yards": 462,
+            "targets": 26,
+            "receptions": 19,
+            "receiving_yards": 101,
+            "receiving_tds": 1,
+            "rushing_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "LAC",
+              "stats": {
+                "carries": 5,
+                "rushing_yards": 25,
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "PHI",
+              "stats": {
+                "carries": 10,
+                "rushing_yards": 22,
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 7
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "NYG",
+              "stats": {
+                "carries": 10,
+                "rushing_yards": 45,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "BAL",
+              "stats": {
+                "carries": 7,
+                "rushing_yards": 35,
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 13,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "JAX",
+              "stats": {
+                "carries": 7,
+                "rushing_yards": 36,
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 20
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "DET",
+              "stats": {
+                "carries": 12,
+                "rushing_yards": 51,
+                "targets": 3,
+                "receptions": 1
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "LV",
+              "stats": {
+                "carries": 15,
+                "rushing_yards": 57,
+                "rushing_tds": 1,
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": -3
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "WAS",
+              "stats": {
+                "carries": 12,
+                "rushing_yards": 58
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 16,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 17
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "HOU",
+              "stats": {
+                "carries": 9,
+                "rushing_yards": 30
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "LAC",
+              "stats": {
+                "carries": 11,
+                "rushing_yards": 21
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "TEN",
+              "stats": {
+                "carries": 8,
+                "rushing_yards": 34,
+                "targets": 7,
+                "receptions": 6,
+                "receiving_yards": 41
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "DEN",
+              "stats": {
+                "carries": 9,
+                "rushing_yards": 32
+              }
+            }
+          ],
+          "team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039652",
+      "name": "Jabari Small",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jevnypgyk9xm7tcfldvi",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039060",
       "name": "Jason Taylor II",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/aozchrij1ghc0d9lpk86"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/aozchrij1ghc0d9lpk86",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035895",
       "name": "Joe Bachie",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xnf2vrbsglhet5fkcb9i"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xnf2vrbsglhet5fkcb9i",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "SF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041446",
       "name": "Kendrick Law",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/progttkuaumows8eeqsq"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/progttkuaumows8eeqsq",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037667",
       "name": "Kerby Joseph",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jairg6uh8wzsvw6fmtpx"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jairg6uh8wzsvw6fmtpx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 3
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CHI",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CLE",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "CIN",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038181",
       "name": "Lucky Jackson",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xa9o8zlctwgga8wh5apl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xa9o8zlctwgga8wh5apl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041453",
       "name": "Luke Altmyer",
       "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eriopmdwcfjude1cptvi"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eriopmdwcfjude1cptvi",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038911",
       "name": "Malik Cunningham",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b1zs666er20onzjnff8h"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b1zs666er20onzjnff8h",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 1,
+            "rushing_yards": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 14,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040391",
       "name": "Mason Miller",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uedrxx3xea6rhq5vjdic"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uedrxx3xea6rhq5vjdic",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041460",
       "name": "Melvin Priestly",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/egbonjjjo7vjxkgr7c4w"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/egbonjjjo7vjxkgr7c4w",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037385",
       "name": "Michael Niese",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lftjd1todj0qfpubrsgv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lftjd1todj0qfpubrsgv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038841",
       "name": "Nick Whiteside",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xb8o17bhvobonozefq7n"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xb8o17bhvobonozefq7n",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 7,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036926",
       "name": "Payton Turner",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/chmbnron2iipzbjggg7y"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/chmbnron2iipzbjggg7y",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041572",
       "name": "Roydell Williams",
-      "position": "RB"
+      "position": "RB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039245",
       "name": "Ryan Cooper Jr.",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hhmo6ua6elic9utx0vsl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hhmo6ua6elic9utx0vsl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040374",
+      "name": "Seth McLaughlin",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yiahyzi741suhypixaiu",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036491",
       "name": "Tarik Black",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nwu8axcyqw8yk3i300ob"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nwu8axcyqw8yk3i300ob",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0031237",
       "name": "Teddy Bridgewater",
       "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vwtggtoroccnjv3h0niq"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vwtggtoroccnjv3h0niq",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 3,
+            "rushing_yards": 4,
+            "completions": 8,
+            "attempts": 15,
+            "passing_yards": 62
+          },
+          "weekly_stats": [
+            {
+              "week": 7,
+              "opponent": "DET",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": -1
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "BUF",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": -1
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "LA",
+              "stats": {
+                "completions": 8,
+                "attempts": 15,
+                "passing_yards": 62,
+                "carries": 1,
+                "rushing_yards": 6
+              }
+            }
+          ],
+          "team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040697",
       "name": "Thomas Gordon",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xjwwmrgezlioppxjmkod"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xjwwmrgezlioppxjmkod",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035544",
       "name": "Tom Kennedy",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbpuzvde5zqalmkjo0dv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbpuzvde5zqalmkjo0dv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 4,
+            "receptions": 4,
+            "receiving_yards": 36
+          },
+          "weekly_stats": [
+            {
+              "week": 13,
+              "opponent": "GB",
+              "stats": {
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 36
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "CHI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041448",
       "name": "Tyre West",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ko4qcsvsalp1y0cptmie"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ko4qcsvsalp1y0cptmie",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040387",
       "name": "Zach Horton",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tqaayllxofboypamcusj"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tqaayllxofboypamcusj",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -3930,7 +5426,7 @@
       "name": "Derrick Moore",
       "position": "LB",
       "group": "Linebackers",
-      "number": "9",
+      "number": "8",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cl0rhuy0xdtwwu2fq2os",
       "height": "75",
       "weight": "255",
@@ -4726,62 +6222,6 @@
       ]
     },
     {
-      "id": "00-0040193",
-      "name": "Miles Frazier",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "71",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/picu4brr7vqypp3fdxtf",
-      "height": "78",
-      "weight": "325",
-      "experience": "1",
-      "college": "LSU; Florida International",
-      "depth_position": "LG",
-      "depth_slot": "4",
-      "depth_rank": 3,
-      "depth_order": 3,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "det",
-            "name": "Detroit Lions",
-            "abbreviation": "DET",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-            "colors": {
-              "primary": "#0076B6",
-              "secondary": "#123B55"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 14,
-              "opponent": "DAL",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "det",
-            "name": "Detroit Lions",
-            "abbreviation": "DET",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-            "colors": {
-              "primary": "#0076B6",
-              "secondary": "#123B55"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0036272",
       "name": "Ben Bartch",
       "position": "OL",
@@ -4794,7 +6234,7 @@
       "college": "St. John's (MN)",
       "depth_position": "LG",
       "depth_slot": "4",
-      "depth_rank": 4,
+      "depth_rank": 2,
       "depth_order": 3,
       "stats": {},
       "weekly_stats": [],
@@ -4883,41 +6323,6 @@
       ]
     },
     {
-      "id": "00-0040374",
-      "name": "Seth McLaughlin",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "65",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yiahyzi741suhypixaiu",
-      "height": "76",
-      "weight": "305",
-      "experience": "1",
-      "college": "Ohio State; Alabama",
-      "depth_position": "C",
-      "depth_slot": "5",
-      "depth_rank": 2,
-      "depth_order": 4,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "det",
-            "name": "Detroit Lions",
-            "abbreviation": "DET",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-            "colors": {
-              "primary": "#0076B6",
-              "secondary": "#123B55"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0040728",
       "name": "Tate Ratledge",
       "position": "OL",
@@ -4977,6 +6382,62 @@
             {
               "week": 18,
               "opponent": "CHI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040193",
+      "name": "Miles Frazier",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "71",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/picu4brr7vqypp3fdxtf",
+      "height": "78",
+      "weight": "325",
+      "experience": "1",
+      "college": "LSU; Florida International",
+      "depth_position": "RG",
+      "depth_slot": "6",
+      "depth_rank": 2,
+      "depth_order": 5,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 14,
+              "opponent": "DAL",
               "stats": {}
             }
           ],
@@ -5706,232 +7167,6 @@
       ]
     },
     {
-      "id": "00-0039652",
-      "name": "Jabari Small",
-      "position": "RB",
-      "group": "Running Backs",
-      "number": "26",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jevnypgyk9xm7tcfldvi",
-      "height": "71",
-      "weight": "213",
-      "experience": "2",
-      "college": "Tennessee",
-      "depth_position": "RB",
-      "depth_slot": "11",
-      "depth_rank": 4,
-      "depth_order": 9,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "det",
-            "name": "Detroit Lions",
-            "abbreviation": "DET",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-            "colors": {
-              "primary": "#0076B6",
-              "secondary": "#123B55"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0037197",
-      "name": "Isiah Pacheco",
-      "position": "RB",
-      "group": "Running Backs",
-      "number": "10",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hkqb4imkum3vxxkwuetl",
-      "height": "70",
-      "weight": "215",
-      "experience": "4",
-      "college": "Rutgers",
-      "depth_position": "RB",
-      "depth_slot": "11",
-      "depth_rank": 5,
-      "depth_order": 9,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "det",
-            "name": "Detroit Lions",
-            "abbreviation": "DET",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-            "colors": {
-              "primary": "#0076B6",
-              "secondary": "#123B55"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "carries": 118,
-            "rushing_yards": 462,
-            "targets": 26,
-            "receptions": 19,
-            "receiving_yards": 101,
-            "receiving_tds": 1,
-            "rushing_tds": 1
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "LAC",
-              "stats": {
-                "carries": 5,
-                "rushing_yards": 25,
-                "targets": 3,
-                "receptions": 2,
-                "receiving_yards": 3
-              }
-            },
-            {
-              "week": 2,
-              "opponent": "PHI",
-              "stats": {
-                "carries": 10,
-                "rushing_yards": 22,
-                "targets": 2,
-                "receptions": 1,
-                "receiving_yards": 7
-              }
-            },
-            {
-              "week": 3,
-              "opponent": "NYG",
-              "stats": {
-                "carries": 10,
-                "rushing_yards": 45,
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 3
-              }
-            },
-            {
-              "week": 4,
-              "opponent": "BAL",
-              "stats": {
-                "carries": 7,
-                "rushing_yards": 35,
-                "targets": 3,
-                "receptions": 2,
-                "receiving_yards": 13,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 5,
-              "opponent": "JAX",
-              "stats": {
-                "carries": 7,
-                "rushing_yards": 36,
-                "targets": 3,
-                "receptions": 3,
-                "receiving_yards": 20
-              }
-            },
-            {
-              "week": 6,
-              "opponent": "DET",
-              "stats": {
-                "carries": 12,
-                "rushing_yards": 51,
-                "targets": 3,
-                "receptions": 1
-              }
-            },
-            {
-              "week": 7,
-              "opponent": "LV",
-              "stats": {
-                "carries": 15,
-                "rushing_yards": 57,
-                "rushing_tds": 1,
-                "targets": 2,
-                "receptions": 1,
-                "receiving_yards": -3
-              }
-            },
-            {
-              "week": 8,
-              "opponent": "WAS",
-              "stats": {
-                "carries": 12,
-                "rushing_yards": 58
-              }
-            },
-            {
-              "week": 13,
-              "opponent": "DAL",
-              "stats": {
-                "carries": 3,
-                "rushing_yards": 16,
-                "targets": 2,
-                "receptions": 2,
-                "receiving_yards": 17
-              }
-            },
-            {
-              "week": 14,
-              "opponent": "HOU",
-              "stats": {
-                "carries": 9,
-                "rushing_yards": 30
-              }
-            },
-            {
-              "week": 15,
-              "opponent": "LAC",
-              "stats": {
-                "carries": 11,
-                "rushing_yards": 21
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "TEN",
-              "stats": {
-                "carries": 8,
-                "rushing_yards": 34,
-                "targets": 7,
-                "receptions": 6,
-                "receiving_yards": 41
-              }
-            },
-            {
-              "week": 17,
-              "opponent": "DEN",
-              "stats": {
-                "carries": 9,
-                "rushing_yards": 32
-              }
-            }
-          ],
-          "team": {
-            "id": "kc",
-            "name": "Kansas City Chiefs",
-            "abbreviation": "KC",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-            "colors": {
-              "primary": "#E31837",
-              "secondary": "#6B0F1A"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0038896",
       "name": "Jacob Saylors",
       "position": "RB",
@@ -6383,7 +7618,7 @@
       "name": "Keith Abney II",
       "position": "DB",
       "group": "Safeties",
-      "number": "28",
+      "number": "6",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pnryzkihoi17eq91ibag",
       "height": "69",
       "weight": "187",
@@ -7658,6 +8893,117 @@
             "colors": {
               "primary": "#0076B6",
               "secondary": "#123B55"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034270",
+      "name": "Tyler Conklin",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "83",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knjuzxnzsfjxwcjxp5en",
+      "height": "75",
+      "weight": "254",
+      "experience": "8",
+      "college": "Central Michigan; Northwood",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 3,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 1,
+            "rushing_yards": 2,
+            "targets": 10,
+            "receptions": 7,
+            "receiving_yards": 101
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "KC",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 2,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 50
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 2
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "NYG",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "WAS",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 30
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            }
+          ],
+          "team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
             }
           }
         }

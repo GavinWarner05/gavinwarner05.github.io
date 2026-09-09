@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "sea",
@@ -46,13 +46,43 @@
       "injuries": [
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -79,6 +109,72 @@
           "player": "Bryce Baringer",
           "status": "IR/PUP",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
@@ -118,7 +214,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -162,6 +258,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -198,7 +360,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -272,6 +434,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -308,7 +536,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -454,7 +682,7 @@
         },
         {
           "team": "Los Angeles Chargers",
-          "player": "Tre' Harris",
+          "player": "Tre Harris",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -469,6 +697,72 @@
           "player": "Brenen Thompson",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
@@ -508,7 +802,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -550,6 +844,72 @@
       "home_score": null,
       "venue": "Lumen Field",
       "injuries": [
+        {
+          "team": "San Francisco 49ers",
+          "player": "Gracen Halton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Romello Height",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "James Thompson Jr.",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Alfred Collins",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Upton Stout",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Renardo Green",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Bosa",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Luke Gifford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Dre Greenlaw",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "George Kittle",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Kyle Juszczyk",
+          "status": "Out",
+          "detail": "Injury"
+        },
         {
           "team": "San Francisco 49ers",
           "player": "Dominick Puni",
@@ -696,6 +1056,72 @@
         },
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -732,7 +1158,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -776,6 +1202,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -812,7 +1304,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -836,7 +1328,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -910,7 +1402,7 @@
         },
         {
           "team": "Kansas City Chiefs",
-          "player": "Kenneth Walker",
+          "player": "Kenneth Walker III",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -952,6 +1444,72 @@
         },
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -988,7 +1546,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1092,13 +1650,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1107,6 +1665,72 @@
           "player": "Elijah Hicks",
           "status": "Questionable",
           "detail": "Shin"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
@@ -1146,7 +1770,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1220,6 +1844,72 @@
         },
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -1256,7 +1946,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1300,6 +1990,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -1336,7 +2092,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1392,6 +2148,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -1428,7 +2250,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1437,6 +2259,72 @@
           "player": "Nick Emmanwori",
           "status": "Questionable",
           "detail": "Ankle"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Gracen Halton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Romello Height",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "James Thompson Jr.",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Alfred Collins",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Upton Stout",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Renardo Green",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Bosa",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Luke Gifford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Dre Greenlaw",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "George Kittle",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Kyle Juszczyk",
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "San Francisco 49ers",
@@ -1640,6 +2528,72 @@
         },
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -1676,7 +2630,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1744,13 +2698,13 @@
         },
         {
           "team": "New York Giants",
-          "player": "Tyrone Tracy",
+          "player": "Tyrone Tracy Jr.",
           "status": "Questionable",
           "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Dru Phillips",
+          "player": "Andru Phillips",
           "status": "Questionable",
           "detail": "Lower Leg"
         },
@@ -1774,9 +2728,75 @@
         },
         {
           "team": "New York Giants",
-          "player": "Greg Newsome",
+          "player": "Greg Newsome II",
           "status": "Questionable",
           "detail": "Knee"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
@@ -1816,7 +2836,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1860,6 +2880,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -1896,7 +2982,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1994,6 +3080,48 @@
       "injuries": [
         {
           "team": "Los Angeles Rams",
+          "player": "Byron Young",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Jaylen Watson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Grant Stuard",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alaric Jackson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Myles Garrett",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Tyler Higbee",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Aaron Donald",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
           "player": "Kobie Turner",
           "status": "Questionable",
           "detail": "Undisclosed"
@@ -2048,6 +3176,72 @@
         },
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -2084,7 +3278,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2128,6 +3322,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -2164,7 +3424,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2286,6 +3546,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -2322,7 +3648,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2331,6 +3657,48 @@
           "player": "Nick Emmanwori",
           "status": "Questionable",
           "detail": "Ankle"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Byron Young",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Jaylen Watson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Grant Stuard",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alaric Jackson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Myles Garrett",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Tyler Higbee",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Aaron Donald",
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Los Angeles Rams",
@@ -2392,15 +3760,57 @@
   "injuries": [
     {
       "team": "Seattle Seahawks",
-      "player": "Zach Charbonnet",
-      "status": "IR/PUP",
-      "detail": "Knee - ACL"
+      "player": "Nick Emmanwori",
+      "status": "Out",
+      "detail": "Injury"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Tory Horton",
+      "status": "Out",
+      "detail": "Injury"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Ty Okada",
+      "status": "Out",
+      "detail": "Hamstring"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Julian Neal",
+      "status": "Out",
+      "detail": "Injury"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "AJ Barner",
+      "status": "Out",
+      "detail": "Injury"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Anthony Bradford",
+      "status": "Out",
+      "detail": "Injury"
     },
     {
       "team": "Seattle Seahawks",
       "player": "Emanuel Wilson",
-      "status": "Questionable",
-      "detail": "Hamstring"
+      "status": "Out",
+      "detail": "Injury"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Josh Jones",
+      "status": "Out",
+      "detail": "Injury"
+    },
+    {
+      "team": "Seattle Seahawks",
+      "player": "Zach Charbonnet",
+      "status": "IR/PUP",
+      "detail": "Knee - ACL"
     },
     {
       "team": "Seattle Seahawks",
@@ -2410,39 +3820,15 @@
     },
     {
       "team": "Seattle Seahawks",
-      "player": "Tory Horton",
-      "status": "Questionable",
-      "detail": "Undisclosed"
-    },
-    {
-      "team": "Seattle Seahawks",
-      "player": "Julian Neal",
-      "status": "Questionable",
-      "detail": "Leg"
-    },
-    {
-      "team": "Seattle Seahawks",
       "player": "Terrion Arnold",
       "status": "Out",
       "detail": "Undisclosed"
     },
     {
       "team": "Seattle Seahawks",
-      "player": "Irv Charles",
-      "status": "IR/PUP",
-      "detail": "Undisclosed"
-    },
-    {
-      "team": "Seattle Seahawks",
-      "player": "Nick Emmanwori",
-      "status": "Questionable",
-      "detail": "Ankle"
-    },
-    {
-      "team": "Seattle Seahawks",
       "player": "Irvin Charles",
       "status": "IR/PUP",
-      "detail": "Reserve list"
+      "detail": "Undisclosed"
     },
     {
       "team": "Seattle Seahawks",
@@ -2458,19 +3844,7 @@
     },
     {
       "team": "Seattle Seahawks",
-      "player": "Power Echols",
-      "status": "IR/PUP",
-      "detail": "Reserve list"
-    },
-    {
-      "team": "Seattle Seahawks",
       "player": "Aaron Smith",
-      "status": "IR/PUP",
-      "detail": "Reserve list"
-    },
-    {
-      "team": "Seattle Seahawks",
-      "player": "Brock Lampe",
       "status": "IR/PUP",
       "detail": "Reserve list"
     },
@@ -2498,233 +3872,1699 @@
       "id": "00-0038866",
       "name": "AJ Finley",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqvnq3t2f3ayg5rnmzld"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqvnq3t2f3ayg5rnmzld",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040407",
       "name": "Aaron Smith",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ct2x79scrpzdgilozeo6"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ct2x79scrpzdgilozeo6",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040972",
       "name": "Aidan Hubbard",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ecvtetyglqvbszmuikfa"
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ecvtetyglqvbszmuikfa",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040059",
       "name": "Amari Kight",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sfygfpa3uvxcmq8x2u9u"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sfygfpa3uvxcmq8x2u9u",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040903",
       "name": "Andre Fuller",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lprcggybtxynzqqodh2h"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lprcggybtxynzqqodh2h",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0031622",
+      "name": "Bobby Hart",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uqobnujagdsizf4lngbp",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "DEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040567",
       "name": "Brock Lampe",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qjprz2xsfvwi0zqrpyh1"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qjprz2xsfvwi0zqrpyh1",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041463",
       "name": "Bud Clark",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l1kul40tgcpyox07cbaa"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l1kul40tgcpyox07cbaa",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037332",
+      "name": "D'Anthony Bell",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ckont3gxmlaebwbbkplr",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "ATL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041519",
       "name": "Derrick Graham",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vx1abzto30tdujvwsgxd"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vx1abzto30tdujvwsgxd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040904",
       "name": "Deven Eastern",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/smzollvmlmiaoi9mhh6v"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/smzollvmlmiaoi9mhh6v",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040895",
       "name": "Emmanuel Henderson Jr.",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eje0zmvfl2fetzvpsl6c"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eje0zmvfl2fetzvpsl6c",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040764",
       "name": "Federico Maranges",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/inusdinp7cv7fcdctdkb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/inusdinp7cv7fcdctdkb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037156",
       "name": "Irvin Charles",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/heeyyjyf5prqas5tmwvk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/heeyyjyf5prqas5tmwvk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040063",
       "name": "J.R. Singleton",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xj6kwzkuejml3io1x4qe"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xj6kwzkuejml3io1x4qe",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040067",
       "name": "Jacardia Wright",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tp3d97gujpw7fkvn7gno"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tp3d97gujpw7fkvn7gno",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 5,
+            "rushing_yards": 20
+          },
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "NO",
+              "stats": {
+                "carries": 5,
+                "rushing_yards": 20
+              }
+            }
+          ],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038752",
       "name": "Jake Bobo",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/esyfp5hwdtepk2ypsru4"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/esyfp5hwdtepk2ypsru4",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 5,
+            "receptions": 4,
+            "receiving_yards": 53,
+            "receiving_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "ARI",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 17
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "SF",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 16
+              }
+            },
+            {
+              "week": 21,
+              "opponent": "LA",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 17,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 22,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040055",
       "name": "Jalan Gaines",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lfkr6bkvrdgfyhdvbbon"
-    },
-    {
-      "id": "00-0039944",
-      "name": "Jamie Sheriff",
-      "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f9uictgyzz37rjcnjzkd"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lfkr6bkvrdgfyhdvbbon",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041584",
       "name": "Jordan Washington",
-      "position": "DB"
+      "position": "DB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039329",
       "name": "Julian Hicks",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knvt0zhyvozokeadswgf"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knvt0zhyvozokeadswgf",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041588",
       "name": "Justin Jones",
-      "position": "RB"
+      "position": "RB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037349",
       "name": "Kellen Diesch",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/pryvpnkqsrry7mtdgbsx"
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/pryvpnkqsrry7mtdgbsx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040495",
       "name": "Logan Brown",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lebjztgitjbfjryhkcu1"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lebjztgitjbfjryhkcu1",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040973",
       "name": "Marvin Jones Jr.",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mmfgizaxy53ouygcdpql"
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mmfgizaxy53ouygcdpql",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040652",
       "name": "Mason Richman",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/m8ihmpvqxsn2d7nfmrkb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/m8ihmpvqxsn2d7nfmrkb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040026",
       "name": "Maxen Hook",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jsp0hmkbpzpc5emdgfgf"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jsp0hmkbpzpc5emdgfgf",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040910",
       "name": "Michael Dansby",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oxlhvcgepqjwzulh7yvz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oxlhvcgepqjwzulh7yvz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040588",
       "name": "Pooh Paul Jr.",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/psmpytneuttddqhfswhj"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/psmpytneuttddqhfswhj",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040270",
       "name": "Power Echols",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ptq9m3ohqianoex14gzx"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ptq9m3ohqianoex14gzx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041476",
       "name": "Rashad Rochelle",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ylbnhgy33itvtgb5j5gk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ylbnhgy33itvtgb5j5gk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040653",
       "name": "Ricky White III",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sgtcxvsg5m0s6rdizjfb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sgtcxvsg5m0s6rdizjfb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040649",
       "name": "Robbie Ouzts",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kdykjwqk5xcnrfbtp47o"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kdykjwqk5xcnrfbtp47o",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "SF",
+              "stats": {
+                "targets": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037323",
       "name": "Rodney Thomas",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmch7ilcol08gczhpwp6"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmch7ilcol08gczhpwp6",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 1,
+            "rushing_yards": 3
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "PIT",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 3
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "HOU",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039903",
       "name": "Terrion Arnold",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h3rbtalyoblh2szat9qc"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h3rbtalyoblh2szat9qc",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIN",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "GB",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036361",
       "name": "Trevon Diggs",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ktdcor3rnkwpgehtwldn"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ktdcor3rnkwpgehtwldn",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "CHI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040273",
       "name": "Tysheem Johnson",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/srmw7o53eercpt8548jh"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/srmw7o53eercpt8548jh",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040975",
       "name": "Uso Seumalo",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/orfcyc0to5mxcxkc86d6"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/orfcyc0to5mxcxkc86d6",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037745",
       "name": "Velus Jones Jr.",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d4y5fxivhcxk34q7stpb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d4y5fxivhcxk34q7stpb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 10,
+            "rushing_yards": 42
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "ATL",
+              "stats": {
+                "carries": 4,
+                "rushing_yards": 32
+              }
+            },
+            {
+              "week": 20,
+              "opponent": "SF",
+              "stats": {
+                "carries": 6,
+                "rushing_yards": 10
+              }
+            }
+          ],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040064",
       "name": "Wy'Kevious Thomas",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oze4dwftg5cerptvolzb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oze4dwftg5cerptvolzb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039165",
       "name": "Zach Charbonnet",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cuuyog0lpxfaj0y0huvp"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cuuyog0lpxfaj0y0huvp",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 189,
+            "rushing_yards": 750,
+            "rushing_tds": 12,
+            "targets": 24,
+            "receptions": 20,
+            "receiving_yards": 144
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "SF",
+              "stats": {
+                "carries": 12,
+                "rushing_yards": 47,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "PIT",
+              "stats": {
+                "carries": 15,
+                "rushing_yards": 10
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "ARI",
+              "stats": {
+                "carries": 12,
+                "rushing_yards": 39,
+                "rushing_tds": 1,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 5
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "TB",
+              "stats": {
+                "carries": 9,
+                "rushing_yards": 36,
+                "rushing_tds": 1,
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "JAX",
+              "stats": {
+                "carries": 12,
+                "rushing_yards": 24,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "HOU",
+              "stats": {
+                "carries": 12,
+                "rushing_yards": 49,
+                "rushing_tds": 2,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "WAS",
+              "stats": {
+                "carries": 8,
+                "rushing_yards": 25,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 21
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "ARI",
+              "stats": {
+                "carries": 14,
+                "rushing_yards": 83,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "LA",
+              "stats": {
+                "carries": 11,
+                "rushing_yards": 37,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 10
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "TEN",
+              "stats": {
+                "carries": 6,
+                "rushing_yards": 35,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "MIN",
+              "stats": {
+                "carries": 14,
+                "rushing_yards": 52,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "ATL",
+              "stats": {
+                "carries": 7,
+                "rushing_yards": 46,
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 20
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "IND",
+              "stats": {
+                "carries": 8,
+                "rushing_yards": 31,
+                "targets": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "LA",
+              "stats": {
+                "carries": 9,
+                "rushing_yards": 32,
+                "rushing_tds": 1,
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 22
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "CAR",
+              "stats": {
+                "carries": 18,
+                "rushing_yards": 110,
+                "rushing_tds": 2,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "SF",
+              "stats": {
+                "carries": 17,
+                "rushing_yards": 74,
+                "rushing_tds": 1,
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 23
+              }
+            },
+            {
+              "week": 20,
+              "opponent": "SF",
+              "stats": {
+                "carries": 5,
+                "rushing_yards": 20
+              }
+            }
+          ],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -3414,122 +6254,6 @@
             "colors": {
               "primary": "#002244",
               "secondary": "#69BE28"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0032052",
-      "name": "Dante Fowler Jr.",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "56",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cp6ao2rf9siswpzctpt9",
-      "height": "75",
-      "weight": "255",
-      "experience": "11",
-      "college": "Florida",
-      "depth_position": "WLB",
-      "depth_slot": "4",
-      "depth_rank": 2,
-      "depth_order": 26,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "sea",
-            "name": "Seattle Seahawks",
-            "abbreviation": "SEA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
-            "colors": {
-              "primary": "#002244",
-              "secondary": "#69BE28"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "PHI",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "NYG",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "CHI",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "WAS",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "DEN",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "ARI",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "PHI",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "DET",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "LAC",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "dal",
-            "name": "Dallas Cowboys",
-            "abbreviation": "DAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-            "colors": {
-              "primary": "#003594",
-              "secondary": "#041E42"
             }
           }
         }
@@ -4307,6 +7031,122 @@
             "colors": {
               "primary": "#002244",
               "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0032052",
+      "name": "Dante Fowler Jr.",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "56",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cp6ao2rf9siswpzctpt9",
+      "height": "75",
+      "weight": "255",
+      "experience": "11",
+      "college": "Florida",
+      "depth_position": "WLB",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 26,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LAC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
             }
           }
         }
@@ -6466,6 +9306,41 @@
       ]
     },
     {
+      "id": "00-0041382",
+      "name": "Avery Smith",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "36",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o6hgu7dqu1cr50mooybp",
+      "height": "71",
+      "weight": "196",
+      "experience": "0",
+      "college": "Toledo",
+      "depth_position": "LCB",
+      "depth_slot": "8",
+      "depth_rank": 3,
+      "depth_order": 18,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "sea",
+            "name": "Seattle Seahawks",
+            "abbreviation": "SEA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#69BE28"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0037137",
       "name": "Josh Jobe",
       "position": "DB",
@@ -6624,41 +9499,6 @@
       "depth_position": "RCB",
       "depth_slot": "11",
       "depth_rank": 2,
-      "depth_order": 19,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "sea",
-            "name": "Seattle Seahawks",
-            "abbreviation": "SEA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
-            "colors": {
-              "primary": "#002244",
-              "secondary": "#69BE28"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041382",
-      "name": "Avery Smith",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "36",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o6hgu7dqu1cr50mooybp",
-      "height": "70",
-      "weight": "196",
-      "experience": "0",
-      "college": "Toledo",
-      "depth_position": "RCB",
-      "depth_slot": "11",
-      "depth_rank": 3,
       "depth_order": 19,
       "stats": {},
       "weekly_stats": [],

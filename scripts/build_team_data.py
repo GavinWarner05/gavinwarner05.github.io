@@ -17,7 +17,7 @@ except ImportError:  # Imported as scripts.build_team_data during tests.
     from scripts.build_sports_data import find_forbidden_keys, iso_datetime, require, sanitize_game, sanitize_injury, sanitize_team
 
 PLAYER_KEYS = ("id", "name", "position", "group", "number", "headshot_url", "height", "weight", "experience", "college", "depth_position", "depth_slot", "depth_rank", "depth_order", "stats", "weekly_stats", "seasons")
-INJURY_PLAYER_KEYS = ("id", "name", "position", "headshot_url")
+INJURY_PLAYER_KEYS = ("id", "name", "position", "headshot_url", "stats", "weekly_stats", "seasons")
 STAT_KEYS = {
     "games", "completions", "attempts", "passing_yards", "passing_tds", "interceptions", "carries",
     "rushing_yards", "rushing_tds", "targets", "receptions", "receiving_yards", "receiving_tds",
@@ -112,6 +112,22 @@ def sanitize_injury_player(raw: object, index: int) -> dict:
     if "headshot_url" in out:
         out["headshot_url"] = bounded(out["headshot_url"], f"{path}.headshot_url", 500, True)
         require(urlparse(out["headshot_url"]).scheme == "https", f"{path}.headshot_url must use HTTPS")
+    out["stats"] = sanitize_stats(out.get("stats", {}), f"{path}.stats")
+    out["weekly_stats"] = sanitize_weekly_stats(out.get("weekly_stats", []), f"{path}.weekly_stats")
+    seasons = out.get("seasons", [])
+    require(isinstance(seasons, list) and len(seasons) <= 10, f"{path}.seasons must be an array of at most 10 seasons")
+    out["seasons"] = []
+    seen_seasons: set[int] = set()
+    for season_index, entry in enumerate(seasons):
+        season_path = f"{path}.seasons[{season_index}]"
+        require(isinstance(entry, dict), f"{season_path} must be an object")
+        season = entry.get("season")
+        require(type(season) is int and 2000 <= season <= 2100 and season not in seen_seasons, f"{season_path}.season is invalid")
+        seen_seasons.add(season)
+        clean_season = {"season": season, "stats": sanitize_stats(entry.get("stats", {}), f"{season_path}.stats"), "weekly_stats": sanitize_weekly_stats(entry.get("weekly_stats", []), f"{season_path}.weekly_stats")}
+        if "team" in entry: clean_season["team"] = sanitize_team(entry["team"], f"{season_path}.team")
+        out["seasons"].append(clean_season)
+    out["seasons"].sort(key=lambda entry: entry["season"], reverse=True)
     return out
 
 

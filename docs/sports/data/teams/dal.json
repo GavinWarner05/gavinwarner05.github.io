@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "dal",
@@ -94,13 +94,13 @@
         },
         {
           "team": "New York Giants",
-          "player": "Tyrone Tracy",
+          "player": "Tyrone Tracy Jr.",
           "status": "Questionable",
           "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Dru Phillips",
+          "player": "Andru Phillips",
           "status": "Questionable",
           "detail": "Lower Leg"
         },
@@ -124,7 +124,7 @@
         },
         {
           "team": "New York Giants",
-          "player": "Greg Newsome",
+          "player": "Greg Newsome II",
           "status": "Questionable",
           "detail": "Knee"
         }
@@ -522,7 +522,7 @@
         },
         {
           "team": "Tampa Bay Buccaneers",
-          "player": "Rueben Bain",
+          "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
         },
@@ -926,7 +926,7 @@
         },
         {
           "team": "Indianapolis Colts",
-          "player": "AJ Haulcy",
+          "player": "A.J. Haulcy",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -998,6 +998,72 @@
       "home_score": null,
       "venue": "AT&T Stadium",
       "injuries": [
+        {
+          "team": "San Francisco 49ers",
+          "player": "Gracen Halton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Romello Height",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "James Thompson Jr.",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Alfred Collins",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Upton Stout",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Renardo Green",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Bosa",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Luke Gifford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Dre Greenlaw",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "George Kittle",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Kyle Juszczyk",
+          "status": "Out",
+          "detail": "Injury"
+        },
         {
           "team": "San Francisco 49ers",
           "player": "Dominick Puni",
@@ -1426,6 +1492,72 @@
         },
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -1462,7 +1594,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1527,6 +1659,48 @@
           "player": "Tyler Guyton",
           "status": "Questionable",
           "detail": "Elbow"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Byron Young",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Jaylen Watson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Grant Stuard",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alaric Jackson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Myles Garrett",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Tyler Higbee",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Aaron Donald",
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Los Angeles Rams",
@@ -1616,13 +1790,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -1732,13 +1906,13 @@
         },
         {
           "team": "New York Giants",
-          "player": "Tyrone Tracy",
+          "player": "Tyrone Tracy Jr.",
           "status": "Questionable",
           "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Dru Phillips",
+          "player": "Andru Phillips",
           "status": "Questionable",
           "detail": "Lower Leg"
         },
@@ -1762,7 +1936,7 @@
         },
         {
           "team": "New York Giants",
-          "player": "Greg Newsome",
+          "player": "Greg Newsome II",
           "status": "Questionable",
           "detail": "Knee"
         },
@@ -1988,222 +2162,1540 @@
       "id": "00-0038144",
       "name": "Adedayo Odeleye",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vll2htycvqq5vhihzyz6"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vll2htycvqq5vhihzyz6",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040900",
       "name": "Anthony Smith",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xawxtpjdptmacbcqtlua"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xawxtpjdptmacbcqtlua",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037225",
       "name": "Chris Glaser",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hnfgak3qdpzhlmqac8sy"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hnfgak3qdpzhlmqac8sy",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036728",
       "name": "Curtis Robinson",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yzam37nstuqvqm0cgzmv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yzam37nstuqvqm0cgzmv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 5,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "SEA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "sf",
+            "name": "San Francisco 49ers",
+            "abbreviation": "SF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+            "colors": {
+              "primary": "#AA0000",
+              "secondary": "#B3995D"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040938",
       "name": "DJ Rogers",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wzblmzyldhnpb4kvraci"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wzblmzyldhnpb4kvraci",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041437",
       "name": "DJ Wingfield",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ladqi8lu7id9qoxh3u0f"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ladqi8lu7id9qoxh3u0f",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040940",
       "name": "DJ Withers",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xoqnzv8clyrspskifbl0"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xoqnzv8clyrspskifbl0",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037842",
       "name": "Derion Kendrick",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rhmkstzb8ox2thtdo4k3"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rhmkstzb8ox2thtdo4k3",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "PIT",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "NO",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "ARI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lar",
+            "name": "Los Angeles Rams",
+            "abbreviation": "LAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#FFA300"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040875",
       "name": "Devin Moore",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhvkhsxnd5xqgrafkzug"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhvkhsxnd5xqgrafkzug",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037051",
+      "name": "Elijah Garcia",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mdhtfrrfmfeop2secu2c",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "NO",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038737",
       "name": "Isaiah Land",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iwr8ph2nr9nczlbhylbl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iwr8ph2nr9nczlbhylbl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038389",
       "name": "Israel Abanikanda",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mt7lgg9gbjcmb2wttxeg"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mt7lgg9gbjcmb2wttxeg",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040769",
       "name": "Jaden Smith",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/igfff3jsx73vmtuldw6q"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/igfff3jsx73vmtuldw6q",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037282",
+      "name": "James Mitchell",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q8b9goebgmuwusl6vqdc",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 4,
+            "receptions": 3,
+            "receiving_yards": 28
+          },
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "NE",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 17
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 11
+              }
+            },
+            {
+              "week": 19,
+              "opponent": "LA",
+              "stats": {
+                "targets": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037410",
       "name": "Jashaun Corbin",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ovzlcbe1osd6ugfxu55d"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ovzlcbe1osd6ugfxu55d",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040019",
       "name": "Jay Toia",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wxmtornm7a5tavuw4rfk"
-    },
-    {
-      "id": "00-0040586",
-      "name": "Jaydon Blue",
-      "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lscygdlqczomp0l9oykv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wxmtornm7a5tavuw4rfk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "ARI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039398",
       "name": "Joe Milton III",
       "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tsj9lobse1gxzanf39dt"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tsj9lobse1gxzanf39dt",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "completions": 15,
+            "attempts": 24,
+            "passing_yards": 183,
+            "passing_tds": 1,
+            "carries": 5,
+            "rushing_yards": 50
+          },
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "CHI",
+              "stats": {
+                "completions": 3,
+                "attempts": 5,
+                "passing_yards": 41
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "DEN",
+              "stats": {
+                "completions": 3,
+                "attempts": 4,
+                "passing_yards": 58,
+                "passing_tds": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "LAC",
+              "stats": {
+                "completions": 2,
+                "attempts": 2,
+                "passing_yards": 11,
+                "carries": 1,
+                "rushing_yards": 7
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "NYG",
+              "stats": {
+                "completions": 7,
+                "attempts": 13,
+                "passing_yards": 73,
+                "carries": 4,
+                "rushing_yards": 43
+              }
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040934",
       "name": "Jordan Hudson",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uwgiczb8bnnacu2g7zln"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uwgiczb8bnnacu2g7zln",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038348",
       "name": "Josh Butler",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mupdgai46euqd985yog0"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mupdgai46euqd985yog0",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "NYG",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040043",
       "name": "Justin Barron",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lnrgjwbxfkbfgsgtsgta"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lnrgjwbxfkbfgsgtsgta",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040933",
       "name": "Kelvin Gilliam",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yrwhq9jxcrlarnfzjcfm"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yrwhq9jxcrlarnfzjcfm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040935",
       "name": "Langston Patterson",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/asszhgk9tzfpchykiqjg"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/asszhgk9tzfpchykiqjg",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039507",
       "name": "Marcellus Johnson",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jylkjrizz0obuohdua0a"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jylkjrizz0obuohdua0a",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039352",
       "name": "Marist Liufau",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i81dbzylyw2mv7odmdck"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i81dbzylyw2mv7odmdck",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "WAS",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036295",
       "name": "Matt Hennessy",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iruohug4gurmckekn4zs"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iruohug4gurmckekn4zs",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040939",
       "name": "Michael Trigg",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/raym87favdz33uhkgvv2"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/raym87favdz33uhkgvv2",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040702",
       "name": "Mitch Van Vooren",
-      "position": "TE"
+      "position": "TE",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036105",
       "name": "Nick Leverett",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p9zmjyfrrp61aj3i7lbj"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p9zmjyfrrp61aj3i7lbj",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035639",
       "name": "Parris Campbell",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pmb3ypquiy5a2qzzmio4"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pmb3ypquiy5a2qzzmio4",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "CAR",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040021",
       "name": "Phil Mafah",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r91conel40ilon72blzb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r91conel40ilon72blzb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 5,
+            "rushing_yards": 18,
+            "rushing_tds": 1,
+            "targets": 2,
+            "receptions": 2,
+            "receiving_yards": 11
+          },
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "NYG",
+              "stats": {
+                "carries": 5,
+                "rushing_yards": 18,
+                "rushing_tds": 1,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 11
+              }
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038735",
       "name": "Princeton Fant",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dh67wj7xhek86nhyucig"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dh67wj7xhek86nhyucig",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 9,
+              "opponent": "ARI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039465",
       "name": "Reddy Steward",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e7fvszuuhvqn17ruftl0"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e7fvszuuhvqn17ruftl0",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "NYG",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037381",
       "name": "Sebastian Gutierrez",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kr1elh1r5d8yb99vmsxj"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kr1elh1r5d8yb99vmsxj",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040936",
       "name": "Shiyazh Pete",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/npaggoeufaacnhv9ywyb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/npaggoeufaacnhv9ywyb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040931",
       "name": "Tommy Dunn",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kteecx9slnkk4th3wwut"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kteecx9slnkk4th3wwut",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     },
     {
-      "id": "00-0040251",
-      "name": "Trikweze Bridges",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vmjfea3sm8cg0hrlibgj"
+      "id": "00-0038981",
+      "name": "Wanya Morris",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y2bvxkfybapdxszjuhju",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038406",
       "name": "Zack Kuntz",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/snmajpxpwgxwzo5sfrsx"
-    },
-    {
-      "id": "00-0040044",
-      "name": "Zion Childress",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rfj8pmex9tjxqayn0maz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/snmajpxpwgxwzo5sfrsx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -2458,7 +3950,7 @@
       "name": "Jonathan Bullard",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "98",
+      "number": "90",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xbebftotzf6hrqfrfnah",
       "height": "75",
       "weight": "296",
@@ -3054,7 +4546,7 @@
       "group": "Linebackers",
       "number": "55",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h35ij5cb5g5a8av170ca",
-      "height": "75",
+      "height": "74",
       "weight": "240",
       "experience": "0",
       "college": "Michigan; Maryland",
@@ -3471,102 +4963,6 @@
       ]
     },
     {
-      "id": "00-0038742",
-      "name": "Tyrus Wheat",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "90",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/krmcu6sltcvyy6ddisn7",
-      "height": "74",
-      "weight": "260",
-      "experience": "3",
-      "college": "Mississippi State",
-      "depth_position": "WLB",
-      "depth_slot": "4",
-      "depth_rank": 4,
-      "depth_order": 26,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "dal",
-            "name": "Dallas Cowboys",
-            "abbreviation": "DAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-            "colors": {
-              "primary": "#003594",
-              "secondary": "#041E42"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 4,
-              "opponent": "CLE",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "MIN",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "WAS",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "NYG",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "CHI",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "det",
-            "name": "Detroit Lions",
-            "abbreviation": "DET",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-            "colors": {
-              "primary": "#0076B6",
-              "secondary": "#123B55"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0040725",
       "name": "Donovan Ezeiruaku",
       "position": "LB",
@@ -3738,6 +5134,102 @@
       ]
     },
     {
+      "id": "00-0038742",
+      "name": "Tyrus Wheat",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "59",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/krmcu6sltcvyy6ddisn7",
+      "height": "74",
+      "weight": "260",
+      "experience": "3",
+      "college": "Mississippi State",
+      "depth_position": "SLB",
+      "depth_slot": "7",
+      "depth_rank": 3,
+      "depth_order": 28,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "CHI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "det",
+            "name": "Detroit Lions",
+            "abbreviation": "DET",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+            "colors": {
+              "primary": "#0076B6",
+              "secondary": "#123B55"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0039341",
       "name": "Tyler Guyton",
       "position": "OL",
@@ -3809,20 +5301,55 @@
       ]
     },
     {
-      "id": "00-0039109",
-      "name": "Broderick Jones",
+      "id": "00-0040874",
+      "name": "Drew Shelton",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "77",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xdd3wmhluibtx15q4jhr",
+      "number": "67",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ach6jq8xsd8xwcplylro",
       "height": "77",
-      "weight": "310",
-      "experience": "3",
-      "college": "Georgia",
+      "weight": "313",
+      "experience": "0",
+      "college": "Penn State",
       "depth_position": "LT",
       "depth_slot": "3",
       "depth_rank": 2,
       "depth_order": 2,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038731",
+      "name": "TJ Bass",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "66",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hnmg3ncfxso056ybw5zz",
+      "height": "77",
+      "weight": "325",
+      "experience": "3",
+      "college": "Oregon; Butte College",
+      "depth_position": "LG",
+      "depth_slot": "4",
+      "depth_rank": 1,
+      "depth_order": 3,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -3846,24 +5373,24 @@
           "stats": {},
           "weekly_stats": [
             {
-              "week": 4,
-              "opponent": "MIN",
+              "week": 5,
+              "opponent": "NYJ",
               "stats": {}
             },
             {
-              "week": 7,
-              "opponent": "CIN",
+              "week": 11,
+              "opponent": "LV",
               "stats": {}
             }
           ],
           "team": {
-            "id": "pit",
-            "name": "Pittsburgh Steelers",
-            "abbreviation": "PIT",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
             "colors": {
-              "primary": "#101820",
-              "secondary": "#FFB612"
+              "primary": "#003594",
+              "secondary": "#041E42"
             }
           }
         }
@@ -3882,7 +5409,7 @@
       "college": "Tulsa",
       "depth_position": "LG",
       "depth_slot": "4",
-      "depth_rank": 1,
+      "depth_rank": 2,
       "depth_order": 3,
       "stats": {},
       "weekly_stats": [],
@@ -3967,7 +5494,7 @@
       "group": "Offensive Line",
       "number": "56",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yiwgl1ijhwrkaz881r9r",
-      "height": "76",
+      "height": "75",
       "weight": "335",
       "experience": "2",
       "college": "Kansas State",
@@ -4000,67 +5527,6 @@
             {
               "week": 16,
               "opponent": "LAC",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "dal",
-            "name": "Dallas Cowboys",
-            "abbreviation": "DAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-            "colors": {
-              "primary": "#003594",
-              "secondary": "#041E42"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038731",
-      "name": "TJ Bass",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "66",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hnmg3ncfxso056ybw5zz",
-      "height": "77",
-      "weight": "325",
-      "experience": "3",
-      "college": "Oregon; Butte College",
-      "depth_position": "C",
-      "depth_slot": "5",
-      "depth_rank": 2,
-      "depth_order": 4,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "dal",
-            "name": "Dallas Cowboys",
-            "abbreviation": "DAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-            "colors": {
-              "primary": "#003594",
-              "secondary": "#041E42"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 5,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "LV",
               "stats": {}
             }
           ],
@@ -4154,6 +5620,41 @@
       ]
     },
     {
+      "id": "00-0040017",
+      "name": "Ajani Cornelius",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "65",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jpuz6yezpw3gg6asmvgh",
+      "height": "77",
+      "weight": "308",
+      "experience": "1",
+      "college": "Oregon; Rhode Island",
+      "depth_position": "RG",
+      "depth_slot": "6",
+      "depth_rank": 2,
+      "depth_order": 5,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0036036",
       "name": "Terence Steele",
       "position": "OL",
@@ -4220,16 +5721,16 @@
       ]
     },
     {
-      "id": "00-0040874",
-      "name": "Drew Shelton",
+      "id": "00-0039109",
+      "name": "Broderick Jones",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "67",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ach6jq8xsd8xwcplylro",
+      "number": "77",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xdd3wmhluibtx15q4jhr",
       "height": "77",
-      "weight": "313",
-      "experience": "0",
-      "college": "Penn State",
+      "weight": "310",
+      "experience": "3",
+      "college": "Georgia",
       "depth_position": "RT",
       "depth_slot": "7",
       "depth_rank": 2,
@@ -4251,39 +5752,30 @@
               "secondary": "#041E42"
             }
           }
-        }
-      ]
-    },
-    {
-      "id": "00-0040017",
-      "name": "Ajani Cornelius",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "65",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jpuz6yezpw3gg6asmvgh",
-      "height": "77",
-      "weight": "308",
-      "experience": "1",
-      "college": "Oregon; Rhode Island",
-      "depth_position": "RT",
-      "depth_slot": "7",
-      "depth_rank": 3,
-      "depth_order": 6,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
+        },
         {
-          "season": 2026,
+          "season": 2025,
           "stats": {},
-          "weekly_stats": [],
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "CIN",
+              "stats": {}
+            }
+          ],
           "team": {
-            "id": "dal",
-            "name": "Dallas Cowboys",
-            "abbreviation": "DAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
             "colors": {
-              "primary": "#003594",
-              "secondary": "#041E42"
+              "primary": "#101820",
+              "secondary": "#FFB612"
             }
           }
         }
@@ -4826,7 +6318,7 @@
       "name": "Emari Demercado",
       "position": "RB",
       "group": "Running Backs",
-      "number": "25",
+      "number": "31",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wu0sm9ttr4aiugi9fquf",
       "height": "69",
       "weight": "215",
@@ -5571,7 +7063,7 @@
       "name": "Ameer Speed",
       "position": "DB",
       "group": "Safeties",
-      "number": "39",
+      "number": "23",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o9d89l2prvb5k7uawpzi",
       "height": "75",
       "weight": "215",
@@ -5955,6 +7447,136 @@
       ]
     },
     {
+      "id": "00-0037561",
+      "name": "Markquese Bell",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "14",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wdantov1g2bbtjf4chpx",
+      "height": "74",
+      "weight": "205",
+      "experience": "4",
+      "college": "Florida A&M",
+      "depth_position": "SS",
+      "depth_slot": "9",
+      "depth_rank": 2,
+      "depth_order": 20,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "LV",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "NYG",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0040045",
       "name": "Alijah Clark",
       "position": "DB",
@@ -5967,7 +7589,7 @@
       "college": "Syracuse; Rutgers",
       "depth_position": "SS",
       "depth_slot": "9",
-      "depth_rank": 2,
+      "depth_rank": 3,
       "depth_order": 20,
       "stats": {},
       "weekly_stats": [],
@@ -6261,136 +7883,6 @@
             "colors": {
               "primary": "#FB4F14",
               "secondary": "#002244"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0037561",
-      "name": "Markquese Bell",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "14",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wdantov1g2bbtjf4chpx",
-      "height": "74",
-      "weight": "205",
-      "experience": "4",
-      "college": "Florida A&M",
-      "depth_position": "FS",
-      "depth_slot": "10",
-      "depth_rank": 3,
-      "depth_order": 21,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "dal",
-            "name": "Dallas Cowboys",
-            "abbreviation": "DAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-            "colors": {
-              "primary": "#003594",
-              "secondary": "#041E42"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "def_interceptions": 1
-          },
-          "weekly_stats": [
-            {
-              "week": 2,
-              "opponent": "NYG",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "WAS",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "DEN",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "ARI",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "LV",
-              "stats": {
-                "def_interceptions": 1
-              }
-            },
-            {
-              "week": 12,
-              "opponent": "PHI",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "DET",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "MIN",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "WAS",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "NYG",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "dal",
-            "name": "Dallas Cowboys",
-            "abbreviation": "DAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-            "colors": {
-              "primary": "#003594",
-              "secondary": "#041E42"
             }
           }
         }
@@ -7930,7 +9422,7 @@
       "name": "Camden Brown",
       "position": "WR",
       "group": "Wide Receivers",
-      "number": "6",
+      "number": "80",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tvoztpalnmmattxhdaoa",
       "height": "74",
       "weight": "200",

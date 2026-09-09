@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "den",
@@ -58,7 +58,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -100,7 +100,7 @@
         },
         {
           "team": "Kansas City Chiefs",
-          "player": "Kenneth Walker",
+          "player": "Kenneth Walker III",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -174,13 +174,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -222,7 +222,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -288,6 +288,48 @@
       "home_score": null,
       "venue": "Empower Field at Mile High",
       "injuries": [
+        {
+          "team": "Los Angeles Rams",
+          "player": "Byron Young",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Jaylen Watson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Grant Stuard",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alaric Jackson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Myles Garrett",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Tyler Higbee",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Aaron Donald",
+          "status": "Out",
+          "detail": "Injury"
+        },
         {
           "team": "Los Angeles Rams",
           "player": "Kobie Turner",
@@ -356,7 +398,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -436,7 +478,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -469,6 +511,72 @@
           "player": "Luke Wattenberg",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Gracen Halton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Romello Height",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "James Thompson Jr.",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Alfred Collins",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Upton Stout",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Renardo Green",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Bosa",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Luke Gifford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Dre Greenlaw",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "George Kittle",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Kyle Juszczyk",
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "San Francisco 49ers",
@@ -660,7 +768,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -714,7 +822,7 @@
         },
         {
           "team": "Los Angeles Chargers",
-          "player": "Tre' Harris",
+          "player": "Tre Harris",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -764,6 +872,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -800,7 +974,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -824,7 +998,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -904,7 +1078,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1008,7 +1182,7 @@
         },
         {
           "team": "Kansas City Chiefs",
-          "player": "Kenneth Walker",
+          "player": "Kenneth Walker III",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1062,7 +1236,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1142,7 +1316,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1312,7 +1486,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1392,7 +1566,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1550,7 +1724,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Ollie Gordon",
+          "player": "Ollie Gordon II",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -1562,7 +1736,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Darrell Baker",
+          "player": "Darrell Baker Jr.",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1592,7 +1766,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1672,7 +1846,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1818,7 +1992,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1970,7 +2144,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -2050,7 +2224,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -2086,13 +2260,43 @@
         },
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2172,7 +2376,7 @@
         },
         {
           "team": "Los Angeles Chargers",
-          "player": "Tre' Harris",
+          "player": "Tre Harris",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -2202,7 +2406,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -2254,7 +2458,7 @@
     },
     {
       "team": "Denver Broncos",
-      "player": "Marvin Mims",
+      "player": "Marvin Mims Jr.",
       "status": "Questionable",
       "detail": "Foot"
     },
@@ -2318,225 +2522,1298 @@
       "id": "00-0036727",
       "name": "Adam Prentice",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xuvyqidnso9ga1dfefoy"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xuvyqidnso9ga1dfefoy",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 9,
+            "receptions": 6,
+            "receiving_yards": 53,
+            "carries": 11,
+            "rushing_yards": 47
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "CIN",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "PHI",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 8
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "NYJ",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 3
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "NYG",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "HOU",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 2
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "LV",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "KC",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 14
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "WAS",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 3,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 11
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "LV",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 22,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 11
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "GB",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": -1
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "KC",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 3
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 21,
+              "opponent": "NE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 3
+              }
+            }
+          ],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041289",
       "name": "Brent Austin",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/civl60ohpbvwssq9h76s"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/civl60ohpbvwssq9h76s",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040240",
       "name": "Caleb Lohner",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/larx1n07ooq73y5gy3av"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/larx1n07ooq73y5gy3av",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035764",
       "name": "Calvin Throckmorton",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kedhkx9pv44qnun84zmg"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kedhkx9pv44qnun84zmg",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041299",
       "name": "Cameron Ross",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mwm6jtkeccyfxpuow3ri"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mwm6jtkeccyfxpuow3ri",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039703",
       "name": "Cody Schrader",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/snrwsjepuvkatdjjokp8"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/snrwsjepuvkatdjjokp8",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041293",
       "name": "Dane Key",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/got8amcmxwu5li8zwcnv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/got8amcmxwu5li8zwcnv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041295",
       "name": "Dasan McCullough",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nx7lnfv3sruhoyhnfpri"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nx7lnfv3sruhoyhnfpri",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039177",
       "name": "David Agoha",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ewp3mes0mghmhwcaow2i"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ewp3mes0mghmhwcaow2i",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039003",
       "name": "Drew Sanders",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x8qb06rtfpalcci5pyfx"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x8qb06rtfpalcci5pyfx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039568",
       "name": "Frank Crum",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cf6v9iuovxv0tvsvcito"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cf6v9iuovxv0tvsvcito",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 1,
+            "receptions": 1,
+            "receiving_yards": 7,
+            "receiving_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 11,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 7,
+                "receiving_tds": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041297",
       "name": "Gavin Ortega",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/birjqhksr8vcpsxs27nw"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/birjqhksr8vcpsxs27nw",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037230",
       "name": "Israel Antwine",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/pmger6bb28zubcy6qlvo"
-    },
-    {
-      "id": "00-0038794",
-      "name": "Jaleel McLaughlin",
-      "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jlzkji7mfkcmkyz2tygj"
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/pmger6bb28zubcy6qlvo",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040452",
       "name": "Johnny Walker Jr.",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j561gxyuezqwljey7wpn"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j561gxyuezqwljey7wpn",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036952",
       "name": "Jonathon Cooper",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rzjdnsaz0sfs9v4xetov"
-    },
-    {
-      "id": "00-0039570",
-      "name": "Jordan Miller",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e8l6rshuotsekspofejs"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rzjdnsaz0sfs9v4xetov",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 21,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041294",
       "name": "Joseph Manjack",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gcaf5glbypplos7a9hci"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gcaf5glbypplos7a9hci",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041292",
       "name": "Kolbe Katsis",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u3bhwno76vnuflla9jjg"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u3bhwno76vnuflla9jjg",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040454",
       "name": "Kristian Williams",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/do89t8vuxwz1grgsouet"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/do89t8vuxwz1grgsouet",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040633",
       "name": "Kyrese Rowan",
-      "position": "WR"
+      "position": "WR",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039565",
       "name": "Levelle Bailey",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bh2dnmiacue2xuedzqdc"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bh2dnmiacue2xuedzqdc",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037539",
       "name": "Lucas Krull",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eolvpkk5jjmipuqmf5v6"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eolvpkk5jjmipuqmf5v6",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 4,
+            "receptions": 2,
+            "receiving_yards": 15
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 9
+              }
+            }
+          ],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041290",
       "name": "Luke Basso",
       "position": "LS",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eknn0fchozcc6unfylpd"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eknn0fchozcc6unfylpd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037303",
       "name": "Matt Henningsen",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nz9uyvuwvedqcru4hhqj"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nz9uyvuwvedqcru4hhqj",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036959",
       "name": "Michael Bandy",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bcashgwve9ean9pq8egb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bcashgwve9ean9pq8egb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 4,
+            "receptions": 4,
+            "receiving_yards": 50,
+            "receiving_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 9,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 16
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "GB",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 20,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "KC",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 14
+              }
+            }
+          ],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035686",
       "name": "Michael Deiter",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lzops7z8etdwzembbdws"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lzops7z8etdwzembbdws",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041130",
       "name": "Miles Scott",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pncxuddkqd2csgmxzkfm"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pncxuddkqd2csgmxzkfm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036943",
       "name": "Mitchell Fraboni",
       "position": "LS",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/csvbeqtitr9ixpgdt0fu"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/csvbeqtitr9ixpgdt0fu",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039438",
       "name": "Nick Gargiulo",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/al11sdwqz5mci8hhypkl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/al11sdwqz5mci8hhypkl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041298",
       "name": "Parker Robertson",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zsddrqraoywnrrejhli5"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zsddrqraoywnrrejhli5",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041134",
       "name": "Red Murdock",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nmlusx7gpecv6trobnjh"
-    },
-    {
-      "id": "00-0040101",
-      "name": "Reid Holskey",
-      "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vageavd8s8byl8vzpfzx"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nmlusx7gpecv6trobnjh",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041589",
       "name": "Ricardo Hallman",
-      "position": "DB"
+      "position": "DB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039548",
       "name": "Ron Stone Jr.",
-      "position": "LB"
+      "position": "LB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040679",
       "name": "Sean Fresch",
-      "position": "DB"
+      "position": "DB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041301",
       "name": "Taurean York",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ik6sh0hlkligds2vdmo7"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ik6sh0hlkligds2vdmo7",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041296",
       "name": "Tyler Miller",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mawpqz9m0qcjwcrlabzt"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mawpqz9m0qcjwcrlabzt",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -3817,6 +5094,92 @@
       ]
     },
     {
+      "id": "00-0040168",
+      "name": "Que Robinson",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "51",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/quvadleyknwh31c7acza",
+      "height": "76",
+      "weight": "241",
+      "experience": "1",
+      "college": "Alabama",
+      "depth_position": "WLB",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 26,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 21,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0037249",
       "name": "Nik Bonitto",
       "position": "LB",
@@ -4052,92 +5415,6 @@
             {
               "week": 20,
               "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 21,
-              "opponent": "NE",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "den",
-            "name": "Denver Broncos",
-            "abbreviation": "DEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-            "colors": {
-              "primary": "#FB4F14",
-              "secondary": "#002244"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0040168",
-      "name": "Que Robinson",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "51",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/quvadleyknwh31c7acza",
-      "height": "77",
-      "weight": "241",
-      "experience": "1",
-      "college": "Alabama",
-      "depth_position": "SLB",
-      "depth_slot": "7",
-      "depth_rank": 3,
-      "depth_order": 28,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "den",
-            "name": "Denver Broncos",
-            "abbreviation": "DEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-            "colors": {
-              "primary": "#FB4F14",
-              "secondary": "#002244"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 6,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "NYG",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "WAS",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "JAX",
               "stats": {}
             },
             {
@@ -5093,7 +6370,7 @@
       "group": "Quarterbacks",
       "number": "4",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/imtb2ia03w2ujrl9dprs",
-      "height": "74",
+      "height": "73",
       "weight": "235",
       "experience": "5",
       "college": "Texas",
@@ -5297,7 +6574,7 @@
       "group": "Running Backs",
       "number": "12",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/szxmro5enrxlscvv67xg",
-      "height": "69",
+      "height": "68",
       "weight": "205",
       "experience": "1",
       "college": "UCF; Virginia",
@@ -7979,6 +9256,222 @@
       ]
     },
     {
+      "id": "00-0036613",
+      "name": "Jaylen Waddle",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "17",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gkh7m1jedon9mwn5jlf1",
+      "height": "70",
+      "weight": "182",
+      "experience": "5",
+      "college": "Alabama",
+      "depth_position": "WR",
+      "depth_slot": "1",
+      "depth_rank": 1,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "den",
+            "name": "Denver Broncos",
+            "abbreviation": "DEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#002244"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 100,
+            "receptions": 64,
+            "receiving_yards": 910,
+            "receiving_tds": 6,
+            "completions": 1,
+            "attempts": 1,
+            "passing_yards": 8,
+            "carries": 2,
+            "rushing_yards": 28
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "IND",
+              "stats": {
+                "targets": 5,
+                "receptions": 4,
+                "receiving_yards": 30
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "NE",
+              "stats": {
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 68,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 39,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "NYJ",
+              "stats": {
+                "targets": 6,
+                "receptions": 3,
+                "receiving_yards": 48
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "CAR",
+              "stats": {
+                "targets": 9,
+                "receptions": 6,
+                "receiving_yards": 110,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "LAC",
+              "stats": {
+                "completions": 1,
+                "attempts": 1,
+                "passing_yards": 8,
+                "targets": 8,
+                "receptions": 6,
+                "receiving_yards": 95
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 4,
+                "receptions": 1,
+                "receiving_yards": 15
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "ATL",
+              "stats": {
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 99,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 9,
+                "receptions": 6,
+                "receiving_yards": 82
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 7,
+                "receptions": 5,
+                "receiving_yards": 84,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "WAS",
+              "stats": {
+                "targets": 7,
+                "receptions": 3,
+                "receiving_yards": 52
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "NO",
+              "stats": {
+                "targets": 6,
+                "receptions": 3,
+                "receiving_yards": 40
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "NYJ",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 21,
+                "targets": 7,
+                "receptions": 5,
+                "receiving_yards": 50,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 26
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 9,
+                "receptions": 5,
+                "receiving_yards": 72
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "TB",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 7,
+                "targets": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0034348",
       "name": "Courtland Sutton",
       "position": "WR",
@@ -7990,8 +9483,8 @@
       "experience": "8",
       "college": "SMU",
       "depth_position": "WR",
-      "depth_slot": "1",
-      "depth_rank": 1,
+      "depth_slot": "2",
+      "depth_rank": 2,
       "depth_order": 1,
       "stats": {},
       "weekly_stats": [],
@@ -8208,222 +9701,6 @@
             "colors": {
               "primary": "#FB4F14",
               "secondary": "#002244"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0036613",
-      "name": "Jaylen Waddle",
-      "position": "WR",
-      "group": "Wide Receivers",
-      "number": "17",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gkh7m1jedon9mwn5jlf1",
-      "height": "70",
-      "weight": "182",
-      "experience": "5",
-      "college": "Alabama",
-      "depth_position": "WR",
-      "depth_slot": "2",
-      "depth_rank": 2,
-      "depth_order": 1,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "den",
-            "name": "Denver Broncos",
-            "abbreviation": "DEN",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-            "colors": {
-              "primary": "#FB4F14",
-              "secondary": "#002244"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "targets": 100,
-            "receptions": 64,
-            "receiving_yards": 910,
-            "receiving_tds": 6,
-            "completions": 1,
-            "attempts": 1,
-            "passing_yards": 8,
-            "carries": 2,
-            "rushing_yards": 28
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "IND",
-              "stats": {
-                "targets": 5,
-                "receptions": 4,
-                "receiving_yards": 30
-              }
-            },
-            {
-              "week": 2,
-              "opponent": "NE",
-              "stats": {
-                "targets": 6,
-                "receptions": 5,
-                "receiving_yards": 68,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 3,
-              "opponent": "BUF",
-              "stats": {
-                "targets": 6,
-                "receptions": 5,
-                "receiving_yards": 39,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 4,
-              "opponent": "NYJ",
-              "stats": {
-                "targets": 6,
-                "receptions": 3,
-                "receiving_yards": 48
-              }
-            },
-            {
-              "week": 5,
-              "opponent": "CAR",
-              "stats": {
-                "targets": 9,
-                "receptions": 6,
-                "receiving_yards": 110,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 6,
-              "opponent": "LAC",
-              "stats": {
-                "completions": 1,
-                "attempts": 1,
-                "passing_yards": 8,
-                "targets": 8,
-                "receptions": 6,
-                "receiving_yards": 95
-              }
-            },
-            {
-              "week": 7,
-              "opponent": "CLE",
-              "stats": {
-                "targets": 4,
-                "receptions": 1,
-                "receiving_yards": 15
-              }
-            },
-            {
-              "week": 8,
-              "opponent": "ATL",
-              "stats": {
-                "targets": 6,
-                "receptions": 5,
-                "receiving_yards": 99,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 9,
-              "opponent": "BAL",
-              "stats": {
-                "targets": 9,
-                "receptions": 6,
-                "receiving_yards": 82
-              }
-            },
-            {
-              "week": 10,
-              "opponent": "BUF",
-              "stats": {
-                "targets": 7,
-                "receptions": 5,
-                "receiving_yards": 84,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 11,
-              "opponent": "WAS",
-              "stats": {
-                "targets": 7,
-                "receptions": 3,
-                "receiving_yards": 52
-              }
-            },
-            {
-              "week": 13,
-              "opponent": "NO",
-              "stats": {
-                "targets": 6,
-                "receptions": 3,
-                "receiving_yards": 40
-              }
-            },
-            {
-              "week": 14,
-              "opponent": "NYJ",
-              "stats": {
-                "carries": 1,
-                "rushing_yards": 21,
-                "targets": 7,
-                "receptions": 5,
-                "receiving_yards": 50,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 15,
-              "opponent": "PIT",
-              "stats": {
-                "targets": 4,
-                "receptions": 2,
-                "receiving_yards": 26
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "CIN",
-              "stats": {
-                "targets": 9,
-                "receptions": 5,
-                "receiving_yards": 72
-              }
-            },
-            {
-              "week": 17,
-              "opponent": "TB",
-              "stats": {
-                "carries": 1,
-                "rushing_yards": 7,
-                "targets": 1
-              }
-            }
-          ],
-          "team": {
-            "id": "mia",
-            "name": "Miami Dolphins",
-            "abbreviation": "MIA",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-            "colors": {
-              "primary": "#008E97",
-              "secondary": "#FC4C02"
             }
           }
         }

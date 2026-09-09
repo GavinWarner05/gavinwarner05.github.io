@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "ari",
@@ -94,7 +94,7 @@
         },
         {
           "team": "Los Angeles Chargers",
-          "player": "Tre' Harris",
+          "player": "Tre Harris",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -144,6 +144,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -180,7 +246,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -281,6 +347,72 @@
           "player": "Dadrion Taylor-Demerson",
           "status": "Questionable",
           "detail": "Ribs"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Gracen Halton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Romello Height",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "James Thompson Jr.",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Alfred Collins",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Upton Stout",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Renardo Green",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Bosa",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Luke Gifford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Dre Greenlaw",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "George Kittle",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Kyle Juszczyk",
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "San Francisco 49ers",
@@ -514,13 +646,13 @@
         },
         {
           "team": "New York Giants",
-          "player": "Tyrone Tracy",
+          "player": "Tyrone Tracy Jr.",
           "status": "Questionable",
           "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Dru Phillips",
+          "player": "Andru Phillips",
           "status": "Questionable",
           "detail": "Lower Leg"
         },
@@ -544,7 +676,7 @@
         },
         {
           "team": "New York Giants",
-          "player": "Greg Newsome",
+          "player": "Greg Newsome II",
           "status": "Questionable",
           "detail": "Knee"
         }
@@ -642,7 +774,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -752,6 +884,48 @@
         },
         {
           "team": "Los Angeles Rams",
+          "player": "Byron Young",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Jaylen Watson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Grant Stuard",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alaric Jackson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Myles Garrett",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Tyler Higbee",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Aaron Donald",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
           "player": "Kobie Turner",
           "status": "Questionable",
           "detail": "Undisclosed"
@@ -850,7 +1024,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1064,6 +1238,72 @@
         },
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -1100,7 +1340,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1142,6 +1382,48 @@
       "home_score": null,
       "venue": "State Farm Stadium",
       "injuries": [
+        {
+          "team": "Los Angeles Rams",
+          "player": "Byron Young",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Jaylen Watson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Grant Stuard",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alaric Jackson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Myles Garrett",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Tyler Higbee",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Aaron Donald",
+          "status": "Out",
+          "detail": "Injury"
+        },
         {
           "team": "Los Angeles Rams",
           "player": "Kobie Turner",
@@ -1296,7 +1578,7 @@
         },
         {
           "team": "Kansas City Chiefs",
-          "player": "Kenneth Walker",
+          "player": "Kenneth Walker III",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1820,7 +2102,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Lorenzo Styles",
+          "player": "Lorenzo Styles Jr.",
           "status": "Questionable",
           "detail": "Calf"
         },
@@ -1850,7 +2132,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Chris Rumph",
+          "player": "Chris Rumph II",
           "status": "Questionable",
           "detail": "Ankle"
         }
@@ -1960,6 +2242,72 @@
       "home_score": null,
       "venue": "State Farm Stadium",
       "injuries": [
+        {
+          "team": "San Francisco 49ers",
+          "player": "Gracen Halton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Romello Height",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "James Thompson Jr.",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Alfred Collins",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Upton Stout",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Renardo Green",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Bosa",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Luke Gifford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Dre Greenlaw",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "George Kittle",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Kyle Juszczyk",
+          "status": "Out",
+          "detail": "Injury"
+        },
         {
           "team": "San Francisco 49ers",
           "player": "Dominick Puni",
@@ -2188,19 +2536,7 @@
     },
     {
       "team": "Arizona Cardinals",
-      "player": "Xavier Weaver",
-      "status": "IR/PUP",
-      "detail": "Reserve list"
-    },
-    {
-      "team": "Arizona Cardinals",
       "player": "Trey Benson",
-      "status": "IR/PUP",
-      "detail": "Reserve list"
-    },
-    {
-      "team": "Arizona Cardinals",
-      "player": "Josh Minkins",
       "status": "IR/PUP",
       "detail": "Reserve list"
     },
@@ -2228,250 +2564,7 @@
       "id": "00-0039155",
       "name": "BJ Ojulari",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hjtum8fdd1wbsqa2uufv"
-    },
-    {
-      "id": "00-0038939",
-      "name": "Brodric Martin",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fxo9xafpvo3nphye3bwq"
-    },
-    {
-      "id": "00-0040517",
-      "name": "Cam Horsley",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/twzqj6uora5h2qsutdxh"
-    },
-    {
-      "id": "00-0041367",
-      "name": "Cam Robertson",
-      "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uuczxjw4ass8y7h2sij8"
-    },
-    {
-      "id": "00-0041468",
-      "name": "Chase Bisontis",
-      "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qb9l3hc9l6pytbgpwrmd"
-    },
-    {
-      "id": "00-0039382",
-      "name": "Christian Jones",
-      "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/locueq7oqn5qnsotygoy"
-    },
-    {
-      "id": "00-0041369",
-      "name": "Damonic Williams",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/je6s5ezbps6ouanmle5p"
-    },
-    {
-      "id": "00-0038792",
-      "name": "Demontrey Jacobs",
-      "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u3aknrx8tn2qjh8o4wua"
-    },
-    {
-      "id": "00-0041597",
-      "name": "Devyn Bobby",
-      "position": "DB"
-    },
-    {
-      "id": "00-0041364",
-      "name": "Elijah Culp",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/byz0elucp4zkyalthjs1"
-    },
-    {
-      "id": "00-0039823",
-      "name": "Elijah Jones",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ncb3dyn1yc6gwjv20l1x"
-    },
-    {
-      "id": "00-0039956",
-      "name": "Elliott Brown",
-      "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b1ockqswt9tnan2fgiim"
-    },
-    {
-      "id": "00-0040299",
-      "name": "Eugene Asante",
-      "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ktwpzrd5sqwfo0w81ez8"
-    },
-    {
-      "id": "00-0038397",
-      "name": "Evan Hull",
-      "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xyyujk9mvvzegaiefp51"
-    },
-    {
-      "id": "00-0041368",
-      "name": "Harrison Wallace III",
-      "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mxwpoysyvficq6vgvcdq"
-    },
-    {
-      "id": "00-0040479",
-      "name": "Hudson Clark",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mljmmhm13oo8pxc7reag"
-    },
-    {
-      "id": "00-0036635",
-      "name": "Ihmir Smith-Marsette",
-      "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mnfsun286mv5azpa8zaw"
-    },
-    {
-      "id": "00-0039477",
-      "name": "Jack Browning",
-      "position": "P"
-    },
-    {
-      "id": "00-0033553",
-      "name": "James Conner",
-      "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ka8wlhtteg8hsowsdofk"
-    },
-    {
-      "id": "00-0041366",
-      "name": "Jameson Geers",
-      "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c8jeabzy38oouigdr214"
-    },
-    {
-      "id": "00-0037141",
-      "name": "Joey Blount",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uxh3ge9oyjyl6qjwzx5g"
-    },
-    {
-      "id": "00-0040576",
-      "name": "Josh Minkins",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ycuiofsxvlbphdmuln5k"
-    },
-    {
-      "id": "00-0041365",
-      "name": "Ka'ena Decambra",
-      "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pdijxigyrdfxvuk1r2vm"
-    },
-    {
-      "id": "00-0041555",
-      "name": "Kaleb Proctor",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/poc14gh4dkx2uqoronkr"
-    },
-    {
-      "id": "00-0039239",
-      "name": "Kalen King",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ioicfjbnscvcn1hlzvxl"
-    },
-    {
-      "id": "00-0039577",
-      "name": "Kedon Slovis",
-      "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hkvrcpwl9tm41jr3b0x3"
-    },
-    {
-      "id": "00-0041594",
-      "name": "Keveion'ta Spears",
-      "position": "DL"
-    },
-    {
-      "id": "00-0034417",
-      "name": "Matt Pryor",
-      "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vtt6isfbfk59jtxbma2l"
-    },
-    {
-      "id": "00-0039767",
-      "name": "Quinton Newsome",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lszsh2ohujsuvqil5zsf"
-    },
-    {
-      "id": "00-0040046",
-      "name": "Rivaldo Fairweather",
-      "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dlfhb5iydthvgpx1jhfv"
-    },
-    {
-      "id": "00-0039550",
-      "name": "Shawn Bowman",
-      "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fsmfihfrlibes4ihhauy"
-    },
-    {
-      "id": "00-0038663",
-      "name": "Starling Thomas V",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wep63sxqoqc3yyyo8hds"
-    },
-    {
-      "id": "00-0037277",
-      "name": "Teagan Quitoriano",
-      "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/adwepaexueevxdcqjhyf"
-    },
-    {
-      "id": "00-0039737",
-      "name": "Tip Reiman",
-      "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yfi3fqch6kzqrcvuptal"
-    },
-    {
-      "id": "00-0040526",
-      "name": "Tre Stewart",
-      "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uqxyyn0fclnobbreyzod"
-    },
-    {
-      "id": "00-0039921",
-      "name": "Trey Benson",
-      "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/liruc5jotnsi4ue9p9yx"
-    },
-    {
-      "id": "00-0040765",
-      "name": "Valentin Senn",
-      "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h95afg0gtx3x6ik2fgmp"
-    },
-    {
-      "id": "00-0039521",
-      "name": "Xavier Weaver",
-      "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kubeuin8fuw75xuxnhli"
-    },
-    {
-      "id": "00-0037804",
-      "name": "Zachary Carter",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qvq8wnz7ssbxxuxxo9mn"
-    }
-  ],
-  "players": [
-    {
-      "id": "00-0039854",
-      "name": "Darius Robinson",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "56",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hctx4lm0ru8shpgb4vkc",
-      "height": "77",
-      "weight": "285",
-      "experience": "2",
-      "college": "Missouri",
-      "depth_position": "RDE",
-      "depth_slot": "4",
-      "depth_rank": 1,
-      "depth_order": 13,
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hjtum8fdd1wbsqa2uufv",
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -2495,46 +2588,6 @@
           "stats": {},
           "weekly_stats": [
             {
-              "week": 1,
-              "opponent": "NO",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
               "week": 12,
               "opponent": "JAX",
               "stats": {}
@@ -2547,11 +2600,6 @@
             {
               "week": 14,
               "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "HOU",
               "stats": {}
             },
             {
@@ -2584,6 +2632,1331 @@
       ]
     },
     {
+      "id": "00-0038939",
+      "name": "Brodric Martin",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fxo9xafpvo3nphye3bwq",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040517",
+      "name": "Cam Horsley",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/twzqj6uora5h2qsutdxh",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041367",
+      "name": "Cam Robertson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uuczxjw4ass8y7h2sij8",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041468",
+      "name": "Chase Bisontis",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qb9l3hc9l6pytbgpwrmd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038877",
+      "name": "D'Shawn Jamison",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tpz66swcddlot6x1lcfz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 11,
+              "opponent": "CIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041369",
+      "name": "Damonic Williams",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/je6s5ezbps6ouanmle5p",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038792",
+      "name": "Demontrey Jacobs",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u3aknrx8tn2qjh8o4wua",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041597",
+      "name": "Devyn Bobby",
+      "position": "DB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041364",
+      "name": "Elijah Culp",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/byz0elucp4zkyalthjs1",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039956",
+      "name": "Elliott Brown",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b1ockqswt9tnan2fgiim",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040299",
+      "name": "Eugene Asante",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ktwpzrd5sqwfo0w81ez8",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038397",
+      "name": "Evan Hull",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xyyujk9mvvzegaiefp51",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 19,
+            "rushing_yards": 48,
+            "targets": 1,
+            "receptions": 1,
+            "receiving_yards": 6
+          },
+          "weekly_stats": [
+            {
+              "week": 13,
+              "opponent": "MIA",
+              "stats": {
+                "carries": 5,
+                "rushing_yards": 15
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "TB",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "CAR",
+              "stats": {
+                "carries": 4,
+                "rushing_yards": 12
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NYJ",
+              "stats": {
+                "carries": 5,
+                "rushing_yards": 3
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "TEN",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 3
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "ATL",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 11
+              }
+            }
+          ],
+          "team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041368",
+      "name": "Harrison Wallace III",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mxwpoysyvficq6vgvcdq",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040479",
+      "name": "Hudson Clark",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mljmmhm13oo8pxc7reag",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036635",
+      "name": "Ihmir Smith-Marsette",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mnfsun286mv5azpa8zaw",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039477",
+      "name": "Jack Browning",
+      "position": "P",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0033553",
+      "name": "James Conner",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ka8wlhtteg8hsowsdofk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 32,
+            "rushing_yards": 95,
+            "targets": 9,
+            "receptions": 8,
+            "receiving_yards": 38,
+            "receiving_tds": 1,
+            "rushing_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NO",
+              "stats": {
+                "carries": 12,
+                "rushing_yards": 39,
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 5,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "CAR",
+              "stats": {
+                "carries": 11,
+                "rushing_yards": 34,
+                "rushing_tds": 1,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 18
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {
+                "carries": 9,
+                "rushing_yards": 22,
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 15
+              }
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041366",
+      "name": "Jameson Geers",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c8jeabzy38oouigdr214",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040283",
+      "name": "Jared Harrison-Hunte",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zlu1tvw0ethftax8vcfa",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037141",
+      "name": "Joey Blount",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uxh3ge9oyjyl6qjwzx5g",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040576",
+      "name": "Josh Minkins",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ycuiofsxvlbphdmuln5k",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041555",
+      "name": "Kaleb Proctor",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/poc14gh4dkx2uqoronkr",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039239",
+      "name": "Kalen King",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ioicfjbnscvcn1hlzvxl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041594",
+      "name": "Keveion'ta Spears",
+      "position": "DL",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034417",
+      "name": "Matt Pryor",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vtt6isfbfk59jtxbma2l",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039767",
+      "name": "Quinton Newsome",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lszsh2ohujsuvqil5zsf",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040046",
+      "name": "Rivaldo Fairweather",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dlfhb5iydthvgpx1jhfv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039550",
+      "name": "Shawn Bowman",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fsmfihfrlibes4ihhauy",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038663",
+      "name": "Starling Thomas V",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wep63sxqoqc3yyyo8hds",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037277",
+      "name": "Teagan Quitoriano",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/adwepaexueevxdcqjhyf",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 12,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039737",
+      "name": "Tip Reiman",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yfi3fqch6kzqrcvuptal",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 5,
+            "receptions": 3,
+            "receiving_yards": 18
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NO",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 10
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040526",
+      "name": "Tre Stewart",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uqxyyn0fclnobbreyzod",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039921",
+      "name": "Trey Benson",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/liruc5jotnsi4ue9p9yx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 29,
+            "rushing_yards": 160,
+            "targets": 16,
+            "receptions": 13,
+            "receiving_yards": 64
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NO",
+              "stats": {
+                "carries": 8,
+                "rushing_yards": 69,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "CAR",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 14,
+                "targets": 6,
+                "receptions": 4,
+                "receiving_yards": 30
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {
+                "carries": 10,
+                "rushing_yards": 42,
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 9
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "SEA",
+              "stats": {
+                "carries": 8,
+                "rushing_yards": 35,
+                "targets": 5,
+                "receptions": 5,
+                "receiving_yards": 19
+              }
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040765",
+      "name": "Valentin Senn",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h95afg0gtx3x6ik2fgmp",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040712",
+      "name": "Vershon Lee",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yygtmj3azqkxi1est3eq",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039521",
+      "name": "Xavier Weaver",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kubeuin8fuw75xuxnhli",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 13,
+            "receptions": 7,
+            "receiving_yards": 67
+          },
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "SEA",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "SF",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 15
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "JAX",
+              "stats": {
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 9
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "TB",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "ATL",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 19
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 24
+              }
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037804",
+      "name": "Zachary Carter",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qvq8wnz7ssbxxuxxo9mn",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 5,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
       "id": "00-0038623",
       "name": "Dante Stills",
       "position": "DL",
@@ -2596,7 +3969,7 @@
       "college": "West Virginia",
       "depth_position": "RDE",
       "depth_slot": "4",
-      "depth_rank": 2,
+      "depth_rank": 1,
       "depth_order": 13,
       "stats": {},
       "weekly_stats": [],
@@ -2683,6 +4056,132 @@
             {
               "week": 14,
               "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039854",
+      "name": "Darius Robinson",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "56",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hctx4lm0ru8shpgb4vkc",
+      "height": "77",
+      "weight": "285",
+      "experience": "2",
+      "college": "Missouri",
+      "depth_position": "RDE",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 13,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "ATL",
               "stats": {}
             },
             {
@@ -2831,87 +4330,6 @@
       ]
     },
     {
-      "id": "00-0040706",
-      "name": "Walter Nolen",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "97",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jr8karjanloyyas4erxt",
-      "height": "76",
-      "weight": "305",
-      "experience": "1",
-      "college": "Mississippi; Texas A&M",
-      "depth_position": "RDT",
-      "depth_slot": "3",
-      "depth_rank": 1,
-      "depth_order": 25,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ari",
-            "name": "Arizona Cardinals",
-            "abbreviation": "ARI",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-            "colors": {
-              "primary": "#97233F",
-              "secondary": "#000000"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 9,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "ATL",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "ari",
-            "name": "Arizona Cardinals",
-            "abbreviation": "ARI",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-            "colors": {
-              "primary": "#97233F",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0033066",
       "name": "Andrew Billings",
       "position": "DL",
@@ -2922,10 +4340,10 @@
       "weight": "340",
       "experience": "10",
       "college": "Baylor",
-      "depth_position": "RDT",
-      "depth_slot": "3",
+      "depth_position": "LDT",
+      "depth_slot": "2",
       "depth_rank": 2,
-      "depth_order": 25,
+      "depth_order": 24,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -3043,6 +4461,87 @@
       ]
     },
     {
+      "id": "00-0040706",
+      "name": "Walter Nolen",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "97",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jr8karjanloyyas4erxt",
+      "height": "76",
+      "weight": "305",
+      "experience": "1",
+      "college": "Mississippi; Texas A&M",
+      "depth_position": "RDT",
+      "depth_slot": "3",
+      "depth_rank": 1,
+      "depth_order": 25,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 9,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "ATL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0035636",
       "name": "L.J. Collier",
       "position": "DL",
@@ -3055,7 +4554,7 @@
       "college": "TCU",
       "depth_position": "RDT",
       "depth_slot": "3",
-      "depth_rank": 3,
+      "depth_rank": 2,
       "depth_order": 25,
       "stats": {},
       "weekly_stats": [],
@@ -3366,10 +4865,10 @@
       "weight": "257",
       "experience": "3",
       "college": "Auburn",
-      "depth_position": "RDE",
-      "depth_slot": "4",
+      "depth_position": "LDE",
+      "depth_slot": "1",
       "depth_rank": 3,
-      "depth_order": 13,
+      "depth_order": 11,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -3412,257 +4911,6 @@
       ]
     },
     {
-      "id": "00-0040645",
-      "name": "Cody Simon",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "0",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/spyk3s7fvbcbz7vj32sg",
-      "height": "74",
-      "weight": "235",
-      "experience": "1",
-      "college": "Ohio State",
-      "depth_position": "WLB",
-      "depth_slot": "5",
-      "depth_rank": 1,
-      "depth_order": 26,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ari",
-            "name": "Arizona Cardinals",
-            "abbreviation": "ARI",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-            "colors": {
-              "primary": "#97233F",
-              "secondary": "#000000"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "NO",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "CIN",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "LA",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "ari",
-            "name": "Arizona Cardinals",
-            "abbreviation": "ARI",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-            "colors": {
-              "primary": "#97233F",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041093",
-      "name": "Karson Sharar",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "43",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pn4rwj6bnv1z3xykee5f",
-      "height": "73",
-      "weight": "231",
-      "experience": "0",
-      "college": "Iowa",
-      "depth_position": "WLB",
-      "depth_slot": "5",
-      "depth_rank": 2,
-      "depth_order": 26,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ari",
-            "name": "Arizona Cardinals",
-            "abbreviation": "ARI",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-            "colors": {
-              "primary": "#97233F",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0035144",
-      "name": "Mack Wilson",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "1",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zjazfilpr7k2agiwqpxn",
-      "height": "73",
-      "weight": "240",
-      "experience": "7",
-      "college": "Alabama",
-      "depth_position": "MLB",
-      "depth_slot": "6",
-      "depth_rank": 1,
-      "depth_order": 27,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ari",
-            "name": "Arizona Cardinals",
-            "abbreviation": "ARI",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-            "colors": {
-              "primary": "#97233F",
-              "secondary": "#000000"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "def_interceptions": 1
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "NO",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "IND",
-              "stats": {
-                "def_interceptions": 1
-              }
-            },
-            {
-              "week": 7,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "DAL",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "ari",
-            "name": "Arizona Cardinals",
-            "abbreviation": "ARI",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-            "colors": {
-              "primary": "#97233F",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0037596",
       "name": "Jack Gibbens",
       "position": "LB",
@@ -3673,10 +4921,10 @@
       "weight": "245",
       "experience": "4",
       "college": "Minnesota; Abilene Christian",
-      "depth_position": "MLB",
-      "depth_slot": "6",
-      "depth_rank": 2,
-      "depth_order": 27,
+      "depth_position": "WLB",
+      "depth_slot": "5",
+      "depth_rank": 1,
+      "depth_order": 26,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -3813,6 +5061,257 @@
             "colors": {
               "primary": "#002244",
               "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041093",
+      "name": "Karson Sharar",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "43",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pn4rwj6bnv1z3xykee5f",
+      "height": "73",
+      "weight": "231",
+      "experience": "0",
+      "college": "Iowa",
+      "depth_position": "WLB",
+      "depth_slot": "5",
+      "depth_rank": 2,
+      "depth_order": 26,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0035144",
+      "name": "Mack Wilson",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "1",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zjazfilpr7k2agiwqpxn",
+      "height": "73",
+      "weight": "240",
+      "experience": "7",
+      "college": "Alabama",
+      "depth_position": "MLB",
+      "depth_slot": "6",
+      "depth_rank": 1,
+      "depth_order": 27,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "IND",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DAL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040645",
+      "name": "Cody Simon",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "0",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/spyk3s7fvbcbz7vj32sg",
+      "height": "74",
+      "weight": "235",
+      "experience": "1",
+      "college": "Ohio State",
+      "depth_position": "MLB",
+      "depth_slot": "6",
+      "depth_rank": 2,
+      "depth_order": 27,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
             }
           }
         }
@@ -5271,10 +6770,10 @@
       "weight": "210",
       "experience": "4",
       "college": "N.C. State",
-      "depth_position": "PR",
-      "depth_slot": "4",
+      "depth_position": "RB",
+      "depth_slot": "11",
       "depth_rank": 3,
-      "depth_order": 76,
+      "depth_order": 9,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -5548,6 +7047,117 @@
       ]
     },
     {
+      "id": "00-0038984",
+      "name": "Kei'Trel Clark",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "13",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mcmz4ef4fvvoqapbf8rf",
+      "height": "70",
+      "weight": "177",
+      "experience": "3",
+      "college": "Louisville",
+      "depth_position": "LCB",
+      "depth_slot": "8",
+      "depth_rank": 2,
+      "depth_order": 18,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "HOU",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0040195",
       "name": "Denzel Burke",
       "position": "DB",
@@ -5677,16 +7287,16 @@
       ]
     },
     {
-      "id": "00-0039807",
-      "name": "Max Melton",
+      "id": "00-0039007",
+      "name": "Garrett Williams",
       "position": "DB",
       "group": "Safeties",
-      "number": "16",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xaapgpd73nebdqnztyp1",
-      "height": "71",
-      "weight": "190",
-      "experience": "2",
-      "college": "Rutgers",
+      "number": "21",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/av20qv7vnk7arcnw25bd",
+      "height": "70",
+      "weight": "189",
+      "experience": "3",
+      "college": "Syracuse",
       "depth_position": "RCB",
       "depth_slot": "11",
       "depth_rank": 2,
@@ -5711,7 +7321,9 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_interceptions": 1
+          },
           "weekly_stats": [
             {
               "week": 1,
@@ -5724,28 +7336,13 @@
               "stats": {}
             },
             {
-              "week": 3,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
               "week": 9,
               "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "SEA",
               "stats": {}
             },
             {
@@ -5756,6 +7353,28 @@
             {
               "week": 12,
               "opponent": "JAX",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "ATL",
               "stats": {}
             }
           ],
@@ -5908,16 +7527,16 @@
       ]
     },
     {
-      "id": "00-0040230",
-      "name": "Kitan Crawford",
+      "id": "00-0039864",
+      "name": "Dadrion Taylor-Demerson",
       "position": "DB",
       "group": "Safeties",
-      "number": "36",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/puy0uqictbwcojpkmmrr",
-      "height": "71",
-      "weight": "204",
-      "experience": "1",
-      "college": "Nevada; Texas",
+      "number": "42",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w4wcod46hxptpseyi6o3",
+      "height": "70",
+      "weight": "195",
+      "experience": "2",
+      "college": "Texas Tech",
       "depth_position": "SS",
       "depth_slot": "9",
       "depth_rank": 2,
@@ -5942,8 +7561,15 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_interceptions": 2
+          },
           "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NO",
+              "stats": {}
+            },
             {
               "week": 2,
               "opponent": "CAR",
@@ -5952,7 +7578,9 @@
             {
               "week": 3,
               "opponent": "SF",
-              "stats": {}
+              "stats": {
+                "def_interceptions": 1
+              }
             },
             {
               "week": 4,
@@ -5962,11 +7590,23 @@
             {
               "week": 5,
               "opponent": "TEN",
-              "stats": {}
+              "stats": {
+                "def_interceptions": 1
+              }
             },
             {
               "week": 6,
               "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DAL",
               "stats": {}
             },
             {
@@ -5975,28 +7615,18 @@
               "stats": {}
             },
             {
-              "week": 11,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
               "week": 16,
               "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "LA",
               "stats": {}
             }
           ],
@@ -6018,7 +7648,7 @@
       "name": "Andrew Wingard",
       "position": "DB",
       "group": "Safeties",
-      "number": "27",
+      "number": "28",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lueoe3vqsknnvax0gnmf",
       "height": "72",
       "weight": "209",
@@ -6154,16 +7784,16 @@
       ]
     },
     {
-      "id": "00-0039864",
-      "name": "Dadrion Taylor-Demerson",
+      "id": "00-0040230",
+      "name": "Kitan Crawford",
       "position": "DB",
       "group": "Safeties",
-      "number": "42",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w4wcod46hxptpseyi6o3",
-      "height": "70",
-      "weight": "195",
-      "experience": "2",
-      "college": "Texas Tech",
+      "number": "36",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/puy0uqictbwcojpkmmrr",
+      "height": "71",
+      "weight": "204",
+      "experience": "1",
+      "college": "Nevada; Texas",
       "depth_position": "FS",
       "depth_slot": "10",
       "depth_rank": 2,
@@ -6188,15 +7818,8 @@
         },
         {
           "season": 2025,
-          "stats": {
-            "def_interceptions": 2
-          },
+          "stats": {},
           "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "NO",
-              "stats": {}
-            },
             {
               "week": 2,
               "opponent": "CAR",
@@ -6205,9 +7828,7 @@
             {
               "week": 3,
               "opponent": "SF",
-              "stats": {
-                "def_interceptions": 1
-              }
+              "stats": {}
             },
             {
               "week": 4,
@@ -6217,23 +7838,11 @@
             {
               "week": 5,
               "opponent": "TEN",
-              "stats": {
-                "def_interceptions": 1
-              }
+              "stats": {}
             },
             {
               "week": 6,
               "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "DAL",
               "stats": {}
             },
             {
@@ -6242,18 +7851,28 @@
               "stats": {}
             },
             {
+              "week": 11,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
               "week": 16,
               "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "CIN",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "LA",
               "stats": {}
             }
           ],
@@ -6306,16 +7925,16 @@
       ]
     },
     {
-      "id": "00-0039007",
-      "name": "Garrett Williams",
+      "id": "00-0039807",
+      "name": "Max Melton",
       "position": "DB",
       "group": "Safeties",
-      "number": "21",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/av20qv7vnk7arcnw25bd",
-      "height": "70",
-      "weight": "189",
-      "experience": "3",
-      "college": "Syracuse",
+      "number": "16",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xaapgpd73nebdqnztyp1",
+      "height": "71",
+      "weight": "190",
+      "experience": "2",
+      "college": "Rutgers",
       "depth_position": "NB",
       "depth_slot": "12",
       "depth_rank": 1,
@@ -6340,113 +7959,13 @@
         },
         {
           "season": 2025,
-          "stats": {
-            "def_interceptions": 1
-          },
+          "stats": {},
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "NO",
               "stats": {}
             },
-            {
-              "week": 2,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "JAX",
-              "stats": {
-                "def_interceptions": 1
-              }
-            },
-            {
-              "week": 13,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "ATL",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "ari",
-            "name": "Arizona Cardinals",
-            "abbreviation": "ARI",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-            "colors": {
-              "primary": "#97233F",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038984",
-      "name": "Kei'Trel Clark",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "13",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mcmz4ef4fvvoqapbf8rf",
-      "height": "70",
-      "weight": "177",
-      "experience": "3",
-      "college": "Louisville",
-      "depth_position": "NB",
-      "depth_slot": "12",
-      "depth_rank": 2,
-      "depth_order": 34,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "ari",
-            "name": "Arizona Cardinals",
-            "abbreviation": "ARI",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-            "colors": {
-              "primary": "#97233F",
-              "secondary": "#000000"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
             {
               "week": 2,
               "opponent": "CAR",
@@ -6460,11 +7979,6 @@
             {
               "week": 4,
               "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "TEN",
               "stats": {}
             },
             {
@@ -6483,11 +7997,6 @@
               "stats": {}
             },
             {
-              "week": 10,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
               "week": 11,
               "opponent": "SF",
               "stats": {}
@@ -6495,16 +8004,6 @@
             {
               "week": 12,
               "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "HOU",
               "stats": {}
             }
           ],
@@ -7188,7 +8687,7 @@
       "name": "Hunter Long",
       "position": "TE",
       "group": "Tight Ends",
-      "number": "84",
+      "number": "89",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wlj6sdfj5qcy8bt2qyxb",
       "height": "77",
       "weight": "253",
@@ -7659,7 +9158,7 @@
       "name": "Jalen Brooks",
       "position": "WR",
       "group": "Wide Receivers",
-      "number": "86",
+      "number": "83",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xeg0tvg6klf0afgddkq6",
       "height": "74",
       "weight": "205",
@@ -7754,8 +9253,8 @@
       "experience": "0",
       "college": "Texas Tech; Miami (Ohio)",
       "depth_position": "WR",
-      "depth_slot": "2",
-      "depth_rank": 5,
+      "depth_slot": "8",
+      "depth_rank": 6,
       "depth_order": 1,
       "stats": {},
       "weekly_stats": [],
@@ -8034,10 +9533,10 @@
       "weight": "209",
       "experience": "3",
       "college": "Stanford",
-      "depth_position": "KR",
-      "depth_slot": "5",
+      "depth_position": "PR",
+      "depth_slot": "4",
       "depth_rank": 2,
-      "depth_order": 77,
+      "depth_order": 76,
       "stats": {},
       "weekly_stats": [],
       "seasons": [

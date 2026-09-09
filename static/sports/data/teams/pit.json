@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "pit",
@@ -46,7 +46,7 @@
       "injuries": [
         {
           "team": "Atlanta Falcons",
-          "player": "Gervon Dexter",
+          "player": "Gervon Dexter Sr.",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -58,25 +58,25 @@
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Michael Penix",
+          "player": "Michael Penix Jr.",
           "status": "Questionable",
           "detail": "Knee - ACL"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Tyrone Wheatley",
+          "player": "Tyrone Wheatley Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "James Pearce",
+          "player": "James Pearce Jr.",
           "status": "Out",
           "detail": "Suspension"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Billy Bowman",
+          "player": "Billy Bowman Jr.",
           "status": "Questionable",
           "detail": "Achilles"
         },
@@ -252,13 +252,43 @@
         },
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -332,7 +362,7 @@
         },
         {
           "team": "Cincinnati Bengals",
-          "player": "Dax Hill",
+          "player": "Daxton Hill",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -532,7 +562,7 @@
         },
         {
           "team": "Cleveland Browns",
-          "player": "Michael Coats",
+          "player": "Michael Coats Jr.",
           "status": "Questionable",
           "detail": "Ankle"
         }
@@ -576,7 +606,7 @@
         },
         {
           "team": "Indianapolis Colts",
-          "player": "AJ Haulcy",
+          "player": "A.J. Haulcy",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -794,7 +824,7 @@
         },
         {
           "team": "Tampa Bay Buccaneers",
-          "player": "Rueben Bain",
+          "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
         }
@@ -922,7 +952,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Lorenzo Styles",
+          "player": "Lorenzo Styles Jr.",
           "status": "Questionable",
           "detail": "Calf"
         },
@@ -952,7 +982,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Chris Rumph",
+          "player": "Chris Rumph II",
           "status": "Questionable",
           "detail": "Ankle"
         }
@@ -1014,7 +1044,7 @@
         },
         {
           "team": "Cleveland Browns",
-          "player": "Michael Coats",
+          "player": "Michael Coats Jr.",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -1184,7 +1214,7 @@
         },
         {
           "team": "Cincinnati Bengals",
-          "player": "Dax Hill",
+          "player": "Daxton Hill",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -1398,7 +1428,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1732,13 +1762,13 @@
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -2395,206 +2425,1222 @@
     {
       "id": "00-0041598",
       "name": "Alex Tecza",
-      "position": "RB"
+      "position": "RB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
-      "id": "00-0039783",
-      "name": "Anthony Goodlow",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nyluqyk0urg2bdfsajdk"
+      "id": "00-0040914",
+      "name": "Bishop Fitzgerald",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zwvgypmxdepwclfbylft",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040176",
+      "name": "Bradyn Swinson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p1o2oozwlyzyuaomskb9",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 12,
+              "opponent": "CIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038644",
       "name": "Brandon Hill",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cmhc0px1zf7xuxcqbqng"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cmhc0px1zf7xuxcqbqng",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037382",
+      "name": "Brandon Johnson",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pjdx1jdr9snczoeyevli",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036775",
       "name": "Brandon Smith",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h4ezdffu0biwqoxn7bql"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h4ezdffu0biwqoxn7bql",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040322",
+      "name": "Car'lin Vigers",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qfzzvmakz9ixkjq2mxio",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039626",
       "name": "Cole Burgess",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vlp9c4lmddujjj46gz6p"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vlp9c4lmddujjj46gz6p",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036647",
       "name": "Cornell Powell",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/vnpyhf8dp1opjhvyotff"
-    },
-    {
-      "id": "00-0038877",
-      "name": "D'Shawn Jamison",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tpz66swcddlot6x1lcfz"
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/vnpyhf8dp1opjhvyotff",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039883",
       "name": "Daequan Hardy",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ufab4bt7hohj24mzr91v"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ufab4bt7hohj24mzr91v",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040365",
       "name": "Daryl Porter",
-      "position": "DB"
+      "position": "DB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0034277",
       "name": "DeShon Elliott",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hf9qrjvja3ej77feihts"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hf9qrjvja3ej77feihts",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "MIN",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "GB",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041259",
       "name": "Devan Boykin",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/empcnsnojmeby4w3fi57"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/empcnsnojmeby4w3fi57",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040341",
       "name": "Doneiko Slaughter",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z2wtosdw9ioeckp4sfo4"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z2wtosdw9ioeckp4sfo4",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040232",
       "name": "Donte Kent",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mpa9scrhykgo3snyjmjx"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mpa9scrhykgo3snyjmjx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039716",
       "name": "Doug Nester",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jpcuavjkhh8b0oe3kor7"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jpcuavjkhh8b0oe3kor7",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037274",
       "name": "Esezi Otomewo",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kebjbuk4q1algng5hf3b"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kebjbuk4q1algng5hf3b",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 8,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "HOU",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041430",
       "name": "Greg Crippen",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bsgebzdsvzkglkpkeulb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bsgebzdsvzkglkpkeulb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038883",
       "name": "Isaiah Winstead",
-      "position": "WR"
+      "position": "WR",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036396",
       "name": "Jack Driscoll",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dpxtqqekpghx23t7gb4j"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dpxtqqekpghx23t7gb4j",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040284",
       "name": "Jack Henderson",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lak0d9wrhu5k70g9hqzb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lak0d9wrhu5k70g9hqzb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039457",
       "name": "Jacoby Windmon",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ejvqgmzpnbiitpype3yt"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ejvqgmzpnbiitpype3yt",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039420",
       "name": "Jaheim Bell",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/swxvhppaewwccieyx6ax"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/swxvhppaewwccieyx6ax",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040388",
       "name": "Jakobie Keeney-James",
-      "position": "WR"
+      "position": "WR",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 2,
+            "receptions": 2,
+            "receiving_yards": 15
+          },
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "MIN",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 15
+              }
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041147",
       "name": "Jaylon Guilbeau",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fmacvoyzqgwibr3oltid"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fmacvoyzqgwibr3oltid",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039931",
       "name": "Julius Welschof",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lf5uheuobwt4ysekvqvk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lf5uheuobwt4ysekvqvk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039609",
       "name": "Kyler Baugh",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eudnrort6lravlzivtxo"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eudnrort6lravlzivtxo",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041263",
       "name": "Lake McRee",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z44mxfva1mljsixo7c2l"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z44mxfva1mljsixo7c2l",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040974",
       "name": "Lance Mason",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e0rzvcajpcfosxnmxj2j"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e0rzvcajpcfosxnmxj2j",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040976",
       "name": "Levi Wentz",
-      "position": "WR"
+      "position": "WR",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038409",
       "name": "Lew Nichols III",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/plqg1yngo8vvs8ths7aw"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/plqg1yngo8vvs8ths7aw",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 9,
+              "opponent": "IND",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039389",
       "name": "Logan Lee",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/py0b0ngp7hcrt4asr9fr"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/py0b0ngp7hcrt4asr9fr",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 14,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "BAL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040618",
       "name": "Max Hurleman",
-      "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/axybwbw7inp1vu7xxf0t"
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/axybwbw7inp1vu7xxf0t",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040527",
       "name": "Sebastian Castro",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/df4sh5ddoseg7d5bbl6q"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/df4sh5ddoseg7d5bbl6q",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "CLE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039555",
       "name": "Steven Jones",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ahielgnveyyymgeql5gp"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ahielgnveyyymgeql5gp",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041488",
       "name": "Tamon Lynum",
-      "position": "DB"
+      "position": "DB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035594",
       "name": "Travis Homer",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dyyclvfaagspov2ydf3i"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dyyclvfaagspov2ydf3i",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 1,
+            "rushing_yards": -2
+          },
+          "weekly_stats": [
+            {
+              "week": 7,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "MIN",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": -2
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "DET",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -2750,16 +3796,16 @@
       ]
     },
     {
-      "id": "00-0040188",
-      "name": "Yahya Black",
+      "id": "00-0039110",
+      "name": "Keeanu Benton",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "94",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ndy8wevnmpdrin3espb5",
-      "height": "77",
-      "weight": "279",
-      "experience": "1",
-      "college": "Iowa",
+      "number": "95",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gmc2bdwzpvi0bkklmpjw",
+      "height": "76",
+      "weight": "290",
+      "experience": "3",
+      "college": "Wisconsin",
       "depth_position": "NT",
       "depth_slot": "2",
       "depth_rank": 1,
@@ -2802,8 +3848,28 @@
               "stats": {}
             },
             {
+              "week": 4,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
               "week": 8,
               "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "IND",
               "stats": {}
             },
             {
@@ -2829,6 +3895,11 @@
             {
               "week": 14,
               "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "MIA",
               "stats": {}
             },
             {
@@ -3133,16 +4204,16 @@
       ]
     },
     {
-      "id": "00-0039110",
-      "name": "Keeanu Benton",
+      "id": "00-0040188",
+      "name": "Yahya Black",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "95",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gmc2bdwzpvi0bkklmpjw",
-      "height": "76",
-      "weight": "290",
-      "experience": "3",
-      "college": "Wisconsin",
+      "number": "94",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ndy8wevnmpdrin3espb5",
+      "height": "77",
+      "weight": "279",
+      "experience": "1",
+      "college": "Iowa",
       "depth_position": "RDE",
       "depth_slot": "3",
       "depth_rank": 2,
@@ -3185,28 +4256,8 @@
               "stats": {}
             },
             {
-              "week": 4,
-              "opponent": "MIN",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "CLE",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "CIN",
-              "stats": {}
-            },
-            {
               "week": 8,
               "opponent": "GB",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "IND",
               "stats": {}
             },
             {
@@ -3232,11 +4283,6 @@
             {
               "week": 14,
               "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "MIA",
               "stats": {}
             },
             {
@@ -6477,6 +7523,41 @@
       ]
     },
     {
+      "id": "00-0041401",
+      "name": "Robert Spears-Jennings",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "28",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e0h7triczbebvcoqdgnx",
+      "height": "73",
+      "weight": "205",
+      "experience": "0",
+      "college": "Oklahoma",
+      "depth_position": "FS",
+      "depth_slot": "10",
+      "depth_rank": 2,
+      "depth_order": 21,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0033055",
       "name": "Jalen Ramsey",
       "position": "DB",
@@ -6742,37 +7823,6 @@
               }
             }
           ],
-          "team": {
-            "id": "pit",
-            "name": "Pittsburgh Steelers",
-            "abbreviation": "PIT",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-            "colors": {
-              "primary": "#101820",
-              "secondary": "#FFB612"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041401",
-      "name": "Robert Spears-Jennings",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "28",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e0h7triczbebvcoqdgnx",
-      "height": "73",
-      "weight": "205",
-      "experience": "0",
-      "college": "Oklahoma",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
           "team": {
             "id": "pit",
             "name": "Pittsburgh Steelers",

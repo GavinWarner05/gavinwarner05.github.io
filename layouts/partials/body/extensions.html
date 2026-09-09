@@ -4,6 +4,9 @@
   You can add further theme extensions or customizations here if needed.
 */}}
 {{ if eq .Section "sports" -}}
+  {{ with resources.Get "js/sports-share.js" }}
+    {{ if hugo.IsServer }}<script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>{{ else }}{{ $shareScript := . | minify | fingerprint }}<script src="{{ $shareScript.RelPermalink }}" integrity="{{ $shareScript.Data.Integrity }}" crossorigin="anonymous"></script>{{ end }}
+  {{ end }}
   {{ with resources.Get "js/sports-pwa.js" }}
     {{ if hugo.IsServer }}<script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>{{ else }}{{ $pwaScript := . | minify | fingerprint }}<script src="{{ $pwaScript.RelPermalink }}" integrity="{{ $pwaScript.Data.Integrity }}" crossorigin="anonymous"></script>{{ end }}
   {{ end }}

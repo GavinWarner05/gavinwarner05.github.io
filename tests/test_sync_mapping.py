@@ -56,6 +56,15 @@ class SyncMappingTests(unittest.TestCase):
         rows = [{"display_name": "Daxton Hill", "latest_team": "CIN"}, {"display_name": "Drew Hill", "latest_team": "ATL"}]
         self.assertEqual(self.sync.directory_player_match(rows, "Dax Hill", "CIN")["display_name"], "Daxton Hill")
 
+    def test_duplicate_injuries_collapse_after_names_are_canonicalized(self):
+        injuries = [
+            {"player": "Irvin Charles", "status": "IR/PUP", "detail": "Reserve list"},
+            {"player": "Irvin Charles", "status": "IR/PUP", "detail": "Knee"},
+        ]
+        result = self.sync.dedupe_injuries(injuries)
+        self.assertEqual(len(result), 1)
+        self.assertEqual(result[0]["detail"], "Knee")
+
     def test_database_with_one_source_resolves_automatically(self):
         original = self.sync.notion
         self.sync.notion = lambda *_args, **_kwargs: {"data_sources": [{"id": "resolved-source", "name": "Games"}]}

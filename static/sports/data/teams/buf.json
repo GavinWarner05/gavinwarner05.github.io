@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "buf",
@@ -252,7 +252,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -380,7 +380,7 @@
         },
         {
           "team": "Los Angeles Chargers",
-          "player": "Tre' Harris",
+          "player": "Tre Harris",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -490,13 +490,43 @@
       "injuries": [
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -675,6 +705,48 @@
           "player": "Khalil Shakir",
           "status": "Questionable",
           "detail": "Undisclosed"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Byron Young",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Jaylen Watson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Grant Stuard",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alaric Jackson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Myles Garrett",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Tyler Higbee",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Aaron Donald",
+          "status": "Out",
+          "detail": "Injury"
         },
         {
           "team": "Los Angeles Rams",
@@ -1306,7 +1378,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Ollie Gordon",
+          "player": "Ollie Gordon II",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -1318,7 +1390,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Darrell Baker",
+          "player": "Darrell Baker Jr.",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1434,7 +1506,7 @@
         },
         {
           "team": "Kansas City Chiefs",
-          "player": "Kenneth Walker",
+          "player": "Kenneth Walker III",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1628,13 +1700,43 @@
         },
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1908,13 +2010,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2090,7 +2192,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -2248,7 +2350,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Ollie Gordon",
+          "player": "Ollie Gordon II",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -2260,7 +2362,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Darrell Baker",
+          "player": "Darrell Baker Jr.",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2522,210 +2624,1720 @@
       "id": "00-0038635",
       "name": "Andre Jones Jr.",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jnapl3qjyekmgvxm4bgd"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jnapl3qjyekmgvxm4bgd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 16,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "JAX",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038848",
       "name": "Anthony Kendall",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kgha3oguelser2rcl2lp"
-    },
-    {
-      "id": "00-0038489",
-      "name": "Ben VanSumeren",
-      "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ncnb1nwr2b1usus557xy"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kgha3oguelser2rcl2lp",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041270",
       "name": "Bruno Fina",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sorqnhd2f5m8kkhvplz9"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sorqnhd2f5m8kkhvplz9",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041268",
       "name": "Cade Denhoff",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/de1druhuhxbjd2rwgzow"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/de1druhuhxbjd2rwgzow",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040217",
       "name": "Chase Lundt",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hqknakwjpyhsqecrcl1c"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hqknakwjpyhsqecrcl1c",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039322",
       "name": "D.J. Miller",
-      "position": "DB"
+      "position": "DB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041224",
       "name": "Da'Metrius Weatherspoon",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wlyiq9kmokj9sjakgcdd"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wlyiq9kmokj9sjakgcdd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035020",
       "name": "Demetrius Flannigan-Fowles",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fdscbr72gkwbdwv1z4qd"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fdscbr72gkwbdwv1z4qd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "DAL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040197",
       "name": "Dorian Strong",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/alxdcy6excheslkfjcfk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/alxdcy6excheslkfjcfk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NO",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039471",
       "name": "Frank Gore Jr.",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qzf7faowlqoh5nengpq5"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qzf7faowlqoh5nengpq5",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 1,
+            "receptions": 1,
+            "receiving_yards": 6
+          },
+          "weekly_stats": [
+            {
+              "week": 19,
+              "opponent": "JAX",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 20,
+              "opponent": "DEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036199",
       "name": "Geno Stone",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sgf49brnj161yst22imt"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sgf49brnj161yst22imt",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "GB",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NE",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "CLE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0035500",
+      "name": "Greg Dortch",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pylafoddjiqh4rhjlhpf",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 33,
+            "receptions": 29,
+            "receiving_yards": 206,
+            "carries": 7,
+            "rushing_yards": 15,
+            "receiving_tds": 3,
+            "rushing_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NO",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": -2
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "CAR",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 11
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 5,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "SEA",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4,
+                "targets": 5,
+                "receptions": 4,
+                "receiving_yards": 35
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "IND",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 9,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "GB",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 5
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 9
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "SEA",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 2,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "SF",
+              "stats": {
+                "targets": 6,
+                "receptions": 6,
+                "receiving_yards": 66,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "JAX",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": -5,
+                "targets": 9,
+                "receptions": 6,
+                "receiving_yards": 53,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "TB",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 14
+              }
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039466",
       "name": "Ian Wheeler",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qxewapbjpqnku0yltsza"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qxewapbjpqnku0yltsza",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041272",
       "name": "Ja'Mori Maclin",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pzy27lpwlernu820cyfd"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pzy27lpwlernu820cyfd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036267",
       "name": "Jedrick Wills",
-      "position": "OT",
-      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/yb2yk8uqsoakf8yyrlf9"
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/yb2yk8uqsoakf8yyrlf9",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039277",
       "name": "Jimmy Ciarlo",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t0hjumfjcgkggvfe2rbp"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t0hjumfjcgkggvfe2rbp",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041269",
       "name": "Jordan Dunbar",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/a1yvdwzblvcjpmxpvlvy"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/a1yvdwzblvcjpmxpvlvy",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041275",
       "name": "Kani Walker",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ygzyjhm5detd5jmkogv2"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ygzyjhm5detd5jmkogv2",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040362",
       "name": "Keonta Jenkins",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ss0czp5cbgns7jmngkpf"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ss0czp5cbgns7jmngkpf",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "NYJ",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041274",
       "name": "Max Tomczak",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ajbrniyekvuia9kmnewk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ajbrniyekvuia9kmnewk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038633",
       "name": "Nick Broeker",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ho1hflkakgdwhwzj7eyu"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ho1hflkakgdwhwzj7eyu",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038853",
       "name": "Otis Reese",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ep7viam10hnxhva90fbl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ep7viam10hnxhva90fbl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038099",
       "name": "Phidarian Mathis",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dtyx342zos6eqmy7tpfe"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dtyx342zos6eqmy7tpfe",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 5,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "NYJ",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040406",
       "name": "Quentin Skinner",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s7ln3ugfuknhx2tedii2"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s7ln3ugfuknhx2tedii2",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 1,
+            "receptions": 1,
+            "receiving_yards": 10
+          },
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 10
+              }
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036679",
       "name": "Shane Buechele",
       "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kmbuzxucmmytpuoy8yfc"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kmbuzxucmmytpuoy8yfc",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "completions": 7,
+            "attempts": 14,
+            "passing_yards": 88,
+            "carries": 1,
+            "rushing_yards": 4
+          },
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "LV",
+              "stats": {
+                "completions": 7,
+                "attempts": 14,
+                "passing_yards": 88,
+                "carries": 1,
+                "rushing_yards": 4
+              }
+            }
+          ],
+          "team": {
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "colors": {
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0031550",
+      "name": "Shaq Thompson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rk9qairtsyrzdoznvmen",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "JAX",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 20,
+              "opponent": "DEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039612",
       "name": "Sincere Haynesworth",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/inwsjivq2x6ksw2tuq0v"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/inwsjivq2x6ksw2tuq0v",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040361",
       "name": "Stephen Gosnell",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/csh3lsy1zg3c5z2o5evs"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/csh3lsy1zg3c5z2o5evs",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039469",
       "name": "Te'Cory Couch",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vzh2dirtk77zm4vig1lx"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vzh2dirtk77zm4vig1lx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041223",
       "name": "Theron Gaines",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yvdxgr34oofhvnd0q7b1"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yvdxgr34oofhvnd0q7b1",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039930",
       "name": "Travis Clayton",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kq4lpqi59mjywh5mfmwo"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kq4lpqi59mjywh5mfmwo",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0034487",
       "name": "Trent Sherfield",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iiig88xbj5zeau59ifvv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iiig88xbj5zeau59ifvv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 5,
+            "receptions": 3,
+            "receiving_yards": 21
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "IND",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 15
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "LA",
+              "stats": {
+                "targets": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038679",
       "name": "Tyrell Shavers",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r9nabownt8mbqlj730su"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r9nabownt8mbqlj730su",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 25,
+            "receptions": 16,
+            "receiving_yards": 259,
+            "receiving_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "NYJ",
+              "stats": {
+                "targets": 2
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 24
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NE",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "ATL",
+              "stats": {
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 27
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "KC",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 7
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 24
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "TB",
+              "stats": {
+                "targets": 5,
+                "receptions": 4,
+                "receiving_yards": 90,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 16
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 21
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 36
+              }
+            },
+            {
+              "week": 19,
+              "opponent": "JAX",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 14
+              }
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040364",
       "name": "Wande Owens",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/scgwqpustwfmfouwk8u5"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/scgwqpustwfmfouwk8u5",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041091",
       "name": "Zane Durant",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nsnvwr7nu8pvfgneooy6"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nsnvwr7nu8pvfgneooy6",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039400",
       "name": "Zion Logue",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yvkguckrkwcvlzmx3txz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yvkguckrkwcvlzmx3txz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -2817,6 +4429,41 @@
               "stats": {}
             }
           ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040132",
+      "name": "Landon Jackson",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "94",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q388glnv5me6fniielsz",
+      "height": "78",
+      "weight": "264",
+      "experience": "1",
+      "college": "Arkansas; LSU",
+      "depth_position": "LDE",
+      "depth_slot": "1",
+      "depth_rank": 2,
+      "depth_order": 11,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "buf",
             "name": "Buffalo Bills",
@@ -2971,107 +4618,6 @@
       ]
     },
     {
-      "id": "00-0039873",
-      "name": "DeWayne Carter",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "90",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/somthlvcx5v20nqmu85n",
-      "height": "74",
-      "weight": "305",
-      "experience": "2",
-      "college": "Duke",
-      "depth_position": "NT",
-      "depth_slot": "2",
-      "depth_rank": 2,
-      "depth_order": 12,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-            "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0035230",
-      "name": "Ed Oliver",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "91",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wqmheiax6xnk7pvcdzav",
-      "height": "73",
-      "weight": "287",
-      "experience": "7",
-      "college": "Houston",
-      "depth_position": "RDE",
-      "depth_slot": "3",
-      "depth_rank": 1,
-      "depth_order": 13,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-            "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "CAR",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-            "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0035667",
       "name": "Greg Gaines",
       "position": "DL",
@@ -3082,10 +4628,10 @@
       "weight": "312",
       "experience": "7",
       "college": "Washington",
-      "depth_position": "RDE",
-      "depth_slot": "3",
+      "depth_position": "NT",
+      "depth_slot": "2",
       "depth_rank": 2,
-      "depth_order": 13,
+      "depth_order": 12,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -3193,20 +4739,20 @@
       ]
     },
     {
-      "id": "00-0040132",
-      "name": "Landon Jackson",
+      "id": "00-0035230",
+      "name": "Ed Oliver",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "94",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q388glnv5me6fniielsz",
-      "height": "78",
-      "weight": "264",
-      "experience": "1",
-      "college": "Arkansas; LSU",
-      "depth_position": "WLB",
-      "depth_slot": "4",
-      "depth_rank": 4,
-      "depth_order": 26,
+      "number": "91",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wqmheiax6xnk7pvcdzav",
+      "height": "73",
+      "weight": "287",
+      "experience": "7",
+      "college": "Houston",
+      "depth_position": "RDE",
+      "depth_slot": "3",
+      "depth_rank": 1,
+      "depth_order": 13,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -3224,24 +4770,55 @@
               "secondary": "#C60C30"
             }
           }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CAR",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
         }
       ]
     },
     {
-      "id": "00-0041444",
-      "name": "Kaleb Elarms-Orr",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "52",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uagxpthu9yavvnupay9y",
+      "id": "00-0039873",
+      "name": "DeWayne Carter",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "90",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/somthlvcx5v20nqmu85n",
       "height": "74",
-      "weight": "234",
-      "experience": "0",
-      "college": "TCU; California",
-      "depth_position": "LILB",
-      "depth_slot": "5",
-      "depth_rank": 1,
-      "depth_order": 15,
+      "weight": "305",
+      "experience": "2",
+      "college": "Duke",
+      "depth_position": "RDE",
+      "depth_slot": "3",
+      "depth_rank": 2,
+      "depth_order": 13,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -3275,7 +4852,7 @@
       "college": "Tulane",
       "depth_position": "LILB",
       "depth_slot": "5",
-      "depth_rank": 2,
+      "depth_rank": 1,
       "depth_order": 15,
       "stats": {},
       "weekly_stats": [],
@@ -3390,6 +4967,41 @@
               "stats": {}
             }
           ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041444",
+      "name": "Kaleb Elarms-Orr",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "52",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uagxpthu9yavvnupay9y",
+      "height": "74",
+      "weight": "234",
+      "experience": "0",
+      "college": "TCU; California",
+      "depth_position": "LILB",
+      "depth_slot": "5",
+      "depth_rank": 2,
+      "depth_order": 15,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "buf",
             "name": "Buffalo Bills",
@@ -3852,16 +5464,16 @@
       ]
     },
     {
-      "id": "00-0039879",
-      "name": "Javon Solomon",
+      "id": "00-0036378",
+      "name": "Michael Danna",
       "position": "LB",
       "group": "Linebackers",
-      "number": "56",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sjftmvhxpsr0zvtqywnt",
-      "height": "73",
-      "weight": "249",
-      "experience": "2",
-      "college": "Troy",
+      "number": "51",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/brbpgu0xj2w0egcy5pid",
+      "height": "74",
+      "weight": "255",
+      "experience": "6",
+      "college": "Michigan",
       "depth_position": "WLB",
       "depth_slot": "4",
       "depth_rank": 3,
@@ -3886,87 +5498,81 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_interceptions": 1
+          },
           "weekly_stats": [
             {
               "week": 1,
-              "opponent": "BAL",
+              "opponent": "LAC",
               "stats": {}
             },
             {
-              "week": 2,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "NO",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "MIA",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "PIT",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "NE",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 19,
+              "week": 5,
               "opponent": "JAX",
               "stats": {}
             },
             {
-              "week": 20,
+              "week": 6,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "WAS",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 11,
               "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "LV",
               "stats": {}
             }
           ],
           "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "id": "kc",
+            "name": "Kansas City Chiefs",
+            "abbreviation": "KC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
             "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
+              "primary": "#E31837",
+              "secondary": "#6B0F1A"
             }
           }
         }
@@ -4144,16 +5750,16 @@
       ]
     },
     {
-      "id": "00-0036378",
-      "name": "Michael Danna",
+      "id": "00-0039879",
+      "name": "Javon Solomon",
       "position": "LB",
       "group": "Linebackers",
-      "number": "51",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/brbpgu0xj2w0egcy5pid",
-      "height": "74",
-      "weight": "255",
-      "experience": "6",
-      "college": "Michigan",
+      "number": "56",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sjftmvhxpsr0zvtqywnt",
+      "height": "73",
+      "weight": "249",
+      "experience": "2",
+      "college": "Troy",
       "depth_position": "SLB",
       "depth_slot": "7",
       "depth_rank": 3,
@@ -4178,81 +5784,87 @@
         },
         {
           "season": 2025,
-          "stats": {
-            "def_interceptions": 1
-          },
+          "stats": {},
           "weekly_stats": [
             {
               "week": 1,
-              "opponent": "LAC",
+              "opponent": "BAL",
               "stats": {}
             },
             {
-              "week": 5,
-              "opponent": "JAX",
+              "week": 2,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NO",
               "stats": {}
             },
             {
               "week": 6,
-              "opponent": "DET",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "LV",
+              "opponent": "ATL",
               "stats": {}
             },
             {
               "week": 8,
-              "opponent": "WAS",
-              "stats": {
-                "def_interceptions": 1
-              }
+              "opponent": "CAR",
+              "stats": {}
             },
             {
               "week": 9,
-              "opponent": "BUF",
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIA",
               "stats": {}
             },
             {
               "week": 11,
-              "opponent": "DEN",
+              "opponent": "TB",
               "stats": {}
             },
             {
-              "week": 13,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 14,
+              "week": 12,
               "opponent": "HOU",
               "stats": {}
             },
             {
-              "week": 15,
-              "opponent": "LAC",
+              "week": 13,
+              "opponent": "PIT",
               "stats": {}
             },
             {
-              "week": 16,
-              "opponent": "TEN",
+              "week": 15,
+              "opponent": "NE",
               "stats": {}
             },
             {
               "week": 18,
-              "opponent": "LV",
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "DEN",
               "stats": {}
             }
           ],
           "team": {
-            "id": "kc",
-            "name": "Kansas City Chiefs",
-            "abbreviation": "KC",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
             "colors": {
-              "primary": "#E31837",
-              "secondary": "#6B0F1A"
+              "primary": "#00338D",
+              "secondary": "#C60C30"
             }
           }
         }
@@ -4350,41 +5962,6 @@
       ]
     },
     {
-      "id": "00-0039882",
-      "name": "Tylan Grable",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "68",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t5xdmbxo9c5juinczvdb",
-      "height": "77",
-      "weight": "313",
-      "experience": "2",
-      "college": "UCF; Jacksonville State",
-      "depth_position": "LT",
-      "depth_slot": "3",
-      "depth_rank": 2,
-      "depth_order": 2,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-            "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0041548",
       "name": "Jude Bowry",
       "position": "OL",
@@ -4397,7 +5974,7 @@
       "college": "Boston College",
       "depth_position": "LT",
       "depth_slot": "3",
-      "depth_rank": 3,
+      "depth_rank": 2,
       "depth_order": 2,
       "stats": {},
       "weekly_stats": [],
@@ -4742,7 +6319,7 @@
       "college": "Texas A&M; Kansas",
       "depth_position": "RG",
       "depth_slot": "6",
-      "depth_rank": 3,
+      "depth_rank": 2,
       "depth_order": 5,
       "stats": {},
       "weekly_stats": [],
@@ -4827,6 +6404,41 @@
               "stats": {}
             }
           ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039882",
+      "name": "Tylan Grable",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "68",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t5xdmbxo9c5juinczvdb",
+      "height": "77",
+      "weight": "313",
+      "experience": "2",
+      "college": "UCF; Jacksonville State",
+      "depth_position": "RT",
+      "depth_slot": "7",
+      "depth_rank": 2,
+      "depth_order": 6,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "buf",
             "name": "Buffalo Bills",
@@ -6363,122 +7975,6 @@
       ]
     },
     {
-      "id": "00-0036037",
-      "name": "Sam Franklin Jr.",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "28",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/djoisg0rjwm8t8dlskvn",
-      "height": "75",
-      "weight": "210",
-      "experience": "6",
-      "college": "Temple",
-      "depth_position": "SS",
-      "depth_slot": "9",
-      "depth_rank": 3,
-      "depth_order": 20,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-            "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "NE",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "MIA",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "PIT",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "CLE",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "PHI",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 19,
-              "opponent": "JAX",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-            "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0035253",
       "name": "C.J. Gardner-Johnson",
       "position": "DB",
@@ -6662,16 +8158,16 @@
       ]
     },
     {
-      "id": "00-0040192",
-      "name": "Jordan Hancock",
+      "id": "00-0036037",
+      "name": "Sam Franklin Jr.",
       "position": "DB",
       "group": "Safeties",
-      "number": "37",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ursfrg83sovz52fo6oeh",
-      "height": "73",
-      "weight": "195",
-      "experience": "1",
-      "college": "Ohio State",
+      "number": "28",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/djoisg0rjwm8t8dlskvn",
+      "height": "75",
+      "weight": "210",
+      "experience": "6",
+      "college": "Temple",
       "depth_position": "FS",
       "depth_slot": "10",
       "depth_rank": 3,
@@ -6699,8 +8195,18 @@
           "stats": {},
           "weekly_stats": [
             {
-              "week": 4,
-              "opponent": "NO",
+              "week": 1,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NE",
               "stats": {}
             },
             {
@@ -6714,8 +8220,13 @@
               "stats": {}
             },
             {
-              "week": 9,
-              "opponent": "KC",
+              "week": 10,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "TB",
               "stats": {}
             },
             {
@@ -6729,13 +8240,13 @@
               "stats": {}
             },
             {
-              "week": 14,
-              "opponent": "CIN",
+              "week": 16,
+              "opponent": "CLE",
               "stats": {}
             },
             {
-              "week": 16,
-              "opponent": "CLE",
+              "week": 17,
+              "opponent": "PHI",
               "stats": {}
             },
             {
@@ -6891,6 +8402,107 @@
             "colors": {
               "primary": "#A71930",
               "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040192",
+      "name": "Jordan Hancock",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "37",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ursfrg83sovz52fo6oeh",
+      "height": "73",
+      "weight": "195",
+      "experience": "1",
+      "college": "Ohio State",
+      "depth_position": "NB",
+      "depth_slot": "12",
+      "depth_rank": 2,
+      "depth_order": 34,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "JAX",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
             }
           }
         }
@@ -7952,204 +9564,6 @@
       ]
     },
     {
-      "id": "00-0036988",
-      "name": "Josh Palmer",
-      "position": "WR",
-      "group": "Wide Receivers",
-      "number": "5",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/woswdfrtxnsfgzsjvsxx",
-      "height": "73",
-      "weight": "210",
-      "experience": "5",
-      "college": "Tennessee",
-      "depth_position": "WR",
-      "depth_slot": "1",
-      "depth_rank": 4,
-      "depth_order": 1,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-            "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "targets": 37,
-            "receptions": 22,
-            "receiving_yards": 303
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "BAL",
-              "stats": {
-                "targets": 9,
-                "receptions": 5,
-                "receiving_yards": 61
-              }
-            },
-            {
-              "week": 2,
-              "opponent": "NYJ",
-              "stats": {
-                "targets": 3,
-                "receptions": 2,
-                "receiving_yards": 47
-              }
-            },
-            {
-              "week": 3,
-              "opponent": "MIA",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 5
-              }
-            },
-            {
-              "week": 4,
-              "opponent": "NO",
-              "stats": {
-                "targets": 3,
-                "receptions": 2,
-                "receiving_yards": 25
-              }
-            },
-            {
-              "week": 5,
-              "opponent": "NE",
-              "stats": {
-                "targets": 2,
-                "receptions": 2,
-                "receiving_yards": 36
-              }
-            },
-            {
-              "week": 6,
-              "opponent": "ATL",
-              "stats": {
-                "targets": 2,
-                "receptions": 2,
-                "receiving_yards": 60
-              }
-            },
-            {
-              "week": 11,
-              "opponent": "TB",
-              "stats": {
-                "targets": 5,
-                "receptions": 2,
-                "receiving_yards": 17
-              }
-            },
-            {
-              "week": 12,
-              "opponent": "HOU",
-              "stats": {
-                "targets": 4,
-                "receptions": 2,
-                "receiving_yards": 21
-              }
-            },
-            {
-              "week": 15,
-              "opponent": "NE",
-              "stats": {
-                "targets": 2,
-                "receptions": 1,
-                "receiving_yards": 16
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "CLE",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 2
-              }
-            },
-            {
-              "week": 17,
-              "opponent": "PHI",
-              "stats": {
-                "targets": 2,
-                "receptions": 1,
-                "receiving_yards": 12
-              }
-            },
-            {
-              "week": 18,
-              "opponent": "NYJ",
-              "stats": {
-                "targets": 3,
-                "receptions": 1,
-                "receiving_yards": 1
-              }
-            }
-          ],
-          "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-            "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041443",
-      "name": "Skyler Bell",
-      "position": "WR",
-      "group": "Wide Receivers",
-      "number": "13",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oac3geuuhazbznztufzk",
-      "height": "71",
-      "weight": "192",
-      "experience": "0",
-      "college": "Connecticut; Wisconsin",
-      "depth_position": "WR",
-      "depth_slot": "2",
-      "depth_rank": 5,
-      "depth_order": 1,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "buf",
-            "name": "Buffalo Bills",
-            "abbreviation": "BUF",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-            "colors": {
-              "primary": "#00338D",
-              "secondary": "#C60C30"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0037261",
       "name": "Khalil Shakir",
       "position": "WR",
@@ -8160,10 +9574,10 @@
       "weight": "190",
       "experience": "4",
       "college": "Boise State",
-      "depth_position": "PR",
-      "depth_slot": "4",
-      "depth_rank": 1,
-      "depth_order": 76,
+      "depth_position": "WR",
+      "depth_slot": "2",
+      "depth_rank": 2,
+      "depth_order": 1,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -8386,10 +9800,10 @@
       "weight": "215",
       "experience": "2",
       "college": "Florida State; Michigan State",
-      "depth_position": "PR",
-      "depth_slot": "4",
-      "depth_rank": 2,
-      "depth_order": 76,
+      "depth_position": "WR",
+      "depth_slot": "8",
+      "depth_rank": 3,
+      "depth_order": 1,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -8549,6 +9963,204 @@
               }
             }
           ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036988",
+      "name": "Josh Palmer",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "5",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/woswdfrtxnsfgzsjvsxx",
+      "height": "73",
+      "weight": "210",
+      "experience": "5",
+      "college": "Tennessee",
+      "depth_position": "WR",
+      "depth_slot": "1",
+      "depth_rank": 4,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 37,
+            "receptions": 22,
+            "receiving_yards": 303
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 9,
+                "receptions": 5,
+                "receiving_yards": 61
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "NYJ",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 47
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 5
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "NO",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 25
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "NE",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 36
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "ATL",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 60
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "TB",
+              "stats": {
+                "targets": 5,
+                "receptions": 2,
+                "receiving_yards": 17
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 21
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "NE",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 16
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 2
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "NYJ",
+              "stats": {
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041443",
+      "name": "Skyler Bell",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "13",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oac3geuuhazbznztufzk",
+      "height": "71",
+      "weight": "192",
+      "experience": "0",
+      "college": "Connecticut; Wisconsin",
+      "depth_position": "WR",
+      "depth_slot": "2",
+      "depth_rank": 5,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "buf",
             "name": "Buffalo Bills",

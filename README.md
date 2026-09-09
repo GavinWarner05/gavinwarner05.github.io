@@ -27,6 +27,8 @@ Visitors can customize favorite teams from the Sports Center home. The selection
 
 Active-roster cards link to `/sports/player/?team={team-id}&id={player-id}`. Players can be favorited from that page; those selections are also stored only in the current browser and appear in the Sports Center's Favorite players section. Player pages show sanitized season totals and week-by-week nflverse statistics when available. The exporter includes the current and previous regular seasons for active players, and the season selector also updates historical team affiliation. Before a player records a regular-season appearance, the page displays a useful empty state instead of sample statistics.
 
+Player pages can create 1080×1080 PNG share cards for the selected season or an individual week. Matchup dialogs on the scoreboard and team schedules can create matchup/final-score cards. The card is rendered entirely in the browser from the already-public sanitized JSON and public image URLs; no token, private API, or server upload is involved. **Share image** opens the device share sheet when supported, **Copy image** places the PNG on supported browser clipboards, and **Save PNG** remains the universal fallback.
+
 Run a production check without rewriting the tracked `docs/` directory:
 
 ```sh

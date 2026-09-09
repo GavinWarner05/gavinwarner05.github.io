@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "min",
@@ -270,13 +270,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -380,7 +380,7 @@
         },
         {
           "team": "Tampa Bay Buccaneers",
-          "player": "Rueben Bain",
+          "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
         }
@@ -448,7 +448,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Ollie Gordon",
+          "player": "Ollie Gordon II",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -460,7 +460,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Darrell Baker",
+          "player": "Darrell Baker Jr.",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -612,7 +612,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Lorenzo Styles",
+          "player": "Lorenzo Styles Jr.",
           "status": "Questionable",
           "detail": "Calf"
         },
@@ -642,7 +642,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Chris Rumph",
+          "player": "Chris Rumph II",
           "status": "Questionable",
           "detail": "Ankle"
         }
@@ -686,7 +686,7 @@
         },
         {
           "team": "Indianapolis Colts",
-          "player": "AJ Haulcy",
+          "player": "A.J. Haulcy",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -894,7 +894,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -1236,6 +1236,72 @@
         },
         {
           "team": "San Francisco 49ers",
+          "player": "Gracen Halton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Romello Height",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "James Thompson Jr.",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Alfred Collins",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Upton Stout",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Renardo Green",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Nick Bosa",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Luke Gifford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Dre Greenlaw",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "George Kittle",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Kyle Juszczyk",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "San Francisco 49ers",
           "player": "Dominick Puni",
           "status": "Questionable",
           "detail": "Concussion"
@@ -1412,7 +1478,7 @@
       "injuries": [
         {
           "team": "Atlanta Falcons",
-          "player": "Gervon Dexter",
+          "player": "Gervon Dexter Sr.",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -1424,25 +1490,25 @@
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Michael Penix",
+          "player": "Michael Penix Jr.",
           "status": "Questionable",
           "detail": "Knee - ACL"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Tyrone Wheatley",
+          "player": "Tyrone Wheatley Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "James Pearce",
+          "player": "James Pearce Jr.",
           "status": "Out",
           "detail": "Suspension"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Billy Bowman",
+          "player": "Billy Bowman Jr.",
           "status": "Questionable",
           "detail": "Achilles"
         },
@@ -1716,13 +1782,43 @@
         },
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1846,7 +1942,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -2279,13 +2375,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2385,12 +2481,6 @@
     },
     {
       "team": "Minnesota Vikings",
-      "player": "Kenny Dyson",
-      "status": "IR/PUP",
-      "detail": "Reserve list"
-    },
-    {
-      "team": "Minnesota Vikings",
       "player": "Taki Taimani",
       "status": "IR/PUP",
       "detail": "Reserve list"
@@ -2404,6 +2494,12 @@
     {
       "team": "Minnesota Vikings",
       "player": "Dontae Fleming",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Minnesota Vikings",
+      "player": "Bryson Nesbit",
       "status": "IR/PUP",
       "detail": "Reserve list"
     },
@@ -2431,256 +2527,2044 @@
       "id": "00-0030035",
       "name": "Adam Thielen",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pv6gajxtt6zhum2unnsl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pv6gajxtt6zhum2unnsl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 37,
+            "receptions": 21,
+            "receiving_yards": 211
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "ATL",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 26
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 2
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 11
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 10
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 2
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 16
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "GB",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 7
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "DET",
+              "stats": {
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 49
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 5,
+                "receptions": 2,
+                "receiving_yards": 14
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 6,
+                "receptions": 3,
+                "receiving_yards": 43
+              }
+            },
+            {
+              "week": 19,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 25
+              }
+            }
+          ],
+          "team": {
+            "id": "pit",
+            "name": "Pittsburgh Steelers",
+            "abbreviation": "PIT",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041431",
       "name": "Bangally Kamara",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o2ni1w7qx6aqgqfv6heh"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o2ni1w7qx6aqgqfv6heh",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040962",
       "name": "Bryce Phillips",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nntcmusvmsalcqhl63g9"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nntcmusvmsalcqhl63g9",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040504",
       "name": "Bryson Nesbit",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xv1e25hi4dhzfzni0gui"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xv1e25hi4dhzfzni0gui",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0032918",
       "name": "C.J. Ham",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/evssvutwjy6szq7dpelm"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/evssvutwjy6szq7dpelm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 2,
+            "receptions": 2,
+            "receiving_yards": 11,
+            "carries": 3,
+            "rushing_yards": 5,
+            "rushing_tds": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 5,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 5
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 1,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NYG",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 3
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "GB",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 1,
+                "rushing_tds": 1,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            }
+          ],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039631",
+      "name": "Cam Grandy",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uay5dmniqx1baal3q3uu",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 2,
+            "receptions": 2,
+            "receiving_yards": 7
+          },
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "MIN",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041353",
       "name": "Cam'Ron Stewart",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/twtdm7vmhzc0idevxtog"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/twtdm7vmhzc0idevxtog",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041341",
       "name": "Da'Veawn Armstead",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jxf34gnwnwuohqkssugv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jxf34gnwnwuohqkssugv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036425",
+      "name": "DeeJay Dallas",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qrvemj4m3g2mqlbgy352",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 3,
+            "rushing_yards": 21,
+            "targets": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 5,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "IND",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 21,
+                "targets": 1
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "TEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041349",
       "name": "Delby Lemieux",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ngvitclfbc5gfllo6sq3"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ngvitclfbc5gfllo6sq3",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041342",
       "name": "Dillon Bell",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b9v5ex8bfoum15d8v2gf"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b9v5ex8bfoum15d8v2gf",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040498",
       "name": "Dontae Fleming",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z31bqmrgzn9t5wsqtqoy"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z31bqmrgzn9t5wsqtqoy",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039714",
       "name": "Dwight McGlothern",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jwejtupyvb7lscqs46nm"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jwejtupyvb7lscqs46nm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "BAL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041124",
       "name": "Gavin Gerhardt",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/racsjeolwog7ueun0pab"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/racsjeolwog7ueun0pab",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038785",
       "name": "Henry Byrd",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x6i8ymo7tl6o19o7pmry"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x6i8ymo7tl6o19o7pmry",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040224",
       "name": "Jack Nelson",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lfq3fxdznxmhx59npsyt"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lfq3fxdznxmhx59npsyt",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 14,
+              "opponent": "SEA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040786",
       "name": "Jacob Roberts",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r2xg8flrjhh47j9jawx6"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r2xg8flrjhh47j9jawx6",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040572",
       "name": "Jahvaree Ritzie",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wc149d02t0sbougkceuk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wc149d02t0sbougkceuk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0033872",
       "name": "Jamal Adams",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/plodzh6kwjvhpo2mf3ie"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/plodzh6kwjvhpo2mf3ie",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "KC",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lv",
+            "name": "Las Vegas Raiders",
+            "abbreviation": "LV",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+            "colors": {
+              "primary": "#000000",
+              "secondary": "#4B4B4B"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041573",
       "name": "Jarod Washington",
-      "position": "DB"
+      "position": "DB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036670",
       "name": "Jermar Jefferson",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkgrgirrdwlm05vqg74b"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkgrgirrdwlm05vqg74b",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039710",
       "name": "Jeshaun Jones",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pwlziiyhd7ectylkejgc"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pwlziiyhd7ectylkejgc",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "GB",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037184",
       "name": "Josh Ross",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rytixi2fpdu0efr367yj"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rytixi2fpdu0efr367yj",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040548",
       "name": "Joshua Gray",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k6rbkmqfazi6vs3m7gnm"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k6rbkmqfazi6vs3m7gnm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038523",
       "name": "Kahlef Hailassie",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jfgdmued5u7dszjnao85"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jfgdmued5u7dszjnao85",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039494",
       "name": "Kenny Dyson",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ikgxg2vrumhdez3bu0w9"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ikgxg2vrumhdez3bu0w9",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0031360",
+      "name": "Kyle Van Noy",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kxj2hipcguahh4l60vaa",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "CIN",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "PIT",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041340",
       "name": "Marcus Allen",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fqbqj831k8dqzmrlejjx"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fqbqj831k8dqzmrlejjx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041352",
       "name": "Marcus Sanders Jr.",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zu39csnwn4ahfyvipdog"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zu39csnwn4ahfyvipdog",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040060",
       "name": "Marshall Lang",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eavb7c8qiuvtsqv3qrwe"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eavb7c8qiuvtsqv3qrwe",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041001",
       "name": "Matt Lauter",
-      "position": "TE"
+      "position": "TE",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040494",
       "name": "Max Brosmer",
       "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fpveluufmy7buwrhpiny"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fpveluufmy7buwrhpiny",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "completions": 47,
+            "attempts": 71,
+            "passing_yards": 328,
+            "carries": 7,
+            "rushing_yards": 11
+          },
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "CIN",
+              "stats": {
+                "completions": 2,
+                "attempts": 4,
+                "passing_yards": 29
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": -1
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "LAC",
+              "stats": {
+                "completions": 3,
+                "attempts": 4,
+                "passing_yards": 13
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "SEA",
+              "stats": {
+                "completions": 19,
+                "attempts": 30,
+                "passing_yards": 126,
+                "carries": 1,
+                "rushing_yards": -1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NYG",
+              "stats": {
+                "completions": 7,
+                "attempts": 9,
+                "passing_yards": 52,
+                "carries": 3,
+                "rushing_yards": -3
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "DET",
+              "stats": {
+                "completions": 9,
+                "attempts": 16,
+                "passing_yards": 51,
+                "carries": 2,
+                "rushing_yards": 16
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "GB",
+              "stats": {
+                "completions": 7,
+                "attempts": 8,
+                "passing_yards": 57
+              }
+            }
+          ],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040970",
       "name": "Michael Briscoe",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rrnmno7nkn0o4kilp7je"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rrnmno7nkn0o4kilp7je",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039419",
       "name": "Michael Jurgens",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mnsvfstbdld5dvpfjphk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mnsvfstbdld5dvpfjphk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "CIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036695",
+      "name": "Naquan Jones",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iavprngmsf7pftvw0bsv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041432",
       "name": "Smith Vilbert",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xjf4s0gzx6wvkccbo1mn"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xjf4s0gzx6wvkccbo1mn",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039720",
       "name": "Taki Taimani",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xezoml4ot45e6lgvncal"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xezoml4ot45e6lgvncal",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "GB",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0034488",
       "name": "Tavierre Thomas",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhnxkxxitwkhjwgf2egu"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhnxkxxitwkhjwgf2egu",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "GB",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041481",
       "name": "Terrill Davis",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lxbfttot7wcd80sxs54o"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lxbfttot7wcd80sxs54o",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041351",
       "name": "Tomas Rimac",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/edo1ygt7jjtde5jn7kjd"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/edo1ygt7jjtde5jn7kjd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041475",
       "name": "Trayvon Rudolph",
-      "position": "WR"
+      "position": "WR",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038403",
       "name": "Tre Hawkins III",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n957q4ljgtif6f9ncqfm"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n957q4ljgtif6f9ncqfm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041348",
       "name": "Tristan Leigh",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j83wdb6jj6ubxexc0e0w"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j83wdb6jj6ubxexc0e0w",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040492",
       "name": "Tyler Batty",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xur5y3juva1uila1vszk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xur5y3juva1uila1vszk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 7,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "GB",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041344",
       "name": "Tyreek Chappell",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/itludydyhonkxtz5sebd"
-    },
-    {
-      "id": "00-0040712",
-      "name": "Vershon Lee",
-      "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yygtmj3azqkxi1est3eq"
-    },
-    {
-      "id": "00-0038440",
-      "name": "Zavier Scott",
-      "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z8sqpgdoyuv5rask15vn"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/itludydyhonkxtz5sebd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "min",
+            "name": "Minnesota Vikings",
+            "abbreviation": "MIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+            "colors": {
+              "primary": "#4F2683",
+              "secondary": "#2C1646"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -4379,7 +6263,7 @@
       "name": "Nick Samac",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "60",
+      "number": "62",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/asndmhzpbeviehlnuxgl",
       "height": "76",
       "weight": "305",
@@ -4485,7 +6369,7 @@
       "name": "Trevor Keegan",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "77",
+      "number": "69",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/op65y3hhnmtpcdumopmt",
       "height": "77",
       "weight": "306",
@@ -5936,7 +7820,7 @@
       "college": "Tennessee",
       "depth_position": "FS",
       "depth_slot": "10",
-      "depth_rank": 1,
+      "depth_rank": 2,
       "depth_order": 21,
       "stats": {},
       "weekly_stats": [],
@@ -6047,7 +7931,7 @@
       "college": "James Madison",
       "depth_position": "FS",
       "depth_slot": "10",
-      "depth_rank": 2,
+      "depth_rank": 3,
       "depth_order": 21,
       "stats": {},
       "weekly_stats": [],
@@ -6082,7 +7966,7 @@
       "college": "Miami; Tennessee; Middle Tennessee State",
       "depth_position": "FS",
       "depth_slot": "10",
-      "depth_rank": 3,
+      "depth_rank": 4,
       "depth_order": 21,
       "stats": {},
       "weekly_stats": [],

@@ -586,6 +586,29 @@ def normalized_player_name(value: str) -> str:
     return "".join(words)
 
 
+def dedupe_injuries(injuries: list[dict[str, str]]) -> list[dict[str, str]]:
+    """Keep one current injury row per canonical player name."""
+    priority = {"out": 4, "ir/pup": 4, "doubtful": 3, "questionable": 2}
+    selected: dict[str, dict[str, str]] = {}
+    for injury in injuries:
+        key = normalized_player_name(injury.get("player", ""))
+        if not key: continue
+        existing = selected.get(key)
+        if existing is None:
+            selected[key] = injury
+            continue
+        existing_priority = priority.get(str(existing.get("status", "")).lower(), 1)
+        new_priority = priority.get(str(injury.get("status", "")).lower(), 1)
+        if new_priority > existing_priority:
+            selected[key] = injury
+            existing = injury
+        new_detail = str(injury.get("detail", ""))
+        old_detail = str(existing.get("detail", ""))
+        if new_detail and (not old_detail or old_detail.lower() == "reserve list"):
+            existing["detail"] = new_detail
+    return list(selected.values())
+
+
 def player_name_parts(value: str) -> tuple[str, str]:
     words = re.findall(r"[a-z0-9]+", str(value or "").lower())
     while words and words[-1] in {"jr", "sr", "ii", "iii", "iv", "v"}:
@@ -662,6 +685,26 @@ def export_team_sources(directory: Path, sports_payload: dict[str, Any], injurie
             if player_id:
                 row["_sports_season"] = str(stats_season)
                 stats_by_player[player_id].append(row)
+
+    def seasons_for_player(player_id: str, current_team: str) -> list[dict[str, Any]]:
+        player_stat_rows = stats_by_player.get(player_id, [])
+        seasons: list[dict[str, Any]] = []
+        for stats_season in (SEASON, SEASON - 1):
+            season_rows = [stats_row for stats_row in player_stat_rows if first_value(stats_row, "_sports_season") == str(stats_season)]
+            stats: dict[str, int | float] = {}
+            weekly_stats: list[dict[str, Any]] = []
+            for stats_row in season_rows:
+                week = numeric_value(stats_row.get("week"))
+                if week is None: continue
+                week_values = {field: value for field in STAT_FIELDS if (value := numeric_value(stats_row.get(field))) is not None and value != 0}
+                for field, value in week_values.items(): stats[field] = round(stats.get(field, 0) + value, 2)
+                weekly_stats.append({"week": int(week), "opponent": first_value(stats_row, "opponent_team", "opponent"), "stats": week_values})
+            affiliation = next((canonical_team(first_value(stats_row, "recent_team", "team", "team_abbr")) for stats_row in reversed(season_rows) if canonical_team(first_value(stats_row, "recent_team", "team", "team_abbr")) in TEAM_STYLE), current_team if stats_season == SEASON else "")
+            if season_rows or stats_season == SEASON:
+                season_payload: dict[str, Any] = {"season": stats_season, "stats": stats, "weekly_stats": sorted(weekly_stats, key=lambda item: item["week"])}
+                if affiliation: season_payload["team"] = team_payload(affiliation)
+                seasons.append(season_payload)
+        return seasons
     games_by_team: dict[str, list[dict[str, Any]]] = {name: [] for name in TEAM_STYLE}
     for game in sports_payload["games"]:
         games_by_team[game["away_team"]["name"]].append(game)
@@ -686,22 +729,7 @@ def export_team_sources(directory: Path, sports_payload: dict[str, Any], injurie
                 reserve_players_by_team[team_name].append({"name": name, "status": status})
             continue
         player_stat_rows = stats_by_player.get(player_id, [])
-        seasons: list[dict[str, Any]] = []
-        for stats_season in (SEASON, SEASON - 1):
-            season_rows = [stats_row for stats_row in player_stat_rows if first_value(stats_row, "_sports_season") == str(stats_season)]
-            stats: dict[str, int | float] = {}
-            weekly_stats: list[dict[str, Any]] = []
-            for stats_row in season_rows:
-                week = numeric_value(stats_row.get("week"))
-                if week is None: continue
-                week_values = {field: value for field in STAT_FIELDS if (value := numeric_value(stats_row.get(field))) is not None and value != 0}
-                for field, value in week_values.items(): stats[field] = round(stats.get(field, 0) + value, 2)
-                weekly_stats.append({"week": int(week), "opponent": first_value(stats_row, "opponent_team", "opponent"), "stats": week_values})
-            affiliation = next((canonical_team(first_value(stats_row, "recent_team", "team", "team_abbr")) for stats_row in reversed(season_rows) if canonical_team(first_value(stats_row, "recent_team", "team", "team_abbr")) in TEAM_STYLE), team_name if stats_season == SEASON else "")
-            if season_rows or stats_season == SEASON:
-                season_payload: dict[str, Any] = {"season": stats_season, "stats": stats, "weekly_stats": sorted(weekly_stats, key=lambda item: item["week"])}
-                if affiliation: season_payload["team"] = team_payload(affiliation)
-                seasons.append(season_payload)
+        seasons = seasons_for_player(player_id, team_name)
         current = next((entry for entry in seasons if entry["season"] == SEASON), {"stats": {}, "weekly_stats": []})
         player: dict[str, Any] = {
             "id": player_id, "name": name, "position": position, "group": position_group(position),
@@ -767,6 +795,25 @@ def export_team_sources(directory: Path, sports_payload: dict[str, Any], injurie
                 "status": "IR/PUP",
                 "detail": "Reserve list",
             })
+        canonical_players = {
+            normalized_player_name(player["name"]): player
+            for player in injury_players_by_team[team_name] + players_by_team[team_name]
+        }
+        for injury in injuries_by_team.get(team_name, []):
+            player = canonical_players.get(normalized_player_name(injury.get("player", "")))
+            if not player:
+                match = directory_player_match(player_directory, injury.get("player", ""), TEAM_STYLE[team_name][1])
+                if match:
+                    matched_id = first_value(match, "gsis_id", "player_id", "nfl_id")
+                    player = next((candidate for candidate in canonical_players.values() if candidate.get("id") == matched_id), None)
+            if player: injury["player"] = player["name"]
+        injuries_by_team[team_name] = dedupe_injuries(injuries_by_team.get(team_name, []))
+        for player in injury_players_by_team[team_name]:
+            seasons = seasons_for_player(player["id"], team_name)
+            current = next((entry for entry in seasons if entry["season"] == SEASON), {"stats": {}, "weekly_stats": []})
+            player["stats"] = current["stats"]
+            player["weekly_stats"] = current["weekly_stats"]
+            player["seasons"] = seasons
     directory.mkdir(parents=True, exist_ok=True)
     for team_name, (team_id, _abbr, _primary, _secondary) in TEAM_STYLE.items():
         team_games = sorted(games_by_team[team_name], key=lambda item: item["kickoff"])

@@ -12,12 +12,13 @@
       <div class="player-page-actions">
         <p class="player-injury-badge" data-player-injury hidden></p>
         <a data-player-team-link href="#">View team</a>
+        <button type="button" class="sports-share-trigger" data-player-share>Share player</button>
       </div>
     </div>
     <button type="button" class="team-favorite-toggle player-favorite-toggle" data-player-favorite aria-pressed="false"><span aria-hidden="true">☆</span><span data-player-favorite-label>Add favorite</span></button>
   </header>
   <section class="player-page-section" data-player-content hidden>
-    <div class="sports-section-heading"><h2>Season totals</h2><div class="player-season-control" data-player-season-control hidden><label for="player-season-select">Season</label><select id="player-season-select" data-player-season-select></select></div></div>
+    <div class="sports-section-heading"><h2>Season totals</h2><div class="player-season-actions"><div class="player-season-control" data-player-season-control hidden><label for="player-season-select">Season</label><select id="player-season-select" data-player-season-select></select></div><button type="button" class="sports-share-trigger player-season-share" data-player-season-share>Share season</button></div></div>
     <dl class="player-page-stats" data-player-totals></dl>
   </section>
   <section class="player-page-section" data-player-content hidden>

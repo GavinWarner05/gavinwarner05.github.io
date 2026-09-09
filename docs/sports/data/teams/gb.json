@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "gb",
@@ -332,7 +332,7 @@
       "injuries": [
         {
           "team": "Atlanta Falcons",
-          "player": "Gervon Dexter",
+          "player": "Gervon Dexter Sr.",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -344,25 +344,25 @@
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Michael Penix",
+          "player": "Michael Penix Jr.",
           "status": "Questionable",
           "detail": "Knee - ACL"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Tyrone Wheatley",
+          "player": "Tyrone Wheatley Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "James Pearce",
+          "player": "James Pearce Jr.",
           "status": "Out",
           "detail": "Suspension"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Billy Bowman",
+          "player": "Billy Bowman Jr.",
           "status": "Questionable",
           "detail": "Achilles"
         },
@@ -562,7 +562,7 @@
         },
         {
           "team": "Tampa Bay Buccaneers",
-          "player": "Rueben Bain",
+          "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
         }
@@ -662,13 +662,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1008,7 +1008,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -1288,13 +1288,43 @@
         },
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1544,6 +1574,48 @@
         },
         {
           "team": "Los Angeles Rams",
+          "player": "Byron Young",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Jaylen Watson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Grant Stuard",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Alaric Jackson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Myles Garrett",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Tyler Higbee",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
+          "player": "Aaron Donald",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Los Angeles Rams",
           "player": "Kobie Turner",
           "status": "Questionable",
           "detail": "Undisclosed"
@@ -1720,7 +1792,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Lorenzo Styles",
+          "player": "Lorenzo Styles Jr.",
           "status": "Questionable",
           "detail": "Calf"
         },
@@ -1750,7 +1822,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Chris Rumph",
+          "player": "Chris Rumph II",
           "status": "Questionable",
           "detail": "Ankle"
         }
@@ -1970,7 +2042,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Ollie Gordon",
+          "player": "Ollie Gordon II",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -1982,7 +2054,7 @@
         },
         {
           "team": "Miami Dolphins",
-          "player": "Darrell Baker",
+          "player": "Darrell Baker Jr.",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2214,13 +2286,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2470,7 +2542,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -2618,6 +2690,12 @@
     },
     {
       "team": "Green Bay Packers",
+      "player": "McCallan Castles",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Green Bay Packers",
       "player": "Thomas Yassmin",
       "status": "IR/PUP",
       "detail": "Reserve list"
@@ -2646,233 +2724,1755 @@
       "id": "00-0041355",
       "name": "Arden Walker",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uy7hcwv07dysph9gs068"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uy7hcwv07dysph9gs068",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037364",
       "name": "Arron Mosby",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/siq8ayl7lif3uddghbum"
-    },
-    {
-      "id": "00-0040034",
-      "name": "Brant Banks",
-      "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fgyysqdckajohxo82d6w"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/siq8ayl7lif3uddghbum",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 7,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "MIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041179",
       "name": "Chris Hilton Jr.",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x4c5gmotlioz2xynmtkw"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x4c5gmotlioz2xynmtkw",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040012",
       "name": "Collin Oliver",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x4fwy10q9nxoupf37ggz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x4fwy10q9nxoupf37ggz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "MIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040083",
       "name": "Dalton Cooper",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d0yblqhzbyrtbs2ikplp"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d0yblqhzbyrtbs2ikplp",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040651",
       "name": "Damien Martinez",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ys773vjsxprn6hr0mwri"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ys773vjsxprn6hr0mwri",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040949",
       "name": "Dillon Wade",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oko5pe8hch9vrmmk9gwx"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oko5pe8hch9vrmmk9gwx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040896",
       "name": "Domani Jackson",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xlb4gkfxenpvqhs3j4y4"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xlb4gkfxenpvqhs3j4y4",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040628",
       "name": "Drake Dabney",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/olsiufbauh2x6pshrygm"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/olsiufbauh2x6pshrygm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 2,
+            "receptions": 1,
+            "receiving_yards": 3
+          },
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "MIN",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040941",
       "name": "Dylan Barrett",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmon1mexvom9l7t0ydnc"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmon1mexvom9l7t0ydnc",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040558",
       "name": "Isaiah Neyor",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kpmodyntguke9pmvxeyw"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kpmodyntguke9pmvxeyw",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039402",
       "name": "Jaden Crumedy",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xmbnm0swk4oqrrnslrn5"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xmbnm0swk4oqrrnslrn5",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "ATL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040946",
       "name": "Jaden Nixon",
-      "position": "RB"
-    },
-    {
-      "id": "00-0039383",
-      "name": "Jaylin Simpson",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xy041ns1wwk60l85kpgh"
+      "position": "RB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040033",
       "name": "Johnathan Baldwin",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/us9ui2rbj5t4wr3wgyin"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/us9ui2rbj5t4wr3wgyin",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "MIN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038506",
       "name": "Jordon Riley",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tr46ilf5hznzboea38ag"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tr46ilf5hznzboea38ag",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 16,
+              "opponent": "CHI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040943",
       "name": "Josh Gesky",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z88mhbcxa468vob6dc1c"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z88mhbcxa468vob6dc1c",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035700",
       "name": "Josh Jacobs",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uceokxeo0uqrqms3e3vl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uceokxeo0uqrqms3e3vl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 253,
+            "rushing_yards": 984,
+            "rushing_tds": 13,
+            "targets": 47,
+            "receptions": 37,
+            "receiving_yards": 285,
+            "receiving_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "DET",
+              "stats": {
+                "carries": 19,
+                "rushing_yards": 66,
+                "rushing_tds": 1,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "WAS",
+              "stats": {
+                "carries": 23,
+                "rushing_yards": 84,
+                "rushing_tds": 1
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 16,
+                "rushing_yards": 30,
+                "targets": 9,
+                "receptions": 5,
+                "receiving_yards": 44
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 22,
+                "rushing_yards": 86,
+                "rushing_tds": 2,
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 71
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "CIN",
+              "stats": {
+                "carries": 18,
+                "rushing_yards": 93,
+                "rushing_tds": 2,
+                "targets": 5,
+                "receptions": 5,
+                "receiving_yards": 57
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "ARI",
+              "stats": {
+                "carries": 13,
+                "rushing_yards": 55,
+                "rushing_tds": 2,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "PIT",
+              "stats": {
+                "carries": 13,
+                "rushing_yards": 33,
+                "rushing_tds": 1,
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "CAR",
+              "stats": {
+                "carries": 17,
+                "rushing_yards": 87,
+                "rushing_tds": 1,
+                "targets": 5,
+                "receptions": 4,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "PHI",
+              "stats": {
+                "carries": 21,
+                "rushing_yards": 74,
+                "rushing_tds": 1,
+                "targets": 6,
+                "receptions": 5,
+                "receiving_yards": 33
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "NYG",
+              "stats": {
+                "carries": 7,
+                "rushing_yards": 40,
+                "targets": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "DET",
+              "stats": {
+                "carries": 17,
+                "rushing_yards": 83,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 20,
+                "rushing_yards": 86,
+                "rushing_tds": 1,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "DEN",
+              "stats": {
+                "carries": 12,
+                "rushing_yards": 73,
+                "rushing_tds": 1,
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 19,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 12,
+                "rushing_yards": 36,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "BAL",
+              "stats": {
+                "carries": 4,
+                "rushing_yards": 3,
+                "targets": 1,
+                "receptions": 1
+              }
+            },
+            {
+              "week": 19,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 19,
+                "rushing_yards": 55,
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040239",
       "name": "Kaden Prather",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vuben0ncqttl4wjxityh"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vuben0ncqttl4wjxityh",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039577",
+      "name": "Kedon Slovis",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hkvrcpwl9tm41jr3b0x3",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "attempts": 2,
+            "completions": 1,
+            "passing_yards": -2
+          },
+          "weekly_stats": [
+            {
+              "week": 10,
+              "opponent": "SEA",
+              "stats": {
+                "attempts": 1
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "JAX",
+              "stats": {
+                "completions": 1,
+                "attempts": 1,
+                "passing_yards": -2
+              }
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040616",
       "name": "Kisean Johnson",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eagyx2phlssmmdczurx3"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eagyx2phlssmmdczurx3",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036157",
       "name": "Kristian Welch",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iqibbhzklifflirfqvoq"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iqibbhzklifflirfqvoq",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 10,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "CHI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040003",
+      "name": "Lenny Krieg",
+      "position": "K",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gxhpy5ntqhgmcwwzn9do",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039144",
       "name": "Luke Musgrave",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jchchyfhiycpvm5zzn2y"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jchchyfhiycpvm5zzn2y",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 33,
+            "receptions": 25,
+            "receiving_yards": 261
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "DET",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "WAS",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 32
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "DAL",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 7
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 5
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "CAR",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 34
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 23
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "NYG",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": -1
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "MIN",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 7
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "DET",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 23
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 22
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 6,
+                "receptions": 4,
+                "receiving_yards": 52
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 38
+              }
+            },
+            {
+              "week": 19,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 9
+              }
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039418",
       "name": "MJ Devonshire",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qrzh5s3kuqkluuxfpfgy"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qrzh5s3kuqkluuxfpfgy",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039488",
       "name": "Mark Perry",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/brg1bcmlylgd5ucjiydw"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/brg1bcmlylgd5ucjiydw",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041493",
       "name": "Marlon Jones",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pd1gsbwhqekfnw2rk137"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pd1gsbwhqekfnw2rk137",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039263",
       "name": "McCallan Castles",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r3amk2t7xokcd4rsohns"
-    },
-    {
-      "id": "00-0039275",
-      "name": "Messiah Swinson",
-      "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xmkhcrh5fbfetx1wxk2z"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r3amk2t7xokcd4rsohns",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036932",
       "name": "Micah Parsons",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/euivq1hqslszdxjo9xyr"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/euivq1hqslszdxjo9xyr",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "DEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040968",
       "name": "Murvin Kenion",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vkjpef4y643t5ocedi9b"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vkjpef4y643t5ocedi9b",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040944",
       "name": "Nyjalik Kelly",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rlgk5vtxruzwzjptpjdw"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rlgk5vtxruzwzjptpjdw",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038098",
       "name": "Pierre Strong",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/aa0nufst85vutgor1fqv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/aa0nufst85vutgor1fqv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040009",
       "name": "Savion Williams",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/snmedlu4ra62snufe1qg"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/snmedlu4ra62snufe1qg",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 10,
+            "receptions": 10,
+            "receiving_yards": 78,
+            "carries": 11,
+            "rushing_yards": 37,
+            "receiving_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "DET",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 1
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "WAS",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 24
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": -1
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 1,
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 22
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "CIN",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 3
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "PIT",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 1,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 8,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "CAR",
+              "stats": {
+                "carries": 1,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 12
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "PHI",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 2
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "NYG",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 33
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "MIN",
+              "stats": {
+                "carries": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 9
+              }
+            }
+          ],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
-      "id": "00-0039292",
-      "name": "Shemar Bartholomew",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oehvtzmh4uhwwsfliskq"
+      "id": "00-0034067",
+      "name": "Scott Daly",
+      "position": "LS",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/icxbupl2lmn9ffjfu6xm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "DET",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040947",
       "name": "TJ Quinn",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hzdxb0jmdmqzlrrkyqfz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hzdxb0jmdmqzlrrkyqfz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039936",
       "name": "Thomas Yassmin",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dojmdkrk14lr14g8wr3o"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dojmdkrk14lr14g8wr3o",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039959",
       "name": "Tra Fluellen",
-      "position": "DB"
+      "position": "DB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038494",
       "name": "Trey Dean III",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/egycpb5zv75wp0ytluhl"
-    },
-    {
-      "id": "00-0040753",
-      "name": "Will Sheppard",
-      "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vwyhqfyyxngoljurvrjx"
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/egycpb5zv75wp0ytluhl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -5767,6 +7367,136 @@
       ]
     },
     {
+      "id": "00-0036625",
+      "name": "Benjamin St-Juste",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "21",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kaebn8lqtuhjgcoywxuz",
+      "height": "75",
+      "weight": "205",
+      "experience": "5",
+      "college": "Minnesota",
+      "depth_position": "LCB",
+      "depth_slot": "8",
+      "depth_rank": 2,
+      "depth_order": 18,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "gb",
+            "name": "Green Bay Packers",
+            "abbreviation": "GB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+            "colors": {
+              "primary": "#203731",
+              "secondary": "#FFB612"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "MIA",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0041470",
       "name": "Brandon Cisse",
       "position": "DB",
@@ -5777,10 +7507,10 @@
       "weight": "189",
       "experience": "0",
       "college": "South Carolina; N.C. State",
-      "depth_position": "LCB",
-      "depth_slot": "8",
-      "depth_rank": 2,
-      "depth_order": 18,
+      "depth_position": "RCB",
+      "depth_slot": "11",
+      "depth_rank": 1,
+      "depth_order": 19,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -5814,7 +7544,7 @@
       "college": "Kentucky",
       "depth_position": "RCB",
       "depth_slot": "11",
-      "depth_rank": 1,
+      "depth_rank": 2,
       "depth_order": 19,
       "stats": {},
       "weekly_stats": [],
@@ -5926,136 +7656,6 @@
             "colors": {
               "primary": "#203731",
               "secondary": "#FFB612"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0036625",
-      "name": "Benjamin St-Juste",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "21",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kaebn8lqtuhjgcoywxuz",
-      "height": "75",
-      "weight": "205",
-      "experience": "5",
-      "college": "Minnesota",
-      "depth_position": "RCB",
-      "depth_slot": "11",
-      "depth_rank": 2,
-      "depth_order": 19,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "gb",
-            "name": "Green Bay Packers",
-            "abbreviation": "GB",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-            "colors": {
-              "primary": "#203731",
-              "secondary": "#FFB612"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "def_interceptions": 1
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "LV",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "DEN",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "NYG",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "WAS",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "MIA",
-              "stats": {
-                "def_interceptions": 1
-              }
-            },
-            {
-              "week": 7,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "MIN",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "PIT",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "DEN",
-              "stats": {}
-            },
-            {
-              "week": 19,
-              "opponent": "NE",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "lac",
-            "name": "Los Angeles Chargers",
-            "abbreviation": "LAC",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
-            "colors": {
-              "primary": "#0080C6",
-              "secondary": "#FFC20E"
             }
           }
         }

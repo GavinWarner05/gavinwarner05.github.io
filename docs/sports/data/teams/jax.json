@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "jax",
@@ -70,19 +70,19 @@
         },
         {
           "team": "Cleveland Browns",
-          "player": "Michael Coats",
+          "player": "Michael Coats Jr.",
           "status": "Questionable",
           "detail": "Ankle"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -144,13 +144,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -192,7 +192,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -260,13 +260,43 @@
       "injuries": [
         {
           "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "TreVeyon Henderson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Ben Brown",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
+          "player": "Christian Barmore",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "New England Patriots",
           "player": "Brenden Schooler",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
         {
           "team": "New England Patriots",
-          "player": "Harold Landry",
+          "player": "Harold Landry III",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -296,13 +326,13 @@
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -364,13 +394,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -412,7 +442,7 @@
         },
         {
           "team": "Cincinnati Bengals",
-          "player": "Dax Hill",
+          "player": "Daxton Hill",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -522,13 +552,13 @@
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -644,13 +674,13 @@
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -720,7 +750,7 @@
         },
         {
           "team": "Indianapolis Colts",
-          "player": "AJ Haulcy",
+          "player": "A.J. Haulcy",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -762,13 +792,13 @@
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -830,13 +860,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -930,13 +960,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -1034,13 +1064,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -1094,13 +1124,13 @@
         },
         {
           "team": "New York Giants",
-          "player": "Tyrone Tracy",
+          "player": "Tyrone Tracy Jr.",
           "status": "Questionable",
           "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Dru Phillips",
+          "player": "Andru Phillips",
           "status": "Questionable",
           "detail": "Lower Leg"
         },
@@ -1124,7 +1154,7 @@
         },
         {
           "team": "New York Giants",
-          "player": "Greg Newsome",
+          "player": "Greg Newsome II",
           "status": "Questionable",
           "detail": "Knee"
         }
@@ -1198,13 +1228,13 @@
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -1266,13 +1296,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -1362,13 +1392,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -1472,13 +1502,13 @@
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -1540,13 +1570,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -1662,13 +1692,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -1838,13 +1868,13 @@
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -1906,13 +1936,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -1948,7 +1978,7 @@
         },
         {
           "team": "Indianapolis Colts",
-          "player": "AJ Haulcy",
+          "player": "A.J. Haulcy",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -1994,13 +2024,13 @@
   "injuries": [
     {
       "team": "Jacksonville Jaguars",
-      "player": "LeQuint Allen",
+      "player": "LeQuint Allen Jr.",
       "status": "Questionable",
       "detail": "Undisclosed"
     },
     {
       "team": "Jacksonville Jaguars",
-      "player": "Brian Thomas",
+      "player": "Brian Thomas Jr.",
       "status": "Questionable",
       "detail": "Shoulder"
     },
@@ -2042,12 +2072,6 @@
     },
     {
       "team": "Jacksonville Jaguars",
-      "player": "Keivie Rose",
-      "status": "IR/PUP",
-      "detail": "Reserve list"
-    },
-    {
-      "team": "Jacksonville Jaguars",
       "player": "Jared Bartlett",
       "status": "IR/PUP",
       "detail": "Reserve list"
@@ -2069,240 +2093,1425 @@
     {
       "id": "00-0041206",
       "name": "Alex Bullock",
-      "position": "WR"
+      "position": "WR",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038617",
       "name": "Amari Burney",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nqqv3zewlmrlel62jixa"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nqqv3zewlmrlel62jixa",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036841",
       "name": "Austin Trammell",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vpkcobp7jdqvk8qwhhtg"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vpkcobp7jdqvk8qwhhtg",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 10,
+            "receptions": 3,
+            "receiving_yards": 46
+          },
+          "weekly_stats": [
+            {
+              "week": 9,
+              "opponent": "LV",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 33
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 13
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "ARI",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 4
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "IND",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041205",
       "name": "Brady Boyd",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ockb9yxy4dhlr9ajasms"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ockb9yxy4dhlr9ajasms",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040339",
       "name": "Cam'Ron Silmon-Craig",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sdlpu4khplzqtchb5syg"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sdlpu4khplzqtchb5syg",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 14,
+              "opponent": "IND",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039534",
       "name": "Carter Bradley",
       "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ystkos8c5gnjtsgxg7vg"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ystkos8c5gnjtsgxg7vg",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040323",
       "name": "Chandler Brayboy",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/m1dlnwcwdqve38sso7al"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/m1dlnwcwdqve38sso7al",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036166",
       "name": "Dane Jackson",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pd5hj8idoykjrnwurduz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pd5hj8idoykjrnwurduz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 9,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "JAX",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "buf",
+            "name": "Buffalo Bills",
+            "abbreviation": "BUF",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+            "colors": {
+              "primary": "#00338D",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041213",
       "name": "Devin Neal",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ld4tgpjzakb01wv3wbwp"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ld4tgpjzakb01wv3wbwp",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040410",
+      "name": "Eli Cox",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhtlmj9acfquzglsfld8",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041208",
       "name": "Garrett DiGiorgio",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fkpmi3qwjwkjcluhjkhn"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fkpmi3qwjwkjcluhjkhn",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0034817",
       "name": "Geron Christian",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/op7pv7rqvcvolr41t285"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/op7pv7rqvcvolr41t285",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039489",
+      "name": "Hayden Rucci",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vkscrzclmd0tboxpi8lk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 8,
+              "opponent": "ATL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041217",
       "name": "J'Mari Taylor",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bllauluwnbc34h7uzuom"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bllauluwnbc34h7uzuom",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040336",
       "name": "Jabbar Muhammad",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ik6uynmak0jbmwnjztd3"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ik6uynmak0jbmwnjztd3",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040723",
       "name": "Jack Kiser",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sy2upcvt2tvupphxlasc"
-    },
-    {
-      "id": "00-0041211",
-      "name": "Jalen Hunt",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ktz6tlcwfjukgpkvsxxg"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sy2upcvt2tvupphxlasc",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NYJ",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040209",
       "name": "Jalen McLeod",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kwm2mbjg8rmeeurzlrrr"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kwm2mbjg8rmeeurzlrrr",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040395",
       "name": "Jared Bartlett",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xvtfeuh8yeeunr7duz6f"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xvtfeuh8yeeunr7duz6f",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038509",
       "name": "Jerome Carvin",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zcbrrr2je6ahcsqqlk69"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zcbrrr2je6ahcsqqlk69",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041214",
       "name": "Jimto Obidegwu",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cedclw4zgcigzbgpmxti"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cedclw4zgcigzbgpmxti",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041203",
       "name": "Joey Aguilar",
       "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ftafwh4qrzhpxp8kq0ca"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ftafwh4qrzhpxp8kq0ca",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041219",
       "name": "Jordan White",
-      "position": "OL"
+      "position": "OL",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038823",
+      "name": "Kaevon Merriweather",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f0eu5qpulyo3hzh4524f",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "IND",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040338",
       "name": "Keivie Rose",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vdbiqrxfo6ulwo9eqkdt"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vdbiqrxfo6ulwo9eqkdt",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038729",
       "name": "Kilian Zierer",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ihrfeerkholmjmfmje3u"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ihrfeerkholmjmfmje3u",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041220",
       "name": "Michael Wortham",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vu5tb8rwe3rwu9vlpzvj"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vu5tb8rwe3rwu9vlpzvj",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0033319",
       "name": "Nick Mullens",
       "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/haxwyajgngz6quuyqg19"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/haxwyajgngz6quuyqg19",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 12,
+            "rushing_yards": -8,
+            "completions": 3,
+            "attempts": 3,
+            "passing_yards": 19
+          },
+          "weekly_stats": [
+            {
+              "week": 13,
+              "opponent": "TEN",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": -3
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "IND",
+              "stats": {
+                "completions": 1,
+                "attempts": 1,
+                "passing_yards": 3,
+                "carries": 3,
+                "rushing_yards": -1
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "NYJ",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": -2
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "TEN",
+              "stats": {
+                "completions": 2,
+                "attempts": 2,
+                "passing_yards": 16,
+                "carries": 3,
+                "rushing_yards": -2
+              }
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041127",
       "name": "Parker Hughes",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sgynne35cxl9y5fyzurs"
-    },
-    {
-      "id": "00-0040331",
-      "name": "Patrick Herbert",
-      "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ozp6mlkzvpqbvuldsm32"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sgynne35cxl9y5fyzurs",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035112",
       "name": "Patrick Mekari",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zexcgdqu1lea3ecum5vl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zexcgdqu1lea3ecum5vl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NYJ",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041210",
       "name": "Preston Hodge",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nshicasbyvt1r0p626q2"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nshicasbyvt1r0p626q2",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041209",
       "name": "Quindarius Dunnigan",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c8xnptquu7o8bp80ujmh"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c8xnptquu7o8bp80ujmh",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038776",
       "name": "Ricky Lee",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/erw0rosxtjkqvjzbh92x"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/erw0rosxtjkqvjzbh92x",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035062",
       "name": "Sam Mustipher",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qk1zzlke1gkuerfe8kc4"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qk1zzlke1gkuerfe8kc4",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041204",
       "name": "T.J. Bollers",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uq2bnnr2iea1gjvi0p3z"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uq2bnnr2iea1gjvi0p3z",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036497",
       "name": "Tim Jones",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rgthh35tnl9dbi7jshxv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rgthh35tnl9dbi7jshxv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 1,
+            "receptions": 1,
+            "receiving_yards": 15
+          },
+          "weekly_stats": [
+            {
+              "week": 9,
+              "opponent": "LV",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 15
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "HOU",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040320",
       "name": "Timothy McKay",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nlrhrxjzxlhe6nxsazpi"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nlrhrxjzxlhe6nxsazpi",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040022",
       "name": "Tommy Akingbesote",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/waesn6rqjex6oa1v5nl1"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/waesn6rqjex6oa1v5nl1",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041216",
       "name": "Trebor Pena",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/odtp8h91i2q8mjwbtypa"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/odtp8h91i2q8mjwbtypa",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040295",
       "name": "Trevian Thomas",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ldmirlh7kh1rt4ezqgdo"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ldmirlh7kh1rt4ezqgdo",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 5,
+              "opponent": "MIA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035992",
       "name": "Trystan Colon",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qbh3ipmfn5vfxd8a3cis"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qbh3ipmfn5vfxd8a3cis",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041122",
       "name": "Zach Durfee",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gcjqllkpo5cx41ocdvbt"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gcjqllkpo5cx41ocdvbt",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -2433,19 +3642,19 @@
       ]
     },
     {
-      "id": "00-0040329",
-      "name": "BJ Green II",
+      "id": "00-0040342",
+      "name": "Danny Striggow",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "95",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ozs0yiy8cfhwplbjdgnd",
-      "height": "73",
-      "weight": "270",
+      "number": "92",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lcyhsnmb991cgvwthcy0",
+      "height": "77",
+      "weight": "255",
       "experience": "1",
-      "college": "Colorado; Arizona State",
+      "college": "Minnesota",
       "depth_position": "LDE",
       "depth_slot": "1",
-      "depth_rank": 3,
+      "depth_rank": 2,
       "depth_order": 11,
       "stats": {},
       "weekly_stats": [],
@@ -2475,13 +3684,23 @@
               "stats": {}
             },
             {
-              "week": 7,
-              "opponent": "LA",
+              "week": 9,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "HOU",
               "stats": {}
             },
             {
               "week": 11,
               "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "ARI",
               "stats": {}
             },
             {
@@ -2495,21 +3714,46 @@
               "stats": {}
             },
             {
-              "week": 15,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "DEN",
-              "stats": {}
-            },
-            {
               "week": 18,
               "opponent": "TEN",
               "stats": {}
             }
           ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041059",
+      "name": "Wesley Williams",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "90",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/celtgaqzzg1pgqky5yju",
+      "height": "75",
+      "weight": "256",
+      "experience": "0",
+      "college": "Duke",
+      "depth_position": "LDE",
+      "depth_slot": "1",
+      "depth_rank": 3,
+      "depth_order": 11,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "jax",
             "name": "Jacksonville Jaguars",
@@ -2665,54 +3909,19 @@
       ]
     },
     {
-      "id": "00-0041059",
-      "name": "Wesley Williams",
+      "id": "00-0040329",
+      "name": "BJ Green II",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "90",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/celtgaqzzg1pgqky5yju",
-      "height": "75",
-      "weight": "256",
-      "experience": "0",
-      "college": "Duke",
+      "number": "95",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ozs0yiy8cfhwplbjdgnd",
+      "height": "73",
+      "weight": "270",
+      "experience": "1",
+      "college": "Colorado; Arizona State",
       "depth_position": "RDE",
       "depth_slot": "4",
       "depth_rank": 2,
-      "depth_order": 13,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "jax",
-            "name": "Jacksonville Jaguars",
-            "abbreviation": "JAX",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-            "colors": {
-              "primary": "#006778",
-              "secondary": "#101820"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0040342",
-      "name": "Danny Striggow",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "92",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lcyhsnmb991cgvwthcy0",
-      "height": "77",
-      "weight": "255",
-      "experience": "1",
-      "college": "Minnesota",
-      "depth_position": "RDE",
-      "depth_slot": "4",
-      "depth_rank": 3,
       "depth_order": 13,
       "stats": {},
       "weekly_stats": [],
@@ -2742,23 +3951,13 @@
               "stats": {}
             },
             {
-              "week": 9,
-              "opponent": "LV",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "HOU",
+              "week": 7,
+              "opponent": "LA",
               "stats": {}
             },
             {
               "week": 11,
               "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "ARI",
               "stats": {}
             },
             {
@@ -2769,6 +3968,16 @@
             {
               "week": 14,
               "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "DEN",
               "stats": {}
             },
             {
@@ -2803,7 +4012,7 @@
       "college": "South Carolina",
       "depth_position": "RDE",
       "depth_slot": "4",
-      "depth_rank": 4,
+      "depth_rank": 3,
       "depth_order": 13,
       "stats": {},
       "weekly_stats": [],
@@ -2957,6 +4166,87 @@
       ]
     },
     {
+      "id": "00-0034657",
+      "name": "Matt Dickerson",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "93",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gtdzbosdflkvbsm8rwiv",
+      "height": "77",
+      "weight": "290",
+      "experience": "8",
+      "college": "UCLA",
+      "depth_position": "LDT",
+      "depth_slot": "2",
+      "depth_rank": 2,
+      "depth_order": 24,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 12,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0039733",
       "name": "Ruke Orhorhoro",
       "position": "DL",
@@ -2969,7 +4259,7 @@
       "college": "Clemson",
       "depth_position": "LDT",
       "depth_slot": "2",
-      "depth_rank": 2,
+      "depth_rank": 3,
       "depth_order": 24,
       "stats": {},
       "weekly_stats": [],
@@ -3082,87 +4372,6 @@
             "colors": {
               "primary": "#A71930",
               "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0034657",
-      "name": "Matt Dickerson",
-      "position": "DL",
-      "group": "Defensive Line",
-      "number": "93",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gtdzbosdflkvbsm8rwiv",
-      "height": "77",
-      "weight": "290",
-      "experience": "8",
-      "college": "UCLA",
-      "depth_position": "LDT",
-      "depth_slot": "2",
-      "depth_rank": 3,
-      "depth_order": 24,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "jax",
-            "name": "Jacksonville Jaguars",
-            "abbreviation": "JAX",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-            "colors": {
-              "primary": "#006778",
-              "secondary": "#101820"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 12,
-              "opponent": "ARI",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 19,
-              "opponent": "BUF",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "jax",
-            "name": "Jacksonville Jaguars",
-            "abbreviation": "JAX",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-            "colors": {
-              "primary": "#006778",
-              "secondary": "#101820"
             }
           }
         }
@@ -3335,137 +4544,6 @@
       ]
     },
     {
-      "id": "00-0034473",
-      "name": "Dennis Gardeck",
-      "position": "LB",
-      "group": "Linebackers",
-      "number": "47",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wmk2eix7vcc9aglty2ga",
-      "height": "72",
-      "weight": "232",
-      "experience": "8",
-      "college": "Sioux Falls; West Virginia State",
-      "depth_position": "LDE",
-      "depth_slot": "1",
-      "depth_rank": 2,
-      "depth_order": 11,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "jax",
-            "name": "Jacksonville Jaguars",
-            "abbreviation": "JAX",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-            "colors": {
-              "primary": "#006778",
-              "secondary": "#101820"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "LV",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "ARI",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "DEN",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 19,
-              "opponent": "BUF",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "jax",
-            "name": "Jacksonville Jaguars",
-            "abbreviation": "JAX",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-            "colors": {
-              "primary": "#006778",
-              "secondary": "#101820"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0034413",
       "name": "Foye Oluokun",
       "position": "LB",
@@ -3611,16 +4689,16 @@
       ]
     },
     {
-      "id": "00-0040326",
-      "name": "Branson Combs",
+      "id": "00-0035240",
+      "name": "Jahlani Tavai",
       "position": "LB",
       "group": "Linebackers",
-      "number": "50",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u60bto6dll3fjewspobu",
-      "height": "75",
-      "weight": "227",
-      "experience": "1",
-      "college": "Wake Forest",
+      "number": "32",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/srlewkb9utcfby1x0bhh",
+      "height": "74",
+      "weight": "250",
+      "experience": "7",
+      "college": "Hawaii",
       "depth_position": "WLB",
       "depth_slot": "5",
       "depth_rank": 2,
@@ -3648,54 +4726,94 @@
           "stats": {},
           "weekly_stats": [
             {
+              "week": 5,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
               "week": 9,
-              "opponent": "LV",
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "TB",
               "stats": {}
             },
             {
               "week": 11,
-              "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "ARI",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 15,
               "opponent": "NYJ",
               "stats": {}
             },
             {
+              "week": 13,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
               "week": 16,
-              "opponent": "DEN",
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYJ",
               "stats": {}
             },
             {
               "week": 18,
-              "opponent": "TEN",
+              "opponent": "MIA",
               "stats": {}
             },
             {
               "week": 19,
-              "opponent": "BUF",
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 21,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 22,
+              "opponent": "SEA",
               "stats": {}
             }
           ],
           "team": {
-            "id": "jax",
-            "name": "Jacksonville Jaguars",
-            "abbreviation": "JAX",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
             "colors": {
-              "primary": "#006778",
-              "secondary": "#101820"
+              "primary": "#002244",
+              "secondary": "#C60C30"
             }
           }
         }
@@ -3832,16 +4950,16 @@
       ]
     },
     {
-      "id": "00-0035240",
-      "name": "Jahlani Tavai",
+      "id": "00-0040326",
+      "name": "Branson Combs",
       "position": "LB",
       "group": "Linebackers",
-      "number": "32",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/srlewkb9utcfby1x0bhh",
-      "height": "74",
-      "weight": "250",
-      "experience": "7",
-      "college": "Hawaii",
+      "number": "50",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u60bto6dll3fjewspobu",
+      "height": "75",
+      "weight": "227",
+      "experience": "1",
+      "college": "Wake Forest",
       "depth_position": "MLB",
       "depth_slot": "6",
       "depth_rank": 2,
@@ -3869,94 +4987,185 @@
           "stats": {},
           "weekly_stats": [
             {
-              "week": 5,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 6,
-              "opponent": "NO",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "CLE",
-              "stats": {}
-            },
-            {
               "week": 9,
-              "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "TB",
+              "opponent": "LV",
               "stats": {}
             },
             {
               "week": 11,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "NYG",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "MIA",
-              "stats": {}
-            },
-            {
-              "week": 19,
               "opponent": "LAC",
               "stats": {}
             },
             {
-              "week": 20,
-              "opponent": "HOU",
+              "week": 12,
+              "opponent": "ARI",
               "stats": {}
             },
             {
-              "week": 21,
+              "week": 13,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 16,
               "opponent": "DEN",
               "stats": {}
             },
             {
-              "week": 22,
-              "opponent": "SEA",
+              "week": 18,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "BUF",
               "stats": {}
             }
           ],
           "team": {
-            "id": "ne",
-            "name": "New England Patriots",
-            "abbreviation": "NE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
             "colors": {
-              "primary": "#002244",
-              "secondary": "#C60C30"
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0034473",
+      "name": "Dennis Gardeck",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "47",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wmk2eix7vcc9aglty2ga",
+      "height": "72",
+      "weight": "232",
+      "experience": "8",
+      "college": "Sioux Falls; West Virginia State",
+      "depth_position": "SLB",
+      "depth_slot": "7",
+      "depth_rank": 1,
+      "depth_order": 28,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
             }
           }
         }
@@ -4039,16 +5248,16 @@
       ]
     },
     {
-      "id": "00-0036655",
-      "name": "Cole Van Lanen",
+      "id": "00-0036975",
+      "name": "Walker Little",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "70",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oe5pfxi1iqbeskvwciii",
-      "height": "76",
-      "weight": "312",
+      "number": "72",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcwaedluzb9hvdtd1uxy",
+      "height": "79",
+      "weight": "325",
       "experience": "5",
-      "college": "Wisconsin",
+      "college": "Stanford",
       "depth_position": "LT",
       "depth_slot": "3",
       "depth_rank": 2,
@@ -4076,8 +5285,18 @@
           "stats": {},
           "weekly_stats": [
             {
-              "week": 9,
-              "opponent": "LV",
+              "week": 1,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "SF",
               "stats": {}
             },
             {
@@ -4086,13 +5305,18 @@
               "stats": {}
             },
             {
-              "week": 13,
-              "opponent": "TEN",
+              "week": 17,
+              "opponent": "IND",
               "stats": {}
             },
             {
               "week": 18,
               "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "BUF",
               "stats": {}
             }
           ],
@@ -4116,7 +5340,7 @@
       "group": "Offensive Line",
       "number": "75",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ujjke8d6jxr3wrwsslqh",
-      "height": "77",
+      "height": "76",
       "weight": "314",
       "experience": "0",
       "college": "Oregon; USC; Wyoming",
@@ -4139,6 +5363,67 @@
             "colors": {
               "primary": "#006778",
               "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038118",
+      "name": "Daniel Faalele",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "68",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kwwlwjresostl9pd7yvz",
+      "height": "80",
+      "weight": "370",
+      "experience": "4",
+      "college": "Minnesota",
+      "depth_position": "LG",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 3,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "NYJ",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
             }
           }
         }
@@ -4317,16 +5602,16 @@
       ]
     },
     {
-      "id": "00-0038118",
-      "name": "Daniel Faalele",
+      "id": "00-0040146",
+      "name": "Wyatt Milum",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "68",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kwwlwjresostl9pd7yvz",
-      "height": "80",
-      "weight": "370",
-      "experience": "4",
-      "college": "Minnesota",
+      "number": "64",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/g2oqodrisukyvsy0ktdq",
+      "height": "78",
+      "weight": "317",
+      "experience": "1",
+      "college": "West Virginia",
       "depth_position": "RG",
       "depth_slot": "6",
       "depth_rank": 2,
@@ -4348,81 +5633,20 @@
               "secondary": "#101820"
             }
           }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 6,
-              "opponent": "LA",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "NYJ",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "bal",
-            "name": "Baltimore Ravens",
-            "abbreviation": "BAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-            "colors": {
-              "primary": "#241773",
-              "secondary": "#000000"
-            }
-          }
         }
       ]
     },
     {
-      "id": "00-0040146",
-      "name": "Wyatt Milum",
+      "id": "00-0036655",
+      "name": "Cole Van Lanen",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "64",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/g2oqodrisukyvsy0ktdq",
-      "height": "78",
-      "weight": "317",
-      "experience": "1",
-      "college": "West Virginia",
-      "depth_position": "RG",
-      "depth_slot": "6",
-      "depth_rank": 3,
-      "depth_order": 5,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "jax",
-            "name": "Jacksonville Jaguars",
-            "abbreviation": "JAX",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-            "colors": {
-              "primary": "#006778",
-              "secondary": "#101820"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0036975",
-      "name": "Walker Little",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "72",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcwaedluzb9hvdtd1uxy",
-      "height": "79",
-      "weight": "325",
+      "number": "70",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oe5pfxi1iqbeskvwciii",
+      "height": "76",
+      "weight": "312",
       "experience": "5",
-      "college": "Stanford",
+      "college": "Wisconsin",
       "depth_position": "RT",
       "depth_slot": "7",
       "depth_rank": 1,
@@ -4450,18 +5674,8 @@
           "stats": {},
           "weekly_stats": [
             {
-              "week": 1,
-              "opponent": "CAR",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "SF",
+              "week": 9,
+              "opponent": "LV",
               "stats": {}
             },
             {
@@ -4470,18 +5684,13 @@
               "stats": {}
             },
             {
-              "week": 17,
-              "opponent": "IND",
+              "week": 13,
+              "opponent": "TEN",
               "stats": {}
             },
             {
               "week": 18,
               "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 19,
-              "opponent": "BUF",
               "stats": {}
             }
           ],
@@ -4781,7 +5990,7 @@
       "name": "Quinn Ewers",
       "position": "QB",
       "group": "Quarterbacks",
-      "number": "14",
+      "number": "10",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bbcwyjuhyijtqe7jo274",
       "height": "74",
       "weight": "210",
@@ -5060,7 +6269,7 @@
       "name": "Ameer Abdullah",
       "position": "RB",
       "group": "Running Backs",
-      "number": "43",
+      "number": "20",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k8teyeiqchljlm0h5te4",
       "height": "69",
       "weight": "203",
@@ -5666,6 +6875,87 @@
       ]
     },
     {
+      "id": "00-0038616",
+      "name": "Christian Braswell",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "21",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yubjkyjtl24cmt20ycbw",
+      "height": "71",
+      "weight": "185",
+      "experience": "3",
+      "college": "Rutgers; Temple",
+      "depth_position": "LCB",
+      "depth_slot": "8",
+      "depth_rank": 2,
+      "depth_order": 18,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 11,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "TEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0037313",
       "name": "Montaric Brown",
       "position": "DB",
@@ -5781,87 +7071,6 @@
             {
               "week": 19,
               "opponent": "BUF",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "jax",
-            "name": "Jacksonville Jaguars",
-            "abbreviation": "JAX",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-            "colors": {
-              "primary": "#006778",
-              "secondary": "#101820"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038616",
-      "name": "Christian Braswell",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "21",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yubjkyjtl24cmt20ycbw",
-      "height": "71",
-      "weight": "185",
-      "experience": "3",
-      "college": "Rutgers; Temple",
-      "depth_position": "RCB",
-      "depth_slot": "11",
-      "depth_rank": 2,
-      "depth_order": 19,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "jax",
-            "name": "Jacksonville Jaguars",
-            "abbreviation": "JAX",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-            "colors": {
-              "primary": "#006778",
-              "secondary": "#101820"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 11,
-              "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "ARI",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "TEN",
               "stats": {}
             }
           ],
@@ -7148,41 +8357,6 @@
       ]
     },
     {
-      "id": "00-0041084",
-      "name": "Tanner Koziol",
-      "position": "TE",
-      "group": "Tight Ends",
-      "number": "89",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yx0na9fufgv3snuyecbd",
-      "height": "79",
-      "weight": "247",
-      "experience": "0",
-      "college": "Houston; Ball State",
-      "depth_position": "TE",
-      "depth_slot": "10",
-      "depth_rank": 3,
-      "depth_order": 7,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "jax",
-            "name": "Jacksonville Jaguars",
-            "abbreviation": "JAX",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-            "colors": {
-              "primary": "#006778",
-              "secondary": "#101820"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0036590",
       "name": "Quintin Morris",
       "position": "TE",
@@ -7195,7 +8369,7 @@
       "college": "Bowling Green",
       "depth_position": "TE",
       "depth_slot": "10",
-      "depth_rank": 4,
+      "depth_rank": 3,
       "depth_order": 7,
       "stats": {},
       "weekly_stats": [],
@@ -7301,6 +8475,41 @@
               }
             }
           ],
+          "team": {
+            "id": "jax",
+            "name": "Jacksonville Jaguars",
+            "abbreviation": "JAX",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+            "colors": {
+              "primary": "#006778",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041084",
+      "name": "Tanner Koziol",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "88",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yx0na9fufgv3snuyecbd",
+      "height": "79",
+      "weight": "247",
+      "experience": "0",
+      "college": "Houston; Ball State",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 4,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
           "team": {
             "id": "jax",
             "name": "Jacksonville Jaguars",

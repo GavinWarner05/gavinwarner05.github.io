@@ -9,6 +9,20 @@ SPORTS = ROOT / "static" / "sports"
 
 
 class SportsPwaTests(unittest.TestCase):
+    def test_share_cards_are_generated_locally(self):
+        source = (ROOT / "assets" / "js" / "sports-share.js").read_text()
+        player_template = (ROOT / "layouts" / "sports" / "player.html").read_text()
+        extensions = (ROOT / "layouts" / "partials" / "body" / "extensions.html").read_text()
+        self.assertIn("window.SportsShare", source)
+        self.assertIn('canvas.toBlob', source)
+        self.assertIn('navigator.share', source)
+        self.assertIn('navigator.clipboard.write', source)
+        self.assertIn('ClipboardItem', source)
+        self.assertIn('data-player-share', player_template)
+        self.assertIn('data-player-season-share', player_template)
+        self.assertIn('js/sports-share.js', extensions)
+        self.assertNotIn("NOTION_TOKEN", source)
+
     def test_manifest_is_scoped_to_sports(self):
         manifest = json.loads((SPORTS / "manifest.webmanifest").read_text())
         self.assertEqual(manifest["id"], "/sports/")

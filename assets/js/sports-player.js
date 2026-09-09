@@ -85,7 +85,25 @@
     }));
   }
 
-  function renderWeeks(player, weeks) {
+  function shareStats(player, stats) {
+    return orderedStats(player, stats).slice(0, 4).map((key) => ({ label: statLabels[key], value: stats[key] }));
+  }
+
+  function sharePlayerCard(player, team, season, stats, week) {
+    if (!window.SportsShare) return;
+    const label = String(player.name || "player").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+    window.SportsShare.player({
+      player: Object.assign({}, player, { headshot_url: optimizedHeadshot(player.headshot_url, 900) }),
+      team: team,
+      season: season,
+      week: week || null,
+      stats: shareStats(player, stats || {}),
+      filename: `${label}-${week ? "week-" + week.week : season + "-season"}.png`,
+      title: `${player.name} · ${week ? "Week " + week.week : season + " season"}`
+    });
+  }
+
+  function renderWeeks(player, weeks, season, team) {
     el("[data-player-week-count]").textContent = weeks.length + " week" + (weeks.length === 1 ? "" : "s");
     if (!weeks.length) {
       const empty = document.createElement("p"); empty.className = "player-stats-empty"; empty.textContent = "Weekly statistics will appear here once the player records a regular-season appearance.";
@@ -96,7 +114,10 @@
       const heading = document.createElement("div"); heading.className = "player-week-heading";
       const title = document.createElement("span"); title.className = "player-week-label"; title.textContent = "Week " + week.week;
       const opponent = document.createElement("h3"); opponent.className = "player-week-opponent"; opponent.textContent = week.opponent ? "vs. " + week.opponent : "Regular season";
-      heading.append(title, opponent);
+      const share = document.createElement("button"); share.type = "button"; share.className = "sports-share-trigger player-week-share"; share.textContent = "Share";
+      share.setAttribute("aria-label", `Share ${player.name} Week ${week.week} statistics`);
+      share.addEventListener("click", function () { sharePlayerCard(player, team, season, week.stats || {}, week); });
+      heading.append(title, opponent, share);
       const stats = document.createElement("dl"); stats.className = "player-page-stats player-week-stats";
       appendStats(stats, player, week.stats || {}); card.append(heading, stats); return card;
     }));
@@ -116,10 +137,12 @@
     el("[data-player-name]").textContent = player.name;
     el("[data-player-meta]").textContent = [player.number ? "#" + player.number : "", player.position, player.depth_rank ? (player.depth_position || player.position) + player.depth_rank : ""].filter(Boolean).join(" · ");
     const seasons = player.seasons && player.seasons.length ? player.seasons.slice().sort((a, b) => b.season - a.season) : [{ season: data.season, team: team, stats: player.stats || {}, weekly_stats: player.weekly_stats || [] }];
+    let currentSeason = seasons[0];
     const selector = el("[data-player-season-select]");
     selector.replaceChildren(...seasons.map((season) => { const option = document.createElement("option"); option.value = String(season.season); option.textContent = season.season; return option; }));
     el("[data-player-season-control]").hidden = seasons.length < 2;
     function showSeason(season) {
+      currentSeason = season;
       const seasonTeam = season.team || team;
       const seasonGradient = "linear-gradient(135deg," + seasonTeam.colors.primary + "," + seasonTeam.colors.secondary + ")";
       app.style.setProperty("--player-gradient", seasonGradient);
@@ -128,10 +151,15 @@
       el("[data-player-team]").textContent = season.season + " · " + seasonTeam.name;
       const teamLink = el("[data-player-team-link]"); teamLink.href = app.dataset.teamBaseUrl + seasonTeam.id + "/"; teamLink.textContent = "View " + seasonTeam.name + " roster";
       appendStats(el("[data-player-totals]"), player, season.stats || {});
-      renderWeeks(player, season.weekly_stats || []);
+      renderWeeks(player, season.weekly_stats || [], season.season, seasonTeam);
     }
     showSeason(seasons[0]);
     selector.addEventListener("change", function () { const selected = seasons.find((season) => String(season.season) === selector.value); if (selected) showSeason(selected); });
+    function shareCurrentSeason() {
+      sharePlayerCard(player, currentSeason.team || team, currentSeason.season, currentSeason.stats || {});
+    }
+    el("[data-player-share]").addEventListener("click", shareCurrentSeason);
+    el("[data-player-season-share]").addEventListener("click", shareCurrentSeason);
     const injury = (data.injuries || []).find((entry) => entry.player === player.name);
     if (injury) {
       const injuryBadge = el("[data-player-injury]");

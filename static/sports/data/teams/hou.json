@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "hou",
@@ -204,7 +204,7 @@
         },
         {
           "team": "Cincinnati Bengals",
-          "player": "Dax Hill",
+          "player": "Daxton Hill",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -376,7 +376,7 @@
         },
         {
           "team": "Indianapolis Colts",
-          "player": "AJ Haulcy",
+          "player": "A.J. Haulcy",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -736,13 +736,13 @@
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -828,13 +828,13 @@
         },
         {
           "team": "New York Giants",
-          "player": "Tyrone Tracy",
+          "player": "Tyrone Tracy Jr.",
           "status": "Questionable",
           "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Dru Phillips",
+          "player": "Andru Phillips",
           "status": "Questionable",
           "detail": "Lower Leg"
         },
@@ -858,7 +858,7 @@
         },
         {
           "team": "New York Giants",
-          "player": "Greg Newsome",
+          "player": "Greg Newsome II",
           "status": "Questionable",
           "detail": "Knee"
         },
@@ -1022,7 +1022,7 @@
         },
         {
           "team": "Los Angeles Chargers",
-          "player": "Tre' Harris",
+          "player": "Tre Harris",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
@@ -1150,7 +1150,7 @@
         },
         {
           "team": "Cleveland Browns",
-          "player": "Michael Coats",
+          "player": "Michael Coats Jr.",
           "status": "Questionable",
           "detail": "Ankle"
         }
@@ -1196,7 +1196,7 @@
         },
         {
           "team": "Indianapolis Colts",
-          "player": "AJ Haulcy",
+          "player": "A.J. Haulcy",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -1756,13 +1756,13 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen",
+          "player": "LeQuint Allen Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Brian Thomas",
+          "player": "Brian Thomas Jr.",
           "status": "Questionable",
           "detail": "Shoulder"
         },
@@ -2312,6 +2312,12 @@
     },
     {
       "team": "Houston Texans",
+      "player": "Braden Smith",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "Houston Texans",
       "player": "Ja'Marcus Ingram",
       "status": "IR/PUP",
       "detail": "Reserve list"
@@ -2363,6 +2369,12 @@
       "player": "K.C. Ossai",
       "status": "IR/PUP",
       "detail": "Reserve list"
+    },
+    {
+      "team": "Houston Texans",
+      "player": "Sam Hagen",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
     }
   ],
   "injury_players": [
@@ -2370,211 +2382,2033 @@
       "id": "00-0038724",
       "name": "Ali Gaye",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ctzqzcp9fu31oplmkvnx"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ctzqzcp9fu31oplmkvnx",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 8,
+              "opponent": "IND",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ten",
+            "name": "Tennessee Titans",
+            "abbreviation": "TEN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+            "colors": {
+              "primary": "#0C2340",
+              "secondary": "#4B92DB"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040411",
       "name": "Alijah Huzzie",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cspeq4wwmy82tmumrh6n"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cspeq4wwmy82tmumrh6n",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 18,
+              "opponent": "IND",
+              "stats": {
+                "def_interceptions": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
-      "id": "00-0039333",
-      "name": "Brandon Codrington",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/icpo89rrbnus0apxhezm"
-    },
-    {
-      "id": "00-0036556",
-      "name": "Brevin Jordan",
-      "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ypyec24t4prirebsdcg4"
+      "id": "00-0034836",
+      "name": "Braden Smith",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nvotj0nraxfrdeklulgb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "JAX",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036241",
       "name": "Bryce Hall",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/owg6wpperxys7bjablkz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/owg6wpperxys7bjablkz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039902",
+      "name": "Chris Braswell",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkta07rjtsatr1mmbvoj",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "MIA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041309",
       "name": "Daniel Sobkowicz",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u5goe2agufae3d8jphi9"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u5goe2agufae3d8jphi9",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038638",
       "name": "Derek Parish",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/exzq9qbltfwv5p1b5vs4"
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/exzq9qbltfwv5p1b5vs4",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038622",
       "name": "Deuce Vaughn",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z8lnunc6vvq9qlnidaw3"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z8lnunc6vvq9qlnidaw3",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041302",
       "name": "Dominic Bailey",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/czwksuefvmz0av1ffop0"
-    },
-    {
-      "id": "00-0037082",
-      "name": "Dominique Robinson",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ces5sntijczc3q0pabay"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/czwksuefvmz0av1ffop0",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039009",
       "name": "Dylan Horton",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tshgju7vbpqdj84bbkfl"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tshgju7vbpqdj84bbkfl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0034987",
       "name": "E.J. Speed",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lpqe7elzi8tbt8rjzozd"
-    },
-    {
-      "id": "00-0040410",
-      "name": "Eli Cox",
-      "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhtlmj9acfquzglsfld8"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lpqe7elzi8tbt8rjzozd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0034091",
       "name": "George Odum",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/watelqvhccitomv8ntny"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/watelqvhccitomv8ntny",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 13,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "SF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ind",
+            "name": "Indianapolis Colts",
+            "abbreviation": "IND",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+            "colors": {
+              "primary": "#002C5F",
+              "secondary": "#A2AAAD"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040211",
       "name": "Graham Mertz",
       "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v5l7nuj0z669orqxga16"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v5l7nuj0z669orqxga16",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037661",
       "name": "Ja'Marcus Ingram",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/psqzuevupspatsrfianv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/psqzuevupspatsrfianv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "NE",
+              "stats": {
+                "def_interceptions": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039395",
       "name": "Jamal Hill",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wmxibtpnomcoopmuv8fi"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wmxibtpnomcoopmuv8fi",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041306",
       "name": "James Neal III",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xidnqx1gkgr7dtdbg3br"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xidnqx1gkgr7dtdbg3br",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039405",
       "name": "Jawhar Jordan",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mdov6nge0ui6pc3kx0l2"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mdov6nge0ui6pc3kx0l2",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 43,
+            "rushing_yards": 193,
+            "targets": 7,
+            "receptions": 7,
+            "receiving_yards": 34
+          },
+          "weekly_stats": [
+            {
+              "week": 15,
+              "opponent": "ARI",
+              "stats": {
+                "carries": 15,
+                "rushing_yards": 101,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 17
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "LV",
+              "stats": {
+                "carries": 15,
+                "rushing_yards": 53,
+                "targets": 5,
+                "receptions": 5,
+                "receiving_yards": 17
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "LAC",
+              "stats": {
+                "carries": 8,
+                "rushing_yards": 36
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "IND",
+              "stats": {
+                "carries": 5,
+                "rushing_yards": 3
+              }
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040130",
       "name": "Jayden Higgins",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s3zuo0ysm9ncxr9o4420"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s3zuo0ysm9ncxr9o4420",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 82,
+            "receptions": 50,
+            "receiving_yards": 623,
+            "receiving_tds": 6
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "LA",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 32
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "TB",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 28
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "JAX",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 5
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 24,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 32
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "SEA",
+              "stats": {
+                "targets": 3
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "SF",
+              "stats": {
+                "targets": 8,
+                "receptions": 4,
+                "receiving_yards": 34,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "JAX",
+              "stats": {
+                "targets": 7,
+                "receptions": 5,
+                "receiving_yards": 42,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 7,
+                "receptions": 4,
+                "receiving_yards": 55
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 9,
+                "receptions": 4,
+                "receiving_yards": 38,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "IND",
+              "stats": {
+                "targets": 5,
+                "receptions": 5,
+                "receiving_yards": 65
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "KC",
+              "stats": {
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 34
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "ARI",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "LV",
+              "stats": {
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 17
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 88,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "IND",
+              "stats": {
+                "targets": 5,
+                "receptions": 2,
+                "receiving_yards": 23,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 19,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 39
+              }
+            },
+            {
+              "week": 20,
+              "opponent": "NE",
+              "stats": {
+                "targets": 10,
+                "receptions": 6,
+                "receiving_yards": 59
+              }
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040049",
       "name": "Josh Kelly",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wkhsgcxyw5v9dtaqycui"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wkhsgcxyw5v9dtaqycui",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040414",
+      "name": "Junior Tafuna",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ezsa7ijhjnbirieoi6ud",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040413",
       "name": "K.C. Ossai",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wuteil048xz2di0jui4x"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wuteil048xz2di0jui4x",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
-      "id": "00-0038823",
-      "name": "Kaevon Merriweather",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f0eu5qpulyo3hzh4524f"
+      "id": "00-0041365",
+      "name": "Ka'ena Decambra",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pdijxigyrdfxvuk1r2vm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040229",
       "name": "Kyonte Hamilton",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kef04vtxlfpuijyeotgg"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kef04vtxlfpuijyeotgg",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040792",
       "name": "Layne Pryor",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w5iwcg7kfl3qunbng23t"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w5iwcg7kfl3qunbng23t",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041467",
       "name": "Lewis Bond",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qm5q5iilnctaitwwscst"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qm5q5iilnctaitwwscst",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041535",
       "name": "Louis Hansen",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/epg5liuuraoragcupwgi"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/epg5liuuraoragcupwgi",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0034355",
       "name": "M.J. Stewart",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ks5w5s7jghanmslipbfs"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ks5w5s7jghanmslipbfs",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039054",
       "name": "Marte Mapu",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iulfjo62qs1q2uec0rxu"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iulfjo62qs1q2uec0rxu",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "MIA",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 21,
+              "opponent": "DEN",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036605",
+      "name": "Max Pircher",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ehhmidbkeblltbw6vzhm",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0038839",
+      "name": "Mitchell Tinsley",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t4h8qtzndtvf6is6naew",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 24,
+            "receptions": 8,
+            "receiving_yards": 116,
+            "receiving_tds": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "JAX",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 13,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "MIN",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 9
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "CHI",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 27
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "NE",
+              "stats": {
+                "targets": 6,
+                "receptions": 2,
+                "receiving_yards": 29,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 9,
+                "receptions": 2,
+                "receiving_yards": 22
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 16
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "cin",
+            "name": "Cincinnati Bengals",
+            "abbreviation": "CIN",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+            "colors": {
+              "primary": "#FB4F14",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041312",
       "name": "Noah Whittington",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ofifs3fbgpnv6qtcjain"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ofifs3fbgpnv6qtcjain",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038458",
       "name": "Owen Wright",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nig1vy9k1asfhkanvlki"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nig1vy9k1asfhkanvlki",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 3,
+            "rushing_yards": 6
+          },
+          "weekly_stats": [
+            {
+              "week": 11,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "LA",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 6
+              }
+            }
+          ],
+          "team": {
+            "id": "tb",
+            "name": "Tampa Bay Buccaneers",
+            "abbreviation": "TB",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+            "colors": {
+              "primary": "#D50A0A",
+              "secondary": "#34302B"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0041303",
+      "name": "Sam Hagen",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zhkw7gmxfbcebcpoms2j",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039427",
       "name": "Solomon Byrd",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/obotfel6wfs49qectgfh"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/obotfel6wfs49qectgfh",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041304",
       "name": "Stephen Hall",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qa7ibhagtbb2o8wkciex"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qa7ibhagtbb2o8wkciex",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038977",
       "name": "Tank Dell",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dzjep37g7fqdweqtncso"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dzjep37g7fqdweqtncso",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041308",
       "name": "Treyvhon Saunders",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gwouh69b2usqxmfhqxmz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gwouh69b2usqxmfhqxmz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0037340",
+      "name": "Zaire Mitchell-Paden",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kx728asxtg6ykmh1yblc",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 3,
+            "receptions": 2,
+            "receiving_yards": 17
+          },
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "CAR",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 14
+              }
+            }
+          ],
+          "team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -2725,11 +4559,122 @@
       ]
     },
     {
+      "id": "00-0037082",
+      "name": "Dominique Robinson",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "94",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nalbxnwyiyh32j3g6fml",
+      "height": "77",
+      "weight": "275",
+      "experience": "4",
+      "college": "Miami (Ohio)",
+      "depth_position": "LDE",
+      "depth_slot": "1",
+      "depth_rank": 2,
+      "depth_order": 11,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "LV",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "chi",
+            "name": "Chicago Bears",
+            "abbreviation": "CHI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+            "colors": {
+              "primary": "#0B162A",
+              "secondary": "#C83803"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0041305",
       "name": "Sabastian Harsh",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "74",
+      "number": "54",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lfw9jpcytz9nzrz3irxa",
       "height": "74",
       "weight": "263",
@@ -2737,7 +4682,7 @@
       "college": "N.C. State; Wyoming",
       "depth_position": "LDE",
       "depth_slot": "1",
-      "depth_rank": 2,
+      "depth_rank": 3,
       "depth_order": 11,
       "stats": {},
       "weekly_stats": [],
@@ -3284,16 +5229,16 @@
       ]
     },
     {
-      "id": "00-0032265",
-      "name": "Mario Edwards",
+      "id": "00-0041440",
+      "name": "Kayden McDonald",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "97",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cia50revbealvw5biusr",
+      "number": "93",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s9qpl2hid4ydacfgnkkj",
       "height": "75",
-      "weight": "280",
-      "experience": "11",
-      "college": "Florida State",
+      "weight": "326",
+      "experience": "0",
+      "college": "Ohio State",
       "depth_position": "LDT",
       "depth_slot": "2",
       "depth_rank": 3,
@@ -3305,67 +5250,6 @@
           "season": 2026,
           "stats": {},
           "weekly_stats": [],
-          "team": {
-            "id": "hou",
-            "name": "Houston Texans",
-            "abbreviation": "HOU",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-            "colors": {
-              "primary": "#03202F",
-              "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 4,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "ARI",
-              "stats": {}
-            }
-          ],
           "team": {
             "id": "hou",
             "name": "Houston Texans",
@@ -3516,16 +5400,16 @@
       ]
     },
     {
-      "id": "00-0041440",
-      "name": "Kayden McDonald",
+      "id": "00-0032265",
+      "name": "Mario Edwards",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "93",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s9qpl2hid4ydacfgnkkj",
+      "number": "97",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cia50revbealvw5biusr",
       "height": "75",
-      "weight": "326",
-      "experience": "0",
-      "college": "Ohio State",
+      "weight": "280",
+      "experience": "11",
+      "college": "Florida State",
       "depth_position": "RDT",
       "depth_slot": "3",
       "depth_rank": 2,
@@ -3537,6 +5421,67 @@
           "season": 2026,
           "stats": {},
           "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "ARI",
+              "stats": {}
+            }
+          ],
           "team": {
             "id": "hou",
             "name": "Houston Texans",
@@ -3879,16 +5824,16 @@
       ]
     },
     {
-      "id": "00-0041465",
-      "name": "Wade Woodaz",
+      "id": "00-0037457",
+      "name": "Jake Hansen",
       "position": "LB",
       "group": "Linebackers",
-      "number": "30",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pwnisqesajtuhmgkfhjq",
-      "height": "76",
-      "weight": "236",
-      "experience": "0",
-      "college": "Clemson",
+      "number": "35",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i0pe7wrwhctzokn1kurk",
+      "height": "73",
+      "weight": "230",
+      "experience": "4",
+      "college": "Illinois",
       "depth_position": "MLB",
       "depth_slot": "6",
       "depth_rank": 2,
@@ -3900,6 +5845,82 @@
           "season": 2026,
           "stats": {},
           "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "LV",
+              "stats": {}
+            }
+          ],
           "team": {
             "id": "hou",
             "name": "Houston Texans",
@@ -3924,10 +5945,10 @@
       "weight": "235",
       "experience": "4",
       "college": "Iowa State",
-      "depth_position": "MLB",
-      "depth_slot": "6",
-      "depth_rank": 3,
-      "depth_order": 27,
+      "depth_position": "SLB",
+      "depth_slot": "7",
+      "depth_rank": 1,
+      "depth_order": 28,
       "stats": {},
       "weekly_stats": [],
       "seasons": [
@@ -4035,19 +6056,19 @@
       ]
     },
     {
-      "id": "00-0037457",
-      "name": "Jake Hansen",
+      "id": "00-0041465",
+      "name": "Wade Woodaz",
       "position": "LB",
       "group": "Linebackers",
-      "number": "35",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i0pe7wrwhctzokn1kurk",
-      "height": "73",
-      "weight": "230",
-      "experience": "4",
-      "college": "Illinois",
+      "number": "30",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pwnisqesajtuhmgkfhjq",
+      "height": "76",
+      "weight": "236",
+      "experience": "0",
+      "college": "Clemson",
       "depth_position": "SLB",
       "depth_slot": "7",
-      "depth_rank": 1,
+      "depth_rank": 2,
       "depth_order": 28,
       "stats": {},
       "weekly_stats": [],
@@ -4056,82 +6077,6 @@
           "season": 2026,
           "stats": {},
           "weekly_stats": [],
-          "team": {
-            "id": "hou",
-            "name": "Houston Texans",
-            "abbreviation": "HOU",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-            "colors": {
-              "primary": "#03202F",
-              "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 2,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 3,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "SF",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "DEN",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "ARI",
-              "stats": {}
-            },
-            {
-              "week": 16,
-              "opponent": "LV",
-              "stats": {}
-            }
-          ],
           "team": {
             "id": "hou",
             "name": "Houston Texans",
@@ -4232,16 +6177,16 @@
       ]
     },
     {
-      "id": "00-0039857",
-      "name": "Blake Fisher",
+      "id": "00-0039422",
+      "name": "Nathan Thomas",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "57",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/icrw8fcxsfxcrmoxlbsf",
-      "height": "78",
-      "weight": "312",
+      "number": "78",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eqezy9smygtojjoshtgt",
+      "height": "77",
+      "weight": "334",
       "experience": "2",
-      "college": "Notre Dame",
+      "college": "Louisiana-Lafayette",
       "depth_position": "LT",
       "depth_slot": "3",
       "depth_rank": 2,
@@ -4269,34 +6214,34 @@
           "stats": {},
           "weekly_stats": [
             {
-              "week": 1,
-              "opponent": "LA",
+              "week": 4,
+              "opponent": "GB",
               "stats": {}
             },
             {
-              "week": 7,
-              "opponent": "SEA",
+              "week": 5,
+              "opponent": "NYJ",
               "stats": {}
             },
             {
-              "week": 10,
-              "opponent": "JAX",
+              "week": 14,
+              "opponent": "DET",
               "stats": {}
             },
             {
               "week": 15,
-              "opponent": "ARI",
+              "opponent": "MIN",
               "stats": {}
             }
           ],
           "team": {
-            "id": "hou",
-            "name": "Houston Texans",
-            "abbreviation": "HOU",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
             "colors": {
-              "primary": "#03202F",
-              "secondary": "#A71930"
+              "primary": "#003594",
+              "secondary": "#041E42"
             }
           }
         }
@@ -4492,7 +6437,7 @@
       "college": "Troy",
       "depth_position": "C",
       "depth_slot": "5",
-      "depth_rank": 3,
+      "depth_rank": 2,
       "depth_order": 4,
       "stats": {},
       "weekly_stats": [],
@@ -4728,16 +6673,16 @@
       ]
     },
     {
-      "id": "00-0039422",
-      "name": "Nathan Thomas",
+      "id": "00-0039857",
+      "name": "Blake Fisher",
       "position": "OL",
       "group": "Offensive Line",
-      "number": "71",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eqezy9smygtojjoshtgt",
-      "height": "77",
-      "weight": "334",
+      "number": "57",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/icrw8fcxsfxcrmoxlbsf",
+      "height": "78",
+      "weight": "312",
       "experience": "2",
-      "college": "Louisiana-Lafayette",
+      "college": "Notre Dame",
       "depth_position": "RT",
       "depth_slot": "7",
       "depth_rank": 2,
@@ -4765,137 +6710,26 @@
           "stats": {},
           "weekly_stats": [
             {
-              "week": 4,
-              "opponent": "GB",
+              "week": 1,
+              "opponent": "LA",
               "stats": {}
             },
             {
-              "week": 5,
-              "opponent": "NYJ",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "DET",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "MIN",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "dal",
-            "name": "Dallas Cowboys",
-            "abbreviation": "DAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-            "colors": {
-              "primary": "#003594",
-              "secondary": "#041E42"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0034836",
-      "name": "Braden Smith",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "71",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nvotj0nraxfrdeklulgb",
-      "height": "78",
-      "weight": "315",
-      "experience": "8",
-      "college": "Auburn",
-      "depth_position": "RT",
-      "depth_slot": "7",
-      "depth_rank": 3,
-      "depth_order": 6,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "hou",
-            "name": "Houston Texans",
-            "abbreviation": "HOU",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-            "colors": {
-              "primary": "#03202F",
-              "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 3,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "LV",
+              "week": 7,
+              "opponent": "SEA",
               "stats": {}
             },
             {
               "week": 10,
-              "opponent": "ATL",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 14,
               "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "ARI",
               "stats": {}
             }
           ],
-          "team": {
-            "id": "ind",
-            "name": "Indianapolis Colts",
-            "abbreviation": "IND",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-            "colors": {
-              "primary": "#002C5F",
-              "secondary": "#A2AAAD"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041303",
-      "name": "Sam Hagen",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "76",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zhkw7gmxfbcebcpoms2j",
-      "height": "78",
-      "weight": "320",
-      "experience": "0",
-      "college": "South Dakota State; North Dakota",
-      "depth_position": "RT",
-      "depth_slot": "7",
-      "depth_rank": 4,
-      "depth_order": 6,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
           "team": {
             "id": "hou",
             "name": "Houston Texans",
@@ -6043,16 +7877,16 @@
       ]
     },
     {
-      "id": "00-0034278",
-      "name": "Tremon Smith",
+      "id": "00-0040149",
+      "name": "Jaylin Smith",
       "position": "DB",
       "group": "Safeties",
-      "number": "11",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pva3iicdybaabrrws0sg",
-      "height": "72",
-      "weight": "190",
-      "experience": "8",
-      "college": "Central Arkansas",
+      "number": "22",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pm4jhvtvmy4uvtcuxzpj",
+      "height": "71",
+      "weight": "187",
+      "experience": "1",
+      "college": "USC",
       "depth_position": "LCB",
       "depth_slot": "8",
       "depth_rank": 2,
@@ -6090,78 +7924,8 @@
               "stats": {}
             },
             {
-              "week": 3,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 5,
-              "opponent": "BAL",
-              "stats": {}
-            },
-            {
-              "week": 7,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
               "week": 9,
               "opponent": "DEN",
-              "stats": {}
-            },
-            {
-              "week": 10,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 11,
-              "opponent": "TEN",
-              "stats": {}
-            },
-            {
-              "week": 12,
-              "opponent": "BUF",
-              "stats": {}
-            },
-            {
-              "week": 13,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 14,
-              "opponent": "KC",
-              "stats": {}
-            },
-            {
-              "week": 15,
-              "opponent": "ARI",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "LAC",
-              "stats": {}
-            },
-            {
-              "week": 18,
-              "opponent": "IND",
-              "stats": {}
-            },
-            {
-              "week": 19,
-              "opponent": "PIT",
-              "stats": {}
-            },
-            {
-              "week": 20,
-              "opponent": "NE",
               "stats": {}
             }
           ],
@@ -6365,16 +8129,16 @@
       ]
     },
     {
-      "id": "00-0040149",
-      "name": "Jaylin Smith",
+      "id": "00-0034278",
+      "name": "Tremon Smith",
       "position": "DB",
       "group": "Safeties",
-      "number": "22",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pm4jhvtvmy4uvtcuxzpj",
-      "height": "71",
-      "weight": "187",
-      "experience": "1",
-      "college": "USC",
+      "number": "11",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pva3iicdybaabrrws0sg",
+      "height": "72",
+      "weight": "190",
+      "experience": "8",
+      "college": "Central Arkansas",
       "depth_position": "RCB",
       "depth_slot": "11",
       "depth_rank": 2,
@@ -6412,8 +8176,78 @@
               "stats": {}
             },
             {
+              "week": 3,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
               "week": 9,
               "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "TEN",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 20,
+              "opponent": "NE",
               "stats": {}
             }
           ],
@@ -6571,6 +8405,41 @@
       ]
     },
     {
+      "id": "00-0041466",
+      "name": "Kamari Ramsey",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "27",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h13havquctbz0yop4hlr",
+      "height": "72",
+      "weight": "202",
+      "experience": "0",
+      "college": "USC; UCLA",
+      "depth_position": "SS",
+      "depth_slot": "9",
+      "depth_rank": 2,
+      "depth_order": 20,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0039838",
       "name": "Calen Bullock",
       "position": "DB",
@@ -6708,41 +8577,6 @@
               "stats": {}
             }
           ],
-          "team": {
-            "id": "hou",
-            "name": "Houston Texans",
-            "abbreviation": "HOU",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-            "colors": {
-              "primary": "#03202F",
-              "secondary": "#A71930"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041466",
-      "name": "Kamari Ramsey",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "27",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h13havquctbz0yop4hlr",
-      "height": "72",
-      "weight": "202",
-      "experience": "0",
-      "college": "USC; UCLA",
-      "depth_position": "FS",
-      "depth_slot": "10",
-      "depth_rank": 2,
-      "depth_order": 21,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
           "team": {
             "id": "hou",
             "name": "Houston Texans",
@@ -7578,6 +9412,41 @@
       ]
     },
     {
+      "id": "00-0041472",
+      "name": "Marlin Klein",
+      "position": "TE",
+      "group": "Tight Ends",
+      "number": "83",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ek2nzhrwqxl6psbm2iic",
+      "height": "78",
+      "weight": "248",
+      "experience": "0",
+      "college": "Michigan",
+      "depth_position": "TE",
+      "depth_slot": "10",
+      "depth_rank": 3,
+      "depth_order": 7,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0039359",
       "name": "Cade Stover",
       "position": "TE",
@@ -7590,7 +9459,7 @@
       "college": "Ohio State",
       "depth_position": "TE",
       "depth_slot": "10",
-      "depth_rank": 3,
+      "depth_rank": 4,
       "depth_order": 7,
       "stats": {},
       "weekly_stats": [],
@@ -7711,19 +9580,19 @@
       ]
     },
     {
-      "id": "00-0041472",
-      "name": "Marlin Klein",
+      "id": "00-0036556",
+      "name": "Brevin Jordan",
       "position": "TE",
       "group": "Tight Ends",
-      "number": "83",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ek2nzhrwqxl6psbm2iic",
-      "height": "78",
-      "weight": "248",
-      "experience": "0",
-      "college": "Michigan",
+      "number": "9",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rn42gehfbeflx2px8njx",
+      "height": "75",
+      "weight": "245",
+      "experience": "5",
+      "college": "Miami",
       "depth_position": "TE",
       "depth_slot": "10",
-      "depth_rank": 4,
+      "depth_rank": 5,
       "depth_order": 7,
       "stats": {},
       "weekly_stats": [],
@@ -7959,6 +9828,228 @@
       ]
     },
     {
+      "id": "00-0038608",
+      "name": "Kayshon Boutte",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "14",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mg4icjqhwhnc5uobmau5",
+      "height": "71",
+      "weight": "205",
+      "experience": "3",
+      "college": "LSU",
+      "depth_position": "WR",
+      "depth_slot": "2",
+      "depth_rank": 2,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "hou",
+            "name": "Houston Texans",
+            "abbreviation": "HOU",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+            "colors": {
+              "primary": "#03202F",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 66,
+            "receptions": 42,
+            "receiving_yards": 719,
+            "receiving_tds": 7
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "LV",
+              "stats": {
+                "targets": 8,
+                "receptions": 6,
+                "receiving_yards": 103
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 16,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "PIT",
+              "stats": {
+                "targets": 3,
+                "receptions": 2,
+                "receiving_yards": 28
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "CAR",
+              "stats": {
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 18
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 43
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "NO",
+              "stats": {
+                "targets": 5,
+                "receptions": 5,
+                "receiving_yards": 93,
+                "receiving_tds": 2
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "TEN",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 55,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "CLE",
+              "stats": {
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 75,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "ATL",
+              "stats": {
+                "targets": 1
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "CIN",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 15
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "NYG",
+              "stats": {
+                "targets": 5,
+                "receptions": 4,
+                "receiving_yards": 35,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 30
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 16
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 4,
+                "receptions": 2,
+                "receiving_yards": 24
+              }
+            },
+            {
+              "week": 19,
+              "opponent": "LAC",
+              "stats": {
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 66
+              }
+            },
+            {
+              "week": 20,
+              "opponent": "HOU",
+              "stats": {
+                "targets": 5,
+                "receptions": 3,
+                "receiving_yards": 75,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 21,
+              "opponent": "DEN",
+              "stats": {
+                "targets": 6,
+                "receptions": 1,
+                "receiving_yards": 6
+              }
+            },
+            {
+              "week": 22,
+              "opponent": "SEA",
+              "stats": {
+                "targets": 5,
+                "receptions": 1,
+                "receiving_yards": 21
+              }
+            }
+          ],
+          "team": {
+            "id": "ne",
+            "name": "New England Patriots",
+            "abbreviation": "NE",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+            "colors": {
+              "primary": "#002244",
+              "secondary": "#C60C30"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0038618",
       "name": "Xavier Hutchinson",
       "position": "WR",
@@ -7970,8 +10061,8 @@
       "experience": "3",
       "college": "Iowa State",
       "depth_position": "WR",
-      "depth_slot": "2",
-      "depth_rank": 2,
+      "depth_slot": "8",
+      "depth_rank": 3,
       "depth_order": 1,
       "stats": {},
       "weekly_stats": [],
@@ -8176,228 +10267,6 @@
             "colors": {
               "primary": "#03202F",
               "secondary": "#A71930"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038608",
-      "name": "Kayshon Boutte",
-      "position": "WR",
-      "group": "Wide Receivers",
-      "number": "88",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mg4icjqhwhnc5uobmau5",
-      "height": "71",
-      "weight": "205",
-      "experience": "3",
-      "college": "LSU",
-      "depth_position": "WR",
-      "depth_slot": "1",
-      "depth_rank": 4,
-      "depth_order": 1,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "hou",
-            "name": "Houston Texans",
-            "abbreviation": "HOU",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-            "colors": {
-              "primary": "#03202F",
-              "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "targets": 66,
-            "receptions": 42,
-            "receiving_yards": 719,
-            "receiving_tds": 7
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "LV",
-              "stats": {
-                "targets": 8,
-                "receptions": 6,
-                "receiving_yards": 103
-              }
-            },
-            {
-              "week": 2,
-              "opponent": "MIA",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 16,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 3,
-              "opponent": "PIT",
-              "stats": {
-                "targets": 3,
-                "receptions": 2,
-                "receiving_yards": 28
-              }
-            },
-            {
-              "week": 4,
-              "opponent": "CAR",
-              "stats": {
-                "targets": 3,
-                "receptions": 1,
-                "receiving_yards": 18
-              }
-            },
-            {
-              "week": 5,
-              "opponent": "BUF",
-              "stats": {
-                "targets": 3,
-                "receptions": 3,
-                "receiving_yards": 43
-              }
-            },
-            {
-              "week": 6,
-              "opponent": "NO",
-              "stats": {
-                "targets": 5,
-                "receptions": 5,
-                "receiving_yards": 93,
-                "receiving_tds": 2
-              }
-            },
-            {
-              "week": 7,
-              "opponent": "TEN",
-              "stats": {
-                "targets": 2,
-                "receptions": 2,
-                "receiving_yards": 55,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 8,
-              "opponent": "CLE",
-              "stats": {
-                "targets": 5,
-                "receptions": 3,
-                "receiving_yards": 75,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 9,
-              "opponent": "ATL",
-              "stats": {
-                "targets": 1
-              }
-            },
-            {
-              "week": 12,
-              "opponent": "CIN",
-              "stats": {
-                "targets": 2,
-                "receptions": 2,
-                "receiving_yards": 15
-              }
-            },
-            {
-              "week": 13,
-              "opponent": "NYG",
-              "stats": {
-                "targets": 5,
-                "receptions": 4,
-                "receiving_yards": 35,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 15,
-              "opponent": "BUF",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 30
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "BAL",
-              "stats": {
-                "targets": 3,
-                "receptions": 1,
-                "receiving_yards": 16
-              }
-            },
-            {
-              "week": 18,
-              "opponent": "MIA",
-              "stats": {
-                "targets": 4,
-                "receptions": 2,
-                "receiving_yards": 24
-              }
-            },
-            {
-              "week": 19,
-              "opponent": "LAC",
-              "stats": {
-                "targets": 4,
-                "receptions": 4,
-                "receiving_yards": 66
-              }
-            },
-            {
-              "week": 20,
-              "opponent": "HOU",
-              "stats": {
-                "targets": 5,
-                "receptions": 3,
-                "receiving_yards": 75,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 21,
-              "opponent": "DEN",
-              "stats": {
-                "targets": 6,
-                "receptions": 1,
-                "receiving_yards": 6
-              }
-            },
-            {
-              "week": 22,
-              "opponent": "SEA",
-              "stats": {
-                "targets": 5,
-                "receptions": 1,
-                "receiving_yards": 21
-              }
-            }
-          ],
-          "team": {
-            "id": "ne",
-            "name": "New England Patriots",
-            "abbreviation": "NE",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-            "colors": {
-              "primary": "#002244",
-              "secondary": "#C60C30"
             }
           }
         }

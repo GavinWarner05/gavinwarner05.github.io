@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T22:26:15+00:00",
+  "generated_at": "2026-09-09T22:18:54+00:00",
   "season": 2026,
   "team": {
     "id": "car",
@@ -106,13 +106,13 @@
         },
         {
           "team": "Chicago Bears",
-          "player": "Luther Burden",
+          "player": "Luther Burden III",
           "status": "Questionable",
           "detail": "Lower Body"
         },
         {
           "team": "Chicago Bears",
-          "player": "Tony Fields",
+          "player": "Tony Fields II",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -312,7 +312,7 @@
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Gervon Dexter",
+          "player": "Gervon Dexter Sr.",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -324,25 +324,25 @@
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Michael Penix",
+          "player": "Michael Penix Jr.",
           "status": "Questionable",
           "detail": "Knee - ACL"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Tyrone Wheatley",
+          "player": "Tyrone Wheatley Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "James Pearce",
+          "player": "James Pearce Jr.",
           "status": "Out",
           "detail": "Suspension"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Billy Bowman",
+          "player": "Billy Bowman Jr.",
           "status": "Questionable",
           "detail": "Achilles"
         },
@@ -500,7 +500,7 @@
         },
         {
           "team": "Cleveland Browns",
-          "player": "Michael Coats",
+          "player": "Michael Coats Jr.",
           "status": "Questionable",
           "detail": "Ankle"
         }
@@ -598,7 +598,7 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Ennis Rakestraw",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Questionable",
           "detail": "Upper Body"
         },
@@ -914,7 +914,7 @@
         },
         {
           "team": "Tampa Bay Buccaneers",
-          "player": "Rueben Bain",
+          "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
         },
@@ -1212,7 +1212,7 @@
         },
         {
           "team": "Denver Broncos",
-          "player": "Marvin Mims",
+          "player": "Marvin Mims Jr.",
           "status": "Questionable",
           "detail": "Foot"
         },
@@ -1466,7 +1466,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Lorenzo Styles",
+          "player": "Lorenzo Styles Jr.",
           "status": "Questionable",
           "detail": "Calf"
         },
@@ -1496,7 +1496,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Chris Rumph",
+          "player": "Chris Rumph II",
           "status": "Questionable",
           "detail": "Ankle"
         }
@@ -1776,7 +1776,7 @@
         },
         {
           "team": "Tampa Bay Buccaneers",
-          "player": "Rueben Bain",
+          "player": "Rueben Bain Jr.",
           "status": "Questionable",
           "detail": "Shoulder - AC Joint"
         }
@@ -1990,7 +1990,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Lorenzo Styles",
+          "player": "Lorenzo Styles Jr.",
           "status": "Questionable",
           "detail": "Calf"
         },
@@ -2020,7 +2020,7 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Chris Rumph",
+          "player": "Chris Rumph II",
           "status": "Questionable",
           "detail": "Ankle"
         },
@@ -2148,7 +2148,7 @@
         },
         {
           "team": "Cincinnati Bengals",
-          "player": "Dax Hill",
+          "player": "Daxton Hill",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -2452,6 +2452,72 @@
       "injuries": [
         {
           "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Julian Neal",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Nick Emmanwori",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Tory Horton",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "AJ Barner",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Emanuel Wilson",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Ty Okada",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Josh Jones",
+          "status": "Out",
+          "detail": "Injury"
+        },
+        {
+          "team": "Seattle Seahawks",
           "player": "Zach Charbonnet",
           "status": "IR/PUP",
           "detail": "Knee - ACL"
@@ -2488,7 +2554,7 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Irv Charles",
+          "player": "Irvin Charles",
           "status": "IR/PUP",
           "detail": "Undisclosed"
         },
@@ -2610,7 +2676,7 @@
       "injuries": [
         {
           "team": "Atlanta Falcons",
-          "player": "Gervon Dexter",
+          "player": "Gervon Dexter Sr.",
           "status": "Questionable",
           "detail": "Hamstring"
         },
@@ -2622,25 +2688,25 @@
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Michael Penix",
+          "player": "Michael Penix Jr.",
           "status": "Questionable",
           "detail": "Knee - ACL"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Tyrone Wheatley",
+          "player": "Tyrone Wheatley Jr.",
           "status": "Questionable",
           "detail": "Undisclosed"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "James Pearce",
+          "player": "James Pearce Jr.",
           "status": "Out",
           "detail": "Suspension"
         },
         {
           "team": "Atlanta Falcons",
-          "player": "Billy Bowman",
+          "player": "Billy Bowman Jr.",
           "status": "Questionable",
           "detail": "Achilles"
         },
@@ -2824,13 +2890,13 @@
     },
     {
       "team": "Carolina Panthers",
-      "player": "Ryan Hayes",
+      "player": "Brady Christensen",
       "status": "IR/PUP",
       "detail": "Reserve list"
     },
     {
       "team": "Carolina Panthers",
-      "player": "Tyrek Funderburk",
+      "player": "Ryan Hayes",
       "status": "IR/PUP",
       "detail": "Reserve list"
     },
@@ -2849,218 +2915,2103 @@
   ],
   "injury_players": [
     {
+      "id": "00-0040260",
+      "name": "Ahmani Marshall",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmzxp0obmznym5hv5ndh",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0039783",
+      "name": "Anthony Goodlow",
+      "position": "DL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nyluqyk0urg2bdfsajdk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "IND",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "ari",
+            "name": "Arizona Cardinals",
+            "abbreviation": "ARI",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+            "colors": {
+              "primary": "#97233F",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0040394",
       "name": "Anthony Tyus III",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ycph0v6jfxwkcycuztk0"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ycph0v6jfxwkcycuztk0",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040289",
       "name": "Bam Martin-Scott",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fvfw5drjy4cxaotvve69"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fvfw5drjy4cxaotvve69",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036968",
+      "name": "Brady Christensen",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pbj2pkbe5cwtomutayd1",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 6,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "BUF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040392",
       "name": "Caden Prieskorn",
       "position": "TE",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oajiq54ejf3zkntg427s"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oajiq54ejf3zkntg427s",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036045",
       "name": "Cam Gill",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wxadtc7jcfyso4qdbeni"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wxadtc7jcfyso4qdbeni",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041150",
       "name": "Cam Miller",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tejrbhpml6z3iirchbtk"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tejrbhpml6z3iirchbtk",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039394",
       "name": "Casey Washington",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wkoysykj4htld4yajljn"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wkoysykj4htld4yajljn",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 14,
+            "receptions": 6,
+            "receiving_yards": 94
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "TB",
+              "stats": {
+                "targets": 6,
+                "receptions": 3,
+                "receiving_yards": 33
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "WAS",
+              "stats": {
+                "targets": 3,
+                "receptions": 1,
+                "receiving_yards": 19
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 2
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "SF",
+              "stats": {
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 17
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 25
+              }
+            }
+          ],
+          "team": {
+            "id": "atl",
+            "name": "Atlanta Falcons",
+            "abbreviation": "ATL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+            "colors": {
+              "primary": "#A71930",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038536",
       "name": "Chandler Zavala",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h1jwlle0qeo7mtax2pc9"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h1jwlle0qeo7mtax2pc9",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "ATL",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041047",
       "name": "Chris Brazzell II",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jdmycletwhknhs9oth1f"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jdmycletwhknhs9oth1f",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040296",
       "name": "Corey Thornton",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fqf0gc9owhcrxgua2kbr"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fqf0gc9owhcrxgua2kbr",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "SF",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0033589",
       "name": "David Moore",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iyawzolvibsds35fwapv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iyawzolvibsds35fwapv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 1,
+            "receptions": 1,
+            "receiving_yards": 5,
+            "carries": 1,
+            "rushing_yards": 12
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "ATL",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 5
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "NE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 12
+              }
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041283",
       "name": "DeCarlos Nicholson",
-      "position": "DB"
+      "position": "DB",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039601",
       "name": "Demani Richardson",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gjav3xshmapw1yybykxz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gjav3xshmapw1yybykxz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041153",
       "name": "Devonta Smith",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmc5wkyad0gu4gxtvzzy"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmc5wkyad0gu4gxtvzzy",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0038667",
       "name": "Elijah Cooks",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jdwpqogatij3pqncde1l"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jdwpqogatij3pqncde1l",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037229",
       "name": "Ikem Ekwonu",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mpfy7ivhwvry6pjezemw"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mpfy7ivhwvry6pjezemw",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NO",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041146",
       "name": "Isaia Glass",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ydmxfwrctgc3wzrmi4rv"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ydmxfwrctgc3wzrmi4rv",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036356",
       "name": "Isaiah Simmons",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mf9tbatcc933o8rzfuy5"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mf9tbatcc933o8rzfuy5",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 13,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041154",
       "name": "Isaiah Smith",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rkqgcreuuho9xykg7hm7"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rkqgcreuuho9xykg7hm7",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040265",
       "name": "Ja'Seem Reed",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uh29rkmiggnca0qq7vil"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uh29rkmiggnca0qq7vil",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0036795",
       "name": "Jake Curhan",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sfcyxgyi8qkzafuqwbnl"
-    },
-    {
-      "id": "00-0040283",
-      "name": "Jared Harrison-Hunte",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zlu1tvw0ethftax8vcfa"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sfcyxgyi8qkzafuqwbnl",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039946",
       "name": "Kyon Barrs",
-      "position": "DL"
+      "position": "DL",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0037203",
       "name": "LaBryan Ray",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hvculodfnj1jv595t4xw"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hvculodfnj1jv595t4xw",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 5,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "TB",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039637",
       "name": "Maema Njongmeta",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xilgtxzojnxouajl01uc"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xilgtxzojnxouajl01uc",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040763",
       "name": "Mapalo Mwansa",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pygjjbgebf2mezvwopa5"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pygjjbgebf2mezvwopa5",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041485",
       "name": "Miles Davis",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/htvohdxsq6qwts6k3cfb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/htvohdxsq6qwts6k3cfb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040746",
       "name": "Nic Scourton",
       "position": "LB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/urx4ncr2up987hovqjlr"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/urx4ncr2up987hovqjlr",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041151",
       "name": "Parker Petersen",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cwfe0yumsk0ydn3b6bq8"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cwfe0yumsk0ydn3b6bq8",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040531",
       "name": "Roc Taylor",
       "position": "WR",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jeido54r1gfedjcqftyb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jeido54r1gfedjcqftyb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039042",
       "name": "Ryan Hayes",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zzvbipvjpudojugcxjre"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zzvbipvjpudojugcxjre",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0033284",
       "name": "Taylor Moton",
       "position": "OL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cstvf3qy5mqwd9nxa1sz"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cstvf3qy5mqwd9nxa1sz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "MIA",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "SEA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035890",
       "name": "Tershawn Wharton",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mj9xqaj2jvv5unjgxomd"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mj9xqaj2jvv5unjgxomd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LA",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "LA",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040541",
+      "name": "Torricelli Simpkins III",
+      "position": "OL",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xhof0hsbncovhmhhvifd",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 3,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "NYJ",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "no",
+            "name": "New Orleans Saints",
+            "abbreviation": "NO",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+            "colors": {
+              "primary": "#101820",
+              "secondary": "#D3BC8D"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0040644",
       "name": "Trevor Etienne",
       "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pcuzq84x7ia5yvmikltb"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pcuzq84x7ia5yvmikltb",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 21,
+            "rushing_yards": 98,
+            "targets": 3,
+            "receptions": 3,
+            "receiving_yards": 13
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "JAX",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "ARI",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 2
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NE",
+              "stats": {
+                "carries": 7,
+                "rushing_yards": 33
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "MIA",
+              "stats": {
+                "carries": 4,
+                "rushing_yards": 22,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 7
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 17
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "BUF",
+              "stats": {
+                "carries": 4,
+                "rushing_yards": 16
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "ATL",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 2
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "LA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "LA",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4
+              }
+            }
+          ],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0039586",
       "name": "Tyrek Funderburk",
       "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tzkkwtxovny5ufixvvoq"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tzkkwtxovny5ufixvvoq",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0035352",
+      "name": "Tyrel Dodson",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ssfyc6yarlegh112xeoa",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "IND",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NYJ",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "CAR",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "CLE",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "ATL",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "BAL",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "BUF",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 14,
+              "opponent": "NYJ",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "PIT",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "CIN",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "NE",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "mia",
+            "name": "Miami Dolphins",
+            "abbreviation": "MIA",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+            "colors": {
+              "primary": "#008E97",
+              "secondary": "#FC4C02"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0041487",
       "name": "Tywone Malone",
       "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zydyn07jyaembj8djyie"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zydyn07jyaembj8djyie",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "00-0035251",
       "name": "Will Grier",
       "position": "QB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c8cmoyu2wemjpl6ctk9g"
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c8cmoyu2wemjpl6ctk9g",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040044",
+      "name": "Zion Childress",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rfj8pmex9tjxqayn0maz",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {},
+          "weekly_stats": [
+            {
+              "week": 2,
+              "opponent": "NYG",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "ARI",
+              "stats": {}
+            }
+          ],
+          "team": {
+            "id": "dal",
+            "name": "Dallas Cowboys",
+            "abbreviation": "DAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+            "colors": {
+              "primary": "#003594",
+              "secondary": "#041E42"
+            }
+          }
+        }
+      ]
     }
   ],
   "players": [
@@ -3205,7 +5156,7 @@
       "name": "Aaron Hall",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "61",
+      "number": "94",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bq76gtte5drlejyfnjnn",
       "height": "76",
       "weight": "296",
@@ -3242,7 +5193,7 @@
       "group": "Defensive Line",
       "number": "92",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h3dk22cisv0hv6dpvd6a",
-      "height": "76",
+      "height": "75",
       "weight": "318",
       "experience": "0",
       "college": "Texas Tech; UCF; Auburn",
@@ -3462,7 +5413,7 @@
       "name": "TeRah Edwards",
       "position": "DL",
       "group": "Defensive Line",
-      "number": "96",
+      "number": "93",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kmlrbebwbksnogrboyo0",
       "height": "74",
       "weight": "305",
@@ -3669,6 +5620,148 @@
       ]
     },
     {
+      "id": "00-0035687",
+      "name": "Bobby Okereke",
+      "position": "LB",
+      "group": "Linebackers",
+      "number": "58",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q5gc9nwmikqcyza7m3ku",
+      "height": "73",
+      "weight": "234",
+      "experience": "7",
+      "college": "Stanford",
+      "depth_position": "RILB",
+      "depth_slot": "6",
+      "depth_rank": 1,
+      "depth_order": 16,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_interceptions": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 3,
+              "opponent": "KC",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "LAC",
+              "stats": {}
+            },
+            {
+              "week": 5,
+              "opponent": "NO",
+              "stats": {}
+            },
+            {
+              "week": 6,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 7,
+              "opponent": "DEN",
+              "stats": {}
+            },
+            {
+              "week": 8,
+              "opponent": "PHI",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "SF",
+              "stats": {}
+            },
+            {
+              "week": 10,
+              "opponent": "CHI",
+              "stats": {}
+            },
+            {
+              "week": 11,
+              "opponent": "GB",
+              "stats": {}
+            },
+            {
+              "week": 12,
+              "opponent": "DET",
+              "stats": {}
+            },
+            {
+              "week": 13,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
+              "week": 15,
+              "opponent": "WAS",
+              "stats": {}
+            },
+            {
+              "week": 16,
+              "opponent": "MIN",
+              "stats": {}
+            },
+            {
+              "week": 17,
+              "opponent": "LV",
+              "stats": {
+                "def_interceptions": 1
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "DAL",
+              "stats": {
+                "def_interceptions": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0038493",
       "name": "Claudin Cherelus",
       "position": "LB",
@@ -3841,16 +5934,16 @@
       ]
     },
     {
-      "id": "00-0040136",
-      "name": "Princely Umanmielen",
+      "id": "00-0036305",
+      "name": "Trevis Gipson",
       "position": "LB",
       "group": "Linebackers",
-      "number": "3",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rqdqyoypjti8cg2weguu",
+      "number": "52",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p5qxxhu4ecnzjcfva9b0",
       "height": "76",
-      "weight": "244",
-      "experience": "1",
-      "college": "Mississippi; Florida",
+      "weight": "268",
+      "experience": "6",
+      "college": "Tulsa",
       "depth_position": "WLB",
       "depth_slot": "4",
       "depth_rank": 2,
@@ -3878,33 +5971,23 @@
           "stats": {},
           "weekly_stats": [
             {
-              "week": 1,
-              "opponent": "JAX",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "ARI",
-              "stats": {}
-            },
-            {
-              "week": 4,
-              "opponent": "NE",
-              "stats": {}
-            },
-            {
               "week": 5,
-              "opponent": "MIA",
+              "opponent": "LA",
               "stats": {}
             },
             {
               "week": 6,
-              "opponent": "DAL",
+              "opponent": "TB",
               "stats": {}
             },
             {
-              "week": 7,
-              "opponent": "NYJ",
+              "week": 8,
+              "opponent": "HOU",
+              "stats": {}
+            },
+            {
+              "week": 9,
+              "opponent": "GB",
               "stats": {}
             },
             {
@@ -3933,18 +6016,13 @@
               "stats": {}
             },
             {
-              "week": 16,
-              "opponent": "TB",
-              "stats": {}
-            },
-            {
-              "week": 17,
-              "opponent": "SEA",
-              "stats": {}
-            },
-            {
               "week": 18,
               "opponent": "TB",
+              "stats": {}
+            },
+            {
+              "week": 19,
+              "opponent": "LA",
               "stats": {}
             }
           ],
@@ -3968,7 +6046,7 @@
       "group": "Linebackers",
       "number": "48",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rcrh2zr9mxex16czv1eo",
-      "height": "76",
+      "height": "74",
       "weight": "265",
       "experience": "3",
       "college": "Central Michigan; Valdosta State",
@@ -4224,16 +6302,16 @@
       ]
     },
     {
-      "id": "00-0036305",
-      "name": "Trevis Gipson",
+      "id": "00-0040136",
+      "name": "Princely Umanmielen",
       "position": "LB",
       "group": "Linebackers",
-      "number": "52",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p5qxxhu4ecnzjcfva9b0",
+      "number": "3",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rqdqyoypjti8cg2weguu",
       "height": "76",
-      "weight": "268",
-      "experience": "6",
-      "college": "Tulsa",
+      "weight": "244",
+      "experience": "1",
+      "college": "Mississippi; Florida",
       "depth_position": "SLB",
       "depth_slot": "7",
       "depth_rank": 2,
@@ -4261,23 +6339,33 @@
           "stats": {},
           "weekly_stats": [
             {
+              "week": 1,
+              "opponent": "JAX",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "ARI",
+              "stats": {}
+            },
+            {
+              "week": 4,
+              "opponent": "NE",
+              "stats": {}
+            },
+            {
               "week": 5,
-              "opponent": "LA",
+              "opponent": "MIA",
               "stats": {}
             },
             {
               "week": 6,
-              "opponent": "TB",
+              "opponent": "DAL",
               "stats": {}
             },
             {
-              "week": 8,
-              "opponent": "HOU",
-              "stats": {}
-            },
-            {
-              "week": 9,
-              "opponent": "GB",
+              "week": 7,
+              "opponent": "NYJ",
               "stats": {}
             },
             {
@@ -4306,13 +6394,18 @@
               "stats": {}
             },
             {
-              "week": 18,
+              "week": 16,
               "opponent": "TB",
               "stats": {}
             },
             {
-              "week": 19,
-              "opponent": "LA",
+              "week": 17,
+              "opponent": "SEA",
+              "stats": {}
+            },
+            {
+              "week": 18,
+              "opponent": "TB",
               "stats": {}
             }
           ],
@@ -4477,6 +6570,41 @@
       ]
     },
     {
+      "id": "00-0041138",
+      "name": "Albert Reese",
+      "position": "OL",
+      "group": "Offensive Line",
+      "number": "76",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zb27al135smoctturd2b",
+      "height": "79",
+      "weight": "330",
+      "experience": "0",
+      "college": "Mississippi State",
+      "depth_position": "LT",
+      "depth_slot": "3",
+      "depth_rank": 3,
+      "depth_order": 2,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0036417",
       "name": "Damien Lewis",
       "position": "OL",
@@ -4594,7 +6722,7 @@
       "group": "Offensive Line",
       "number": "77",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lir08woankvv1ri6vpdr",
-      "height": "76",
+      "height": "78",
       "weight": "300",
       "experience": "4",
       "college": "Kentucky",
@@ -4745,67 +6873,6 @@
       ]
     },
     {
-      "id": "00-0036968",
-      "name": "Brady Christensen",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "70",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pbj2pkbe5cwtomutayd1",
-      "height": "78",
-      "weight": "297",
-      "experience": "5",
-      "college": "BYU",
-      "depth_position": "RG",
-      "depth_slot": "6",
-      "depth_rank": 2,
-      "depth_order": 5,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "car",
-            "name": "Carolina Panthers",
-            "abbreviation": "CAR",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-            "colors": {
-              "primary": "#0085CA",
-              "secondary": "#101820"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 6,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 8,
-              "opponent": "BUF",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "car",
-            "name": "Carolina Panthers",
-            "abbreviation": "CAR",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-            "colors": {
-              "primary": "#0085CA",
-              "secondary": "#101820"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0041034",
       "name": "Monroe Freeling",
       "position": "OL",
@@ -4819,41 +6886,6 @@
       "depth_position": "RT",
       "depth_slot": "7",
       "depth_rank": 1,
-      "depth_order": 6,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "car",
-            "name": "Carolina Panthers",
-            "abbreviation": "CAR",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-            "colors": {
-              "primary": "#0085CA",
-              "secondary": "#101820"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0041138",
-      "name": "Albert Reese",
-      "position": "OL",
-      "group": "Offensive Line",
-      "number": "76",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zb27al135smoctturd2b",
-      "height": "79",
-      "weight": "330",
-      "experience": "0",
-      "college": "Mississippi State",
-      "depth_position": "RT",
-      "depth_slot": "7",
-      "depth_rank": 2,
       "depth_order": 6,
       "stats": {},
       "weekly_stats": [],
@@ -5262,7 +7294,7 @@
       "group": "Quarterbacks",
       "number": "16",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcloyq4ahyh0hfzo6i0i",
-      "height": "75",
+      "height": "74",
       "weight": "212",
       "experience": "0",
       "college": "Georgia Tech; Texas A&M",
@@ -6228,7 +8260,7 @@
       "name": "Zakee Wheatley",
       "position": "DB",
       "group": "Safeties",
-      "number": "38",
+      "number": "20",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qvujxg50a70hzrg4luzm",
       "height": "75",
       "weight": "203",
@@ -7797,7 +9829,7 @@
       "group": "Wide Receivers",
       "number": "4",
       "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gilgvjemumd6kpc9eiku",
-      "height": "76",
+      "height": "77",
       "weight": "212",
       "experience": "1",
       "college": "Arizona",
@@ -8180,6 +10212,184 @@
       ]
     },
     {
+      "id": "00-0037614",
+      "name": "John Metchie III",
+      "position": "WR",
+      "group": "Wide Receivers",
+      "number": "13",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nsjpnskeldxzbzckpfgg",
+      "height": "71",
+      "weight": "195",
+      "experience": "4",
+      "college": "Alabama",
+      "depth_position": "WR",
+      "depth_slot": "1",
+      "depth_rank": 4,
+      "depth_order": 1,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "car",
+            "name": "Carolina Panthers",
+            "abbreviation": "CAR",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+            "colors": {
+              "primary": "#0085CA",
+              "secondary": "#101820"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "targets": 48,
+            "receptions": 33,
+            "receiving_yards": 274,
+            "carries": 3,
+            "rushing_yards": -5,
+            "receiving_tds": 2
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "DAL",
+              "stats": {}
+            },
+            {
+              "week": 2,
+              "opponent": "KC",
+              "stats": {
+                "targets": 1,
+                "receptions": 1
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "LA",
+              "stats": {
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "TB",
+              "stats": {
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 10
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "CLE",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": -7,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "NE",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 45,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "BAL",
+              "stats": {
+                "targets": 7,
+                "receptions": 6,
+                "receiving_yards": 65,
+                "receiving_tds": 1
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "ATL",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": -2,
+                "targets": 8,
+                "receptions": 4,
+                "receiving_yards": 19
+              }
+            },
+            {
+              "week": 14,
+              "opponent": "MIA",
+              "stats": {
+                "targets": 8,
+                "receptions": 4,
+                "receiving_yards": 34
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "JAX",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4,
+                "targets": 5,
+                "receptions": 4,
+                "receiving_yards": 25
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NO",
+              "stats": {
+                "targets": 5,
+                "receptions": 1,
+                "receiving_yards": 4
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "NE",
+              "stats": {
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 41
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "BUF",
+              "stats": {
+                "targets": 4,
+                "receptions": 3,
+                "receiving_yards": 20
+              }
+            }
+          ],
+          "team": {
+            "id": "nyj",
+            "name": "New York Jets",
+            "abbreviation": "NYJ",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+            "colors": {
+              "primary": "#125740",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0038840",
       "name": "Brycen Tremayne",
       "position": "WR",
@@ -8508,184 +10718,6 @@
       ]
     },
     {
-      "id": "00-0037614",
-      "name": "John Metchie III",
-      "position": "WR",
-      "group": "Wide Receivers",
-      "number": "13",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nsjpnskeldxzbzckpfgg",
-      "height": "72",
-      "weight": "195",
-      "experience": "4",
-      "college": "Alabama",
-      "depth_position": "PR",
-      "depth_slot": "4",
-      "depth_rank": 2,
-      "depth_order": 76,
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "car",
-            "name": "Carolina Panthers",
-            "abbreviation": "CAR",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-            "colors": {
-              "primary": "#0085CA",
-              "secondary": "#101820"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "targets": 48,
-            "receptions": 33,
-            "receiving_yards": 274,
-            "carries": 3,
-            "rushing_yards": -5,
-            "receiving_tds": 2
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "DAL",
-              "stats": {}
-            },
-            {
-              "week": 2,
-              "opponent": "KC",
-              "stats": {
-                "targets": 1,
-                "receptions": 1
-              }
-            },
-            {
-              "week": 3,
-              "opponent": "LA",
-              "stats": {
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 8
-              }
-            },
-            {
-              "week": 4,
-              "opponent": "TB",
-              "stats": {
-                "targets": 2,
-                "receptions": 2,
-                "receiving_yards": 10
-              }
-            },
-            {
-              "week": 10,
-              "opponent": "CLE",
-              "stats": {
-                "carries": 1,
-                "rushing_yards": -7,
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 3
-              }
-            },
-            {
-              "week": 11,
-              "opponent": "NE",
-              "stats": {
-                "targets": 3,
-                "receptions": 3,
-                "receiving_yards": 45,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 12,
-              "opponent": "BAL",
-              "stats": {
-                "targets": 7,
-                "receptions": 6,
-                "receiving_yards": 65,
-                "receiving_tds": 1
-              }
-            },
-            {
-              "week": 13,
-              "opponent": "ATL",
-              "stats": {
-                "carries": 1,
-                "rushing_yards": -2,
-                "targets": 8,
-                "receptions": 4,
-                "receiving_yards": 19
-              }
-            },
-            {
-              "week": 14,
-              "opponent": "MIA",
-              "stats": {
-                "targets": 8,
-                "receptions": 4,
-                "receiving_yards": 34
-              }
-            },
-            {
-              "week": 15,
-              "opponent": "JAX",
-              "stats": {
-                "carries": 1,
-                "rushing_yards": 4,
-                "targets": 5,
-                "receptions": 4,
-                "receiving_yards": 25
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "NO",
-              "stats": {
-                "targets": 5,
-                "receptions": 1,
-                "receiving_yards": 4
-              }
-            },
-            {
-              "week": 17,
-              "opponent": "NE",
-              "stats": {
-                "targets": 3,
-                "receptions": 3,
-                "receiving_yards": 41
-              }
-            },
-            {
-              "week": 18,
-              "opponent": "BUF",
-              "stats": {
-                "targets": 4,
-                "receptions": 3,
-                "receiving_yards": 20
-              }
-            }
-          ],
-          "team": {
-            "id": "nyj",
-            "name": "New York Jets",
-            "abbreviation": "NYJ",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
-            "colors": {
-              "primary": "#125740",
-              "secondary": "#000000"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0039342",
       "name": "Xavier Legette",
       "position": "WR",
@@ -8696,10 +10728,10 @@
       "weight": "227",
       "experience": "2",
       "college": "South Carolina",
-      "depth_position": "KR",
-      "depth_slot": "5",
-      "depth_rank": 3,
-      "depth_order": 77,
+      "depth_position": "PR",
+      "depth_slot": "4",
+      "depth_rank": 2,
+      "depth_order": 76,
       "stats": {},
       "weekly_stats": [],
       "seasons": [

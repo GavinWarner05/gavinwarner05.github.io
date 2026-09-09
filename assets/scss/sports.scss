@@ -351,6 +351,10 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .player-page-identity { min-width: 0; padding-right: 13rem; }
 .player-page-identity p { margin: 0; opacity: .76; }
 .player-page-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 1rem; margin-top: 1.4rem; }
+.sports-share-trigger { display: inline-flex; align-items: center; justify-content: center; min-height: 3.4rem; padding: .7rem 1.15rem; border: 1px solid rgba(255,255,255,.42); border-radius: 999px; background: rgba(0,0,0,.2); color: #fff; font: inherit; font-size: 1.05rem; font-weight: 850; cursor: pointer; }
+.sports-share-trigger::before { content: "\2197"; margin-right: .5rem; font-size: 1.15em; }
+.sports-share-trigger:hover { border-color: rgba(255,255,255,.72); background: rgba(255,255,255,.12); }
+.sports-share-trigger:focus-visible { outline: .28rem solid #fff; outline-offset: .25rem; }
 .player-page-identity .player-injury-badge { display: inline-flex; width: fit-content; padding: .65rem 1rem; border-radius: 999px; color: #fff; font-size: 1.05rem; font-weight: 900; opacity: 1; }
 .player-injury-badge.is-out { background: #991b1b; }
 .player-injury-badge.is-doubtful { background: #9a3412; }
@@ -364,6 +368,8 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .player-page-section .sports-section-heading { margin-bottom: 1.3rem; }
 .player-page-section .sports-section-heading h2 { margin: 0; font-size: 2rem; }
 .player-season-control { position: relative; display: flex; align-items: center; gap: .8rem; padding: .35rem .4rem .35rem .85rem; border: 1px solid rgba(255,255,255,.13); border-radius: 999px; background: rgba(255,255,255,.045); }
+.player-season-actions { display: flex; align-items: center; justify-content: flex-end; flex-wrap: wrap; gap: .7rem; }
+.player-season-share { min-height: 3.25rem; padding: .55rem 1rem; font-size: 1rem; }
 .player-season-control::after { content: ""; position: absolute; right: 1.05rem; width: .65rem; height: .65rem; border-right: .16rem solid currentColor; border-bottom: .16rem solid currentColor; transform: translateY(-.2rem) rotate(45deg); pointer-events: none; }
 .player-season-control label { font-size: 1rem; font-weight: 800; opacity: .68; text-transform: uppercase; }
 .player-season-control select { appearance: none; -webkit-appearance: none; min-width: 8rem; min-height: 3.25rem; padding: .55rem 2.6rem .55rem 1.15rem; border: 1px solid rgba(255,255,255,.24); border-radius: 999px; background: rgba(255,255,255,.11); color: #fff; font-family: inherit; font-size: 1.2rem; font-weight: 850; line-height: 1; cursor: pointer; }
@@ -379,8 +385,24 @@ body.colorscheme-dark .matchup-dialog { background: #171a1f; color: #f5f7fa; }
 .player-week-heading { display: flex; align-items: center; flex-wrap: wrap; gap: .8rem; margin: 0 0 1.15rem .3rem; }
 .player-week-label { display: inline-flex; padding: .28rem .7rem; border: 1px solid rgba(255,255,255,.16); border-radius: 999px; background: rgba(255,255,255,.07); font-size: .9rem; font-weight: 850; letter-spacing: .04em; opacity: .74; text-transform: uppercase; }
 .player-week-heading .player-week-opponent { margin: 0; font-size: clamp(1.55rem,2.5vw,1.9rem); line-height: 1.08; letter-spacing: -.02em; }
+.player-week-share { min-height: 2.8rem; margin-left: auto; padding: .45rem .85rem; font-size: .9rem; }
 .player-week-stats { grid-template-columns: repeat(auto-fit,minmax(9rem,1fr)); }
 .player-stats-empty { grid-column: 1 / -1; margin: 0; padding: 1.2rem; border-radius: 1rem; background: rgba(255,255,255,.05); opacity: .7; }
+.matchup-share-trigger { width: 100%; margin: 1.2rem 0 .3rem; }
+.sports-share-dialog { width: calc(100% - 2rem); max-width: 49rem; max-height: 92vh; padding: 0; overflow: auto; border: 1px solid rgba(255,255,255,.18); border-radius: 2rem; background: #10131c; color: #fff; box-shadow: 0 2rem 7rem rgba(0,0,0,.55); }
+.sports-share-dialog::backdrop { background: rgba(3,7,18,.82); backdrop-filter: blur(.55rem); }
+.sports-share-panel { padding: 1.6rem; }
+.sports-share-heading { display: flex; align-items: start; justify-content: space-between; gap: 1.5rem; }
+.sports-share-heading p { margin: 0 0 .25rem; font-size: .85rem; font-weight: 850; letter-spacing: .13em; opacity: .62; }
+.sports-share-heading h2 { margin: 0; color: #fff; font-size: 2.1rem; }
+.sports-share-heading button { display: grid; place-items: center; flex: 0 0 3.6rem; width: 3.6rem; height: 3.6rem; border: 1px solid rgba(255,255,255,.2); border-radius: 50%; background: rgba(255,255,255,.07); color: #fff; font: inherit; font-size: 2.3rem; line-height: 1; cursor: pointer; }
+.sports-share-status { margin: .8rem 0 1.1rem; color: rgba(255,255,255,.68); font-size: 1.05rem; }
+.sports-share-dialog canvas { display: block; width: 100%; height: auto; border: 1px solid rgba(255,255,255,.16); border-radius: 1.4rem; background: #171a2b; box-shadow: 0 1rem 2.5rem rgba(0,0,0,.24); }
+.sports-share-actions { display: flex; justify-content: flex-end; gap: .8rem; margin-top: 1.2rem; }
+.sports-share-actions button { min-height: 3.8rem; padding: .8rem 1.3rem; border: 1px solid rgba(255,255,255,.24); border-radius: 999px; background: rgba(255,255,255,.07); color: #fff; font: inherit; font-weight: 850; cursor: pointer; }
+.sports-share-actions .sports-share-primary { border-color: #fff; background: #fff; color: #111827; }
+.sports-share-actions button:hover { filter: brightness(1.08); }
+.sports-share-heading button:focus-visible, .sports-share-actions button:focus-visible { outline: .28rem solid #c4b5fd; outline-offset: .25rem; }
 .sports-scores-page { padding-top: 2rem; }
 .content .sports-scores-page .sports-scores-hero { position: relative; display: grid; grid-template-columns: minmax(0,1fr); align-items: end; gap: 1.8rem; overflow: hidden; margin: 0 0 2rem; padding: 2.2rem 2.6rem 2.6rem; border: 1px solid rgba(196,181,253,.2); border-radius: 2.4rem; background: radial-gradient(circle at 82% 20%,rgba(196,181,253,.18),transparent 28%),linear-gradient(125deg,#211839,#121827); color: #f8f7ff; box-shadow: 0 1.4rem 4rem rgba(0,0,0,.16); }
 .sports-scores-hero::after { content: ""; position: absolute; right: -8%; bottom: -75%; width: 46%; height: 125%; border: 1px solid rgba(255,255,255,.1); border-radius: 50%; transform: rotate(-12deg); pointer-events: none; }
@@ -468,6 +490,9 @@ body.colorscheme-dark .sports-favorites-actions .sports-favorites-save { border-
   .player-page-identity h1 { overflow-wrap: anywhere; font-size: clamp(2.7rem,10vw,3.7rem); }
   .player-page-identity p { font-size: 1.25rem; }
   .player-page-actions { flex-direction: column; gap: .75rem; }
+  .player-page-actions .sports-share-trigger { width: 100%; max-width: 22rem; }
+  .player-page-section .sports-section-heading { align-items: flex-start; flex-direction: column; }
+  .player-season-actions { justify-content: flex-start; width: 100%; }
   .player-page-identity .player-injury-badge { margin-right: auto; margin-left: auto; font-size: 1.05rem; }
   .player-favorite-toggle { top: 1.4rem; right: 1.4rem; }
   .content .sports-home-intro { display: block; margin: 0; padding: 2rem 0 1.8rem; }
@@ -494,4 +519,8 @@ body.colorscheme-dark .sports-favorites-actions .sports-favorites-save { border-
   .sports-scores-page .sports-filters { border-radius: 1.6rem; }
   .sports-empty-state { grid-template-columns: auto minmax(0,1fr); }
   .sports-empty-state button { grid-column: 1 / -1; justify-self: stretch; }
+  .sports-share-panel { padding: 1.2rem; }
+  .sports-share-heading h2 { font-size: 1.8rem; }
+  .sports-share-actions { display: grid; grid-template-columns: 1fr; }
+  .sports-share-actions button { width: 100%; }
 }

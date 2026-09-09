@@ -513,6 +513,21 @@
     list.className = "detail-list";
     list.append(detailItem("Kickoff", new Intl.DateTimeFormat("en-US", { dateStyle: "full", timeStyle: "short", timeZone: state.data.display_timezone }).format(new Date(game.kickoff))), detailItem("Network", game.network), detailItem("Venue", game.venue), detailItem("Jerseys", [game.away_jersey, game.home_jersey].filter(Boolean).join(" / ")));
     wrap.append(list);
+    const share = text("button", "Share matchup card", "sports-share-trigger matchup-share-trigger");
+    share.type = "button";
+    share.addEventListener("click", function () {
+      if (!window.SportsShare) return;
+      window.SportsShare.game({
+        game: game,
+        timeZone: state.data.display_timezone,
+        colors: { primary: gradient[0], secondary: gradient[1] },
+        awayLogo: teamLogo(game.away_team, game.away_jersey),
+        homeLogo: teamLogo(game.home_team, game.home_jersey),
+        filename: `${game.away_team.abbreviation.toLowerCase()}-${game.home_team.abbreviation.toLowerCase()}-week-${game.week || "game"}.png`,
+        title: `${game.away_team.name} at ${game.home_team.name}`
+      });
+    });
+    wrap.append(share);
     const injuries = injuryReport(game);
     if (injuries) wrap.append(injuries);
     if (game.notes) wrap.append(text("p", game.notes, "detail-notes"));
