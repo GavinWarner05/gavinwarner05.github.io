@@ -21,7 +21,9 @@ INJURY_PLAYER_KEYS = ("id", "name", "position", "headshot_url", "stats", "weekly
 STAT_KEYS = {
     "games", "completions", "attempts", "passing_yards", "passing_tds", "interceptions", "carries",
     "rushing_yards", "rushing_tds", "targets", "receptions", "receiving_yards", "receiving_tds",
-    "tackles", "tackles_solo", "sacks", "def_interceptions", "forced_fumbles", "field_goals_made",
+    "tackles", "tackles_solo", "sacks", "def_interceptions", "forced_fumbles", "def_tackles_solo",
+    "def_tackle_assists", "def_tackles_for_loss", "def_sacks", "def_qb_hits", "def_pass_defended",
+    "def_fumbles_forced", "def_tds", "def_safeties", "field_goals_made",
     "field_goals_attempted", "extra_points_made", "extra_points_attempted",
 }
 SIGNED_STAT_KEYS = {"passing_yards", "rushing_yards", "receiving_yards"}

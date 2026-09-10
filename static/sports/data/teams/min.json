@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T23:26:56+00:00",
+  "generated_at": "2026-09-10T00:05:57+00:00",
   "season": 2026,
   "team": {
     "id": "min",
@@ -8680,9 +8680,11 @@
         {
           "season": 2025,
           "stats": {
+            "def_tackle_assists": 5,
             "targets": 2,
             "receptions": 2,
             "receiving_yards": 11,
+            "def_tackles_solo": 4,
             "carries": 3,
             "rushing_yards": 5,
             "rushing_tds": 2
@@ -8691,7 +8693,9 @@
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 7,
@@ -8699,18 +8703,25 @@
               "stats": {
                 "targets": 1,
                 "receptions": 1,
-                "receiving_yards": 5
+                "receiving_yards": 5,
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
               }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 15,
@@ -8732,7 +8743,10 @@
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 18,
@@ -8899,6 +8913,8 @@
         {
           "season": 2025,
           "stats": {
+            "def_tackles_solo": 2,
+            "def_tackle_assists": 2,
             "carries": 3,
             "rushing_yards": 21,
             "targets": 1
@@ -8907,13 +8923,17 @@
             {
               "week": 5,
               "opponent": "MIA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 6,
               "opponent": "DAL",
               "stats": {
-                "carries": 1
+                "carries": 1,
+                "def_tackles_solo": 1
               }
             },
             {
@@ -9246,92 +9266,150 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 28,
+            "def_qb_hits": 2,
+            "def_tackle_assists": 15,
+            "def_tackles_for_loss": 5,
+            "def_sacks": 1,
+            "def_fumbles_forced": 1
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "NE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 2,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 3,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 4,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 5,
               "opponent": "IND",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 6,
               "opponent": "TEN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 7,
               "opponent": "KC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 9,
               "opponent": "JAX",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 10,
               "opponent": "DEN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 11,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 12,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 13,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 14,
               "opponent": "DEN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 15,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 16,
               "opponent": "HOU",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 17,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 18,
               "opponent": "KC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_fumbles_forced": 1
+              }
             }
           ],
           "team": {
@@ -9568,80 +9646,135 @@
         {
           "season": 2025,
           "stats": {
+            "def_tackles_solo": 12,
+            "def_tackle_assists": 8,
+            "def_qb_hits": 9,
+            "def_tackles_for_loss": 4,
+            "def_sacks": 2,
+            "def_pass_defended": 4,
             "def_interceptions": 1
           },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "BUF",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 2,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 5,
               "opponent": "HOU",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 6,
               "opponent": "LA",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 8,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 9,
               "opponent": "MIA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 10,
               "opponent": "MIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 2
+              }
             },
             {
               "week": 12,
               "opponent": "NYJ",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 13,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 14,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 15,
               "opponent": "CIN",
               "stats": {
-                "def_interceptions": 1
+                "def_interceptions": 1,
+                "def_tackles_solo": 1,
+                "def_qb_hits": 1,
+                "def_pass_defended": 1
               }
             },
             {
               "week": 16,
               "opponent": "NE",
-              "stats": {}
+              "stats": {
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 18,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             }
           ],
           "team": {
@@ -9786,7 +9919,8 @@
             "attempts": 71,
             "passing_yards": 328,
             "carries": 7,
-            "rushing_yards": 11
+            "rushing_yards": 11,
+            "def_tackles_solo": 1
           },
           "weekly_stats": [
             {
@@ -9854,7 +9988,8 @@
               "stats": {
                 "completions": 7,
                 "attempts": 8,
-                "passing_yards": 57
+                "passing_yards": 57,
+                "def_tackles_solo": 1
               }
             }
           ],
@@ -9967,57 +10102,91 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 10,
+            "def_tackle_assists": 7,
+            "def_pass_defended": 1,
+            "def_tackles_for_loss": 2,
+            "def_qb_hits": 1
+          },
           "weekly_stats": [
             {
               "week": 2,
               "opponent": "LV",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 4,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 6,
               "opponent": "MIA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 7,
               "opponent": "IND",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 8,
               "opponent": "MIN",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 16,
               "opponent": "LV",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 17,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 18,
               "opponent": "IND",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 19,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2
+              }
             },
             {
               "week": 20,
               "opponent": "NE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1
+              }
             }
           ],
           "team": {
@@ -10083,12 +10252,16 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackle_assists": 1
+          },
           "weekly_stats": [
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             }
           ],
           "team": {
@@ -10129,77 +10302,114 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackle_assists": 12,
+            "def_fumbles_forced": 1,
+            "def_tackles_solo": 11
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 2,
+                "def_fumbles_forced": 1
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2
+              }
             }
           ],
           "team": {
@@ -10364,52 +10574,76 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 9,
+            "def_tackle_assists": 3,
+            "def_tackles_for_loss": 2
+          },
           "weekly_stats": [
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 2
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             }
           ],
           "team": {
@@ -10487,82 +10721,141 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 18,
+            "def_tackle_assists": 24,
+            "def_tackles_for_loss": 8,
+            "def_sacks": 2,
+            "def_qb_hits": 5
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 2
+              }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 5,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 2
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 4,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackles_for_loss": 1
+              }
             }
           ],
           "team": {
@@ -10683,92 +10976,175 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 30,
+            "def_tackle_assists": 29,
+            "def_tackles_for_loss": 12,
+            "def_sacks": 6,
+            "def_qb_hits": 8,
+            "def_fumbles_forced": 1,
+            "def_pass_defended": 5
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3,
+                "def_tackles_for_loss": 2,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_fumbles_forced": 1
+              }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 2,
+                "def_sacks": 2,
+                "def_qb_hits": 2
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_qb_hits": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 5,
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1,
+                "def_qb_hits": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3,
+                "def_tackles_for_loss": 2,
+                "def_sacks": 1
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 3,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackles_for_loss": 1,
+                "def_qb_hits": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2
+              }
             }
           ],
           "team": {
@@ -10819,52 +11195,83 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_pass_defended": 1,
+            "def_tackle_assists": 6,
+            "def_tackles_solo": 6,
+            "def_tackles_for_loss": 2,
+            "def_sacks": 1,
+            "def_qb_hits": 1
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             }
           ],
           "team": {
@@ -10915,27 +11322,41 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 6,
+            "def_tackle_assists": 3
+          },
           "weekly_stats": [
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             }
           ],
           "team": {
@@ -10986,92 +11407,180 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 56,
+            "def_tackle_assists": 55,
+            "def_tackles_for_loss": 17,
+            "def_fumbles_forced": 4,
+            "def_sacks": 6.5,
+            "def_qb_hits": 10
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 4,
+                "def_fumbles_forced": 1
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 2,
+                "def_fumbles_forced": 1
+              }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 5,
+                "def_tackle_assists": 4,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 5
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 5,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1.5,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 6,
+                "def_tackle_assists": 4,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 3,
+                "def_sacks": 2,
+                "def_qb_hits": 2
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_fumbles_forced": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 3,
+                "def_tackles_for_loss": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 8,
+                "def_tackle_assists": 3,
+                "def_tackles_for_loss": 4,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 4,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 3,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 3,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 3,
+                "def_fumbles_forced": 1
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 6,
+                "def_tackles_for_loss": 1,
+                "def_qb_hits": 1
+              }
             }
           ],
           "team": {
@@ -11157,72 +11666,131 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 60,
+            "def_tackle_assists": 83,
+            "def_qb_hits": 3,
+            "def_tackles_for_loss": 4,
+            "def_fumbles_forced": 1,
+            "def_pass_defended": 2,
+            "def_sacks": 2
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 6,
+                "def_tackle_assists": 5,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 5,
+                "def_tackle_assists": 8,
+                "def_tackles_for_loss": 1,
+                "def_fumbles_forced": 1
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 7
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 6,
+                "def_tackle_assists": 9
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 8,
+                "def_tackle_assists": 8
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 5,
+                "def_tackle_assists": 4,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 7
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 8,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 7,
+                "def_tackle_assists": 9
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 6,
+                "def_tackle_assists": 11,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 4,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             }
           ],
           "team": {
@@ -11273,82 +11841,133 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 30,
+            "def_tackle_assists": 28,
+            "def_tackles_for_loss": 2,
+            "def_qb_hits": 6,
+            "def_sacks": 1
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 6,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 6,
+                "def_tackle_assists": 3,
+                "def_qb_hits": 3
+              }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 5
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 3,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 1
+              }
             }
           ],
           "team": {
@@ -11400,70 +12019,139 @@
         {
           "season": 2025,
           "stats": {
+            "def_tackles_solo": 25,
+            "def_tackle_assists": 26,
+            "def_tackles_for_loss": 11,
+            "def_pass_defended": 10,
+            "def_sacks": 7.0,
+            "def_qb_hits": 13,
             "def_interceptions": 1
           },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1,
+                "def_pass_defended": 2
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 2,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2,
+                "def_qb_hits": 1,
+                "def_pass_defended": 2
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 6,
+                "def_tackles_for_loss": 2,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
               "stats": {
-                "def_interceptions": 1
+                "def_interceptions": 1,
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 3,
+                "def_pass_defended": 2
               }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2,
+                "def_sacks": 0.5,
+                "def_qb_hits": 4
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 2,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1.5,
+                "def_qb_hits": 2
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 2,
+                "def_pass_defended": 2
+              }
             }
           ],
           "team": {
@@ -11514,42 +12202,63 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 6,
+            "def_tackle_assists": 5,
+            "def_pass_defended": 1
+          },
           "weekly_stats": [
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_pass_defended": 1
+              }
             }
           ],
           "team": {
@@ -11600,92 +12309,178 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 29,
+            "def_tackle_assists": 37,
+            "def_tackles_for_loss": 11,
+            "def_sacks": 8.0,
+            "def_qb_hits": 15,
+            "def_pass_defended": 3,
+            "def_fumbles_forced": 4
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 4,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 0.5,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 2,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 5,
+                "def_tackles_for_loss": 2,
+                "def_sacks": 1,
+                "def_qb_hits": 3,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 2
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 2,
+                "def_sacks": 2,
+                "def_qb_hits": 3,
+                "def_pass_defended": 1,
+                "def_fumbles_forced": 2
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 4
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 0.5,
+                "def_qb_hits": 1,
+                "def_fumbles_forced": 1
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 2,
+                "def_sacks": 2,
+                "def_qb_hits": 2,
+                "def_fumbles_forced": 1
+              }
             }
           ],
           "team": {
@@ -11736,32 +12531,52 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 6,
+            "def_tackle_assists": 2,
+            "def_tackles_for_loss": 1,
+            "def_sacks": 1,
+            "def_qb_hits": 1
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             }
           ],
           "team": {
@@ -11959,7 +12774,10 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackle_assists": 1,
+            "def_tackles_solo": 1
+          },
           "weekly_stats": [
             {
               "week": 3,
@@ -11979,12 +12797,16 @@
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             }
           ],
           "team": {
@@ -12096,7 +12918,9 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackle_assists": 1
+          },
           "weekly_stats": [
             {
               "week": 3,
@@ -12111,7 +12935,9 @@
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 10,
@@ -12212,7 +13038,9 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackle_assists": 1
+          },
           "weekly_stats": [
             {
               "week": 2,
@@ -12232,7 +13060,9 @@
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             }
           ],
           "team": {
@@ -12837,7 +13667,9 @@
             "receptions": 28,
             "receiving_yards": 199,
             "receiving_tds": 1,
-            "rushing_tds": 2
+            "rushing_tds": 2,
+            "def_tackle_assists": 1,
+            "def_tackles_solo": 1
           },
           "weekly_stats": [
             {
@@ -12892,7 +13724,8 @@
                 "rushing_tds": 1,
                 "targets": 6,
                 "receptions": 3,
-                "receiving_yards": 22
+                "receiving_yards": 22,
+                "def_tackle_assists": 1
               }
             },
             {
@@ -12914,7 +13747,8 @@
                 "rushing_yards": 41,
                 "targets": 4,
                 "receptions": 3,
-                "receiving_yards": 16
+                "receiving_yards": 16,
+                "def_tackles_solo": 1
               }
             },
             {
@@ -13026,7 +13860,8 @@
             "targets": 16,
             "receptions": 14,
             "receiving_yards": 51,
-            "rushing_tds": 6
+            "rushing_tds": 6,
+            "def_tackle_assists": 1
           },
           "weekly_stats": [
             {
@@ -13100,7 +13935,8 @@
                 "rushing_yards": 3,
                 "targets": 1,
                 "receptions": 1,
-                "receiving_yards": 3
+                "receiving_yards": 3,
+                "def_tackle_assists": 1
               }
             },
             {
@@ -13344,65 +14180,103 @@
         {
           "season": 2025,
           "stats": {
+            "def_tackles_solo": 16,
+            "def_tackle_assists": 18,
+            "def_pass_defended": 11,
+            "def_tackles_for_loss": 1,
             "def_interceptions": 1
           },
           "weekly_stats": [
             {
               "week": 3,
               "opponent": "NE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2
+              }
             },
             {
               "week": 4,
               "opponent": "MIN",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1,
+                "def_pass_defended": 2
+              }
             },
             {
               "week": 6,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 9,
               "opponent": "IND",
-              "stats": {}
+              "stats": {
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 10,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3,
+                "def_pass_defended": 2
+              }
             },
             {
               "week": 11,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 3,
+                "def_pass_defended": 2
+              }
             },
             {
               "week": 12,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 3,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 13,
               "opponent": "BUF",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 14,
               "opponent": "BAL",
               "stats": {
-                "def_interceptions": 1
+                "def_interceptions": 1,
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2,
+                "def_pass_defended": 2
               }
             },
             {
               "week": 18,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2
+              }
             },
             {
               "week": 19,
               "opponent": "HOU",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2
+              }
             }
           ],
           "team": {
@@ -13489,82 +14363,135 @@
         {
           "season": 2025,
           "stats": {
-            "def_interceptions": 2
+            "def_tackles_solo": 40,
+            "def_tackle_assists": 44,
+            "def_pass_defended": 6,
+            "def_interceptions": 2,
+            "def_tackles_for_loss": 1,
+            "def_sacks": 0.5,
+            "def_qb_hits": 2
           },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
               "stats": {
-                "def_interceptions": 1
+                "def_interceptions": 1,
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
               }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 5
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 5,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 0.5
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
               "stats": {
-                "def_interceptions": 1
+                "def_interceptions": 1,
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 3,
+                "def_qb_hits": 1,
+                "def_pass_defended": 1
               }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 4
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 6
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 9
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2,
+                "def_pass_defended": 2
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 3
+              }
             }
           ],
           "team": {
@@ -13615,17 +14542,26 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 13,
+            "def_tackle_assists": 14,
+            "def_tackles_for_loss": 1
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 4,
@@ -13635,22 +14571,31 @@
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 13,
@@ -13660,22 +14605,33 @@
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 4
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 4
+              }
             }
           ],
           "team": {
@@ -13726,67 +14682,115 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 21,
+            "def_tackle_assists": 25,
+            "def_fumbles_forced": 1,
+            "def_pass_defended": 1,
+            "def_tackles_for_loss": 3,
+            "def_sacks": 2,
+            "def_qb_hits": 2
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 5,
+                "def_tackle_assists": 4
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_fumbles_forced": 1
+              }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 7
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 3,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1,
+                "def_sacks": 1,
+                "def_qb_hits": 1
+              }
             }
           ],
           "team": {
@@ -13908,97 +14912,154 @@
         {
           "season": 2025,
           "stats": {
+            "def_tackles_solo": 48,
+            "def_tackle_assists": 23,
+            "def_pass_defended": 7,
+            "def_tackles_for_loss": 3,
             "def_interceptions": 2
           },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 5,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 5,
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 2
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
               "stats": {
-                "def_interceptions": 1
+                "def_interceptions": 1,
+                "def_tackle_assists": 2,
+                "def_pass_defended": 1
               }
             },
             {
               "week": 17,
               "opponent": "DET",
               "stats": {
-                "def_interceptions": 1
+                "def_interceptions": 1,
+                "def_tackles_solo": 3,
+                "def_pass_defended": 1
               }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1,
+                "def_tackles_for_loss": 1
+              }
             }
           ],
           "team": {
@@ -14046,95 +15107,153 @@
         {
           "season": 2025,
           "stats": {
-            "def_interceptions": 1
+            "def_tackles_solo": 46,
+            "def_tackle_assists": 19,
+            "def_tackles_for_loss": 4,
+            "def_interceptions": 1,
+            "def_pass_defended": 4,
+            "def_fumbles_forced": 2,
+            "def_tds": 1
           },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 2,
               "opponent": "ATL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 3,
               "opponent": "CIN",
               "stats": {
-                "def_interceptions": 1
+                "def_interceptions": 1,
+                "def_tackles_solo": 3,
+                "def_pass_defended": 2,
+                "def_fumbles_forced": 2,
+                "def_tds": 1
               }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 5,
               "opponent": "CLE",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 8,
               "opponent": "LAC",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 5
+              }
             },
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2
+              }
             },
             {
               "week": 10,
               "opponent": "BAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 5,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 3,
+                "def_tackles_for_loss": 1
+              }
             },
             {
               "week": 12,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 14,
               "opponent": "WAS",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 3
+              }
             },
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 4,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 16,
               "opponent": "NYG",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackles_for_loss": 1,
+                "def_pass_defended": 1
+              }
             },
             {
               "week": 17,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2,
+                "def_tackle_assists": 2
+              }
             },
             {
               "week": 18,
               "opponent": "GB",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2
+              }
             }
           ],
           "team": {
@@ -14185,7 +15304,9 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackles_solo": 2
+          },
           "weekly_stats": [
             {
               "week": 1,
@@ -14255,7 +15376,9 @@
             {
               "week": 15,
               "opponent": "DAL",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 2
+              }
             },
             {
               "week": 16,
@@ -14355,12 +15478,16 @@
         },
         {
           "season": 2025,
-          "stats": {},
+          "stats": {
+            "def_tackle_assists": 1
+          },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             }
           ],
           "team": {
@@ -14416,6 +15543,7 @@
             "receptions": 51,
             "receiving_yards": 438,
             "receiving_tds": 3,
+            "def_tackles_solo": 1,
             "carries": 1
           },
           "weekly_stats": [
@@ -14453,7 +15581,8 @@
               "stats": {
                 "targets": 5,
                 "receptions": 4,
-                "receiving_yards": 39
+                "receiving_yards": 39,
+                "def_tackles_solo": 1
               }
             },
             {
@@ -14611,7 +15740,8 @@
             "targets": 19,
             "receptions": 15,
             "receiving_yards": 160,
-            "receiving_tds": 4
+            "receiving_tds": 4,
+            "def_tackles_solo": 1
           },
           "weekly_stats": [
             {
@@ -14693,7 +15823,8 @@
               "stats": {
                 "targets": 1,
                 "receptions": 1,
-                "receiving_yards": 18
+                "receiving_yards": 18,
+                "def_tackles_solo": 1
               }
             },
             {
@@ -14773,9 +15904,11 @@
         {
           "season": 2025,
           "stats": {
+            "def_tackles_solo": 1,
             "targets": 3,
             "receptions": 2,
-            "receiving_yards": 14
+            "receiving_yards": 14,
+            "def_tackle_assists": 1
           },
           "weekly_stats": [
             {
@@ -14786,7 +15919,9 @@
             {
               "week": 3,
               "opponent": "CIN",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1
+              }
             },
             {
               "week": 8,
@@ -14800,7 +15935,9 @@
             {
               "week": 9,
               "opponent": "DET",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 10,
@@ -14906,7 +16043,9 @@
             "targets": 141,
             "receptions": 84,
             "receiving_yards": 1048,
-            "receiving_tds": 2
+            "receiving_tds": 2,
+            "def_tackles_solo": 1,
+            "def_tackle_assists": 1
           },
           "weekly_stats": [
             {
@@ -14991,7 +16130,8 @@
               "stats": {
                 "targets": 12,
                 "receptions": 4,
-                "receiving_yards": 37
+                "receiving_yards": 37,
+                "def_tackles_solo": 1
               }
             },
             {
@@ -15018,7 +16158,8 @@
               "stats": {
                 "targets": 6,
                 "receptions": 2,
-                "receiving_yards": 4
+                "receiving_yards": 4,
+                "def_tackle_assists": 1
               }
             },
             {
@@ -15122,6 +16263,7 @@
             "receptions": 42,
             "receiving_yards": 610,
             "receiving_tds": 3,
+            "def_tackles_solo": 1,
             "carries": 2,
             "rushing_yards": 81,
             "rushing_tds": 1
@@ -15152,7 +16294,8 @@
               "stats": {
                 "targets": 12,
                 "receptions": 9,
-                "receiving_yards": 128
+                "receiving_yards": 128,
+                "def_tackles_solo": 1
               }
             },
             {
@@ -15311,6 +16454,7 @@
             "receptions": 58,
             "receiving_yards": 711,
             "receiving_tds": 9,
+            "def_tackles_solo": 1,
             "completions": 1,
             "attempts": 1,
             "passing_yards": 29,
@@ -15369,7 +16513,8 @@
               "stats": {
                 "targets": 7,
                 "receptions": 4,
-                "receiving_yards": 45
+                "receiving_yards": 45,
+                "def_tackles_solo": 1
               }
             },
             {
@@ -15663,15 +16808,19 @@
         {
           "season": 2025,
           "stats": {
+            "def_tackles_solo": 5,
             "targets": 3,
             "receptions": 3,
-            "receiving_yards": 25
+            "receiving_yards": 25,
+            "def_tackle_assists": 4
           },
           "weekly_stats": [
             {
               "week": 1,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 3
+              }
             },
             {
               "week": 3,
@@ -15679,13 +16828,16 @@
               "stats": {
                 "targets": 1,
                 "receptions": 1,
-                "receiving_yards": 9
+                "receiving_yards": 9,
+                "def_tackles_solo": 1
               }
             },
             {
               "week": 4,
               "opponent": "PIT",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 5,
@@ -15695,7 +16847,10 @@
             {
               "week": 7,
               "opponent": "PHI",
-              "stats": {}
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 9,
@@ -15705,7 +16860,9 @@
             {
               "week": 11,
               "opponent": "CHI",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 12,
@@ -15715,7 +16872,9 @@
             {
               "week": 13,
               "opponent": "SEA",
-              "stats": {}
+              "stats": {
+                "def_tackle_assists": 1
+              }
             },
             {
               "week": 14,

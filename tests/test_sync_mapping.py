@@ -52,6 +52,14 @@ class SyncMappingTests(unittest.TestCase):
         self.assertEqual(self.sync.normalized_player_name("Michael Penix Jr."), "michaelpenix")
         self.assertEqual(self.sync.normalized_player_name("Tony Fields II"), "tonyfields")
 
+    def test_nflverse_defensive_columns_are_exported(self):
+        expected = {
+            "def_tackles_solo", "def_tackle_assists", "def_tackles_for_loss", "def_sacks",
+            "def_qb_hits", "def_interceptions", "def_pass_defended", "def_fumbles_forced",
+            "def_tds", "def_safeties",
+        }
+        self.assertTrue(expected.issubset(self.sync.STAT_FIELDS))
+
     def test_directory_matching_handles_team_scoped_nicknames(self):
         rows = [{"display_name": "Daxton Hill", "latest_team": "CIN"}, {"display_name": "Drew Hill", "latest_team": "ATL"}]
         self.assertEqual(self.sync.directory_player_match(rows, "Dax Hill", "CIN")["display_name"], "Daxton Hill")

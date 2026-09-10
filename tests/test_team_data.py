@@ -82,6 +82,21 @@ class TeamDataTests(unittest.TestCase):
         clean = sanitize_player(player, 0)
         self.assertEqual(clean["weekly_stats"][0]["stats"]["rushing_yards"], -3)
 
+    def test_nflverse_defensive_statistics_are_preserved(self):
+        player = copy.deepcopy(self.snapshot["players"][0])
+        player["stats"] = {
+            "def_tackles_solo": 42,
+            "def_tackle_assists": 19,
+            "def_tackles_for_loss": 8,
+            "def_sacks": 3.5,
+            "def_qb_hits": 12,
+            "def_interceptions": 1,
+            "def_pass_defended": 4,
+            "def_fumbles_forced": 2,
+        }
+        clean = sanitize_player(player, 0)
+        self.assertEqual(clean["stats"], player["stats"])
+
     def test_duplicate_seasons_are_rejected(self):
         player = copy.deepcopy(self.snapshot["players"][0])
         player["seasons"].append(copy.deepcopy(player["seasons"][0]))

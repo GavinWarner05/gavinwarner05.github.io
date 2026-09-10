@@ -4,7 +4,7 @@
   if (!app) return;
 
   const favoritesKey = "sports-center:favorite-players:v1";
-  const statLabels = { games: "Games", completions: "Completions", attempts: "Attempts", passing_yards: "Passing yards", passing_tds: "Passing TD", interceptions: "Interceptions", carries: "Carries", rushing_yards: "Rushing yards", rushing_tds: "Rushing TD", targets: "Targets", receptions: "Receptions", receiving_yards: "Receiving yards", receiving_tds: "Receiving TD", tackles: "Tackles", tackles_solo: "Solo tackles", sacks: "Sacks", def_interceptions: "Defensive INT", forced_fumbles: "Forced fumbles", field_goals_made: "Field goals", field_goals_attempted: "FG attempts", extra_points_made: "Extra points", extra_points_attempted: "XP attempts" };
+  const statLabels = { games: "Games", completions: "Completions", attempts: "Attempts", passing_yards: "Passing yards", passing_tds: "Passing TD", interceptions: "Interceptions", carries: "Carries", rushing_yards: "Rushing yards", rushing_tds: "Rushing TD", targets: "Targets", receptions: "Receptions", receiving_yards: "Receiving yards", receiving_tds: "Receiving TD", tackles: "Tackles", tackles_solo: "Solo tackles", sacks: "Sacks", def_tackles_solo: "Solo tackles", def_tackle_assists: "Assisted tackles", def_tackles_for_loss: "Tackles for loss", def_sacks: "Sacks", def_qb_hits: "QB hits", def_interceptions: "Defensive INT", def_pass_defended: "Passes defended", forced_fumbles: "Forced fumbles", def_fumbles_forced: "Forced fumbles", def_tds: "Defensive TD", def_safeties: "Safeties", field_goals_made: "Field goals", field_goals_attempted: "FG attempts", extra_points_made: "Extra points", extra_points_attempted: "XP attempts" };
   const statOrder = {
     QB: ["completions", "attempts", "passing_yards", "passing_tds", "interceptions", "carries", "rushing_yards", "rushing_tds"],
     RB: ["carries", "rushing_yards", "rushing_tds", "targets", "receptions", "receiving_yards", "receiving_tds"],
@@ -14,7 +14,7 @@
     K: ["field_goals_made", "field_goals_attempted", "extra_points_made", "extra_points_attempted"],
     P: ["games"]
   };
-  const defenseOrder = ["tackles", "tackles_solo", "sacks", "def_interceptions", "forced_fumbles"];
+  const defenseOrder = ["def_tackles_solo", "def_tackle_assists", "def_tackles_for_loss", "def_sacks", "def_qb_hits", "def_interceptions", "def_pass_defended", "def_fumbles_forced", "def_tds", "def_safeties", "tackles", "tackles_solo", "sacks", "forced_fumbles"];
   const el = (selector) => app.querySelector(selector);
 
   function optimizedHeadshot(url, width) {

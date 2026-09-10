@@ -3,7 +3,7 @@
   const app = document.querySelector("[data-team-app]");
   if (!app) return;
   const groupsOrder = ["Quarterbacks", "Running Backs", "Wide Receivers", "Tight Ends", "Offensive Line", "Defensive Line", "Linebackers", "Cornerbacks", "Safeties", "Specialists", "Other"];
-  const statLabels = { games: "GP", completions: "CMP", attempts: "ATT", passing_yards: "PASS YDS", passing_tds: "PASS TD", interceptions: "INT", carries: "CAR", rushing_yards: "RUSH YDS", rushing_tds: "RUSH TD", targets: "TGT", receptions: "REC", receiving_yards: "REC YDS", receiving_tds: "REC TD", tackles: "TKL", tackles_solo: "SOLO", sacks: "SACK", def_interceptions: "DEF INT", forced_fumbles: "FF", field_goals_made: "FGM", field_goals_attempted: "FGA", extra_points_made: "XPM", extra_points_attempted: "XPA" };
+  const statLabels = { games: "GP", completions: "CMP", attempts: "ATT", passing_yards: "PASS YDS", passing_tds: "PASS TD", interceptions: "INT", carries: "CAR", rushing_yards: "RUSH YDS", rushing_tds: "RUSH TD", targets: "TGT", receptions: "REC", receiving_yards: "REC YDS", receiving_tds: "REC TD", tackles: "TKL", tackles_solo: "SOLO", sacks: "SACK", def_tackles_solo: "SOLO", def_tackle_assists: "AST", def_tackles_for_loss: "TFL", def_sacks: "SACK", def_qb_hits: "QB HIT", def_interceptions: "DEF INT", def_pass_defended: "PD", forced_fumbles: "FF", def_fumbles_forced: "FF", def_tds: "DEF TD", def_safeties: "SFTY", field_goals_made: "FGM", field_goals_attempted: "FGA", extra_points_made: "XPM", extra_points_attempted: "XPA" };
   const jerseyHexVariants = {
     chi: { "rivalry series": ["#0B162A", "#C83803", false, 64, null, null, "#F5F5F5"] },
     det: { "rivalry series": ["#0076B6", "#111111", false, 58, null, null, "#B0B7BC"] },
