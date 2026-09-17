@@ -3,7 +3,7 @@ import json
 import unittest
 from pathlib import Path
 
-from scripts.build_team_data import sanitize_injury_player, sanitize_player, sanitize_snapshot
+from scripts.build_team_data import build_player_index, sanitize_injury_player, sanitize_player, sanitize_snapshot
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -32,6 +32,29 @@ class TeamDataTests(unittest.TestCase):
         self.assertEqual(clean["injury_players"][0]["name"], "Reserve Player")
         self.assertNotIn("private_note", clean["injury_players"][0])
         self.assertEqual(clean["seasons"][0]["season"], 2026)
+
+    def test_player_index_supports_search_and_weekly_leaders(self):
+        clean = sanitize_snapshot(self.snapshot)
+        index = build_player_index([clean])
+        self.assertEqual(index["players"][0]["name"], "Reserve Player")
+        quarterback = next(player for player in index["players"] if player["name"] == "Sample Quarterback")
+        self.assertEqual(quarterback["team_id"], "min")
+        week = index["weeks"][0]
+        self.assertEqual(week["week"], 1)
+        passing = next(category for category in week["categories"] if category["key"] == "passing_yards")
+        self.assertEqual(passing["leaders"][0]["value"], 250)
+        self.assertNotIn("weekly_stats", quarterback)
+
+    def test_player_index_includes_defensive_leader_categories(self):
+        raw = copy.deepcopy(self.snapshot)
+        weekly = raw["players"][0]["weekly_stats"][0]["stats"]
+        season_weekly = raw["players"][0]["seasons"][0]["weekly_stats"][0]["stats"]
+        weekly.update({"def_interceptions": 2, "def_qb_hits": 4})
+        season_weekly.update({"def_interceptions": 2, "def_qb_hits": 4})
+        index = build_player_index([sanitize_snapshot(raw)])
+        categories = {category["key"]: category for category in index["weeks"][0]["categories"]}
+        self.assertEqual(categories["def_interceptions"]["leaders"][0]["value"], 2)
+        self.assertEqual(categories["def_qb_hits"]["leaders"][0]["value"], 4)
 
     def test_historical_team_schedule_is_preserved(self):
         raw = copy.deepcopy(self.snapshot)

@@ -82,7 +82,7 @@
   
   
     
-    <link rel="stylesheet" href="/scss/sports.min.efbf57f12df483e98d04181763a0f8d12acfaf1b01478fdd3d81e0c276d76a93.css" integrity="sha256-779X8S30g&#43;mNBBgXY6D40SrPrxsBR4/dPYHgwnbXapM=" crossorigin="anonymous">
+    <link rel="stylesheet" href="/scss/sports.min.53cde493564fb0047d8c2f4d3ab25f4364fae916b732a27915da345209df6a42.css" integrity="sha256-U83kk1ZPsAR9jC9NOrJfQ2T66Ra3MqJ5Fdo0UgnfakI=" crossorigin="anonymous">
   
 
 </head>
@@ -124,7 +124,7 @@
 
     <div class="content">
       
-<main class="sports-home" data-sports-home data-data-url="/sports/data/nfl.json" data-scores-url="/sports/scores/" data-team-base-url="/sports/teams/" data-team-data-base-url="/sports/data/teams/" data-player-url="/sports/player/">
+<main class="sports-home" data-sports-home data-data-url="/sports/data/nfl.json" data-player-index-url="/sports/data/players.json" data-scores-url="/sports/scores/" data-team-base-url="/sports/teams/" data-team-data-base-url="/sports/data/teams/" data-player-url="/sports/player/">
   <header class="sports-home-intro">
     <div>
       <p class="sports-eyebrow">NFL Sports Center</p>
@@ -148,12 +148,35 @@
 
   <div class="sports-notice" data-home-notice role="status" hidden></div>
 
+  <section class="sports-home-section sports-player-search-section" data-player-search-section hidden>
+    <div class="sports-section-heading">
+      <div><p class="sports-home-kicker">Player directory</p><h2>Find any player</h2></div>
+      <span data-player-search-count></span>
+    </div>
+    <div class="sports-player-search-shell">
+      <label class="sr-only" for="sports-player-search">Search NFL players</label>
+      <span class="sports-player-search-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg></span>
+      <input id="sports-player-search" type="search" inputmode="search" autocomplete="off" placeholder="Search by player, team, or position" data-player-search aria-controls="sports-player-search-results" aria-expanded="false">
+      <p class="sports-player-search-status" data-player-search-status aria-live="polite">Start typing a player, team, or position.</p>
+      <div class="sports-player-search-results" id="sports-player-search-results" data-player-search-results hidden></div>
+    </div>
+  </section>
+
   <section class="sports-home-section" data-week-section hidden>
     <div class="sports-section-heading">
       <div><p class="sports-home-kicker">League snapshot</p><h2 data-week-heading>This week</h2></div>
       <a href="/sports/scores/">Full scoreboard →</a>
     </div>
     <div class="sports-home-game-grid" data-week-games></div>
+  </section>
+
+  <section class="sports-home-section sports-weekly-leaders-section" data-weekly-leaders-section hidden>
+    <div class="sports-section-heading sports-leaders-heading">
+      <div><p class="sports-home-kicker">Best of the week</p><h2 data-leaders-heading>Weekly leaders</h2></div>
+      <label class="sports-leaders-week"><span>Week</span><select data-leaders-week aria-label="Choose a week"></select></label>
+    </div>
+    <div class="sports-leader-categories" data-leader-categories aria-label="Leader category"></div>
+    <div class="sports-leader-list" data-weekly-leaders aria-live="polite"></div>
   </section>
 
   <section class="sports-home-section" id="favorites" data-home-favorites-section hidden>
@@ -296,7 +319,7 @@
 
   
 
-    <script src="/js/sports-share.min.0d85796c3ea8f2102c7580db5cfdee278300d5557756b1257de1a939133c6fb5.js" integrity="sha256-DYV5bD6o8hAsdYDbXP3uJ4MA1VV3VrElfeGpORM8b7U=" crossorigin="anonymous"></script>
+    <script src="/js/sports-share.min.beff381ea27a5609b0d0e6cd4ab3ac112c55e24c7163ed28cfa3e2f093ff9405.js" integrity="sha256-vv84HqJ6Vgmw0ObNSrOsESxV4kxxY&#43;0oz6Pi8JP/lAU=" crossorigin="anonymous"></script>
   
   
     <script src="/js/sports-pwa.min.9642cffec84c94220c1f7f1df804277ef7a02c9192747da53dbe6708ec43f4ca.js" integrity="sha256-lkLP/shMlCIMH38d&#43;AQnfvegLJGSdH2lPb5nCOxD9Mo=" crossorigin="anonymous"></script>
@@ -306,7 +329,7 @@
   
   
     
-      <script src="/js/sports-home.min.46071befa3a4dd4daf2e8b1c1b1093edfb78a12a5b4a43bba22dc7b25995d1a4.js?v=1788998869" integrity="sha256-Rgcb76Ok3U2vLoscGxCT7ft4oSpbSkO7oi3HslmV0aQ=" crossorigin="anonymous"></script>
+      <script src="/js/sports-home.min.da4be58a9a860d8db6a78dfc24f96414dddddfbfd1016b1dd57656523b499f13.js" integrity="sha256-2kvlipqGDY22p438JPlkFN3d37/RAWsd1XZWUjtJnxM=" crossorigin="anonymous"></script>
     
   
   </body>

@@ -82,6 +82,35 @@ class SyncMappingTests(unittest.TestCase):
         self.assertEqual(len(result), 1)
         self.assertEqual(result[0]["status"], "Out")
 
+    def test_stale_injury_rows_are_marked_cleared(self):
+        original_notion = self.sync.notion
+        original_dry_run = self.sync.DRY_RUN
+        calls = []
+        self.sync.DRY_RUN = False
+        self.sync.notion = lambda method, path, payload=None: calls.append((method, path, payload)) or {}
+        try:
+            count = self.sync.clear_stale_injuries(
+                {"still-current": "current-page", "no-longer-listed": "stale-page"},
+                {"still-current"},
+            )
+        finally:
+            self.sync.notion = original_notion
+            self.sync.DRY_RUN = original_dry_run
+        self.assertEqual(count, 1)
+        self.assertEqual(len(calls), 1)
+        self.assertEqual(calls[0][0:2], ("PATCH", "/pages/stale-page"))
+        self.assertFalse(calls[0][2]["properties"]["Active Concern"]["checkbox"])
+        self.assertEqual(calls[0][2]["properties"]["Designation"]["select"]["name"], "Cleared")
+
+    def test_sleeper_only_exports_active_players_with_injury_designations(self):
+        players = {
+            "healthy": {"full_name": "Nick Bosa", "team": "SF", "status": "Active", "injury_status": None},
+            "injured": {"full_name": "Example Player", "team": "SF", "status": "Active", "injury_status": "Questionable"},
+            "former": {"full_name": "Former Player", "team": None, "status": "Inactive", "injury_status": "Out"},
+        }
+        result = self.sync.current_sleeper_injuries(players)
+        self.assertEqual([entry["player_id"] for entry in result], ["injured"])
+
     def test_database_with_one_source_resolves_automatically(self):
         original = self.sync.notion
         self.sync.notion = lambda *_args, **_kwargs: {"data_sources": [{"id": "resolved-source", "name": "Games"}]}

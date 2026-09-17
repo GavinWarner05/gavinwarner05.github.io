@@ -4,7 +4,7 @@
   if (!app) return;
 
   const favoritesKey = "sports-center:favorite-players:v1";
-  const statLabels = { games: "Games", completions: "Completions", attempts: "Attempts", passing_yards: "Passing yards", passing_tds: "Passing TD", interceptions: "Interceptions", carries: "Carries", rushing_yards: "Rushing yards", rushing_tds: "Rushing TD", targets: "Targets", receptions: "Receptions", receiving_yards: "Receiving yards", receiving_tds: "Receiving TD", tackles: "Tackles", tackles_solo: "Solo tackles", sacks: "Sacks", def_interceptions: "Defensive INT", forced_fumbles: "Forced fumbles", field_goals_made: "Field goals", field_goals_attempted: "FG attempts", extra_points_made: "Extra points", extra_points_attempted: "XP attempts" };
+  const statLabels = { games: "Games", completions: "Completions", attempts: "Attempts", passing_yards: "Passing yards", passing_tds: "Passing TD", interceptions: "Interceptions", carries: "Carries", rushing_yards: "Rushing yards", rushing_tds: "Rushing TD", targets: "Targets", receptions: "Receptions", receiving_yards: "Receiving yards", receiving_tds: "Receiving TD", tackles: "Tackles", tackles_solo: "Solo tackles", sacks: "Sacks", def_tackles_solo: "Solo tackles", def_tackle_assists: "Assisted tackles", def_tackles_for_loss: "Tackles for loss", def_sacks: "Sacks", def_qb_hits: "QB hits", def_interceptions: "Defensive INT", def_pass_defended: "Passes defended", forced_fumbles: "Forced fumbles", def_fumbles_forced: "Forced fumbles", def_tds: "Defensive TD", def_safeties: "Safeties", field_goals_made: "Field goals", field_goals_attempted: "FG attempts", extra_points_made: "Extra points", extra_points_attempted: "XP attempts" };
   const statOrder = {
     QB: ["completions", "attempts", "passing_yards", "passing_tds", "interceptions", "carries", "rushing_yards", "rushing_tds"],
     RB: ["carries", "rushing_yards", "rushing_tds", "targets", "receptions", "receiving_yards", "receiving_tds"],
@@ -14,14 +14,23 @@
     K: ["field_goals_made", "field_goals_attempted", "extra_points_made", "extra_points_attempted"],
     P: ["games"]
   };
-  const defenseOrder = ["tackles", "tackles_solo", "sacks", "def_interceptions", "forced_fumbles"];
+  const defenseOrder = ["def_tackles_solo", "def_tackle_assists", "def_tackles_for_loss", "def_sacks", "def_qb_hits", "def_interceptions", "def_pass_defended", "def_fumbles_forced", "def_tds", "def_safeties", "tackles", "tackles_solo", "sacks", "forced_fumbles"];
   const el = (selector) => app.querySelector(selector);
 
-  function orderedStats(player, stats) {
+  function optimizedHeadshot(url, width) {
+    const source = String(url || "");
+    if (source.includes("static.www.nfl.com/image/upload/")) {
+      return source.replace(/\/image\/upload\/(?:f_auto,q_auto\/)?/, "/image/upload/f_auto,q_auto,c_limit,w_" + width + "/");
+    }
+    if (source.includes("a.espncdn.com/i/headshots/")) return source + (source.includes("?") ? "&" : "?") + "w=" + width;
+    return source;
+  }
+
+  function orderedStats(player, stats, includeZero) {
     const defensivePositions = ["DE", "DT", "NT", "DL", "LB", "ILB", "OLB", "CB", "S", "FS", "SS", "DB"];
     const preferred = statOrder[player.position] || (defensivePositions.includes(player.position) ? defenseOrder : []);
     const keys = preferred.concat(Object.keys(stats || {}).filter((key) => !preferred.includes(key)));
-    return keys.filter((key, index) => keys.indexOf(key) === index && statLabels[key] && stats[key] != null && stats[key] !== 0);
+    return keys.filter((key, index) => keys.indexOf(key) === index && statLabels[key] && stats[key] != null && (includeZero || stats[key] !== 0));
   }
 
   function favorites() {
@@ -38,6 +47,7 @@
     else saved.splice(index, 1);
     try { window.localStorage.setItem(favoritesKey, JSON.stringify(saved)); } catch (_) { /* The page remains usable without storage. */ }
     updateFavorite(player);
+    window.dispatchEvent(new CustomEvent("sports:favorites-changed"));
   }
 
   function updateFavorite(player) {
@@ -75,7 +85,26 @@
     }));
   }
 
-  function renderWeeks(player, weeks) {
+  function shareStats(player, stats) {
+    return orderedStats(player, stats).slice(0, 4).map((key) => ({ label: statLabels[key], value: stats[key] }));
+  }
+
+  function sharePlayerCard(player, team, season, stats, week) {
+    if (!window.SportsShare) return;
+    const label = String(player.name || "player").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+    window.SportsShare.player({
+      player: Object.assign({}, player, { headshot_url: optimizedHeadshot(player.headshot_url, 900) }),
+      team: team,
+      season: season,
+      week: week || null,
+      stats: shareStats(player, stats || {}),
+      availableStats: orderedStats(player, stats || {}, true).map((key) => ({ key: key, label: statLabels[key], value: stats[key] })),
+      filename: `${label}-${week ? "week-" + week.week : season + "-season"}.png`,
+      title: `${player.name} · ${week ? "Week " + week.week : season + " season"}`
+    });
+  }
+
+  function renderWeeks(player, weeks, season, team) {
     el("[data-player-week-count]").textContent = weeks.length + " week" + (weeks.length === 1 ? "" : "s");
     if (!weeks.length) {
       const empty = document.createElement("p"); empty.className = "player-stats-empty"; empty.textContent = "Weekly statistics will appear here once the player records a regular-season appearance.";
@@ -86,7 +115,10 @@
       const heading = document.createElement("div"); heading.className = "player-week-heading";
       const title = document.createElement("span"); title.className = "player-week-label"; title.textContent = "Week " + week.week;
       const opponent = document.createElement("h3"); opponent.className = "player-week-opponent"; opponent.textContent = week.opponent ? "vs. " + week.opponent : "Regular season";
-      heading.append(title, opponent);
+      const share = document.createElement("button"); share.type = "button"; share.className = "sports-share-trigger player-week-share"; share.textContent = "Share";
+      share.setAttribute("aria-label", `Share ${player.name} ${season} Week ${week.week} statistics`);
+      share.addEventListener("click", function () { sharePlayerCard(player, team, season, week.stats || {}, week); });
+      heading.append(title, opponent, share);
       const stats = document.createElement("dl"); stats.className = "player-page-stats player-week-stats";
       appendStats(stats, player, week.stats || {}); card.append(heading, stats); return card;
     }));
@@ -101,15 +133,20 @@
     document.body.style.setProperty("--team-background-gradient", "linear-gradient(rgba(7,10,18,.78),rgba(7,10,18,.92))," + gradient);
     el("[data-player-hero]").style.setProperty("--player-gradient", gradient);
     const headshot = el("[data-player-headshot]");
-    if (player.headshot_url) { headshot.src = player.headshot_url; headshot.alt = player.name + " headshot"; headshot.addEventListener("error", function () { headshot.hidden = true; }, { once: true }); }
+    if (player.headshot_url) { headshot.src = optimizedHeadshot(player.headshot_url, 640); headshot.alt = player.name + " headshot"; headshot.decoding = "async"; headshot.addEventListener("error", function () { headshot.hidden = true; }, { once: true }); }
     else headshot.hidden = true;
     el("[data-player-name]").textContent = player.name;
     el("[data-player-meta]").textContent = [player.number ? "#" + player.number : "", player.position, player.depth_rank ? (player.depth_position || player.position) + player.depth_rank : ""].filter(Boolean).join(" · ");
     const seasons = player.seasons && player.seasons.length ? player.seasons.slice().sort((a, b) => b.season - a.season) : [{ season: data.season, team: team, stats: player.stats || {}, weekly_stats: player.weekly_stats || [] }];
+    const insights = window.SportsPlayerInsights
+      ? window.SportsPlayerInsights.mount(app, data, player, { statLabels, orderedStats, optimizedHeadshot })
+      : { updateSeason: function () {} };
+    let currentSeason = seasons[0];
     const selector = el("[data-player-season-select]");
     selector.replaceChildren(...seasons.map((season) => { const option = document.createElement("option"); option.value = String(season.season); option.textContent = season.season; return option; }));
     el("[data-player-season-control]").hidden = seasons.length < 2;
     function showSeason(season) {
+      currentSeason = season;
       const seasonTeam = season.team || team;
       const seasonGradient = "linear-gradient(135deg," + seasonTeam.colors.primary + "," + seasonTeam.colors.secondary + ")";
       app.style.setProperty("--player-gradient", seasonGradient);
@@ -118,10 +155,16 @@
       el("[data-player-team]").textContent = season.season + " · " + seasonTeam.name;
       const teamLink = el("[data-player-team-link]"); teamLink.href = app.dataset.teamBaseUrl + seasonTeam.id + "/"; teamLink.textContent = "View " + seasonTeam.name + " roster";
       appendStats(el("[data-player-totals]"), player, season.stats || {});
-      renderWeeks(player, season.weekly_stats || []);
+      renderWeeks(player, season.weekly_stats || [], season.season, seasonTeam);
+      insights.updateSeason(season);
     }
     showSeason(seasons[0]);
     selector.addEventListener("change", function () { const selected = seasons.find((season) => String(season.season) === selector.value); if (selected) showSeason(selected); });
+    function shareCurrentSeason() {
+      sharePlayerCard(player, currentSeason.team || team, currentSeason.season, currentSeason.stats || {});
+    }
+    el("[data-player-share]").addEventListener("click", shareCurrentSeason);
+    el("[data-player-season-share]").addEventListener("click", shareCurrentSeason);
     const injury = (data.injuries || []).find((entry) => entry.player === player.name);
     if (injury) {
       const injuryBadge = el("[data-player-injury]");
@@ -151,5 +194,10 @@
       if (!player) throw new Error("Player not found");
       render(data, player);
     })
-    .catch(() => { el("[data-player-notice]").textContent = "This player could not be loaded from the latest roster snapshot."; });
+    .catch((error) => {
+      console.error("Player page failed to load", error);
+      el("[data-player-notice]").textContent = error.message === "Player not found"
+        ? "This player is no longer included in this team’s latest roster snapshot."
+        : "This player page could not be loaded. Refresh the page to try again.";
+    });
 }());

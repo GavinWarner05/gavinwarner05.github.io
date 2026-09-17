@@ -28,6 +28,16 @@ STAT_KEYS = {
 }
 SIGNED_STAT_KEYS = {"passing_yards", "rushing_yards", "receiving_yards"}
 GROUPS = {"Quarterbacks", "Running Backs", "Wide Receivers", "Tight Ends", "Offensive Line", "Defensive Line", "Linebackers", "Cornerbacks", "Safeties", "Specialists", "Other"}
+LEADER_CATEGORIES = (
+    ("passing_yards", "Passing yards", "YDS"),
+    ("rushing_yards", "Rushing yards", "YDS"),
+    ("receiving_yards", "Receiving yards", "YDS"),
+    ("touchdowns", "Touchdowns", "TD"),
+    ("tackles", "Tackles", "TKL"),
+    ("sacks", "Sacks", "SACK"),
+    ("def_interceptions", "Interceptions", "INT"),
+    ("def_qb_hits", "QB hits", "HIT"),
+)
 
 
 def bounded(value: object, field: str, maximum: int, required: bool = False) -> str | None:
@@ -191,6 +201,89 @@ def sanitize_snapshot(raw: object) -> dict:
     }
 
 
+def leader_value(stats: dict, key: str) -> int | float | None:
+    if key in ("passing_yards", "rushing_yards", "receiving_yards"):
+        return stats.get(key)
+    if key == "touchdowns":
+        values = (stats.get("rushing_tds"), stats.get("receiving_tds"))
+        return None if all(value is None for value in values) else sum(value or 0 for value in values)
+    if key == "tackles":
+        values = (stats.get("def_tackles_solo"), stats.get("def_tackle_assists"))
+        if any(value is not None for value in values): return sum(value or 0 for value in values)
+        return stats.get("tackles", stats.get("tackles_solo"))
+    if key == "sacks": return stats.get("def_sacks", stats.get("sacks"))
+    if key in ("def_interceptions", "def_qb_hits"): return stats.get(key)
+    return None
+
+
+def build_player_index(snapshots: list[dict]) -> dict:
+    require(bool(snapshots), "player index requires team snapshots")
+    season = max(snapshot["season"] for snapshot in snapshots)
+    teams = sorted((snapshot["team"] for snapshot in snapshots), key=lambda team: team["name"])
+    chosen: dict[str, tuple[dict, dict]] = {}
+    for snapshot in snapshots:
+        seen: set[str] = set()
+        for player in snapshot["players"] + snapshot["injury_players"]:
+            if player["id"] in seen: continue
+            seen.add(player["id"])
+            current = next((entry for entry in player.get("seasons", []) if entry["season"] == season), None)
+            if current is None and snapshot["season"] == season:
+                current = {"stats": player.get("stats", {}), "weekly_stats": player.get("weekly_stats", [])}
+            candidate = (snapshot, player)
+            existing = chosen.get(player["id"])
+            candidate_score = (max((week["week"] for week in (current or {}).get("weekly_stats", [])), default=0), len((current or {}).get("stats", {})))
+            if existing:
+                old_snapshot, old_player = existing
+                old_current = next((entry for entry in old_player.get("seasons", []) if entry["season"] == season), None)
+                if old_current is None and old_snapshot["season"] == season:
+                    old_current = {"stats": old_player.get("stats", {}), "weekly_stats": old_player.get("weekly_stats", [])}
+                old_score = (max((week["week"] for week in (old_current or {}).get("weekly_stats", [])), default=0), len((old_current or {}).get("stats", {})))
+                if old_score >= candidate_score: continue
+            chosen[player["id"]] = candidate
+
+    players = []
+    weekly: dict[int, list[tuple[dict, dict, dict]]] = {}
+    for snapshot, player in chosen.values():
+        entry = {"id": player["id"], "name": player["name"], "position": player.get("position", ""), "team_id": snapshot["team"]["id"]}
+        for key in ("number", "headshot_url"):
+            if player.get(key): entry[key] = player[key]
+        players.append(entry)
+        current = next((item for item in player.get("seasons", []) if item["season"] == season), None)
+        weeks = current.get("weekly_stats", []) if current else player.get("weekly_stats", []) if snapshot["season"] == season else []
+        for week in weeks: weekly.setdefault(week["week"], []).append((snapshot, player, week["stats"]))
+
+    week_rows = []
+    for week_number, performances in sorted(weekly.items()):
+        categories = []
+        for key, label, suffix in LEADER_CATEGORIES:
+            leaders = []
+            for snapshot, player, stats in performances:
+                value = leader_value(stats, key)
+                if value is None or value <= 0: continue
+                leaders.append({"id": player["id"], "team_id": snapshot["team"]["id"], "name": player["name"], "position": player.get("position", ""), "value": value})
+            leaders.sort(key=lambda entry: (-entry["value"], entry["name"], entry["team_id"]))
+            if leaders: categories.append({"key": key, "label": label, "suffix": suffix, "leaders": leaders[:5]})
+        if categories: week_rows.append({"week": week_number, "categories": categories})
+    return {
+        "schema_version": 1,
+        "generated_at": max(snapshot["generated_at"] for snapshot in snapshots),
+        "season": season,
+        "teams": teams,
+        "players": sorted(players, key=lambda entry: (entry["name"], entry["team_id"], entry["id"])),
+        "weeks": week_rows,
+    }
+
+
+def write_json_atomic(path: Path, value: dict, prefix: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fd, temporary = tempfile.mkstemp(prefix=prefix, suffix=".json", dir=path.parent)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as handle: json.dump(value, handle, indent=2, ensure_ascii=False); handle.write("\n")
+        os.replace(temporary, path)
+    finally:
+        if os.path.exists(temporary): os.unlink(temporary)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--input-dir", type=Path, required=True)
@@ -199,16 +292,14 @@ def main() -> int:
     inputs = sorted(args.input_dir.glob("*.json"))
     require(len(inputs) == 32, "expected 32 team source files")
     args.output_dir.mkdir(parents=True, exist_ok=True)
+    snapshots = []
     for source in inputs:
         clean = sanitize_snapshot(json.loads(source.read_text(encoding="utf-8")))
         require(source.stem == clean["team"]["id"], "team filename does not match team id")
-        fd, temporary = tempfile.mkstemp(prefix=source.stem + "-", suffix=".json", dir=args.output_dir)
-        try:
-            with os.fdopen(fd, "w", encoding="utf-8") as handle: json.dump(clean, handle, indent=2, ensure_ascii=False); handle.write("\n")
-            os.replace(temporary, args.output_dir / source.name)
-        finally:
-            if os.path.exists(temporary): os.unlink(temporary)
-    print("Published 32 sanitized team snapshots")
+        snapshots.append(clean)
+        write_json_atomic(args.output_dir / source.name, clean, source.stem + "-")
+    write_json_atomic(args.output_dir.parent / "players.json", build_player_index(snapshots), "players-")
+    print("Published 32 sanitized team snapshots and player discovery index")
     return 0
 
 

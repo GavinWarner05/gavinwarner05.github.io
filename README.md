@@ -27,13 +27,27 @@ Visitors can customize favorite teams from the Sports Center home. The selection
 
 Active-roster cards link to `/sports/player/?team={team-id}&id={player-id}`. Players can be favorited from that page; those selections are also stored only in the current browser and appear in the Sports Center's Favorite players section. Player pages show sanitized season totals and week-by-week nflverse statistics when available. The exporter includes the current and previous regular seasons for active players, and the season selector also updates historical team affiliation. Before a player records a regular-season appearance, the page displays a useful empty state instead of sample statistics.
 
-Player pages can create 1080×1080 PNG share cards for the selected season or an individual week. Matchup dialogs on the scoreboard and team schedules can create matchup/final-score cards. The card is rendered entirely in the browser from the already-public sanitized JSON and public image URLs; no token, private API, or server upload is involved. **Share image** opens the device share sheet when supported, **Copy image** places the PNG on supported browser clipboards, and **Save PNG** remains the universal fallback.
+Player pages can create 1080×1080 PNG share cards for the selected season or an individual week. In player and comparison share dialogs, choose 1–4 available stats (including zero values) and reorder them with accessible up/down controls; the preview and exported image update together. The existing stats are selected by default. Matchup dialogs on the scoreboard and team schedules can create matchup/final-score cards. The card is rendered entirely in the browser from the already-public sanitized JSON and public image URLs; no token, private API, or server upload is involved. **Share image** opens the device share sheet when supported, **Copy image** places the PNG on supported browser clipboards, and **Save PNG** remains the universal fallback.
+
+Player pages also include **Weekly performance** charts with a stat selector, keyboard-focusable bars, and a table of weekly values. Charts follow the selected season and preserve gaps for unreported values. **Compare players** lets you choose a second player by team and position group, then compare the same season or week. The player picker only shows players with recorded stats for the selected season. Comparisons include total yards across recorded passing, rushing, and receiving yards, while preserving the individual yard categories. Missing values appear as a dash, while recorded zero values remain zero. Comparison cards support the same 1–4-stat picker and PNG sharing options; sharing is available when both players have reported stats for the selected period. Rosters load on demand from the public team snapshots.
 
 Run a production check without rewriting the tracked `docs/` directory:
 
 ```sh
 hugo --environment production --minify --destination /tmp/gavinwarner-site
 ```
+
+### Player insights browser checks
+
+The browser regression check uses deterministic roster fixtures and verifies charts, comparisons, stat selection, PNG exports, empty states, roster retries, and mobile overflow. It uses headless Microsoft Edge by default:
+
+```sh
+HUGO_RESOURCEDIR=/tmp/gavinwarner-insights-resources hugo --environment production --minify --destination /tmp/gavinwarner-insights
+npm install --prefix /tmp/sports-insights-browser --no-audit --no-fund playwright
+NODE_PATH=/tmp/sports-insights-browser/node_modules node tests/sports_player_insights.browser.cjs
+```
+
+Set `SPORTS_TEST_BROWSER=chromium` to use an installed Playwright Chromium browser. `SPORTS_TEST_SITE_DIR` overrides the build directory and `SPORTS_TEST_ARTIFACT_DIR` overrides the screenshot/download directory (default `/tmp/sports-insights-browser`).
 
 ## Sports data boundary
 

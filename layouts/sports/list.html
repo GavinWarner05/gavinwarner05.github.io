@@ -1,6 +1,6 @@
 {{ define "title" }}NFL Sports Center · {{ .Site.Title }}{{ end }}
 {{ define "content" }}
-<main class="sports-home" data-sports-home data-data-url="{{ "sports/data/nfl.json" | relURL }}" data-scores-url="{{ "sports/scores/" | relURL }}" data-team-base-url="{{ "sports/teams/" | relURL }}" data-team-data-base-url="{{ "sports/data/teams/" | relURL }}" data-player-url="{{ "sports/player/" | relURL }}">
+<main class="sports-home" data-sports-home data-data-url="{{ "sports/data/nfl.json" | relURL }}" data-player-index-url="{{ "sports/data/players.json" | relURL }}" data-scores-url="{{ "sports/scores/" | relURL }}" data-team-base-url="{{ "sports/teams/" | relURL }}" data-team-data-base-url="{{ "sports/data/teams/" | relURL }}" data-player-url="{{ "sports/player/" | relURL }}">
   <header class="sports-home-intro">
     <div>
       <p class="sports-eyebrow">NFL Sports Center</p>
@@ -24,12 +24,35 @@
 
   <div class="sports-notice" data-home-notice role="status" hidden></div>
 
+  <section class="sports-home-section sports-player-search-section" data-player-search-section hidden>
+    <div class="sports-section-heading">
+      <div><p class="sports-home-kicker">Player directory</p><h2>Find any player</h2></div>
+      <span data-player-search-count></span>
+    </div>
+    <div class="sports-player-search-shell">
+      <label class="sr-only" for="sports-player-search">Search NFL players</label>
+      <span class="sports-player-search-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg></span>
+      <input id="sports-player-search" type="search" inputmode="search" autocomplete="off" placeholder="Search by player, team, or position" data-player-search aria-controls="sports-player-search-results" aria-expanded="false">
+      <p class="sports-player-search-status" data-player-search-status aria-live="polite">Start typing a player, team, or position.</p>
+      <div class="sports-player-search-results" id="sports-player-search-results" data-player-search-results hidden></div>
+    </div>
+  </section>
+
   <section class="sports-home-section" data-week-section hidden>
     <div class="sports-section-heading">
       <div><p class="sports-home-kicker">League snapshot</p><h2 data-week-heading>This week</h2></div>
       <a href="{{ "sports/scores/" | relURL }}">Full scoreboard →</a>
     </div>
     <div class="sports-home-game-grid" data-week-games></div>
+  </section>
+
+  <section class="sports-home-section sports-weekly-leaders-section" data-weekly-leaders-section hidden>
+    <div class="sports-section-heading sports-leaders-heading">
+      <div><p class="sports-home-kicker">Best of the week</p><h2 data-leaders-heading>Weekly leaders</h2></div>
+      <label class="sports-leaders-week"><span>Week</span><select data-leaders-week aria-label="Choose a week"></select></label>
+    </div>
+    <div class="sports-leader-categories" data-leader-categories aria-label="Leader category"></div>
+    <div class="sports-leader-list" data-weekly-leaders aria-live="polite"></div>
   </section>
 
   <section class="sports-home-section" id="favorites" data-home-favorites-section hidden>

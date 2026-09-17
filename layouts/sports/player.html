@@ -21,17 +21,45 @@
     <div class="sports-section-heading"><h2>Season totals</h2><div class="player-season-actions"><div class="player-season-control" data-player-season-control hidden><label for="player-season-select">Season</label><select id="player-season-select" data-player-season-select></select></div><button type="button" class="sports-share-trigger player-season-share" data-player-season-share>Share season</button></div></div>
     <dl class="player-page-stats" data-player-totals></dl>
   </section>
+  <section class="player-page-section player-insights player-performance-section" data-player-content hidden aria-labelledby="player-performance-title">
+    <div class="sports-section-heading"><h2 id="player-performance-title">Weekly performance</h2><span data-chart-season></span></div>
+    <div class="player-performance-toolbar">
+      <div class="player-insight-controls"><label for="player-chart-stat">Stat<select id="player-chart-stat" data-chart-stat></select></label></div>
+      <p class="player-insight-note" data-chart-summary role="status"></p>
+    </div>
+    <div class="player-chart-surface"><div class="player-chart-scroll" data-player-chart></div></div>
+    <details class="player-chart-data" data-chart-details><summary>View weekly values</summary><div class="player-table-scroll" data-chart-table></div></details>
+  </section>
+  <section class="player-page-section player-insights" data-player-content hidden aria-labelledby="player-comparison-title">
+    <div class="sports-section-heading"><h2 id="player-comparison-title">Compare players</h2><button type="button" class="sports-share-trigger" data-comparison-share disabled>Share comparison</button></div>
+    <p class="player-insight-note">Compare this player with anyone on a current roster or injury list. Uses the season selected above.</p>
+    <div class="player-insight-controls">
+      <label for="comparison-team">Other player’s team<select id="comparison-team" data-comparison-team>
+        {{ range sort (where .Site.RegularPages "Params.team_id" "!=" nil) "Title" }}<option value="{{ .Params.team_id }}">{{ .Title }}</option>{{ end }}
+      </select></label>
+      <label for="comparison-group">Position group<select id="comparison-group" data-comparison-group disabled><option value="">Choose a group</option></select></label>
+      <label for="comparison-player">Other player<select id="comparison-player" data-comparison-player disabled><option value="">Choose a player</option></select></label>
+      <label for="comparison-period">Compare<select id="comparison-period" data-comparison-period disabled><option value="season">Season totals</option></select></label>
+    </div>
+    <p class="player-insight-note" data-comparison-status role="status">Choose a player to compare.</p>
+    <button type="button" class="sports-share-trigger" data-comparison-retry hidden>Retry loading roster</button>
+    <div class="player-comparison-identities" data-comparison-identities></div>
+    <div class="player-table-scroll" data-comparison-table></div>
+  </section>
   <section class="player-page-section" data-player-content hidden>
     <div class="sports-section-heading"><h2>Week-by-week</h2><span data-player-week-count></span></div>
     <div class="player-week-list" data-player-weeks></div>
   </section>
 </section>
-{{ with resources.Get "js/sports-player.js" }}
+{{ range slice "js/sports-player-insights.js" "js/sports-player.js" }}
+{{ with resources.Get . }}
   {{ if hugo.IsServer }}
-    <script src="{{ .RelPermalink }}?v={{ now.Unix }}"></script>
+    {{ $playerScript := . | fingerprint }}
+    <script src="{{ $playerScript.RelPermalink }}" integrity="{{ $playerScript.Data.Integrity }}" crossorigin="anonymous"></script>
   {{ else }}
     {{ $playerScript := . | minify | fingerprint }}
-    <script src="{{ $playerScript.RelPermalink }}?v={{ now.Unix }}" integrity="{{ $playerScript.Data.Integrity }}" crossorigin="anonymous"></script>
+    <script src="{{ $playerScript.RelPermalink }}" integrity="{{ $playerScript.Data.Integrity }}" crossorigin="anonymous"></script>
   {{ end }}
+{{ end }}
 {{ end }}
 {{ end }}

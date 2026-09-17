@@ -58,6 +58,7 @@ NOTION_TOKEN = os.getenv("NOTION_TOKEN", "").strip()
 SEASON = int(os.getenv("NFL_SEASON", str(datetime.now().year)))
 DRY_RUN = os.getenv("DRY_RUN", "false").lower() == "true"
 SYNC_INJURIES = os.getenv("SYNC_INJURIES", "true").lower() == "true"
+SYNC_GAMES = os.getenv("SYNC_GAMES", "true").lower() == "true"
 EXPORT_ONLY = os.getenv("SPORTS_EXPORT_ONLY", "false").lower() == "true"
 SPORTS_SOURCE_OUTPUT = os.getenv("SPORTS_SOURCE_OUTPUT", "").strip()
 FAVORITE_PROPERTY = (os.getenv("NOTION_FAVORITE_PROPERTY") or "Favorite").strip()
@@ -355,6 +356,37 @@ def designation(raw: str) -> str:
     return "Out"
 
 
+def clear_stale_injuries(known: dict[str, str], current_ids: set[str]) -> int:
+    """Deactivate synchronized injury rows that disappeared from the current feed."""
+    stale_page_ids = [page_id for external_id, page_id in known.items() if external_id not in current_ids]
+    if DRY_RUN:
+        return len(stale_page_ids)
+    for page_id in stale_page_ids:
+        notion("PATCH", f"/pages/{page_id}", {"properties": {
+            "Designation": {"select": {"name": "Cleared"}},
+            "Active Concern": {"checkbox": False},
+            "Last Synced": date(NOW),
+        }})
+    return len(stale_page_ids)
+
+
+def current_sleeper_injuries(players: dict[str, Any]) -> list[dict[str, Any]]:
+    current_teams = {
+        "ARI", "ATL", "BAL", "BUF", "CAR", "CHI", "CIN", "CLE",
+        "DAL", "DEN", "DET", "GB", "HOU", "IND", "JAX", "KC",
+        "LV", "LAC", "LAR", "MIA", "MIN", "NE", "NO", "NYG",
+        "NYJ", "PHI", "PIT", "SF", "SEA", "TB", "TEN", "WAS",
+    }
+    return [
+        dict(value, player_id=key)
+        for key, value in players.items()
+        if isinstance(value, dict)
+        and str(value.get("team") or "").upper() in current_teams
+        and str(value.get("status") or "").lower() == "active"
+        and value.get("injury_status")
+    ]
+
+
 def body_area(raw: str) -> str:
     value = raw.lower()
     mapping = [("concussion", "Head/Concussion"), ("head", "Head/Concussion"), ("shoulder", "Shoulder"),
@@ -367,27 +399,15 @@ def body_area(raw: str) -> str:
 
 def sync_injuries(teams: dict[str, str]) -> None:
     known = existing_by_id(CONFIG["injuries_data_source_id"], "External Injury ID")
+    current_ids: set[str] = set()
     try:
-        injuries = fetch_csv(INJURIES_URL.format(season=SEASON))
-        source_name = "nflverse"
-    except requests.HTTPError as exc:
-        if exc.response is None or exc.response.status_code != 404:
-            raise
         players = request("GET", SLEEPER_PLAYERS_URL, headers={})
-        current_teams = {
-            "ARI", "ATL", "BAL", "BUF", "CAR", "CHI", "CIN", "CLE",
-            "DAL", "DEN", "DET", "GB", "HOU", "IND", "JAX", "KC",
-            "LV", "LAC", "LAR", "MIA", "MIN", "NE", "NO", "NYG",
-            "NYJ", "PHI", "PIT", "SF", "SEA", "TB", "TEN", "WAS",
-        }
-        injuries = [
-            dict(value, player_id=key)
-            for key, value in players.items()
-            if str(value.get("team") or "").upper() in current_teams
-            and str(value.get("status") or "").lower() == "active"
-            and value.get("injury_status")
-        ]
+        injuries = current_sleeper_injuries(players)
         source_name = "Sleeper"
+    except requests.RequestException:
+        # nflverse practice rows without a game designation are not active injuries.
+        injuries = [row for row in fetch_csv(INJURIES_URL.format(season=SEASON)) if str(row.get("report_status") or "").strip()]
+        source_name = "nflverse"
     print(f"{source_name} returned {len(injuries)} injuries")
     for item in injuries:
         player_name = str(item.get("full_name") or item.get("player_name") or item.get("name") or "Unknown player")
@@ -400,6 +420,7 @@ def sync_injuries(teams: dict[str, str]) -> None:
         external_id = str(item.get("id") or "")
         if not external_id:
             external_id = hashlib.sha1(f"{SEASON}|{week}|{player_id}|{injury_text}".encode()).hexdigest()[:20]
+        current_ids.add(external_id)
         raw_positions = item.get("fantasy_positions") or [""]
         pos = str(item.get("position") or raw_positions[0] or "").upper()
         allowed_positions = {"QB", "RB", "FB", "WR", "TE", "OL", "DL", "LB", "CB", "S", "K", "P", "LS"}
@@ -419,6 +440,8 @@ def sync_injuries(teams: dict[str, str]) -> None:
         if pos in allowed_positions:
             props["Position"] = {"select": {"name": pos}}
         upsert(CONFIG["injuries_data_source_id"], known.get(external_id), props, f"{player_name} ({team_name})")
+    cleared = clear_stale_injuries(known, current_ids)
+    print(f"Cleared {cleared} stale synchronized injuries")
 
 
 TEAM_STYLE = {
@@ -889,7 +912,8 @@ def main() -> None:
     if len(teams) < 32:
         raise RuntimeError(f"Expected 32 Notion teams, found {len(teams)}")
     if not EXPORT_ONLY:
-        sync_games(teams)
+        if SYNC_GAMES:
+            sync_games(teams)
         if SYNC_INJURIES:
             sync_injuries(teams)
     if SPORTS_SOURCE_OUTPUT:

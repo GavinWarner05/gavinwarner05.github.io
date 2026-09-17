@@ -83,7 +83,7 @@
   
   
     
-    <link rel="stylesheet" href="/scss/sports.min.efbf57f12df483e98d04181763a0f8d12acfaf1b01478fdd3d81e0c276d76a93.css" integrity="sha256-779X8S30g&#43;mNBBgXY6D40SrPrxsBR4/dPYHgwnbXapM=" crossorigin="anonymous">
+    <link rel="stylesheet" href="/scss/sports.min.53cde493564fb0047d8c2f4d3ab25f4364fae916b732a27915da345209df6a42.css" integrity="sha256-U83kk1ZPsAR9jC9NOrJfQ2T66Ra3MqJ5Fdo0UgnfakI=" crossorigin="anonymous">
   
 
 </head>
@@ -146,16 +146,50 @@
     <div class="sports-section-heading"><h2>Season totals</h2><div class="player-season-actions"><div class="player-season-control" data-player-season-control hidden><label for="player-season-select">Season</label><select id="player-season-select" data-player-season-select></select></div><button type="button" class="sports-share-trigger player-season-share" data-player-season-share>Share season</button></div></div>
     <dl class="player-page-stats" data-player-totals></dl>
   </section>
+  <section class="player-page-section player-insights player-performance-section" data-player-content hidden aria-labelledby="player-performance-title">
+    <div class="sports-section-heading"><h2 id="player-performance-title">Weekly performance</h2><span data-chart-season></span></div>
+    <div class="player-performance-toolbar">
+      <div class="player-insight-controls"><label for="player-chart-stat">Stat<select id="player-chart-stat" data-chart-stat></select></label></div>
+      <p class="player-insight-note" data-chart-summary role="status"></p>
+    </div>
+    <div class="player-chart-surface"><div class="player-chart-scroll" data-player-chart></div></div>
+    <details class="player-chart-data" data-chart-details><summary>View weekly values</summary><div class="player-table-scroll" data-chart-table></div></details>
+  </section>
+  <section class="player-page-section player-insights" data-player-content hidden aria-labelledby="player-comparison-title">
+    <div class="sports-section-heading"><h2 id="player-comparison-title">Compare players</h2><button type="button" class="sports-share-trigger" data-comparison-share disabled>Share comparison</button></div>
+    <p class="player-insight-note">Compare this player with anyone on a current roster or injury list. Uses the season selected above.</p>
+    <div class="player-insight-controls">
+      <label for="comparison-team">Other player’s team<select id="comparison-team" data-comparison-team>
+        <option value="ari">Arizona Cardinals</option><option value="atl">Atlanta Falcons</option><option value="bal">Baltimore Ravens</option><option value="buf">Buffalo Bills</option><option value="car">Carolina Panthers</option><option value="chi">Chicago Bears</option><option value="cin">Cincinnati Bengals</option><option value="cle">Cleveland Browns</option><option value="dal">Dallas Cowboys</option><option value="den">Denver Broncos</option><option value="det">Detroit Lions</option><option value="gb">Green Bay Packers</option><option value="hou">Houston Texans</option><option value="ind">Indianapolis Colts</option><option value="jax">Jacksonville Jaguars</option><option value="kc">Kansas City Chiefs</option><option value="lv">Las Vegas Raiders</option><option value="lac">Los Angeles Chargers</option><option value="lar">Los Angeles Rams</option><option value="mia">Miami Dolphins</option><option value="min">Minnesota Vikings</option><option value="ne">New England Patriots</option><option value="no">New Orleans Saints</option><option value="nyg">New York Giants</option><option value="nyj">New York Jets</option><option value="phi">Philadelphia Eagles</option><option value="pit">Pittsburgh Steelers</option><option value="sf">San Francisco 49ers</option><option value="sea">Seattle Seahawks</option><option value="tb">Tampa Bay Buccaneers</option><option value="ten">Tennessee Titans</option><option value="was">Washington Commanders</option>
+      </select></label>
+      <label for="comparison-group">Position group<select id="comparison-group" data-comparison-group disabled><option value="">Choose a group</option></select></label>
+      <label for="comparison-player">Other player<select id="comparison-player" data-comparison-player disabled><option value="">Choose a player</option></select></label>
+      <label for="comparison-period">Compare<select id="comparison-period" data-comparison-period disabled><option value="season">Season totals</option></select></label>
+    </div>
+    <p class="player-insight-note" data-comparison-status role="status">Choose a player to compare.</p>
+    <button type="button" class="sports-share-trigger" data-comparison-retry hidden>Retry loading roster</button>
+    <div class="player-comparison-identities" data-comparison-identities></div>
+    <div class="player-table-scroll" data-comparison-table></div>
+  </section>
   <section class="player-page-section" data-player-content hidden>
     <div class="sports-section-heading"><h2>Week-by-week</h2><span data-player-week-count></span></div>
     <div class="player-week-list" data-player-weeks></div>
   </section>
 </section>
 
+
   
     
-    <script src="/js/sports-player.min.7153e8ce9f032d4292ef33cfd531fbd4cc78546cdcbbdc6a394159a37f430b2a.js?v=1788998869" integrity="sha256-cVPozp8DLUKS7zPP1TH71Mx4VGzcu9xqOUFZo39DCyo=" crossorigin="anonymous"></script>
+    <script src="/js/sports-player-insights.min.056bbad4fa5842ab6088770256104cb7311e3f1f392385fd0991adda038513a4.js" integrity="sha256-BWu61PpYQqtgiHcCVhBMtzEePx85I4X9CZGt2gOFE6Q=" crossorigin="anonymous"></script>
   
+
+
+
+  
+    
+    <script src="/js/sports-player.min.01138e12238b13c52d4e949cabf2a4ea22775a5fbe748e6f2aa0585b16c45996.js" integrity="sha256-AROOEiOLE8UtTpScq/Kk6iJ3Wl&#43;&#43;dI5vKqBYWxbEWZY=" crossorigin="anonymous"></script>
+  
+
 
 
     </div>
@@ -224,7 +258,7 @@
 
   
 
-    <script src="/js/sports-share.min.0d85796c3ea8f2102c7580db5cfdee278300d5557756b1257de1a939133c6fb5.js" integrity="sha256-DYV5bD6o8hAsdYDbXP3uJ4MA1VV3VrElfeGpORM8b7U=" crossorigin="anonymous"></script>
+    <script src="/js/sports-share.min.beff381ea27a5609b0d0e6cd4ab3ac112c55e24c7163ed28cfa3e2f093ff9405.js" integrity="sha256-vv84HqJ6Vgmw0ObNSrOsESxV4kxxY&#43;0oz6Pi8JP/lAU=" crossorigin="anonymous"></script>
   
   
     <script src="/js/sports-pwa.min.9642cffec84c94220c1f7f1df804277ef7a02c9192747da53dbe6708ec43f4ca.js" integrity="sha256-lkLP/shMlCIMH38d&#43;AQnfvegLJGSdH2lPb5nCOxD9Mo=" crossorigin="anonymous"></script>
