@@ -1,0 +1,28 @@
+{{ define "title" }}NFL Conference Standings · {{ .Site.Title }}{{ end }}
+{{ define "content" }}
+<main class="standings-page" data-standings-app data-data-url="{{ "sports/data/nfl.json" | relURL }}" data-team-base-url="{{ "sports/teams/" | relURL }}">
+  <a class="sports-page-back" href="{{ "sports/" | relURL }}">← NFL Sports Center</a>
+  <header class="standings-hero">
+    <div class="standings-hero-copy">
+      <p class="sports-eyebrow">The playoff picture</p>
+      <h1>Conference<br>standings.</h1>
+      <p data-standings-updated aria-live="polite">Loading the latest standings…</p>
+    </div>
+    <div class="standings-top-seeds" data-standings-top-seeds aria-live="polite"></div>
+  </header>
+
+  <nav class="standings-tabs" aria-label="Standings view" role="tablist">
+    <button type="button" role="tab" aria-selected="true" data-standings-view="overview">Playoff picture</button>
+    <button type="button" role="tab" aria-selected="false" data-standings-view="afc">AFC</button>
+    <button type="button" role="tab" aria-selected="false" data-standings-view="nfc">NFC</button>
+    <button type="button" role="tab" aria-selected="false" data-standings-view="league">League</button>
+  </nav>
+
+  <div class="sports-notice" data-standings-notice role="status" hidden></div>
+  <section class="standings-content" data-standings-content role="tabpanel" aria-live="polite">
+    <p class="standings-loading">Building the conference picture…</p>
+  </section>
+  <p class="standings-tiebreaker-note" data-standings-note hidden>Division leaders and wild cards are ordered using the NFL's division and conference tiebreaking procedures. If every available statistical tiebreaker remains even, team name provides a stable display order.</p>
+</main>
+<noscript><p class="sports-noscript">JavaScript is required to calculate the conference standings.</p></noscript>
+{{ end }}

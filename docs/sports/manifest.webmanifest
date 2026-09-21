@@ -32,6 +32,7 @@
   "shortcuts": [
     { "name": "Scores", "url": "/sports/scores/" },
     { "name": "Teams", "url": "/sports/teams/" },
+    { "name": "Standings", "url": "/sports/standings/" },
     { "name": "Live games", "url": "/sports/scores/?view=live" }
   ]
 }

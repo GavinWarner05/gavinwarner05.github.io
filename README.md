@@ -21,7 +21,7 @@ python3 scripts/build_sports_data.py \
 hugo server --buildDrafts --disableFastRender --noHTTPCache
 ```
 
-Open `http://localhost:1313/sports/` for the personalized Sports Center home. The complete week-by-week scoreboard is at `http://localhost:1313/sports/scores/`, and team schedules and rosters are under `/sports/teams/`. The sports section is deliberately absent from the main navigation, sitemap, and feeds. It also emits `noindex, nofollow`, and `robots.txt` discourages crawling. This is not authentication: anyone who knows or discovers the URL can open it.
+Open `http://localhost:1313/sports/` for the personalized Sports Center home. The complete week-by-week scoreboard is at `http://localhost:1313/sports/scores/`, conference and league standings are at `/sports/standings/`, and team schedules and rosters are under `/sports/teams/`. The sports section is deliberately absent from the main navigation, sitemap, and feeds. It also emits `noindex, nofollow`, and `robots.txt` discourages crawling. This is not authentication: anyone who knows or discovers the URL can open it.
 
 Visitors can customize favorite teams from the Sports Center home. The selection is stored as team IDs in that browser's `localStorage`; it does not update Notion, leave the device, or synchronize across browsers. When no browser preference has been saved, the sanitized JSON favorites are used as defaults. Clearing favorites saves an intentionally empty preference.
 

@@ -36,5 +36,9 @@
         <script src="{{ $teamScript.RelPermalink }}" integrity="{{ $teamScript.Data.Integrity }}" crossorigin="anonymous"></script>
       {{ end }}
     {{ end }}
+  {{ else if eq .Layout "standings" }}
+    {{ with resources.Get "js/sports-standings.js" }}
+      {{ if hugo.IsServer }}{{ $standingsScript := . | fingerprint }}<script src="{{ $standingsScript.RelPermalink }}" integrity="{{ $standingsScript.Data.Integrity }}" crossorigin="anonymous"></script>{{ else }}{{ $standingsScript := . | minify | fingerprint }}<script src="{{ $standingsScript.RelPermalink }}" integrity="{{ $standingsScript.Data.Integrity }}" crossorigin="anonymous"></script>{{ end }}
+    {{ end }}
   {{ end }}
 {{- end -}}

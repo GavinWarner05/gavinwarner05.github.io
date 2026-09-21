@@ -1272,6 +1272,15 @@ body.colorscheme-dark .matchup-dialog {
   margin: .8rem 0 2rem;
   padding: 1.6rem 0 1rem; }
 
+.team-directory-standings-link {
+  display: inline-block;
+  margin-top: 1.2rem;
+  color: inherit;
+  font-size: 1.2rem;
+  font-weight: 800;
+  text-decoration: underline;
+  text-underline-offset: .25em; }
+
 .team-directory-page .team-back {
   margin-bottom: 0;
   color: inherit;
@@ -1428,6 +1437,544 @@ body.colorscheme-dark .matchup-dialog {
 @media (prefers-reduced-motion: reduce) {
   .team-collapse-summary::after {
     transition: none; } }
+
+/* Conference standings */
+.standings-page {
+  width: calc(100% - 3.2rem);
+  max-width: 112rem;
+  margin: 0 auto 7rem; }
+
+.standings-page [hidden] {
+  display: none !important; }
+
+.standings-page > .sports-page-back {
+  margin-bottom: 1.2rem; }
+
+.standings-hero {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(28rem, 0.72fr);
+  align-items: center;
+  gap: 3rem;
+  min-height: 32rem;
+  overflow: hidden;
+  padding: clamp(2.4rem, 5vw, 5.2rem);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 3rem;
+  background: linear-gradient(115deg, rgba(3, 7, 18, 0.2), rgba(3, 7, 18, 0.42)), linear-gradient(115deg, #123f70 0%, #151827 48%, #7f1d2d 100%);
+  color: #fff;
+  box-shadow: 0 1.8rem 5rem rgba(0, 0, 0, 0.22); }
+
+.standings-hero::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: -25% 48% -45% -15%;
+  border-radius: 50%;
+  background: rgba(59, 130, 246, 0.2);
+  filter: blur(5rem); }
+
+.standings-hero::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: -30% -15% -45% 52%;
+  border-radius: 50%;
+  background: rgba(239, 68, 68, 0.18);
+  filter: blur(5rem); }
+
+.standings-hero .sports-eyebrow {
+  color: #fff;
+  opacity: .7; }
+
+.standings-hero h1 {
+  margin: 0;
+  color: #fff;
+  font-size: clamp(3.7rem, 7vw, 6.6rem);
+  line-height: .92;
+  letter-spacing: -.055em; }
+
+.standings-hero-copy > p:last-child {
+  margin: 1.4rem 0 0;
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 1.15rem; }
+
+.standings-top-seeds {
+  display: grid;
+  gap: .8rem; }
+
+.standings-top-seed {
+  display: grid;
+  grid-template-columns: 5.2rem minmax(0, 1fr);
+  align-items: center;
+  gap: 1rem;
+  min-width: 0;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 1.6rem;
+  background: rgba(3, 7, 18, 0.32);
+  color: #fff;
+  text-decoration: none;
+  backdrop-filter: blur(1rem); }
+
+.standings-top-seed.is-afc {
+  border-left: .35rem solid #60a5fa; }
+
+.standings-top-seed.is-nfc {
+  border-left: .35rem solid #fb7185; }
+
+.content .standings-top-seed, .content .standings-top-seed:hover, .content .standings-top-seed:focus-visible {
+  color: #fff;
+  text-decoration: none; }
+
+.standings-top-seed:hover {
+  background: rgba(255, 255, 255, 0.12); }
+
+.standings-top-seed:focus-visible {
+  outline: .3rem solid #fff;
+  outline-offset: .25rem; }
+
+.standings-top-label {
+  grid-column: 1 / -1;
+  font-size: .9rem;
+  font-weight: 900;
+  letter-spacing: .1em;
+  opacity: .62;
+  text-transform: uppercase; }
+
+.standings-top-logo {
+  width: 5.2rem;
+  height: 5.2rem;
+  object-fit: contain;
+  filter: drop-shadow(0 0.25rem 0.5rem rgba(0, 0, 0, 0.3)); }
+
+.standings-top-seed > span:last-child, .standings-top-seed strong, .standings-top-seed small {
+  display: block;
+  min-width: 0; }
+
+.standings-top-seed strong {
+  overflow: hidden;
+  font-size: 1.3rem;
+  text-overflow: ellipsis;
+  white-space: nowrap; }
+
+.standings-top-seed small {
+  margin-top: .15rem;
+  font-size: .92rem;
+  opacity: .65; }
+
+.standings-tabs {
+  display: flex;
+  gap: .6rem;
+  overflow-x: auto;
+  margin: 1.2rem 0 3.6rem;
+  padding: .5rem;
+  border: 1px solid rgba(127, 127, 127, 0.18);
+  border-radius: 999px;
+  background: rgba(127, 127, 127, 0.055);
+  scroll-margin-top: 1rem;
+  scrollbar-width: none; }
+
+.standings-tabs::-webkit-scrollbar {
+  display: none; }
+
+.standings-tabs button {
+  flex: 1 0 auto;
+  min-height: 4.2rem;
+  padding: .75rem 1.3rem;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 1.1rem;
+  font-weight: 850;
+  cursor: pointer; }
+
+.standings-tabs button[aria-selected="true"] {
+  background: #7c3aed;
+  color: #fff;
+  box-shadow: 0 0.4rem 1.2rem rgba(76, 29, 149, 0.28); }
+
+.standings-tabs button:focus-visible {
+  outline: .25rem solid #a78bfa;
+  outline-offset: .15rem; }
+
+.standings-content {
+  min-width: 0; }
+
+.standings-loading {
+  margin: 4rem 0;
+  text-align: center;
+  opacity: .65; }
+
+.standings-view-intro {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 1.5rem; }
+
+.standings-view-intro h2, .standings-panel-heading h2 {
+  margin: .15rem 0 0;
+  font-size: clamp(2.4rem, 4vw, 3.4rem);
+  line-height: 1; }
+
+.standings-legend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: .65rem 1rem;
+  font-size: .95rem;
+  opacity: .76; }
+
+.standings-legend > span {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem; }
+
+.standings-legend b, .standings-status {
+  display: inline-grid;
+  place-items: center;
+  min-width: 2.8rem;
+  min-height: 1.7rem;
+  padding: .15rem .4rem;
+  border-radius: 999px;
+  color: #fff;
+  font-size: .72rem;
+  font-weight: 950;
+  letter-spacing: .04em;
+  line-height: 1; }
+
+.standings-legend .is-division, .standings-status.is-division {
+  background: #2563eb; }
+
+.standings-legend .is-wildcard, .standings-status.is-wildcard {
+  background: #7c3aed; }
+
+.standings-legend .is-hunt, .standings-status.is-hunt {
+  background: #475569; }
+
+.standings-conference-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.2rem; }
+
+.standings-conference-panel {
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid rgba(127, 127, 127, 0.2);
+  border-radius: 2rem;
+  background: rgba(127, 127, 127, 0.04); }
+
+.standings-conference-panel.is-afc {
+  --standings-accent: #3b82f6; }
+
+.standings-conference-panel.is-nfc {
+  --standings-accent: #e11d48; }
+
+.standings-panel-heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.6rem 1.6rem 1.25rem;
+  border-top: 0.35rem solid var(--standings-accent); }
+
+.standings-panel-heading button {
+  flex: 0 0 auto;
+  padding: .55rem .8rem;
+  border: 0;
+  border-radius: .7rem;
+  background: rgba(127, 127, 127, 0.08);
+  color: inherit;
+  font: inherit;
+  font-size: .9rem;
+  font-weight: 800;
+  cursor: pointer; }
+
+.standings-panel-heading button:hover {
+  background: rgba(127, 127, 127, 0.15); }
+
+.standings-panel-heading button:focus-visible {
+  outline: 0.25rem solid var(--standings-accent);
+  outline-offset: .2rem; }
+
+.standings-table-shell {
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-color: #82759f transparent; }
+
+.standings-table {
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+  color: inherit;
+  font-size: 1rem;
+  font-variant-numeric: tabular-nums; }
+
+.standings-table th, .standings-table td {
+  height: auto;
+  padding: .8rem .7rem;
+  border: 0 !important;
+  border-bottom: 1px solid rgba(127, 127, 127, 0.14) !important;
+  background: transparent;
+  text-align: center;
+  vertical-align: middle; }
+
+.standings-table thead th {
+  color: inherit;
+  font-size: .78rem;
+  font-weight: 900;
+  letter-spacing: .06em;
+  opacity: .52;
+  text-transform: uppercase; }
+
+.standings-table tbody tr:last-child > * {
+  border-bottom: 0 !important; }
+
+.standings-table .standings-col-team {
+  width: 100%;
+  min-width: 11rem;
+  text-align: left; }
+
+.standings-table .standings-col-rank {
+  width: 3rem;
+  padding-right: .25rem;
+  padding-left: .8rem; }
+
+.standings-rank {
+  display: grid;
+  place-items: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  margin: 0 auto;
+  border-radius: 50%;
+  background: rgba(127, 127, 127, 0.12);
+  font-weight: 900;
+  line-height: 1; }
+
+.standings-team-row.is-playoff .standings-rank {
+  background: rgba(124, 58, 237, 0.17);
+  color: #a78bfa; }
+
+.standings-team-link {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  min-width: 0;
+  color: inherit;
+  text-decoration: none; }
+
+.content .standings-team-link, .content .standings-team-link:hover, .content .standings-team-link:focus-visible {
+  color: inherit;
+  text-decoration: none; }
+
+.standings-team-link:hover .standings-team-name {
+  text-decoration: underline;
+  text-underline-offset: .2em; }
+
+.standings-team-link:focus-visible {
+  border-radius: .6rem;
+  outline: .22rem solid #a78bfa;
+  outline-offset: .2rem; }
+
+.standings-team-logo {
+  flex: 0 0 3.1rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  object-fit: contain; }
+
+.standings-team-logo.image-fallback {
+  display: grid;
+  place-items: center;
+  border-radius: .8rem;
+  background: rgba(127, 127, 127, 0.12);
+  font-size: .75rem;
+  font-weight: 900; }
+
+.standings-team-identity {
+  min-width: 0; }
+
+.standings-team-identity strong, .standings-team-identity small {
+  display: block; }
+
+.standings-team-name {
+  overflow: hidden;
+  font-size: 1rem;
+  line-height: 1.15;
+  text-overflow: ellipsis;
+  white-space: nowrap; }
+
+.standings-team-abbreviation {
+  display: none !important; }
+
+.standings-team-identity small {
+  margin-top: .15rem;
+  font-size: .78rem;
+  opacity: .5; }
+
+.standings-status {
+  flex: 0 0 auto;
+  margin-left: auto; }
+
+.standings-col-record, .standings-col-pct, .standings-col-conference, .standings-col-division, .standings-col-pf, .standings-col-pa, .standings-col-diff, .standings-col-streak {
+  white-space: nowrap; }
+
+.standings-col-record, .standings-col-diff {
+  font-weight: 850; }
+
+.standings-form {
+  display: inline-flex;
+  gap: .18rem; }
+
+.standings-form > span {
+  display: grid;
+  place-items: center;
+  width: 1.55rem;
+  height: 1.55rem;
+  border-radius: 50%;
+  color: #fff;
+  font-size: .68rem;
+  font-weight: 950;
+  line-height: 1; }
+
+.standings-form .is-w {
+  background: #15803d; }
+
+.standings-form .is-l {
+  background: #b91c1c; }
+
+.standings-form .is-t {
+  background: #64748b; }
+
+.standings-form .is-empty {
+  background: rgba(127, 127, 127, 0.12);
+  color: inherit; }
+
+.standings-playoff-cutline td {
+  position: relative;
+  height: 2.4rem;
+  padding: 0 1rem !important;
+  border-bottom: 1px solid rgba(167, 139, 250, 0.42) !important;
+  color: #a78bfa;
+  font-size: .7rem;
+  font-weight: 900;
+  letter-spacing: .1em;
+  text-align: right;
+  text-transform: uppercase; }
+
+.standings-table.is-compact {
+  font-size: .92rem; }
+
+.standings-table.is-compact th, .standings-table.is-compact td {
+  padding-top: .65rem;
+  padding-bottom: .65rem; }
+
+.standings-table-shell.is-detailed {
+  overflow: hidden;
+  border: 1px solid rgba(127, 127, 127, 0.2);
+  border-radius: 2rem;
+  background: rgba(127, 127, 127, 0.035); }
+
+.standings-table-shell.is-detailed .standings-table {
+  min-width: 82rem;
+  font-size: 1.05rem; }
+
+.standings-table-shell.is-detailed .standings-team-logo {
+  width: 3.6rem;
+  height: 3.6rem; }
+
+.standings-table-shell.is-detailed .standings-team-name {
+  font-size: 1.15rem; }
+
+.standings-tiebreaker-note {
+  max-width: 82rem;
+  margin: 1.5rem auto 0;
+  font-size: .95rem;
+  line-height: 1.55;
+  opacity: .58;
+  text-align: center; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .standings-top-seed, .standings-team-row {
+    transition: background .16s ease,border-color .16s ease,transform .16s ease; }
+  .standings-top-seed:hover {
+    transform: translateY(-0.15rem); }
+  .standings-team-row:hover {
+    background: rgba(167, 139, 250, 0.055); } }
+
+@media (max-width: 900px) {
+  .standings-hero {
+    grid-template-columns: 1fr; }
+  .standings-top-seeds {
+    grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .standings-conference-grid {
+    grid-template-columns: 1fr; } }
+
+@media (max-width: 600px) {
+  .standings-page {
+    width: calc(100% - 2rem); }
+  .standings-hero {
+    gap: 2rem;
+    min-height: 0;
+    padding: 2.2rem;
+    border-radius: 2.3rem; }
+  .standings-hero h1 {
+    font-size: clamp(3.7rem, 13vw, 5rem); }
+  .standings-top-seeds {
+    grid-template-columns: 1fr; }
+  .standings-tabs {
+    margin-bottom: 2.8rem; }
+  .standings-tabs button {
+    padding-inline: 1rem; }
+  .standings-view-intro {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 1rem; }
+  .standings-legend {
+    justify-content: flex-start; }
+  .standings-panel-heading {
+    align-items: flex-start; }
+  .standings-panel-heading button {
+    margin-top: .2rem; }
+  .standings-table th, .standings-table td {
+    padding-right: .35rem;
+    padding-left: .35rem; }
+  .standings-table .standings-col-rank {
+    width: 2.6rem;
+    padding-left: .5rem; }
+  .standings-table .standings-col-team {
+    min-width: 8.2rem; }
+  .standings-team-logo {
+    flex-basis: 2.8rem;
+    width: 2.8rem;
+    height: 2.8rem; }
+  .standings-team-name {
+    display: none !important; }
+  .standings-team-abbreviation {
+    display: block !important;
+    font-size: 1rem; }
+  .standings-team-identity small {
+    font-size: .68rem; }
+  .standings-status {
+    min-width: 2.3rem;
+    padding-inline: .3rem;
+    font-size: .62rem; }
+  .standings-table.is-compact .standings-col-form {
+    display: none; }
+  .standings-table-shell.is-detailed {
+    overflow: visible; }
+  .standings-table-shell.is-detailed .standings-table {
+    min-width: 0; }
+  .standings-table-shell.is-detailed .standings-col-conference, .standings-table-shell.is-detailed .standings-col-division, .standings-table-shell.is-detailed .standings-col-pf, .standings-table-shell.is-detailed .standings-col-pa, .standings-table-shell.is-detailed .standings-col-streak, .standings-table-shell.is-detailed .standings-col-form {
+    display: none; }
+  .standings-table-shell.is-detailed .standings-team-logo {
+    width: 3rem;
+    height: 3rem; }
+  .standings-playoff-cutline td {
+    height: 2rem; } }
 
 /* Sports Center home */
 .sports-home {
@@ -1607,7 +2154,7 @@ body.colorscheme-dark .matchup-dialog {
 
 .sports-home-nav {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
   gap: 1rem;
   margin: 1.2rem 0 4.8rem; }
 

@@ -30,6 +30,7 @@ const server = http.createServer((request, response) => {
     await page.route("**/*", (route) => route.request().url().startsWith(base) ? route.continue() : route.abort());
     await page.goto(base + "/sports/");
 
+    assert.equal(await page.locator('.sports-home-nav a[href$="/sports/standings/"]').count(), 1);
     await page.locator("[data-player-search-section]").waitFor({ state: "visible" });
     assert.match(await page.locator("[data-player-search-count]").textContent(), /2,\d{3} players/);
     await page.locator("[data-player-search]").fill("Lamar Jackson");

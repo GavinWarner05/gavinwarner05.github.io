@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15T13:27:05+00:00",
+  "generated_at": "2026-09-21T22:14:57+00:00",
   "season": 2026,
   "team": {
     "id": "nyg",
@@ -46,27 +46,63 @@
       "injuries": [
         {
           "team": "Dallas Cowboys",
-          "player": "Malik Davis",
-          "status": "Out",
-          "detail": "Hip"
+          "player": "Dee Winters",
+          "status": "Questionable",
+          "detail": "Shoulder"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Cobie Durant",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "P.J. Locke",
+          "status": "Questionable",
+          "detail": "Foot"
         },
         {
           "team": "Dallas Cowboys",
           "player": "Ajani Cornelius",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Dallas Cowboys",
-          "player": "Luke Schoonmaker",
+          "player": "Caelen Carson",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Dallas Cowboys",
-          "player": "Jonathan Bullard",
+          "player": "Camden Brown",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Tyler Goodson",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "James Houston",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Malik Hooker",
+          "status": "Out",
+          "detail": "Forearm"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "DeMarvion Overshown",
+          "status": "Out",
+          "detail": "Hamstring"
         },
         {
           "team": "Dallas Cowboys",
@@ -77,6 +113,12 @@
         {
           "team": "Dallas Cowboys",
           "player": "Tyler Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Malik Davis",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -112,39 +154,15 @@
         },
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -155,6 +173,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -222,39 +246,15 @@
       "injuries": [
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -265,6 +265,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -300,87 +306,27 @@
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Aaron Donald",
-          "status": "Out",
-          "detail": "Coach's Decision"
+          "player": "Jordan Whittington",
+          "status": "Doubtful",
+          "detail": "Quadriceps"
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Max Klare",
-          "status": "Out",
-          "detail": "Coach's Decision"
-        },
-        {
-          "team": "Los Angeles Rams",
-          "player": "Ty Simpson",
-          "status": "Out",
-          "detail": "Coach's Decision"
-        },
-        {
-          "team": "Los Angeles Rams",
-          "player": "Davis Allen",
+          "player": "Puka Nacua",
           "status": "Questionable",
-          "detail": "Head"
+          "detail": "Hip"
         },
         {
           "team": "Los Angeles Rams",
-          "player": "Bill Murray",
+          "player": "Kamren Kinchens",
           "status": "Out",
-          "detail": "Coach's Decision"
-        },
-        {
-          "team": "Los Angeles Rams",
-          "player": "Kam Curl",
-          "status": "Questionable",
-          "detail": "Ankle"
-        },
-        {
-          "team": "Los Angeles Rams",
-          "player": "Tutu Atwell",
-          "status": "Out",
-          "detail": "Coach's Decision"
-        },
-        {
-          "team": "Los Angeles Rams",
-          "player": "CJ Daniels",
-          "status": "Out",
-          "detail": "Coach's Decision"
-        },
-        {
-          "team": "Los Angeles Rams",
-          "player": "Byron Young",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Los Angeles Rams",
-          "player": "Jaylen Watson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Los Angeles Rams",
-          "player": "Grant Stuard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Los Angeles Rams",
-          "player": "Alaric Jackson",
-          "status": "Out",
-          "detail": "Injury"
+          "detail": "Hamstring"
         },
         {
           "team": "Los Angeles Rams",
           "player": "Myles Garrett",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Los Angeles Rams",
-          "player": "Tyler Higbee",
-          "status": "Out",
-          "detail": "Injury"
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "Los Angeles Rams",
@@ -458,15 +404,39 @@
       "injuries": [
         {
           "team": "Tennessee Titans",
-          "player": "Cedric Gray",
-          "status": "Out",
-          "detail": "Concussion"
+          "player": "Fernando Carmona",
+          "status": "Questionable",
+          "detail": "Shoulder"
         },
         {
           "team": "Tennessee Titans",
-          "player": "Keldric Faulk",
+          "player": "Kylen Granson",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Jackie Marshall",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Atonio Mafi",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "Cordale Flott",
+          "status": "Out",
+          "detail": "Quadriceps"
+        },
+        {
+          "team": "Tennessee Titans",
+          "player": "James Williams",
+          "status": "Out",
+          "detail": "Elbow"
         },
         {
           "team": "Tennessee Titans",
@@ -518,39 +488,15 @@
         },
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -561,6 +507,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -628,19 +580,37 @@
       "injuries": [
         {
           "team": "Arizona Cardinals",
-          "player": "Jeremiyah Love",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Max Melton",
+          "status": "Questionable",
+          "detail": "Toe"
         },
         {
           "team": "Arizona Cardinals",
-          "player": "Dadrion Taylor-Demerson",
-          "status": "Out",
-          "detail": "Ribs"
+          "player": "Will Johnson",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "Arizona Cardinals",
-          "player": "Isaiah Adams",
+          "player": "Mack Wilson",
+          "status": "Questionable",
+          "detail": "Thumb"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Reggie Virgil",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Carson Beck",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Arizona Cardinals",
+          "player": "Andrew Billings",
           "status": "Out",
           "detail": "Knee"
         },
@@ -649,24 +619,6 @@
           "player": "Garrett Williams",
           "status": "Out",
           "detail": "Achilles"
-        },
-        {
-          "team": "Arizona Cardinals",
-          "player": "Will Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Arizona Cardinals",
-          "player": "Blake Gillikin",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Arizona Cardinals",
-          "player": "Josh Sweat",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "Arizona Cardinals",
@@ -700,6 +652,12 @@
         },
         {
           "team": "Arizona Cardinals",
+          "player": "Kitan Crawford",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Arizona Cardinals",
           "player": "Jameson Geers",
           "status": "IR/PUP",
           "detail": "Reserve list"
@@ -718,39 +676,15 @@
         },
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -761,6 +695,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -828,39 +768,15 @@
       "injuries": [
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -871,6 +787,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -906,75 +828,63 @@
         },
         {
           "team": "Washington Commanders",
-          "player": "K'Lavon Chaisson",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Sam Cosmi",
+          "status": "Questionable",
+          "detail": "Concussion"
         },
         {
           "team": "Washington Commanders",
-          "player": "Daron Payne",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Brandon Coleman",
+          "status": "Questionable",
+          "detail": "Finger"
         },
         {
           "team": "Washington Commanders",
-          "player": "Javon Kinlaw",
+          "player": "Jayden Daniels",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Elbow"
         },
         {
           "team": "Washington Commanders",
-          "player": "Jacory Croskey-Merritt",
+          "player": "Isaac Yiadom",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Washington Commanders",
-          "player": "Ben Sinnott",
+          "player": "Luke McCaffrey",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Washington Commanders",
-          "player": "Jordan Magee",
+          "player": "Athan Kaliakmanis",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Washington Commanders",
-          "player": "Odafe Oweh",
+          "player": "Ricky Barber",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Washington Commanders",
-          "player": "Charles Omenihu",
+          "player": "Chig Okonkwo",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Hamstring"
         },
         {
           "team": "Washington Commanders",
-          "player": "Nick Allegretti",
+          "player": "Frankie Luvu",
           "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Washington Commanders",
-          "player": "Marcus Mariota",
-          "status": "Out",
-          "detail": "Injury"
+          "detail": "Groin"
         },
         {
           "team": "Washington Commanders",
           "player": "Deatrich Wise",
           "status": "IR/PUP",
           "detail": "Undisclosed"
-        },
-        {
-          "team": "Washington Commanders",
-          "player": "Dorance Armstrong",
-          "status": "Out",
-          "detail": "Suspension"
         },
         {
           "team": "Washington Commanders",
@@ -990,7 +900,7 @@
         },
         {
           "team": "Washington Commanders",
-          "player": "Drake Jackson",
+          "player": "Jordan Magee",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -1052,39 +962,51 @@
       "injuries": [
         {
           "team": "New Orleans Saints",
-          "player": "Oscar Delp",
-          "status": "Out",
-          "detail": "Hamstring"
-        },
-        {
-          "team": "New Orleans Saints",
-          "player": "Audric Estimé",
-          "status": "Out",
-          "detail": "Thigh"
-        },
-        {
-          "team": "New Orleans Saints",
-          "player": "Alvin Kamara",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New Orleans Saints",
-          "player": "Cameron Jordan",
-          "status": "Out",
-          "detail": "Hamstring"
-        },
-        {
-          "team": "New Orleans Saints",
-          "player": "Audric Estime",
+          "player": "Martin Emerson",
           "status": "Questionable",
-          "detail": "Thigh"
+          "detail": "Shoulder"
         },
         {
           "team": "New Orleans Saints",
-          "player": "Davon Godchaux",
+          "player": "Kelvin Banks Jr.",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Ankle"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "John Ridgeway",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Kendre Miller",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Decamerion Richardson",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Zach Wilson",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Christen Miller",
+          "status": "Out",
+          "detail": "Toe"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Isaiah Stalbird",
+          "status": "Out",
+          "detail": "Shoulder"
         },
         {
           "team": "New Orleans Saints",
@@ -1097,6 +1019,12 @@
           "player": "Mason Tipton",
           "status": "IR/PUP",
           "detail": "Groin"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Zach Wood",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "New Orleans Saints",
@@ -1125,6 +1053,12 @@
         {
           "team": "New Orleans Saints",
           "player": "Bryan Bresee",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New Orleans Saints",
+          "player": "Audric Estimé",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -1160,51 +1094,21 @@
         },
         {
           "team": "New Orleans Saints",
-          "player": "Michael Heldman",
-          "status": "IR/PUP",
-          "detail": "Reserve list"
-        },
-        {
-          "team": "New Orleans Saints",
           "player": "Brock Rechsteiner",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -1215,6 +1119,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -1282,39 +1192,15 @@
       "injuries": [
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -1325,6 +1211,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -1360,27 +1252,45 @@
         },
         {
           "team": "Houston Texans",
-          "player": "Kayden McDonald",
+          "player": "Collin Wright",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Houston Texans",
-          "player": "Will Anderson Jr.",
+          "player": "Nate Thomas",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Houston Texans",
-          "player": "Wade Woodaz",
+          "player": "Brevin Jordan",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Houston Texans",
-          "player": "Trent Brown",
+          "player": "Ed Ingram",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Groin"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Jadeveon Clowney",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Nico Collins",
+          "status": "Out",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Jake Hummel",
+          "status": "Out",
+          "detail": "Groin"
         },
         {
           "team": "Houston Texans",
@@ -1403,6 +1313,12 @@
         {
           "team": "Houston Texans",
           "player": "Ja'Marcus Ingram",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Henry To'oTo'o",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -1453,6 +1369,12 @@
           "player": "Sam Hagen",
           "status": "IR/PUP",
           "detail": "Reserve list"
+        },
+        {
+          "team": "Houston Texans",
+          "player": "Kayden McDonald",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         }
       ]
     },
@@ -1488,39 +1410,15 @@
       "injuries": [
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -1531,6 +1429,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -1566,9 +1470,45 @@
         },
         {
           "team": "Philadelphia Eagles",
-          "player": "Eli Stowers",
+          "player": "Dallas Goedert",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Saquon Barkley",
+          "status": "Questionable",
+          "detail": "Arm"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Tanner McKee",
           "status": "Out",
-          "detail": "Hamstring"
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Cole Payton",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Elijah Moore",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Micah Morris",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Tucker Large",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
         },
         {
           "team": "Philadelphia Eagles",
@@ -1578,9 +1518,9 @@
         },
         {
           "team": "Philadelphia Eagles",
-          "player": "Tucker Large",
+          "player": "Landon Dickerson",
           "status": "IR/PUP",
-          "detail": "Undisclosed"
+          "detail": "Reserve list"
         },
         {
           "team": "Philadelphia Eagles",
@@ -1603,6 +1543,12 @@
         {
           "team": "Philadelphia Eagles",
           "player": "Andre' Sam",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Eli Stowers",
           "status": "IR/PUP",
           "detail": "Reserve list"
         }
@@ -1640,75 +1586,63 @@
       "injuries": [
         {
           "team": "Washington Commanders",
-          "player": "K'Lavon Chaisson",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Sam Cosmi",
+          "status": "Questionable",
+          "detail": "Concussion"
         },
         {
           "team": "Washington Commanders",
-          "player": "Daron Payne",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Brandon Coleman",
+          "status": "Questionable",
+          "detail": "Finger"
         },
         {
           "team": "Washington Commanders",
-          "player": "Javon Kinlaw",
+          "player": "Jayden Daniels",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Elbow"
         },
         {
           "team": "Washington Commanders",
-          "player": "Jacory Croskey-Merritt",
+          "player": "Isaac Yiadom",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Washington Commanders",
-          "player": "Ben Sinnott",
+          "player": "Luke McCaffrey",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Washington Commanders",
-          "player": "Jordan Magee",
+          "player": "Athan Kaliakmanis",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Washington Commanders",
-          "player": "Odafe Oweh",
+          "player": "Ricky Barber",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Washington Commanders",
-          "player": "Charles Omenihu",
+          "player": "Chig Okonkwo",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Hamstring"
         },
         {
           "team": "Washington Commanders",
-          "player": "Nick Allegretti",
+          "player": "Frankie Luvu",
           "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Washington Commanders",
-          "player": "Marcus Mariota",
-          "status": "Out",
-          "detail": "Injury"
+          "detail": "Groin"
         },
         {
           "team": "Washington Commanders",
           "player": "Deatrich Wise",
           "status": "IR/PUP",
           "detail": "Undisclosed"
-        },
-        {
-          "team": "Washington Commanders",
-          "player": "Dorance Armstrong",
-          "status": "Out",
-          "detail": "Suspension"
         },
         {
           "team": "Washington Commanders",
@@ -1724,7 +1658,7 @@
         },
         {
           "team": "Washington Commanders",
-          "player": "Drake Jackson",
+          "player": "Jordan Magee",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -1754,39 +1688,15 @@
         },
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -1797,6 +1707,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -1864,27 +1780,51 @@
       "injuries": [
         {
           "team": "Jacksonville Jaguars",
-          "player": "LeQuint Allen Jr.",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "DaVon Hamilton",
+          "status": "Questionable",
+          "detail": "Back"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Anton Harrison",
+          "player": "Daniel Faalele",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Cole Van Lanen",
+          "player": "Quinn Ewers",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Jacksonville Jaguars",
-          "player": "Jakobi Meyers",
+          "player": "Tanner Koziol",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Jack Kiser",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Jalen Huskey",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "Wesley Williams",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "C.J. Williams",
+          "status": "Out",
+          "detail": "Coach's Decision"
         },
         {
           "team": "Jacksonville Jaguars",
@@ -1901,6 +1841,12 @@
         {
           "team": "Jacksonville Jaguars",
           "player": "Carter Bradley",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Jacksonville Jaguars",
+          "player": "BJ Green II",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -1930,39 +1876,15 @@
         },
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -1973,6 +1895,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -2040,39 +1968,15 @@
       "injuries": [
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -2083,6 +1987,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -2118,63 +2028,57 @@
         },
         {
           "team": "Indianapolis Colts",
+          "player": "Charvarius Ward",
+          "status": "Questionable",
+          "detail": "Groin"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Micheal Clemons",
+          "status": "Questionable",
+          "detail": "Toe"
+        },
+        {
+          "team": "Indianapolis Colts",
           "player": "Austin Ajiake",
           "status": "Out",
-          "detail": "Hamstring"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Indianapolis Colts",
-          "player": "Charvarius Ward",
+          "player": "Dalton Tucker",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Indianapolis Colts",
-          "player": "DeForest Buckner",
+          "player": "Riley Leonard",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "George Gumbs Jr.",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "DJ Giddens",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "Indianapolis Colts",
+          "player": "Ashton Dulin",
+          "status": "Out",
+          "detail": "Ankle"
         },
         {
           "team": "Indianapolis Colts",
           "player": "Alec Pierce",
           "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Indianapolis Colts",
-          "player": "Anthony Richardson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Indianapolis Colts",
-          "player": "Grover Stewart",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Indianapolis Colts",
-          "player": "A.J. Haulcy",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Indianapolis Colts",
-          "player": "Sedrick Van Pran-Granger",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Indianapolis Colts",
-          "player": "Andrew Ogletree",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Indianapolis Colts",
-          "player": "Cam Taylor-Britt",
-          "status": "Out",
-          "detail": "Suspension"
+          "detail": "Heel"
         },
         {
           "team": "Indianapolis Colts",
@@ -2240,6 +2144,36 @@
       "injuries": [
         {
           "team": "San Francisco 49ers",
+          "player": "Mike Evans",
+          "status": "Questionable",
+          "detail": "Hip"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Jack Jones",
+          "status": "Questionable",
+          "detail": "Foot"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "James Thompson Jr.",
+          "status": "Questionable",
+          "detail": "Ankle"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Romello Height",
+          "status": "Questionable",
+          "detail": "Hand"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "Demarcus Robinson",
+          "status": "Out",
+          "detail": "Ankle"
+        },
+        {
+          "team": "San Francisco 49ers",
           "player": "Tatum Bethune",
           "status": "Out",
           "detail": "Coach's Decision"
@@ -2247,12 +2181,6 @@
         {
           "team": "San Francisco 49ers",
           "player": "Enrique Cruz",
-          "status": "Out",
-          "detail": "Coach's Decision"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Jordan James",
           "status": "Out",
           "detail": "Coach's Decision"
         },
@@ -2273,84 +2201,6 @@
           "player": "Ephesians Prysock",
           "status": "Out",
           "detail": "Coach's Decision"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "De'Zhaun Stribling",
-          "status": "Out",
-          "detail": "Ankle"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Jake Tonges",
-          "status": "Questionable",
-          "detail": "Knee"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "James Thompson Jr.",
-          "status": "Questionable",
-          "detail": "Hamstring"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Alfred Collins",
-          "status": "Out",
-          "detail": "Knee"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Gracen Halton",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Romello Height",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Upton Stout",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Renardo Green",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Nick Bosa",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Luke Gifford",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Dre Greenlaw",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "George Kittle",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "San Francisco 49ers",
-          "player": "Kyle Juszczyk",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "San Francisco 49ers",
@@ -2408,6 +2258,12 @@
         },
         {
           "team": "San Francisco 49ers",
+          "player": "Jake Tonges",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
           "player": "Sam Okuayinonu",
           "status": "IR/PUP",
           "detail": "Reserve list"
@@ -2438,45 +2294,33 @@
         },
         {
           "team": "San Francisco 49ers",
+          "player": "Alfred Collins",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
+          "player": "De'Zhaun Stribling",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "San Francisco 49ers",
           "player": "Mikail Kamara",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -2487,6 +2331,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -2554,39 +2404,15 @@
       "injuries": [
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -2597,6 +2423,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -2632,15 +2464,39 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Jalen Milroe",
+          "player": "Jadarian Price",
+          "status": "Questionable",
+          "detail": "Chest"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Brandon Pili",
+          "status": "Questionable",
+          "detail": "Head"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Connor O'Toole",
           "status": "Out",
           "detail": "Coach's Decision"
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Tory Horton",
+          "player": "Montorie Foster Jr",
           "status": "Out",
-          "detail": "Hamstring"
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Anthony Bradford",
+          "status": "Out",
+          "detail": "Knee"
+        },
+        {
+          "team": "Seattle Seahawks",
+          "player": "Sam Darnold",
+          "status": "Out",
+          "detail": "Lower Body"
         },
         {
           "team": "Seattle Seahawks",
@@ -2650,63 +2506,9 @@
         },
         {
           "team": "Seattle Seahawks",
-          "player": "Nick Kallerup",
-          "status": "Out",
-          "detail": "Coach's Decision"
-        },
-        {
-          "team": "Seattle Seahawks",
           "player": "Mike Morris",
           "status": "Out",
           "detail": "Coach's Decision"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Sam Darnold",
-          "status": "Out",
-          "detail": "Hip"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Beau Stephens",
-          "status": "Out",
-          "detail": "Coach's Decision"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Nick Emmanwori",
-          "status": "Out",
-          "detail": "Ankle"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Julian Neal",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "AJ Barner",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Anthony Bradford",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Emanuel Wilson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Seattle Seahawks",
-          "player": "Josh Jones",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "Seattle Seahawks",
@@ -2790,27 +2592,45 @@
       "injuries": [
         {
           "team": "Cleveland Browns",
+          "player": "Taylen Green",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Daniel Thomas",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Justin Jefferson",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Cleveland Browns",
           "player": "Parker Brailsford",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Toriano Pride Jr.",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Cleveland Browns",
+          "player": "Tyson Campbell",
+          "status": "Questionable",
+          "detail": "Ankle"
         },
         {
           "team": "Cleveland Browns",
           "player": "Teven Jenkins",
           "status": "Out",
           "detail": "Back"
-        },
-        {
-          "team": "Cleveland Browns",
-          "player": "Maliek Collins",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Cleveland Browns",
-          "player": "Carson Schwesinger",
-          "status": "Out",
-          "detail": "Injury"
         },
         {
           "team": "Cleveland Browns",
@@ -2862,45 +2682,27 @@
         },
         {
           "team": "Cleveland Browns",
+          "player": "Dylan Sampson",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Cleveland Browns",
           "player": "Dillon Gabriel",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -2911,6 +2713,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -2978,39 +2786,15 @@
       "injuries": [
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -3021,6 +2805,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -3056,51 +2846,51 @@
         },
         {
           "team": "Detroit Lions",
-          "player": "Christian Izien",
+          "player": "Avonte Maddox",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Foot"
         },
         {
           "team": "Detroit Lions",
           "player": "Keith Abney II",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Detroit Lions",
           "player": "Jimmy Rolder",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Detroit Lions",
-          "player": "Derrick Moore",
+          "player": "Ahmed Hassanein",
           "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Detroit Lions",
-          "player": "Ennis Rakestraw Jr.",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "Detroit Lions",
-          "player": "Thomas Harper",
-          "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Detroit Lions",
           "player": "Mekhi Wingo",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Detroit Lions",
-          "player": "Trevor Nowaske",
+          "player": "Ennis Rakestraw Jr.",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Christian Mahogany",
+          "status": "Out",
+          "detail": "Hip"
+        },
+        {
+          "team": "Detroit Lions",
+          "player": "Blake Miller",
+          "status": "Out",
+          "detail": "Knee"
         },
         {
           "team": "Detroit Lions",
@@ -3184,39 +2974,15 @@
       "injuries": [
         {
           "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -3227,6 +2993,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -3262,27 +3034,63 @@
         },
         {
           "team": "Dallas Cowboys",
-          "player": "Malik Davis",
-          "status": "Out",
-          "detail": "Hip"
+          "player": "Dee Winters",
+          "status": "Questionable",
+          "detail": "Shoulder"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Cobie Durant",
+          "status": "Questionable",
+          "detail": "Hamstring"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "P.J. Locke",
+          "status": "Questionable",
+          "detail": "Foot"
         },
         {
           "team": "Dallas Cowboys",
           "player": "Ajani Cornelius",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Dallas Cowboys",
-          "player": "Luke Schoonmaker",
+          "player": "Caelen Carson",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
         },
         {
           "team": "Dallas Cowboys",
-          "player": "Jonathan Bullard",
+          "player": "Camden Brown",
           "status": "Out",
-          "detail": "Injury"
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Tyler Goodson",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "James Houston",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Malik Hooker",
+          "status": "Out",
+          "detail": "Forearm"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "DeMarvion Overshown",
+          "status": "Out",
+          "detail": "Hamstring"
         },
         {
           "team": "Dallas Cowboys",
@@ -3293,6 +3101,12 @@
         {
           "team": "Dallas Cowboys",
           "player": "Tyler Smith",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "Dallas Cowboys",
+          "player": "Malik Davis",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -3360,9 +3174,45 @@
       "injuries": [
         {
           "team": "Philadelphia Eagles",
-          "player": "Eli Stowers",
+          "player": "Dallas Goedert",
+          "status": "Questionable",
+          "detail": "Knee"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Saquon Barkley",
+          "status": "Questionable",
+          "detail": "Arm"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Tanner McKee",
           "status": "Out",
-          "detail": "Hamstring"
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Cole Payton",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Elijah Moore",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Micah Morris",
+          "status": "Out",
+          "detail": "Coach's Decision"
+        },
+        {
+          "team": "Philadelphia Eagles",
+          "player": "Tucker Large",
+          "status": "IR/PUP",
+          "detail": "Undisclosed"
         },
         {
           "team": "Philadelphia Eagles",
@@ -3372,9 +3222,9 @@
         },
         {
           "team": "Philadelphia Eagles",
-          "player": "Tucker Large",
+          "player": "Landon Dickerson",
           "status": "IR/PUP",
-          "detail": "Undisclosed"
+          "detail": "Reserve list"
         },
         {
           "team": "Philadelphia Eagles",
@@ -3401,40 +3251,22 @@
           "detail": "Reserve list"
         },
         {
-          "team": "New York Giants",
-          "player": "Malik Nabers",
-          "status": "Out",
-          "detail": "Injury"
+          "team": "Philadelphia Eagles",
+          "player": "Eli Stowers",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
         },
         {
           "team": "New York Giants",
-          "player": "Patrick Ricard",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Micah McFadden",
+          "status": "Questionable",
+          "detail": "Neck"
         },
         {
           "team": "New York Giants",
-          "player": "Theo Johnson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Bryan Hudson",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Andrew Thomas",
-          "status": "Out",
-          "detail": "Injury"
-        },
-        {
-          "team": "New York Giants",
-          "player": "Shelby Harris",
-          "status": "Out",
-          "detail": "Injury"
+          "player": "Deonte Banks",
+          "status": "Questionable",
+          "detail": "Calf"
         },
         {
           "team": "New York Giants",
@@ -3445,6 +3277,12 @@
         {
           "team": "New York Giants",
           "player": "Gunner Olszewski",
+          "status": "IR/PUP",
+          "detail": "Reserve list"
+        },
+        {
+          "team": "New York Giants",
+          "player": "Paulson Adebo",
           "status": "IR/PUP",
           "detail": "Reserve list"
         },
@@ -3518,27 +3356,63 @@
           "injuries": [
             {
               "team": "Dallas Cowboys",
-              "player": "Malik Davis",
-              "status": "Out",
-              "detail": "Hip"
+              "player": "Dee Winters",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Cobie Durant",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "P.J. Locke",
+              "status": "Questionable",
+              "detail": "Foot"
             },
             {
               "team": "Dallas Cowboys",
               "player": "Ajani Cornelius",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Dallas Cowboys",
-              "player": "Luke Schoonmaker",
+              "player": "Caelen Carson",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Dallas Cowboys",
-              "player": "Jonathan Bullard",
+              "player": "Camden Brown",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Tyler Goodson",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "James Houston",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Malik Hooker",
+              "status": "Out",
+              "detail": "Forearm"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "DeMarvion Overshown",
+              "status": "Out",
+              "detail": "Hamstring"
             },
             {
               "team": "Dallas Cowboys",
@@ -3549,6 +3423,12 @@
             {
               "team": "Dallas Cowboys",
               "player": "Tyler Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Malik Davis",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -3584,39 +3464,15 @@
             },
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -3627,6 +3483,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -3694,39 +3556,15 @@
           "injuries": [
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -3737,6 +3575,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -3772,87 +3616,27 @@
             },
             {
               "team": "Los Angeles Rams",
-              "player": "Aaron Donald",
-              "status": "Out",
-              "detail": "Coach's Decision"
+              "player": "Jordan Whittington",
+              "status": "Doubtful",
+              "detail": "Quadriceps"
             },
             {
               "team": "Los Angeles Rams",
-              "player": "Max Klare",
-              "status": "Out",
-              "detail": "Coach's Decision"
-            },
-            {
-              "team": "Los Angeles Rams",
-              "player": "Ty Simpson",
-              "status": "Out",
-              "detail": "Coach's Decision"
-            },
-            {
-              "team": "Los Angeles Rams",
-              "player": "Davis Allen",
+              "player": "Puka Nacua",
               "status": "Questionable",
-              "detail": "Head"
+              "detail": "Hip"
             },
             {
               "team": "Los Angeles Rams",
-              "player": "Bill Murray",
+              "player": "Kamren Kinchens",
               "status": "Out",
-              "detail": "Coach's Decision"
-            },
-            {
-              "team": "Los Angeles Rams",
-              "player": "Kam Curl",
-              "status": "Questionable",
-              "detail": "Ankle"
-            },
-            {
-              "team": "Los Angeles Rams",
-              "player": "Tutu Atwell",
-              "status": "Out",
-              "detail": "Coach's Decision"
-            },
-            {
-              "team": "Los Angeles Rams",
-              "player": "CJ Daniels",
-              "status": "Out",
-              "detail": "Coach's Decision"
-            },
-            {
-              "team": "Los Angeles Rams",
-              "player": "Byron Young",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Los Angeles Rams",
-              "player": "Jaylen Watson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Los Angeles Rams",
-              "player": "Grant Stuard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Los Angeles Rams",
-              "player": "Alaric Jackson",
-              "status": "Out",
-              "detail": "Injury"
+              "detail": "Hamstring"
             },
             {
               "team": "Los Angeles Rams",
               "player": "Myles Garrett",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Los Angeles Rams",
-              "player": "Tyler Higbee",
-              "status": "Out",
-              "detail": "Injury"
+              "status": "IR/PUP",
+              "detail": "Reserve list"
             },
             {
               "team": "Los Angeles Rams",
@@ -3930,15 +3714,39 @@
           "injuries": [
             {
               "team": "Tennessee Titans",
-              "player": "Cedric Gray",
-              "status": "Out",
-              "detail": "Concussion"
+              "player": "Fernando Carmona",
+              "status": "Questionable",
+              "detail": "Shoulder"
             },
             {
               "team": "Tennessee Titans",
-              "player": "Keldric Faulk",
+              "player": "Kylen Granson",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Jackie Marshall",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Atonio Mafi",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "Cordale Flott",
+              "status": "Out",
+              "detail": "Quadriceps"
+            },
+            {
+              "team": "Tennessee Titans",
+              "player": "James Williams",
+              "status": "Out",
+              "detail": "Elbow"
             },
             {
               "team": "Tennessee Titans",
@@ -3990,39 +3798,15 @@
             },
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -4033,6 +3817,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -4100,19 +3890,37 @@
           "injuries": [
             {
               "team": "Arizona Cardinals",
-              "player": "Jeremiyah Love",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Max Melton",
+              "status": "Questionable",
+              "detail": "Toe"
             },
             {
               "team": "Arizona Cardinals",
-              "player": "Dadrion Taylor-Demerson",
-              "status": "Out",
-              "detail": "Ribs"
+              "player": "Will Johnson",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "Arizona Cardinals",
-              "player": "Isaiah Adams",
+              "player": "Mack Wilson",
+              "status": "Questionable",
+              "detail": "Thumb"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Reggie Virgil",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Carson Beck",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Arizona Cardinals",
+              "player": "Andrew Billings",
               "status": "Out",
               "detail": "Knee"
             },
@@ -4121,24 +3929,6 @@
               "player": "Garrett Williams",
               "status": "Out",
               "detail": "Achilles"
-            },
-            {
-              "team": "Arizona Cardinals",
-              "player": "Will Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Arizona Cardinals",
-              "player": "Blake Gillikin",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Arizona Cardinals",
-              "player": "Josh Sweat",
-              "status": "Out",
-              "detail": "Injury"
             },
             {
               "team": "Arizona Cardinals",
@@ -4172,6 +3962,12 @@
             },
             {
               "team": "Arizona Cardinals",
+              "player": "Kitan Crawford",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Arizona Cardinals",
               "player": "Jameson Geers",
               "status": "IR/PUP",
               "detail": "Reserve list"
@@ -4190,39 +3986,15 @@
             },
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -4233,6 +4005,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -4300,39 +4078,15 @@
           "injuries": [
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -4343,6 +4097,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -4378,75 +4138,63 @@
             },
             {
               "team": "Washington Commanders",
-              "player": "K'Lavon Chaisson",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Sam Cosmi",
+              "status": "Questionable",
+              "detail": "Concussion"
             },
             {
               "team": "Washington Commanders",
-              "player": "Daron Payne",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Brandon Coleman",
+              "status": "Questionable",
+              "detail": "Finger"
             },
             {
               "team": "Washington Commanders",
-              "player": "Javon Kinlaw",
+              "player": "Jayden Daniels",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Elbow"
             },
             {
               "team": "Washington Commanders",
-              "player": "Jacory Croskey-Merritt",
+              "player": "Isaac Yiadom",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Washington Commanders",
-              "player": "Ben Sinnott",
+              "player": "Luke McCaffrey",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Washington Commanders",
-              "player": "Jordan Magee",
+              "player": "Athan Kaliakmanis",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Washington Commanders",
-              "player": "Odafe Oweh",
+              "player": "Ricky Barber",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Washington Commanders",
-              "player": "Charles Omenihu",
+              "player": "Chig Okonkwo",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Hamstring"
             },
             {
               "team": "Washington Commanders",
-              "player": "Nick Allegretti",
+              "player": "Frankie Luvu",
               "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Washington Commanders",
-              "player": "Marcus Mariota",
-              "status": "Out",
-              "detail": "Injury"
+              "detail": "Groin"
             },
             {
               "team": "Washington Commanders",
               "player": "Deatrich Wise",
               "status": "IR/PUP",
               "detail": "Undisclosed"
-            },
-            {
-              "team": "Washington Commanders",
-              "player": "Dorance Armstrong",
-              "status": "Out",
-              "detail": "Suspension"
             },
             {
               "team": "Washington Commanders",
@@ -4462,7 +4210,7 @@
             },
             {
               "team": "Washington Commanders",
-              "player": "Drake Jackson",
+              "player": "Jordan Magee",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -4524,39 +4272,51 @@
           "injuries": [
             {
               "team": "New Orleans Saints",
-              "player": "Oscar Delp",
-              "status": "Out",
-              "detail": "Hamstring"
-            },
-            {
-              "team": "New Orleans Saints",
-              "player": "Audric Estimé",
-              "status": "Out",
-              "detail": "Thigh"
-            },
-            {
-              "team": "New Orleans Saints",
-              "player": "Alvin Kamara",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New Orleans Saints",
-              "player": "Cameron Jordan",
-              "status": "Out",
-              "detail": "Hamstring"
-            },
-            {
-              "team": "New Orleans Saints",
-              "player": "Audric Estime",
+              "player": "Martin Emerson",
               "status": "Questionable",
-              "detail": "Thigh"
+              "detail": "Shoulder"
             },
             {
               "team": "New Orleans Saints",
-              "player": "Davon Godchaux",
+              "player": "Kelvin Banks Jr.",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Ankle"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "John Ridgeway",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Kendre Miller",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Decamerion Richardson",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Zach Wilson",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Christen Miller",
+              "status": "Out",
+              "detail": "Toe"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Isaiah Stalbird",
+              "status": "Out",
+              "detail": "Shoulder"
             },
             {
               "team": "New Orleans Saints",
@@ -4569,6 +4329,12 @@
               "player": "Mason Tipton",
               "status": "IR/PUP",
               "detail": "Groin"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Zach Wood",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
             },
             {
               "team": "New Orleans Saints",
@@ -4597,6 +4363,12 @@
             {
               "team": "New Orleans Saints",
               "player": "Bryan Bresee",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New Orleans Saints",
+              "player": "Audric Estimé",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -4632,51 +4404,21 @@
             },
             {
               "team": "New Orleans Saints",
-              "player": "Michael Heldman",
-              "status": "IR/PUP",
-              "detail": "Reserve list"
-            },
-            {
-              "team": "New Orleans Saints",
               "player": "Brock Rechsteiner",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -4687,6 +4429,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -4754,39 +4502,15 @@
           "injuries": [
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -4797,6 +4521,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -4832,27 +4562,45 @@
             },
             {
               "team": "Houston Texans",
-              "player": "Kayden McDonald",
+              "player": "Collin Wright",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Houston Texans",
-              "player": "Will Anderson Jr.",
+              "player": "Nate Thomas",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Houston Texans",
-              "player": "Wade Woodaz",
+              "player": "Brevin Jordan",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Houston Texans",
-              "player": "Trent Brown",
+              "player": "Ed Ingram",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Groin"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jadeveon Clowney",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Nico Collins",
+              "status": "Out",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Jake Hummel",
+              "status": "Out",
+              "detail": "Groin"
             },
             {
               "team": "Houston Texans",
@@ -4875,6 +4623,12 @@
             {
               "team": "Houston Texans",
               "player": "Ja'Marcus Ingram",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Henry To'oTo'o",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -4925,6 +4679,12 @@
               "player": "Sam Hagen",
               "status": "IR/PUP",
               "detail": "Reserve list"
+            },
+            {
+              "team": "Houston Texans",
+              "player": "Kayden McDonald",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
             }
           ]
         },
@@ -4960,39 +4720,15 @@
           "injuries": [
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -5003,6 +4739,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -5038,9 +4780,45 @@
             },
             {
               "team": "Philadelphia Eagles",
-              "player": "Eli Stowers",
+              "player": "Dallas Goedert",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Saquon Barkley",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tanner McKee",
               "status": "Out",
-              "detail": "Hamstring"
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cole Payton",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Elijah Moore",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
             },
             {
               "team": "Philadelphia Eagles",
@@ -5050,9 +4828,9 @@
             },
             {
               "team": "Philadelphia Eagles",
-              "player": "Tucker Large",
+              "player": "Landon Dickerson",
               "status": "IR/PUP",
-              "detail": "Undisclosed"
+              "detail": "Reserve list"
             },
             {
               "team": "Philadelphia Eagles",
@@ -5075,6 +4853,12 @@
             {
               "team": "Philadelphia Eagles",
               "player": "Andre' Sam",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
               "status": "IR/PUP",
               "detail": "Reserve list"
             }
@@ -5112,75 +4896,63 @@
           "injuries": [
             {
               "team": "Washington Commanders",
-              "player": "K'Lavon Chaisson",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Sam Cosmi",
+              "status": "Questionable",
+              "detail": "Concussion"
             },
             {
               "team": "Washington Commanders",
-              "player": "Daron Payne",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Brandon Coleman",
+              "status": "Questionable",
+              "detail": "Finger"
             },
             {
               "team": "Washington Commanders",
-              "player": "Javon Kinlaw",
+              "player": "Jayden Daniels",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Elbow"
             },
             {
               "team": "Washington Commanders",
-              "player": "Jacory Croskey-Merritt",
+              "player": "Isaac Yiadom",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Washington Commanders",
-              "player": "Ben Sinnott",
+              "player": "Luke McCaffrey",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Washington Commanders",
-              "player": "Jordan Magee",
+              "player": "Athan Kaliakmanis",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Washington Commanders",
-              "player": "Odafe Oweh",
+              "player": "Ricky Barber",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Washington Commanders",
-              "player": "Charles Omenihu",
+              "player": "Chig Okonkwo",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Hamstring"
             },
             {
               "team": "Washington Commanders",
-              "player": "Nick Allegretti",
+              "player": "Frankie Luvu",
               "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Washington Commanders",
-              "player": "Marcus Mariota",
-              "status": "Out",
-              "detail": "Injury"
+              "detail": "Groin"
             },
             {
               "team": "Washington Commanders",
               "player": "Deatrich Wise",
               "status": "IR/PUP",
               "detail": "Undisclosed"
-            },
-            {
-              "team": "Washington Commanders",
-              "player": "Dorance Armstrong",
-              "status": "Out",
-              "detail": "Suspension"
             },
             {
               "team": "Washington Commanders",
@@ -5196,7 +4968,7 @@
             },
             {
               "team": "Washington Commanders",
-              "player": "Drake Jackson",
+              "player": "Jordan Magee",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -5226,39 +4998,15 @@
             },
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -5269,6 +5017,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -5336,27 +5090,51 @@
           "injuries": [
             {
               "team": "Jacksonville Jaguars",
-              "player": "LeQuint Allen Jr.",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "DaVon Hamilton",
+              "status": "Questionable",
+              "detail": "Back"
             },
             {
               "team": "Jacksonville Jaguars",
-              "player": "Anton Harrison",
+              "player": "Daniel Faalele",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Jacksonville Jaguars",
-              "player": "Cole Van Lanen",
+              "player": "Quinn Ewers",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Jacksonville Jaguars",
-              "player": "Jakobi Meyers",
+              "player": "Tanner Koziol",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jack Kiser",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Jalen Huskey",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "Wesley Williams",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "C.J. Williams",
+              "status": "Out",
+              "detail": "Coach's Decision"
             },
             {
               "team": "Jacksonville Jaguars",
@@ -5373,6 +5151,12 @@
             {
               "team": "Jacksonville Jaguars",
               "player": "Carter Bradley",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Jacksonville Jaguars",
+              "player": "BJ Green II",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -5402,39 +5186,15 @@
             },
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -5445,6 +5205,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -5512,39 +5278,15 @@
           "injuries": [
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -5555,6 +5297,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -5590,63 +5338,57 @@
             },
             {
               "team": "Indianapolis Colts",
+              "player": "Charvarius Ward",
+              "status": "Questionable",
+              "detail": "Groin"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Micheal Clemons",
+              "status": "Questionable",
+              "detail": "Toe"
+            },
+            {
+              "team": "Indianapolis Colts",
               "player": "Austin Ajiake",
               "status": "Out",
-              "detail": "Hamstring"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Indianapolis Colts",
-              "player": "Charvarius Ward",
+              "player": "Dalton Tucker",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Indianapolis Colts",
-              "player": "DeForest Buckner",
+              "player": "Riley Leonard",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "George Gumbs Jr.",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "DJ Giddens",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "Indianapolis Colts",
+              "player": "Ashton Dulin",
+              "status": "Out",
+              "detail": "Ankle"
             },
             {
               "team": "Indianapolis Colts",
               "player": "Alec Pierce",
               "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Indianapolis Colts",
-              "player": "Anthony Richardson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Indianapolis Colts",
-              "player": "Grover Stewart",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Indianapolis Colts",
-              "player": "A.J. Haulcy",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Indianapolis Colts",
-              "player": "Sedrick Van Pran-Granger",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Indianapolis Colts",
-              "player": "Andrew Ogletree",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Indianapolis Colts",
-              "player": "Cam Taylor-Britt",
-              "status": "Out",
-              "detail": "Suspension"
+              "detail": "Heel"
             },
             {
               "team": "Indianapolis Colts",
@@ -5712,6 +5454,36 @@
           "injuries": [
             {
               "team": "San Francisco 49ers",
+              "player": "Mike Evans",
+              "status": "Questionable",
+              "detail": "Hip"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Jack Jones",
+              "status": "Questionable",
+              "detail": "Foot"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "James Thompson Jr.",
+              "status": "Questionable",
+              "detail": "Ankle"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Romello Height",
+              "status": "Questionable",
+              "detail": "Hand"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "Demarcus Robinson",
+              "status": "Out",
+              "detail": "Ankle"
+            },
+            {
+              "team": "San Francisco 49ers",
               "player": "Tatum Bethune",
               "status": "Out",
               "detail": "Coach's Decision"
@@ -5719,12 +5491,6 @@
             {
               "team": "San Francisco 49ers",
               "player": "Enrique Cruz",
-              "status": "Out",
-              "detail": "Coach's Decision"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Jordan James",
               "status": "Out",
               "detail": "Coach's Decision"
             },
@@ -5745,84 +5511,6 @@
               "player": "Ephesians Prysock",
               "status": "Out",
               "detail": "Coach's Decision"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "De'Zhaun Stribling",
-              "status": "Out",
-              "detail": "Ankle"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Jake Tonges",
-              "status": "Questionable",
-              "detail": "Knee"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "James Thompson Jr.",
-              "status": "Questionable",
-              "detail": "Hamstring"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Alfred Collins",
-              "status": "Out",
-              "detail": "Knee"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Gracen Halton",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Romello Height",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Upton Stout",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Renardo Green",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Nick Bosa",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Luke Gifford",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Dre Greenlaw",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "George Kittle",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "San Francisco 49ers",
-              "player": "Kyle Juszczyk",
-              "status": "Out",
-              "detail": "Injury"
             },
             {
               "team": "San Francisco 49ers",
@@ -5880,6 +5568,12 @@
             },
             {
               "team": "San Francisco 49ers",
+              "player": "Jake Tonges",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
               "player": "Sam Okuayinonu",
               "status": "IR/PUP",
               "detail": "Reserve list"
@@ -5910,45 +5604,33 @@
             },
             {
               "team": "San Francisco 49ers",
+              "player": "Alfred Collins",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
+              "player": "De'Zhaun Stribling",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "San Francisco 49ers",
               "player": "Mikail Kamara",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -5959,6 +5641,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -6026,39 +5714,15 @@
           "injuries": [
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -6069,6 +5733,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -6104,15 +5774,39 @@
             },
             {
               "team": "Seattle Seahawks",
-              "player": "Jalen Milroe",
+              "player": "Jadarian Price",
+              "status": "Questionable",
+              "detail": "Chest"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Brandon Pili",
+              "status": "Questionable",
+              "detail": "Head"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Connor O'Toole",
               "status": "Out",
               "detail": "Coach's Decision"
             },
             {
               "team": "Seattle Seahawks",
-              "player": "Tory Horton",
+              "player": "Montorie Foster Jr",
               "status": "Out",
-              "detail": "Hamstring"
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Anthony Bradford",
+              "status": "Out",
+              "detail": "Knee"
+            },
+            {
+              "team": "Seattle Seahawks",
+              "player": "Sam Darnold",
+              "status": "Out",
+              "detail": "Lower Body"
             },
             {
               "team": "Seattle Seahawks",
@@ -6122,63 +5816,9 @@
             },
             {
               "team": "Seattle Seahawks",
-              "player": "Nick Kallerup",
-              "status": "Out",
-              "detail": "Coach's Decision"
-            },
-            {
-              "team": "Seattle Seahawks",
               "player": "Mike Morris",
               "status": "Out",
               "detail": "Coach's Decision"
-            },
-            {
-              "team": "Seattle Seahawks",
-              "player": "Sam Darnold",
-              "status": "Out",
-              "detail": "Hip"
-            },
-            {
-              "team": "Seattle Seahawks",
-              "player": "Beau Stephens",
-              "status": "Out",
-              "detail": "Coach's Decision"
-            },
-            {
-              "team": "Seattle Seahawks",
-              "player": "Nick Emmanwori",
-              "status": "Out",
-              "detail": "Ankle"
-            },
-            {
-              "team": "Seattle Seahawks",
-              "player": "Julian Neal",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Seattle Seahawks",
-              "player": "AJ Barner",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Seattle Seahawks",
-              "player": "Anthony Bradford",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Seattle Seahawks",
-              "player": "Emanuel Wilson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Seattle Seahawks",
-              "player": "Josh Jones",
-              "status": "Out",
-              "detail": "Injury"
             },
             {
               "team": "Seattle Seahawks",
@@ -6262,27 +5902,45 @@
           "injuries": [
             {
               "team": "Cleveland Browns",
+              "player": "Taylen Green",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Daniel Thomas",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Justin Jefferson",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Cleveland Browns",
               "player": "Parker Brailsford",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Toriano Pride Jr.",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Cleveland Browns",
+              "player": "Tyson Campbell",
+              "status": "Questionable",
+              "detail": "Ankle"
             },
             {
               "team": "Cleveland Browns",
               "player": "Teven Jenkins",
               "status": "Out",
               "detail": "Back"
-            },
-            {
-              "team": "Cleveland Browns",
-              "player": "Maliek Collins",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Cleveland Browns",
-              "player": "Carson Schwesinger",
-              "status": "Out",
-              "detail": "Injury"
             },
             {
               "team": "Cleveland Browns",
@@ -6334,45 +5992,27 @@
             },
             {
               "team": "Cleveland Browns",
+              "player": "Dylan Sampson",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Cleveland Browns",
               "player": "Dillon Gabriel",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -6383,6 +6023,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -6450,39 +6096,15 @@
           "injuries": [
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -6493,6 +6115,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -6528,51 +6156,51 @@
             },
             {
               "team": "Detroit Lions",
-              "player": "Christian Izien",
+              "player": "Avonte Maddox",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Foot"
             },
             {
               "team": "Detroit Lions",
               "player": "Keith Abney II",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Detroit Lions",
               "player": "Jimmy Rolder",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Detroit Lions",
-              "player": "Derrick Moore",
+              "player": "Ahmed Hassanein",
               "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Detroit Lions",
-              "player": "Ennis Rakestraw Jr.",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "Detroit Lions",
-              "player": "Thomas Harper",
-              "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Detroit Lions",
               "player": "Mekhi Wingo",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Detroit Lions",
-              "player": "Trevor Nowaske",
+              "player": "Ennis Rakestraw Jr.",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Christian Mahogany",
+              "status": "Out",
+              "detail": "Hip"
+            },
+            {
+              "team": "Detroit Lions",
+              "player": "Blake Miller",
+              "status": "Out",
+              "detail": "Knee"
             },
             {
               "team": "Detroit Lions",
@@ -6656,39 +6284,15 @@
           "injuries": [
             {
               "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -6699,6 +6303,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -6734,27 +6344,63 @@
             },
             {
               "team": "Dallas Cowboys",
-              "player": "Malik Davis",
-              "status": "Out",
-              "detail": "Hip"
+              "player": "Dee Winters",
+              "status": "Questionable",
+              "detail": "Shoulder"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Cobie Durant",
+              "status": "Questionable",
+              "detail": "Hamstring"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "P.J. Locke",
+              "status": "Questionable",
+              "detail": "Foot"
             },
             {
               "team": "Dallas Cowboys",
               "player": "Ajani Cornelius",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Dallas Cowboys",
-              "player": "Luke Schoonmaker",
+              "player": "Caelen Carson",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
             },
             {
               "team": "Dallas Cowboys",
-              "player": "Jonathan Bullard",
+              "player": "Camden Brown",
               "status": "Out",
-              "detail": "Injury"
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Tyler Goodson",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "James Houston",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Malik Hooker",
+              "status": "Out",
+              "detail": "Forearm"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "DeMarvion Overshown",
+              "status": "Out",
+              "detail": "Hamstring"
             },
             {
               "team": "Dallas Cowboys",
@@ -6765,6 +6411,12 @@
             {
               "team": "Dallas Cowboys",
               "player": "Tyler Smith",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "Dallas Cowboys",
+              "player": "Malik Davis",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -6832,9 +6484,45 @@
           "injuries": [
             {
               "team": "Philadelphia Eagles",
-              "player": "Eli Stowers",
+              "player": "Dallas Goedert",
+              "status": "Questionable",
+              "detail": "Knee"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Saquon Barkley",
+              "status": "Questionable",
+              "detail": "Arm"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tanner McKee",
               "status": "Out",
-              "detail": "Hamstring"
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Cole Payton",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Elijah Moore",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Micah Morris",
+              "status": "Out",
+              "detail": "Coach's Decision"
+            },
+            {
+              "team": "Philadelphia Eagles",
+              "player": "Tucker Large",
+              "status": "IR/PUP",
+              "detail": "Undisclosed"
             },
             {
               "team": "Philadelphia Eagles",
@@ -6844,9 +6532,9 @@
             },
             {
               "team": "Philadelphia Eagles",
-              "player": "Tucker Large",
+              "player": "Landon Dickerson",
               "status": "IR/PUP",
-              "detail": "Undisclosed"
+              "detail": "Reserve list"
             },
             {
               "team": "Philadelphia Eagles",
@@ -6873,40 +6561,22 @@
               "detail": "Reserve list"
             },
             {
-              "team": "New York Giants",
-              "player": "Malik Nabers",
-              "status": "Out",
-              "detail": "Injury"
+              "team": "Philadelphia Eagles",
+              "player": "Eli Stowers",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
             },
             {
               "team": "New York Giants",
-              "player": "Patrick Ricard",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Micah McFadden",
+              "status": "Questionable",
+              "detail": "Neck"
             },
             {
               "team": "New York Giants",
-              "player": "Theo Johnson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Bryan Hudson",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Andrew Thomas",
-              "status": "Out",
-              "detail": "Injury"
-            },
-            {
-              "team": "New York Giants",
-              "player": "Shelby Harris",
-              "status": "Out",
-              "detail": "Injury"
+              "player": "Deonte Banks",
+              "status": "Questionable",
+              "detail": "Calf"
             },
             {
               "team": "New York Giants",
@@ -6917,6 +6587,12 @@
             {
               "team": "New York Giants",
               "player": "Gunner Olszewski",
+              "status": "IR/PUP",
+              "detail": "Reserve list"
+            },
+            {
+              "team": "New York Giants",
+              "player": "Paulson Adebo",
               "status": "IR/PUP",
               "detail": "Reserve list"
             },
@@ -7491,39 +7167,15 @@
   "injuries": [
     {
       "team": "New York Giants",
-      "player": "Malik Nabers",
-      "status": "Out",
-      "detail": "Injury"
+      "player": "Micah McFadden",
+      "status": "Questionable",
+      "detail": "Neck"
     },
     {
       "team": "New York Giants",
-      "player": "Patrick Ricard",
-      "status": "Out",
-      "detail": "Injury"
-    },
-    {
-      "team": "New York Giants",
-      "player": "Theo Johnson",
-      "status": "Out",
-      "detail": "Injury"
-    },
-    {
-      "team": "New York Giants",
-      "player": "Bryan Hudson",
-      "status": "Out",
-      "detail": "Injury"
-    },
-    {
-      "team": "New York Giants",
-      "player": "Andrew Thomas",
-      "status": "Out",
-      "detail": "Injury"
-    },
-    {
-      "team": "New York Giants",
-      "player": "Shelby Harris",
-      "status": "Out",
-      "detail": "Injury"
+      "player": "Deonte Banks",
+      "status": "Questionable",
+      "detail": "Calf"
     },
     {
       "team": "New York Giants",
@@ -7534,6 +7186,12 @@
     {
       "team": "New York Giants",
       "player": "Gunner Olszewski",
+      "status": "IR/PUP",
+      "detail": "Reserve list"
+    },
+    {
+      "team": "New York Giants",
+      "player": "Paulson Adebo",
       "status": "IR/PUP",
       "detail": "Reserve list"
     },
@@ -7606,107 +7264,6 @@
           "season": 2026,
           "stats": {},
           "weekly_stats": [],
-          "team": {
-            "id": "nyg",
-            "name": "New York Giants",
-            "abbreviation": "NYG",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-            "colors": {
-              "primary": "#0B2265",
-              "secondary": "#A71930"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0038788",
-      "name": "Art Green",
-      "position": "DB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qzhydlbsekmp6x7gx6pn",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "nyg",
-            "name": "New York Giants",
-            "abbreviation": "NYG",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-            "colors": {
-              "primary": "#0B2265",
-              "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "def_tackles_solo": 6,
-            "def_tackle_assists": 5
-          },
-          "weekly_stats": [
-            {
-              "week": 2,
-              "opponent": "DAL",
-              "stats": {
-                "def_tackles_solo": 1
-              }
-            },
-            {
-              "week": 3,
-              "opponent": "KC",
-              "stats": {
-                "def_tackles_solo": 2
-              }
-            },
-            {
-              "week": 4,
-              "opponent": "LAC",
-              "stats": {
-                "def_tackle_assists": 1
-              }
-            },
-            {
-              "week": 6,
-              "opponent": "PHI",
-              "stats": {
-                "def_tackle_assists": 1
-              }
-            },
-            {
-              "week": 7,
-              "opponent": "DEN",
-              "stats": {
-                "def_tackle_assists": 1
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "MIN",
-              "stats": {
-                "def_tackles_solo": 1
-              }
-            },
-            {
-              "week": 17,
-              "opponent": "LV",
-              "stats": {
-                "def_tackle_assists": 1
-              }
-            },
-            {
-              "week": 18,
-              "opponent": "DAL",
-              "stats": {
-                "def_tackles_solo": 2,
-                "def_tackle_assists": 1
-              }
-            }
-          ],
           "team": {
             "id": "nyg",
             "name": "New York Giants",
@@ -8703,52 +8260,6 @@
       ]
     },
     {
-      "id": "00-0038396",
-      "name": "Eric Gray",
-      "position": "RB",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ijjxwxv1ccyowzhpuw2k",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "nyg",
-            "name": "New York Giants",
-            "abbreviation": "NYG",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-            "colors": {
-              "primary": "#0B2265",
-              "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {},
-          "weekly_stats": [
-            {
-              "week": 12,
-              "opponent": "DET",
-              "stats": {}
-            }
-          ],
-          "team": {
-            "id": "nyg",
-            "name": "New York Giants",
-            "abbreviation": "NYG",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-            "colors": {
-              "primary": "#0B2265",
-              "secondary": "#A71930"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0041234",
       "name": "Geno VanDeMark",
       "position": "OL",
@@ -8974,6 +8485,31 @@
       ]
     },
     {
+      "id": "00-0040450",
+      "name": "Jaden Robinson",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pcbxvlolhujhr944iqxa",
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0038998",
       "name": "Jake Haener",
       "position": "QB",
@@ -9166,65 +8702,6 @@
             "colors": {
               "primary": "#0B2265",
               "secondary": "#A71930"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0033347",
-      "name": "Josh Tupou",
-      "position": "DL",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dlnemwulvmozmdwp0prp",
-      "stats": {},
-      "weekly_stats": [],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {},
-          "weekly_stats": [],
-          "team": {
-            "id": "nyg",
-            "name": "New York Giants",
-            "abbreviation": "NYG",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-            "colors": {
-              "primary": "#0B2265",
-              "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "def_tackle_assists": 4,
-            "def_tackles_solo": 1
-          },
-          "weekly_stats": [
-            {
-              "week": 4,
-              "opponent": "KC",
-              "stats": {
-                "def_tackle_assists": 3
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "NE",
-              "stats": {
-                "def_tackles_solo": 1,
-                "def_tackle_assists": 1
-              }
-            }
-          ],
-          "team": {
-            "id": "bal",
-            "name": "Baltimore Ravens",
-            "abbreviation": "BAL",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-            "colors": {
-              "primary": "#241773",
-              "secondary": "#000000"
             }
           }
         }
@@ -9540,6 +9017,177 @@
             "colors": {
               "primary": "#101820",
               "secondary": "#FFB612"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0036937",
+      "name": "Paulson Adebo",
+      "position": "DB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yft8adxhq7go3eqd8d9k",
+      "stats": {
+        "def_tackles_solo": 3
+      },
+      "weekly_stats": [
+        {
+          "week": 1,
+          "opponent": "DAL",
+          "stats": {
+            "def_tackles_solo": 3
+          }
+        }
+      ],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {
+            "def_tackles_solo": 3
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "DAL",
+              "stats": {
+                "def_tackles_solo": 3
+              }
+            }
+          ],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_tackles_solo": 55,
+            "def_tackle_assists": 17,
+            "def_pass_defended": 8,
+            "def_tackles_for_loss": 1,
+            "def_interceptions": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "WAS",
+              "stats": {
+                "def_tackles_solo": 6,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "DAL",
+              "stats": {
+                "def_tackles_solo": 11,
+                "def_tackle_assists": 2,
+                "def_pass_defended": 1
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "KC",
+              "stats": {
+                "def_tackles_solo": 6,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "LAC",
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "NO",
+              "stats": {
+                "def_tackles_solo": 6,
+                "def_tackles_for_loss": 1
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "PHI",
+              "stats": {
+                "def_tackles_solo": 5,
+                "def_tackle_assists": 2
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "DEN",
+              "stats": {
+                "def_tackles_solo": 4
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "NE",
+              "stats": {
+                "def_tackles_solo": 8,
+                "def_tackle_assists": 2,
+                "def_pass_defended": 1
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "WAS",
+              "stats": {
+                "def_tackles_solo": 3,
+                "def_tackle_assists": 3
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "MIN",
+              "stats": {
+                "def_interceptions": 1,
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1,
+                "def_pass_defended": 1
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "LV",
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2,
+                "def_pass_defended": 1
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "DAL",
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 2,
+                "def_pass_defended": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
             }
           }
         }
@@ -10545,6 +10193,75 @@
       ]
     },
     {
+      "id": "00-0033347",
+      "name": "Josh Tupou",
+      "position": "DL",
+      "group": "Defensive Line",
+      "number": "94",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dlnemwulvmozmdwp0prp",
+      "height": "75",
+      "weight": "350",
+      "experience": "9",
+      "college": "Colorado",
+      "depth_position": "NT",
+      "depth_slot": "2",
+      "depth_rank": 3,
+      "depth_order": 12,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_tackle_assists": 4,
+            "def_tackles_solo": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 4,
+              "opponent": "KC",
+              "stats": {
+                "def_tackle_assists": 3
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "NE",
+              "stats": {
+                "def_tackles_solo": 1,
+                "def_tackle_assists": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "bal",
+            "name": "Baltimore Ravens",
+            "abbreviation": "BAL",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+            "colors": {
+              "primary": "#241773",
+              "secondary": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0036982",
       "name": "Chauncey Golston",
       "position": "DL",
@@ -10914,7 +10631,7 @@
       "college": "BYU; Weber State",
       "depth_position": "LILB",
       "depth_slot": "5",
-      "depth_rank": 3,
+      "depth_rank": 2,
       "depth_order": 15,
       "stats": {},
       "weekly_stats": [],
@@ -13137,275 +12854,6 @@
       ]
     },
     {
-      "id": "00-0035250",
-      "name": "Devin Singletary",
-      "position": "RB",
-      "group": "Running Backs",
-      "number": "26",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xy2r2msxjqneml2c1cdc",
-      "height": "67",
-      "weight": "203",
-      "experience": "7",
-      "college": "Florida Atlantic",
-      "depth_position": "RB",
-      "depth_slot": "11",
-      "depth_rank": 2,
-      "depth_order": 9,
-      "stats": {
-        "carries": 6,
-        "rushing_yards": 16,
-        "targets": 4,
-        "receptions": 4,
-        "receiving_yards": 22,
-        "receiving_tds": 1
-      },
-      "weekly_stats": [
-        {
-          "week": 1,
-          "opponent": "DAL",
-          "stats": {
-            "carries": 6,
-            "rushing_yards": 16,
-            "targets": 4,
-            "receptions": 4,
-            "receiving_yards": 22,
-            "receiving_tds": 1
-          }
-        }
-      ],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {
-            "carries": 6,
-            "rushing_yards": 16,
-            "targets": 4,
-            "receptions": 4,
-            "receiving_yards": 22,
-            "receiving_tds": 1
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "DAL",
-              "stats": {
-                "carries": 6,
-                "rushing_yards": 16,
-                "targets": 4,
-                "receptions": 4,
-                "receiving_yards": 22,
-                "receiving_tds": 1
-              }
-            }
-          ],
-          "team": {
-            "id": "nyg",
-            "name": "New York Giants",
-            "abbreviation": "NYG",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-            "colors": {
-              "primary": "#0B2265",
-              "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "carries": 119,
-            "rushing_yards": 437,
-            "targets": 19,
-            "receptions": 18,
-            "receiving_yards": 151,
-            "def_tackles_solo": 1,
-            "rushing_tds": 5
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "WAS",
-              "stats": {
-                "carries": 3,
-                "rushing_yards": 9
-              }
-            },
-            {
-              "week": 2,
-              "opponent": "DAL",
-              "stats": {
-                "carries": 1,
-                "rushing_yards": 4,
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": -4
-              }
-            },
-            {
-              "week": 3,
-              "opponent": "KC",
-              "stats": {
-                "carries": 4,
-                "rushing_yards": 11
-              }
-            },
-            {
-              "week": 4,
-              "opponent": "LAC",
-              "stats": {
-                "carries": 7,
-                "rushing_yards": 28
-              }
-            },
-            {
-              "week": 5,
-              "opponent": "NO",
-              "stats": {
-                "carries": 6,
-                "rushing_yards": 20,
-                "targets": 2,
-                "receptions": 1,
-                "receiving_yards": 4,
-                "def_tackles_solo": 1
-              }
-            },
-            {
-              "week": 6,
-              "opponent": "PHI",
-              "stats": {
-                "carries": 3,
-                "rushing_yards": 10
-              }
-            },
-            {
-              "week": 7,
-              "opponent": "DEN",
-              "stats": {
-                "carries": 2,
-                "rushing_yards": 2
-              }
-            },
-            {
-              "week": 8,
-              "opponent": "PHI",
-              "stats": {
-                "carries": 2,
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 28
-              }
-            },
-            {
-              "week": 9,
-              "opponent": "SF",
-              "stats": {
-                "carries": 8,
-                "rushing_yards": 43,
-                "targets": 2,
-                "receptions": 2,
-                "receiving_yards": 8
-              }
-            },
-            {
-              "week": 10,
-              "opponent": "CHI",
-              "stats": {
-                "carries": 8,
-                "rushing_yards": 20,
-                "targets": 3,
-                "receptions": 3,
-                "receiving_yards": 53
-              }
-            },
-            {
-              "week": 11,
-              "opponent": "GB",
-              "stats": {
-                "carries": 16,
-                "rushing_yards": 44,
-                "rushing_tds": 2,
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 3
-              }
-            },
-            {
-              "week": 12,
-              "opponent": "DET",
-              "stats": {
-                "carries": 14,
-                "rushing_yards": 47
-              }
-            },
-            {
-              "week": 13,
-              "opponent": "NE",
-              "stats": {
-                "carries": 12,
-                "rushing_yards": 68,
-                "rushing_tds": 1,
-                "targets": 3,
-                "receptions": 3,
-                "receiving_yards": 34
-              }
-            },
-            {
-              "week": 15,
-              "opponent": "WAS",
-              "stats": {
-                "carries": 5,
-                "rushing_yards": 13,
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": 1
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "MIN",
-              "stats": {
-                "carries": 11,
-                "rushing_yards": 47,
-                "targets": 1,
-                "receptions": 1,
-                "receiving_yards": -1
-              }
-            },
-            {
-              "week": 17,
-              "opponent": "LV",
-              "stats": {
-                "carries": 8,
-                "rushing_yards": 45,
-                "rushing_tds": 1,
-                "targets": 4,
-                "receptions": 4,
-                "receiving_yards": 25
-              }
-            },
-            {
-              "week": 18,
-              "opponent": "DAL",
-              "stats": {
-                "carries": 9,
-                "rushing_yards": 26,
-                "rushing_tds": 1
-              }
-            }
-          ],
-          "team": {
-            "id": "nyg",
-            "name": "New York Giants",
-            "abbreviation": "NYG",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-            "colors": {
-              "primary": "#0B2265",
-              "secondary": "#A71930"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "00-0036893",
       "name": "Najee Harris",
       "position": "RB",
@@ -13418,7 +12866,7 @@
       "college": "Alabama",
       "depth_position": "RB",
       "depth_slot": "11",
-      "depth_rank": 4,
+      "depth_rank": 2,
       "depth_order": 9,
       "stats": {},
       "weekly_stats": [],
@@ -13852,6 +13300,275 @@
       ]
     },
     {
+      "id": "00-0035250",
+      "name": "Devin Singletary",
+      "position": "RB",
+      "group": "Running Backs",
+      "number": "26",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xy2r2msxjqneml2c1cdc",
+      "height": "67",
+      "weight": "203",
+      "experience": "7",
+      "college": "Florida Atlantic",
+      "depth_position": "KR",
+      "depth_slot": "5",
+      "depth_rank": 3,
+      "depth_order": 77,
+      "stats": {
+        "carries": 6,
+        "rushing_yards": 16,
+        "targets": 4,
+        "receptions": 4,
+        "receiving_yards": 22,
+        "receiving_tds": 1
+      },
+      "weekly_stats": [
+        {
+          "week": 1,
+          "opponent": "DAL",
+          "stats": {
+            "carries": 6,
+            "rushing_yards": 16,
+            "targets": 4,
+            "receptions": 4,
+            "receiving_yards": 22,
+            "receiving_tds": 1
+          }
+        }
+      ],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {
+            "carries": 6,
+            "rushing_yards": 16,
+            "targets": 4,
+            "receptions": 4,
+            "receiving_yards": 22,
+            "receiving_tds": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 6,
+                "rushing_yards": 16,
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 22,
+                "receiving_tds": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "carries": 119,
+            "rushing_yards": 437,
+            "targets": 19,
+            "receptions": 18,
+            "receiving_yards": 151,
+            "def_tackles_solo": 1,
+            "rushing_tds": 5
+          },
+          "weekly_stats": [
+            {
+              "week": 1,
+              "opponent": "WAS",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 9
+              }
+            },
+            {
+              "week": 2,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 1,
+                "rushing_yards": 4,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": -4
+              }
+            },
+            {
+              "week": 3,
+              "opponent": "KC",
+              "stats": {
+                "carries": 4,
+                "rushing_yards": 11
+              }
+            },
+            {
+              "week": 4,
+              "opponent": "LAC",
+              "stats": {
+                "carries": 7,
+                "rushing_yards": 28
+              }
+            },
+            {
+              "week": 5,
+              "opponent": "NO",
+              "stats": {
+                "carries": 6,
+                "rushing_yards": 20,
+                "targets": 2,
+                "receptions": 1,
+                "receiving_yards": 4,
+                "def_tackles_solo": 1
+              }
+            },
+            {
+              "week": 6,
+              "opponent": "PHI",
+              "stats": {
+                "carries": 3,
+                "rushing_yards": 10
+              }
+            },
+            {
+              "week": 7,
+              "opponent": "DEN",
+              "stats": {
+                "carries": 2,
+                "rushing_yards": 2
+              }
+            },
+            {
+              "week": 8,
+              "opponent": "PHI",
+              "stats": {
+                "carries": 2,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 28
+              }
+            },
+            {
+              "week": 9,
+              "opponent": "SF",
+              "stats": {
+                "carries": 8,
+                "rushing_yards": 43,
+                "targets": 2,
+                "receptions": 2,
+                "receiving_yards": 8
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "CHI",
+              "stats": {
+                "carries": 8,
+                "rushing_yards": 20,
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 53
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "GB",
+              "stats": {
+                "carries": 16,
+                "rushing_yards": 44,
+                "rushing_tds": 2,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 3
+              }
+            },
+            {
+              "week": 12,
+              "opponent": "DET",
+              "stats": {
+                "carries": 14,
+                "rushing_yards": 47
+              }
+            },
+            {
+              "week": 13,
+              "opponent": "NE",
+              "stats": {
+                "carries": 12,
+                "rushing_yards": 68,
+                "rushing_tds": 1,
+                "targets": 3,
+                "receptions": 3,
+                "receiving_yards": 34
+              }
+            },
+            {
+              "week": 15,
+              "opponent": "WAS",
+              "stats": {
+                "carries": 5,
+                "rushing_yards": 13,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": 1
+              }
+            },
+            {
+              "week": 16,
+              "opponent": "MIN",
+              "stats": {
+                "carries": 11,
+                "rushing_yards": 47,
+                "targets": 1,
+                "receptions": 1,
+                "receiving_yards": -1
+              }
+            },
+            {
+              "week": 17,
+              "opponent": "LV",
+              "stats": {
+                "carries": 8,
+                "rushing_yards": 45,
+                "rushing_tds": 1,
+                "targets": 4,
+                "receptions": 4,
+                "receiving_yards": 25
+              }
+            },
+            {
+              "week": 18,
+              "opponent": "DAL",
+              "stats": {
+                "carries": 9,
+                "rushing_yards": 26,
+                "rushing_tds": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "00-0039000",
       "name": "Deonte Banks",
       "position": "DB",
@@ -14016,187 +13733,6 @@
               "opponent": "DAL",
               "stats": {
                 "def_tackle_assists": 1
-              }
-            }
-          ],
-          "team": {
-            "id": "nyg",
-            "name": "New York Giants",
-            "abbreviation": "NYG",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-            "colors": {
-              "primary": "#0B2265",
-              "secondary": "#A71930"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "00-0036937",
-      "name": "Paulson Adebo",
-      "position": "DB",
-      "group": "Safeties",
-      "number": "21",
-      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yft8adxhq7go3eqd8d9k",
-      "height": "73",
-      "weight": "193",
-      "experience": "5",
-      "college": "Stanford",
-      "depth_position": "LCB",
-      "depth_slot": "8",
-      "depth_rank": 2,
-      "depth_order": 18,
-      "stats": {
-        "def_tackles_solo": 3
-      },
-      "weekly_stats": [
-        {
-          "week": 1,
-          "opponent": "DAL",
-          "stats": {
-            "def_tackles_solo": 3
-          }
-        }
-      ],
-      "seasons": [
-        {
-          "season": 2026,
-          "stats": {
-            "def_tackles_solo": 3
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "DAL",
-              "stats": {
-                "def_tackles_solo": 3
-              }
-            }
-          ],
-          "team": {
-            "id": "nyg",
-            "name": "New York Giants",
-            "abbreviation": "NYG",
-            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-            "colors": {
-              "primary": "#0B2265",
-              "secondary": "#A71930"
-            }
-          }
-        },
-        {
-          "season": 2025,
-          "stats": {
-            "def_tackles_solo": 55,
-            "def_tackle_assists": 17,
-            "def_pass_defended": 8,
-            "def_tackles_for_loss": 1,
-            "def_interceptions": 1
-          },
-          "weekly_stats": [
-            {
-              "week": 1,
-              "opponent": "WAS",
-              "stats": {
-                "def_tackles_solo": 6,
-                "def_tackle_assists": 1,
-                "def_pass_defended": 1
-              }
-            },
-            {
-              "week": 2,
-              "opponent": "DAL",
-              "stats": {
-                "def_tackles_solo": 11,
-                "def_tackle_assists": 2,
-                "def_pass_defended": 1
-              }
-            },
-            {
-              "week": 3,
-              "opponent": "KC",
-              "stats": {
-                "def_tackles_solo": 6,
-                "def_tackle_assists": 1,
-                "def_pass_defended": 1
-              }
-            },
-            {
-              "week": 4,
-              "opponent": "LAC",
-              "stats": {
-                "def_tackles_solo": 3,
-                "def_tackle_assists": 1,
-                "def_pass_defended": 1
-              }
-            },
-            {
-              "week": 5,
-              "opponent": "NO",
-              "stats": {
-                "def_tackles_solo": 6,
-                "def_tackles_for_loss": 1
-              }
-            },
-            {
-              "week": 6,
-              "opponent": "PHI",
-              "stats": {
-                "def_tackles_solo": 5,
-                "def_tackle_assists": 2
-              }
-            },
-            {
-              "week": 7,
-              "opponent": "DEN",
-              "stats": {
-                "def_tackles_solo": 4
-              }
-            },
-            {
-              "week": 13,
-              "opponent": "NE",
-              "stats": {
-                "def_tackles_solo": 8,
-                "def_tackle_assists": 2,
-                "def_pass_defended": 1
-              }
-            },
-            {
-              "week": 15,
-              "opponent": "WAS",
-              "stats": {
-                "def_tackles_solo": 3,
-                "def_tackle_assists": 3
-              }
-            },
-            {
-              "week": 16,
-              "opponent": "MIN",
-              "stats": {
-                "def_interceptions": 1,
-                "def_tackles_solo": 1,
-                "def_tackle_assists": 1,
-                "def_pass_defended": 1
-              }
-            },
-            {
-              "week": 17,
-              "opponent": "LV",
-              "stats": {
-                "def_tackles_solo": 1,
-                "def_tackle_assists": 2,
-                "def_pass_defended": 1
-              }
-            },
-            {
-              "week": 18,
-              "opponent": "DAL",
-              "stats": {
-                "def_tackles_solo": 1,
-                "def_tackle_assists": 2,
-                "def_pass_defended": 1
               }
             }
           ],
@@ -15518,6 +15054,82 @@
             "colors": {
               "primary": "#0B2265",
               "secondary": "#A71930"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "00-0040471",
+      "name": "Nikko Reed",
+      "position": "DB",
+      "group": "Safeties",
+      "number": "46",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kwrqouczwfh7xtyhlzgl",
+      "height": "70",
+      "weight": "180",
+      "experience": "1",
+      "college": "Oregon; Colorado",
+      "depth_position": "NB",
+      "depth_slot": "12",
+      "depth_rank": 3,
+      "depth_order": 34,
+      "stats": {},
+      "weekly_stats": [],
+      "seasons": [
+        {
+          "season": 2026,
+          "stats": {},
+          "weekly_stats": [],
+          "team": {
+            "id": "nyg",
+            "name": "New York Giants",
+            "abbreviation": "NYG",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+            "colors": {
+              "primary": "#0B2265",
+              "secondary": "#A71930"
+            }
+          }
+        },
+        {
+          "season": 2025,
+          "stats": {
+            "def_tackle_assists": 1,
+            "def_pass_defended": 1,
+            "def_tackles_solo": 1
+          },
+          "weekly_stats": [
+            {
+              "week": 9,
+              "opponent": "TEN",
+              "stats": {
+                "def_tackle_assists": 1
+              }
+            },
+            {
+              "week": 10,
+              "opponent": "PIT",
+              "stats": {
+                "def_pass_defended": 1
+              }
+            },
+            {
+              "week": 11,
+              "opponent": "JAX",
+              "stats": {
+                "def_tackles_solo": 1
+              }
+            }
+          ],
+          "team": {
+            "id": "lac",
+            "name": "Los Angeles Chargers",
+            "abbreviation": "LAC",
+            "logo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+            "colors": {
+              "primary": "#0080C6",
+              "secondary": "#FFC20E"
             }
           }
         }

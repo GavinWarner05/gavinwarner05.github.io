@@ -1,9 +1,10 @@
-const CACHE_NAME = "nfl-sports-center-v3";
+const CACHE_NAME = "nfl-sports-center-v4";
 const APP_HOME = "/sports/";
 const APP_SHELL = [
   APP_HOME,
   "/sports/scores/",
   "/sports/teams/",
+  "/sports/standings/",
   "/sports/manifest.webmanifest",
   "/sports/icons/icon-192.png",
   "/sports/icons/icon-512.png",
