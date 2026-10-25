@@ -1,0 +1,197 @@
+{
+  "baselineFrom": "2026-10-25T15:25:00Z",
+  "baselineTo": "2026-10-25T15:27:00Z",
+  "portfolios": [
+    {
+      "id": "diagnostic",
+      "title": "Seven-game diagnostic",
+      "subtitle": "Tests all seven winner forecasts, including picks without a positive price edge.",
+      "stake": 175,
+      "payout": 266,
+      "net": 91,
+      "picks": [
+        {
+          "id": "okc",
+          "team": "OKC",
+          "name": "Oklahoma City",
+          "opponent": "LAC",
+          "opponentName": "LA Clippers",
+          "probability": 0.891,
+          "start": "2026-10-25T23:00:00Z",
+          "stake": 25,
+          "payout": 28,
+          "quoteAt": "2026-10-25T15:47:56Z",
+          "url": "https://www.realapp.com/nJxsBF5FQQR",
+          "reason": "Strongest likely winner in this baseline, but little or no price edge.",
+          "matchup": "okc",
+          "outcome": "Pending",
+          "minnesota": false
+        },
+        {
+          "id": "nyk",
+          "team": "NYK",
+          "name": "New York",
+          "opponent": "ORL",
+          "opponentName": "Orlando",
+          "probability": 0.7183,
+          "start": "2026-10-25T23:00:00Z",
+          "stake": 25,
+          "payout": 32,
+          "quoteAt": "2026-10-25T15:48:44Z",
+          "url": "https://www.realapp.com/z2AsNFpFVVa",
+          "reason": "Likely winner, but the recorded quote is overpriced against the baseline. This motivates the separate Orlando value hypothesis.",
+          "matchup": "nyk",
+          "outcome": "Pending",
+          "minnesota": false
+        },
+        {
+          "id": "ind",
+          "team": "IND",
+          "name": "Indiana",
+          "opponent": "BKN",
+          "opponentName": "Brooklyn",
+          "probability": 0.6967,
+          "start": "2026-10-25T22:00:00Z",
+          "stake": 25,
+          "payout": 33,
+          "quoteAt": "2026-10-25T15:49:31Z",
+          "url": "https://www.realapp.com/nDLs7FRFVVk",
+          "reason": "Incomplete Brooklyn injury report and little price edge.",
+          "matchup": "ind",
+          "outcome": "Pending",
+          "minnesota": false
+        },
+        {
+          "id": "lal",
+          "team": "LAL",
+          "name": "LA Lakers",
+          "opponent": "UTA",
+          "opponentName": "Utah",
+          "probability": 0.6785,
+          "start": "2026-10-25T21:00:00Z",
+          "stake": 25,
+          "payout": 34,
+          "quoteAt": "2026-10-25T15:50:07Z",
+          "url": "https://www.realapp.com/X1DslFKF55w",
+          "reason": "The quoted price leaves little cushion against an uncertain baseline.",
+          "matchup": "lal",
+          "outcome": "Pending",
+          "minnesota": false
+        },
+        {
+          "id": "mem",
+          "team": "MEM",
+          "name": "Memphis",
+          "opponent": "SAC",
+          "opponentName": "Sacramento",
+          "probability": 0.6072,
+          "start": "2026-10-26T01:00:00Z",
+          "stake": 25,
+          "payout": 39,
+          "quoteAt": "2026-10-25T15:50:42Z",
+          "url": "https://www.realapp.com/zRmsAF3FggW",
+          "reason": "Moderate favorite, not a high-confidence forecast.",
+          "matchup": "mem",
+          "outcome": "Pending",
+          "minnesota": false
+        },
+        {
+          "id": "min",
+          "team": "MIN",
+          "name": "Minnesota",
+          "opponent": "TOR",
+          "opponentName": "Toronto",
+          "probability": 0.5054,
+          "start": "2026-10-25T23:00:00Z",
+          "stake": 25,
+          "payout": 43,
+          "quoteAt": "2026-10-25T15:51:20Z",
+          "url": "https://www.realapp.com/ngEsxFRFddP",
+          "reason": "Essentially a coin flip. Minnesota is included only for this paper test and excluded from actual-spending recommendations.",
+          "matchup": "min",
+          "outcome": "Pending",
+          "minnesota": true
+        },
+        {
+          "id": "det",
+          "team": "DET",
+          "name": "Detroit",
+          "opponent": "PHI",
+          "opponentName": "Philadelphia",
+          "probability": 0.5108,
+          "start": "2026-10-25T23:30:00Z",
+          "stake": 25,
+          "payout": 57,
+          "quoteAt": "2026-10-25T15:51:56Z",
+          "url": "https://www.realapp.com/zMWsvFkFPP8",
+          "reason": "Low confidence: disagreement between sources and an incomplete Philadelphia injury report.",
+          "matchup": "det",
+          "outcome": "Pending",
+          "minnesota": false
+        }
+      ]
+    },
+    {
+      "id": "value",
+      "title": "Original two-pick value",
+      "subtitle": "Exploratory filter: at least 3 percentage points above quoted break-even. These oppose two diagnostic picks.",
+      "stake": 50,
+      "payout": 167,
+      "net": 117,
+      "picks": [
+        {
+          "id": "tor",
+          "team": "TOR",
+          "name": "Toronto",
+          "opponent": "MIN",
+          "opponentName": "Minnesota",
+          "probability": 0.4946,
+          "start": "2026-10-25T23:00:00Z",
+          "stake": 25,
+          "payout": 62,
+          "quoteAt": "2026-10-25T15:27:45Z",
+          "url": "https://www.realapp.com/ngEsxFRFddP",
+          "reason": "Quote break-even 40.32% versus baseline 49.46%. An exploratory price hypothesis, not a proven edge; this Minnesota matchup remains paper only.",
+          "matchup": "min",
+          "outcome": "Pending",
+          "minnesota": true
+        },
+        {
+          "id": "orl",
+          "team": "ORL",
+          "name": "Orlando",
+          "opponent": "NYK",
+          "opponentName": "New York",
+          "probability": 0.2817,
+          "start": "2026-10-25T23:00:00Z",
+          "stake": 25,
+          "payout": 105,
+          "quoteAt": "2026-10-25T15:26:22Z",
+          "url": "https://www.realapp.com/z2AsNFpFVVa",
+          "reason": "Quote break-even 23.81% versus baseline 28.17%. This outcome still usually loses under the baseline.",
+          "matchup": "nyk",
+          "outcome": "Pending",
+          "minnesota": false
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "BetVictor NBA odds",
+      "url": "https://www.betvictor.com/en-ca/pages/basketball/nba-odds"
+    },
+    {
+      "name": "BetUS NBA odds",
+      "url": "https://www.betus.com.pa/sportsbook/nba/"
+    },
+    {
+      "name": "BetMGM · Orlando / New York",
+      "url": "https://sports.betmgm.com/en/blog/nba/magic-knicks-prediction-odds-lines-picks-nba-oct-25-jaa/"
+    },
+    {
+      "name": "BetMGM · Toronto / Minnesota",
+      "url": "https://sports.betmgm.com/en/blog/nba/raptors-timberwolves-player-prop-bets-picks-nba-oct-25-jaa/"
+    }
+  ]
+}

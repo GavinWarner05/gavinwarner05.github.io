@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en"><head>
+<title>NBA Paper Predictions · {{ .Site.Title }}</title>
+{{ partial "head.html" . }}
+<meta name="robots" content="noindex, nofollow, noarchive"><meta name="theme-color" content="#171429">
+{{ $sports := resources.Get "scss/sports.scss" | toCSS | minify | fingerprint }}<link rel="stylesheet" href="{{ $sports.RelPermalink }}">
+{{ $finder := resources.Get "real/finder.css" | minify | fingerprint }}<link rel="stylesheet" href="{{ $finder.RelPermalink }}">
+{{ $style := resources.Get "real/predictions/style.css" | minify | fingerprint }}<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+{{ $script := resources.Get "real/predictions/calculator.js" | minify | fingerprint }}<script src="{{ $script.RelPermalink }}" defer></script>
+</head><body class="colorscheme-dark real-page predictions-page">
+<a class="real-skip" href="#paper-calculator">Skip to calculator</a>
+<nav class="real-top" aria-label="Research tools"><strong>GW <span>/</span> PAPER PREDICTIONS</strong><a href="{{ "real/" | relURL }}">Auction finder ↗</a></nav>
+<main class="sports-home">
+<header class="sports-home-intro"><div><p class="sports-eyebrow">NBA · October 25, 2026</p><h1>Make a forecast.<br>Keep a record.</h1></div><span class="paper-mode">PAPER ONLY · ACTUAL SPEND 0 RAX</span></header>
+<section class="paper-intro"><p>Two separate experiments. One seven-game slate. See the selected sides, examine the old quotes, and explore a small hypothetical allocation.</p><div class="paper-facts"><span>7 unique NBA games</span><span>Untrained baseline</span><span>All outcomes pending</span></div></section>
+<p class="real-notice" id="paper-snapshot"><strong>Snapshot, not live.</strong> Baseline observed Oct 25, 15:25–15:27 UTC; quotes recorded 15:26–15:52 UTC. <span data-freshness></span> Game times below are UTC starts, not verified market cutoffs. No automatic data refresh.</p>
+<section class="paper-calculator" id="paper-calculator" aria-labelledby="calculator-heading">
+<div class="sports-section-heading"><div><p class="sports-home-kicker">Explore an allocation</p><h2 id="calculator-heading">Paper budget calculator</h2></div><span>Session only</span></div>
+<p class="paper-rule">Simple heuristic: use up to 1% of an entered Rax balance, divide equally among selected eligible picks in one portfolio, and round down to whole Rax. This is not an optimal or trained-model stake recommendation.</p>
+<div class="paper-inputs"><label for="paper-balance">Example Rax balance<input id="paper-balance" type="text" inputmode="numeric" autocomplete="off" placeholder="Enter a whole-Rax balance" aria-describedby="balance-help balance-error"></label><label for="paper-rate">Total paper budget<select id="paper-rate"><option value="100">1% · default</option><option value="75">0.75%</option><option value="50">0.5%</option><option value="25">0.25%</option><option value="0">0% · allocate nothing</option></select></label></div>
+<p id="balance-help">Balance stays in memory in this browser tab: no saving, account connection, URL sharing or transmission. Maximum supported input: 1,000,000,000,000 Rax.</p><p id="balance-error" role="status"></p>
+<dl class="paper-totals" aria-live="polite" aria-atomic="true"><div><dt>Chosen budget</dt><dd data-budget>—</dd></div><div><dt>Total allocated</dt><dd data-allocated>—</dd></div><div><dt>Worst-case paper loss</dt><dd data-loss>—</dd></div><div><dt>Unused budget</dt><dd data-unused>—</dd></div></dl>
+<p class="paper-calculator-status" data-calc-status>Enter a balance to explore an allocation. The frozen ledger below remains unchanged.</p>
+</section>
+<nav class="paper-switch" aria-label="Choose one paper portfolio"><button type="button" data-portfolio-button="diagnostic" aria-pressed="true" aria-controls="portfolio-diagnostic">Seven-game diagnostic <span>7 picks</span></button><button type="button" data-portfolio-button="value" aria-pressed="false" aria-controls="portfolio-value">Original value portfolio <span>2 picks</span></button></nav>
+<p class="paper-overlap"><strong>Keep portfolios separate.</strong> Toronto opposes Minnesota; Orlando opposes New York. These are overlapping games, not nine independent opportunities. The two maximum profits cannot occur together.</p>
+{{ range hugo.Data.real.predictions.portfolios }}
+<section class="paper-portfolio" id="portfolio-{{ .id }}" data-portfolio="{{ .id }}" aria-labelledby="heading-{{ .id }}">
+<div class="sports-section-heading"><div><p class="sports-home-kicker">Frozen pregame ledger · actual spending 0</p><h2 id="heading-{{ .id }}">{{ .title }}</h2></div></div><p class="paper-portfolio-description">{{ .subtitle }}</p>
+<dl class="paper-ledger" data-frozen-ledger><div><dt>Hypothetical stake</dt><dd>{{ .stake }} Rax</dd></div><div><dt>All-win total payout</dt><dd>{{ .payout }} Rax</dd></div><div><dt>All-win net</dt><dd>+{{ .net }} Rax</dd></div><div><dt>All-lose net</dt><dd>−{{ .stake }} Rax</dd></div></dl>
+<div class="paper-grid">{{ range .picks }}
+<article class="paper-card" data-pick="{{ .id }}" data-start="{{ .start }}" data-payout="{{ .payout }}" data-matchup="{{ .matchup }}">
+<header><time datetime="{{ .start }}">{{ time.Format "Jan 2 · 15:04" .start }} UTC</time><span class="paper-game-state" data-game-state>Snapshot</span></header>
+<div class="paper-matchup"><div class="paper-team selected"><span aria-hidden="true">{{ .team }}</span><strong>{{ .name }}</strong></div><span class="paper-vs">vs</span><div class="paper-team"><span aria-hidden="true">{{ .opponent }}</span><strong>{{ .opponentName }}</strong></div></div>
+<div class="paper-selection"><span>Selected winner</span><strong>{{ .team }} <span aria-hidden="true">✓</span></strong></div>
+<div class="paper-probability"><div><span>Baseline probability</span><strong>{{ printf "%.2f" (mul .probability 100) }}%</strong></div><meter min="0" max="1" value="{{ .probability }}" aria-label="{{ .name }} baseline win probability">{{ printf "%.2f" (mul .probability 100) }}%</meter></div>
+<div class="paper-quote"><span>Frozen quote · 25 Rax paper stake</span><strong>{{ .payout }} Rax <small>total if correct</small></strong><small>Net +{{ sub .payout .stake }} if correct · −25 if wrong</small></div>
+{{ if .minnesota }}<p class="paper-minnesota">Minnesota matchup · paper test only. Excluded from actual-spending recommendations.</p>{{ end }}
+<label class="paper-pick-control"><input type="checkbox" data-include checked> Include {{ .team }} in this calculator</label>
+<div class="paper-scaled"><span>Calculator allocation <strong data-pick-allocation>—</strong></span><span>Estimated total if correct <strong data-pick-return>—</strong></span><small>Scaled from this old quote, not a fresh executable quote.</small></div>
+<details><summary>Why this pick &amp; quote details</summary><div><p>{{ .reason }}</p><p>Quote: <time datetime="{{ .quoteAt }}">{{ time.Format "Jan 2, 2006 · 15:04:05" .quoteAt }} UTC</time>. Frozen stake 25 Rax; total payout includes the stake. Outcome pending.</p><a href="{{ .url }}" target="_blank" rel="noopener noreferrer nofollow">External market research ↗</a></div></details>
+</article>{{ end }}</div></section>{{ end }}
+<noscript><p class="real-notice">JavaScript is needed for the calculator and current-time labels. Both separate frozen portfolios remain readable above.</p></noscript>
+<section class="real-method paper-method"><p class="sports-home-kicker">Method &amp; limitations</p><h2>A baseline to test, not proven accuracy.</h2><p>Probabilities use median two-sided proportional vig removal from an odds-consensus snapshot at approximately 15:25–15:27 UTC on October 25. This is an untrained baseline, not evidence of forecasting skill. The diagnostic portfolio tests every selected winner, even without a positive price edge. The original value portfolio used a ≥3-percentage-point difference from the quoted break-even probability.</p><p>All figures are hypothetical. Fees and minimums are not fully verified; Real warns of 5% maximum slippage. Quotes can change, and there is no guarantee of profit or fills. Started games are unavailable to the calculator; the frozen pregame ledger is retained. No outcomes or scores are inferred. No actual-spending mode, purchases, bidding or account connection are provided. NFL predictions are excluded.</p><details><summary>Research sources</summary><ul>{{ range hugo.Data.real.predictions.sources }}<li><a href="{{ .url }}" target="_blank" rel="noopener noreferrer nofollow">{{ .name }}</a></li>{{ end }}</ul><p>Source links document the research context; their current contents may differ from the saved snapshot.</p></details></section>
+<footer class="real-footer">Independent paper research · Not affiliated with Real.<br>Public and unlisted; anyone with the URL can open this page. No private balance, holdings or profile details are published.</footer>
+</main></body></html>
