@@ -1,5 +1,11 @@
 (() => {
   'use strict';
+  document.querySelectorAll('.real-avatar img').forEach(img => {
+    const updatePhoto = () => img.parentElement.classList.toggle('has-photo', img.complete && img.naturalWidth > 0);
+    img.addEventListener('load', updatePhoto);
+    img.addEventListener('error', updatePhoto);
+    updatePhoto();
+  });
   const form = document.querySelector('#filters');
   const cards = [...document.querySelectorAll('[data-candidate]')];
   const fields = Object.fromEntries(['sport', 'tier', 'price', 'status', 'budget'].map(id => [id, document.getElementById(id)]));

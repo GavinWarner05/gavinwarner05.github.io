@@ -118,3 +118,12 @@
 .real-card .real-identity{min-height:5.4rem}
 .real-card .real-values{margin:.3rem 0}
 .real-card .real-details summary{padding-top:1rem}
+/* Decorative public headshots; initials remain when absent, blocked or unavailable. */
+.real-avatar{position:relative;display:grid;place-items:center;flex:0 0 4rem;width:4rem;height:4rem;overflow:hidden;border-radius:1rem;background:#ffffff0d;color:#dfd2eb;font-size:1.3rem;font-weight:800}
+.real-avatar img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center top;opacity:0}
+.real-avatar.has-photo img{opacity:1}
+.real-avatar.has-photo>span{visibility:hidden}
+.real-player-name{flex:1;min-width:0}
+.real-card .real-identity{gap:.8rem}
+.real-card .real-player-name h3{overflow-wrap:normal;font-size:1.65rem}
+@media(max-width:360px){.real-avatar{width:3.4rem;height:3.4rem;flex-basis:3.4rem}.real-card .real-player-name h3{font-size:1.5rem}.real-rating{font-size:1.05rem}}

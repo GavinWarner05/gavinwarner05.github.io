@@ -26,6 +26,8 @@ const server = http.createServer((req, res) => {
     assert.equal(await page.locator('button.real-outbound:disabled').count(),4);
     assert.deepEqual(await page.locator('a.real-outbound').evaluateAll(links=>links.map(a=>a.href).sort()), ['https://www.realapp.com/xAtWFEFKQmWLQ','https://www.realapp.com/yPt1FvFyDQkGq']);
     assert.equal(await page.locator('details[open]').count(),0);
+    assert.equal(await page.locator('.real-avatar').count(),6);
+    assert.equal(await page.locator('.real-avatar.has-photo').count(),0);
     assert.equal(await page.locator('.real-sale').filter({hasText:'Not available'}).count(),5);
     assert.match(await page.locator('[data-candidate]').last().locator('.real-sale').textContent(),/20,000/);
     const detail=page.locator('.real-details').first();
@@ -53,10 +55,37 @@ const server = http.createServer((req, res) => {
       assert(await page.locator('[data-candidate]').first().evaluate(e=>e.getBoundingClientRect().height<360),`card too tall at ${width}`);
       if(width===390)await page.screenshot({path:'/tmp/real-mobile.png',fullPage:true});
     }
+    if (process.env.REAL_TEST_IMAGES === '1') {
+      const images=await browser.newPage({viewport:{width:390,height:844}});
+      await images.route('**/*',route=>{
+        const url=new URL(route.request().url());
+        return url.origin===base || ['a.espncdn.com','static.www.nfl.com'].includes(url.hostname) ? route.continue() : route.abort();
+      });
+      await images.goto(base+'/real/');
+      for(const avatar of await images.locator('.real-avatar').all()) {
+        await avatar.scrollIntoViewIfNeeded();
+        await avatar.locator('img').evaluate(img=>new Promise((resolve,reject)=>{
+          const check=()=>img.naturalWidth>0?resolve():reject(new Error('Image failed: '+img.src));
+          if(img.complete)check();else{img.addEventListener('load',check,{once:true});img.addEventListener('error',check,{once:true});}
+        }));
+      }
+      assert.equal(await images.locator('.real-avatar.has-photo').count(),6);
+      assert(await images.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+      await images.locator('#candidates').scrollIntoViewIfNeeded();
+      await images.screenshot({path:'/tmp/real-headshots-mobile.png',fullPage:true});
+      await images.setViewportSize({width:1440,height:1000});
+      await images.screenshot({path:'/tmp/real-headshots-desktop.png',fullPage:true});
+      await images.route('**/i/headshots/nba/players/full/3975.png',route=>route.abort());
+      await images.reload();await images.locator('.real-avatar').last().scrollIntoViewIfNeeded();
+      await images.waitForFunction(()=>[...document.querySelectorAll('.real-avatar img')].at(-1).complete);
+      assert.equal(await images.locator('.real-avatar').last().evaluate(e=>e.classList.contains('has-photo')),false);
+      assert.equal(await images.locator('.real-avatar').last().locator('span').isVisible(),true);
+      await images.close();
+    }
     assert.deepEqual(errors,[]);
     assert.match(await page.locator('meta[name=robots]').getAttribute('content'),/noindex/);
     for(const file of ['sitemap.xml','index.xml','index.html','sports/index.html'])assert(!fs.readFileSync(path.join(root,file),'utf8').includes('gavinwarner.digital/real'),`discovery in ${file}`);
     const nojs=await browser.newPage({javaScriptEnabled:false});await nojs.goto(base+'/real/');assert.equal(await nojs.locator('[data-candidate]').count(),6);await nojs.close();
-    console.log('PASS: compact cards, disclosures, rarity accents, sale comparisons, filters, budget, reset, empty/stale states, disabled unverified links, noindex/discovery, no-JS fallback and 320/390/768/1440 widths');
+    console.log('PASS: headshots/fallback, compact cards, disclosures, rarity accents, sale comparisons, filters, budget, reset, empty/stale states, disabled unverified links, noindex/discovery, no-JS fallback and 320/390/768/1440 widths');
   }finally{await browser.close();server.close();}
 })().catch(e=>{console.error(e);server.close();process.exitCode=1;});

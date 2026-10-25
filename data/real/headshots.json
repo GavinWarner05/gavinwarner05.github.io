@@ -1,0 +1,32 @@
+{
+  "lutz": {
+    "url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vcglg5vsgbiyggwibgy0",
+    "initials": "WL",
+    "source": "Existing public NFL roster: static/sports/data/teams/den.json"
+  },
+  "aubrey": {
+    "url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bgwg06zmyohjxvzznbf6",
+    "initials": "BA",
+    "source": "Existing public NFL roster: static/sports/data/teams/dal.json"
+  },
+  "ryland": {
+    "url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gbfzwbzdl9wj582nh5g9",
+    "initials": "CR",
+    "source": "Existing public NFL roster: static/sports/data/teams/ari.json"
+  },
+  "randle": {
+    "url": "https://a.espncdn.com/i/headshots/nba/players/full/3064514.png",
+    "initials": "JR",
+    "source": "https://www.espn.com/nba/player/_/id/3064514"
+  },
+  "sengun": {
+    "url": "https://a.espncdn.com/i/headshots/nba/players/full/4871144.png",
+    "initials": "AŞ",
+    "source": "https://www.espn.com/nba/player/_/id/4871144"
+  },
+  "curry": {
+    "url": "https://a.espncdn.com/i/headshots/nba/players/full/3975.png",
+    "initials": "SC",
+    "source": "https://www.espn.com/nba/player/_/id/3975"
+  }
+}
