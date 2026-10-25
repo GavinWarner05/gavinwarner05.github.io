@@ -26,5 +26,7 @@ npx --prefix /tmp/real-browser playwright install chromium
 NODE_PATH=/tmp/real-browser/node_modules node tests/real_finder.browser.cjs
 ```
 
-The existing Deploy GitHub Pages workflow builds from main on its schedule. The tracked
-`docs/` tree is not rewritten by this feature; production builds into a Pages artifact.
+The existing Deploy GitHub Pages workflow builds from main on its schedule. The active
+branch-based Pages deployment also publishes `docs/`; only `docs/real/` is generated
+for this feature. After changes, copy the built real/index.html and its referenced
+/real/ CSS and JS into docs/real. Do not rewrite unrelated generated pages.
