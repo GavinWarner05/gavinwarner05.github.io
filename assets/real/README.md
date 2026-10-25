@@ -1,45 +1,45 @@
 # Auction Finder snapshot
 
-`/real/` is an independent, public research prototype. It is excluded from Hugo lists,
-sitemap and feeds and emits noindex/nofollow metadata. This does not provide access control.
-No other page or navigation links to it.
+`/real/` is a public research prototype excluded from Hugo lists, sitemap and feeds,
+with noindex/nofollow metadata. This is not access control. Only requested tools under
+`/real/` link to one another; other site navigation does not link here.
 
-The six candidate records are manually supplied research snapshots checked approximately
-2026-10-25 06:40 UTC, with Randle rechecked at 06:46 and Lutz at 06:48 UTC. They are not live quotes, verified payouts or account eligibility.
-Do not publish account balances, holdings, credentials, or personalized ownership data.
+The current two-candidate replacement was checked on 2026-10-25 at 16:16:55 UTC
+(Alperen Şengün) and 16:18:29 UTC (Harrison Butker). These are manually verified
+research snapshots, not live quotes, payouts or account eligibility. Removed older
+candidates are simply omitted; omission does not establish that an auction ended.
+Never publish account balances, holdings, credentials or ownership data.
 
-An empty `url` deliberately renders a disabled listing button. Only fill it with the
-verified direct HTTPS URL for that exact auction, never a marketplace homepage, search
-URL, inferred ID or same-player card. A null `endAt` means not verified. Observed countdowns are not live or absolute end times. Record the
-verification timestamp and recheck all card attributes when updating data. Each card has its own check timestamp and display label; update both together. Sold context is manually recorded and not proof of equivalent attributes.
+`data/real/candidates.json` supplies counts, sports, tiers, timestamps and sale records.
+Prices with zero bids are labeled opening/listed prices. Empty URLs render disabled
+buttons. Only add verified exact listing URLs, never inferred IDs or marketplace pages.
+Null `endAt` means no absolute closing time was verified. Countdown observations are
+not live timers; do not silently convert rounded countdowns to exact closing times.
 
-The budget is optional and kept only in the page session; it is never persisted or sent.
-There is no API integration, automatic refresh, scraping backend or purchasing control.
+`sold` is an array of date/price/rating observations. Multiple records produce a labeled
+historical observed-sales arithmetic mean with sample size; a single record is called
+a historical observed sale, never an average. Empty arrays show unavailable. Şengün's
+four records average 8,500 Rax over November 2025–July 2026; this is not a current fair
+value estimate. Butker has no verified same-player sale comp. Do not reuse another
+player's market-panel median. Historical Rax is gross season earnings, not sale price
+or guaranteed future/remaining earnings.
 
-Validation:
+The optional budget stays in page-session memory. There is no account/API integration,
+automatic refresh, backend or purchasing control. Photos map to player identities in
+`headshots.json`; public NFL/ESPN URLs were verified and initials handle load failures.
+
+Rarity accents are artwork-sampled visual matches, not official CSS tokens: Mystic
+#A77320 from a supplied Rodgers Mystic reference; Iconic #9F4396 from the historical
+Real post https://x.com/realapp_/status/1745249532948963683. Text is lightened for contrast.
+
+Checks:
 
 ```sh
-HUGO_RESOURCEDIR=/tmp/real-resources hugo --environment production --minify --destination /tmp/real-site
+HUGO_RESOURCEDIR=/tmp/real-resources hugo --environment production --minify --destination /tmp/real-refresh-preview
 python3 -m unittest discover -s tests -v
-npm install --prefix /tmp/real-browser --no-audit --no-fund playwright
-npx --prefix /tmp/real-browser playwright install chromium
-NODE_PATH=/tmp/real-browser/node_modules node tests/real_finder.browser.cjs
+REAL_TEST_IMAGES=1 NODE_PATH=/tmp/real-browser/node_modules node tests/real_finder.browser.cjs
 ```
 
-The existing Deploy GitHub Pages workflow builds from main on its schedule. The active
-branch-based Pages deployment also publishes `docs/`; only `docs/real/` is generated
-for this feature. After changes, copy the built real/index.html and its referenced
-/real/ CSS and JS into docs/real. Do not rewrite unrelated generated pages.
-
-Compact cards keep shortlist position, player, season/tier, rating, price comparison,
-and exact-auction navigation visible. Position is existing shortlist order, not a return
-ranking. Curry's observed sale average is the arithmetic mean of 18,000, 18,000,
-20,000 and 24,000 Rax (20,000; four observations). Others have no supplied sales,
-so their comparison is unavailable. Historical Rax is not a sale price.
-
-Rarity accents are visual matches sampled from Real artwork, not official CSS tokens:
-Mystic #A77320 (Rodgers Mystic background reference supplied by the research task);
-Iconic #9F4396 (historical official Real Obi Toppin Iconic post,
-https://x.com/realapp_/status/1745249532948963683). Borders and subtle background
-opacity derive from these samples; lightened text preserves readability. The historical
-Iconic reference does not establish an exact current palette token.
+For active branch-based Pages publishing, copy only the built `real/index.html` and
+its referenced `/real/` CSS/JS into `docs/real/`. Do not rewrite unrelated generated
+pages. The existing separate deployment workflow also renders Hugo from source.

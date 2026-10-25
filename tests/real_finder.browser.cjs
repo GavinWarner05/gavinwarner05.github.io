@@ -1,91 +1,33 @@
 const { chromium } = require('playwright');
-const fs = require('node:fs');
-const http = require('node:http');
-const path = require('node:path');
-const assert = require('node:assert/strict');
-const root = process.env.REAL_TEST_SITE_DIR || '/tmp/real-site';
-const server = http.createServer((req, res) => {
-  const url = new URL(req.url, 'http://localhost');
-  const file = path.join(root, url.pathname, url.pathname.endsWith('/') ? 'index.html' : '');
-  fs.readFile(file, (err, data) => { if (err) {res.writeHead(404);res.end();return;} res.setHeader('Content-Type',({'.html':'text/html','.js':'text/javascript','.css':'text/css'})[path.extname(file)]||'application/octet-stream');res.end(data); });
-});
-(async()=>{
-  await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
-  const base=`http://127.0.0.1:${server.address().port}`;
-  const browser=await chromium.launch({headless:true});
-  try {
-    const page=await browser.newPage({viewport:{width:1440,height:1100},colorScheme:'dark'});
-    const errors=[];page.on('pageerror',e=>errors.push(e.message));
-    await page.route('**/*',route=>route.request().url().startsWith(base)?route.continue():route.abort());
-    await page.clock.setFixedTime(new Date('2026-10-28T08:00:00Z'));
-    await page.goto(base+'/real/');
-    const visible=()=>page.locator('[data-candidate]:visible').count();
-    assert.equal(await visible(),6);
-    assert.equal(await page.getByText('Opening / listed price', {exact:true}).count(),2);
-    assert.match(await page.locator('#snapshot-age').textContent(),/Stale snapshot/);
-    assert.equal(await page.locator('button.real-outbound:disabled').count(),4);
-    assert.deepEqual(await page.locator('a.real-outbound').evaluateAll(links=>links.map(a=>a.href).sort()), ['https://www.realapp.com/xAtWFEFKQmWLQ','https://www.realapp.com/yPt1FvFyDQkGq']);
-    assert.equal(await page.locator('details[open]').count(),0);
-    assert.equal(await page.locator('.real-avatar').count(),6);
-    assert.equal(await page.locator('.real-avatar.has-photo').count(),0);
-    assert.equal(await page.locator('.real-sale').filter({hasText:'Not available'}).count(),5);
-    assert.match(await page.locator('[data-candidate]').last().locator('.real-sale').textContent(),/20,000/);
-    const detail=page.locator('.real-details').first();
-    await detail.locator('summary').click();assert.equal(await detail.getAttribute('open'),'');
-    assert.equal(await detail.getByText(/Historical annual Rax/).isVisible(),true);
-    await detail.locator('summary').press('Enter');assert.equal(await detail.getAttribute('open'),null);
-    assert.notEqual(await page.locator('[data-tier=Iconic]').first().evaluate(e=>getComputedStyle(e).borderColor),await page.locator('[data-tier=Mystic]').first().evaluate(e=>getComputedStyle(e).borderColor));
-    await page.screenshot({path:'/tmp/real-desktop.png',fullPage:true});
-    await page.selectOption('#sport','NFL');assert.equal(await visible(),3);
-    await page.selectOption('#tier','Mystic');assert.equal(await visible(),0);
-    assert.equal(await page.locator('#empty').isVisible(),true);
-    await page.click('#clear-empty');await page.waitForTimeout(20);assert.equal(await visible(),6);
-    await page.selectOption('#price','10000');assert.equal(await visible(),2);
-    await page.selectOption('#price','');await page.selectOption('#status','Fair price');assert.equal(await visible(),1);
-    assert.match(await page.locator('[data-candidate]:visible').textContent(),/Stephen Curry/);
-    await page.selectOption('#status','Above budget');assert.equal(await visible(),0);
-    await page.fill('#budget','10000');assert.equal(await visible(),4);
-    await page.selectOption('#status','');assert.equal(await visible(),6);
-    assert.equal(await page.locator('.above').count(),4);
-    await page.click('button[type=reset]');await page.waitForTimeout(20);
-    assert.equal(await page.locator('.above').count(),0);
-    for(const width of [320,390,768,1440]){
-      await page.setViewportSize({width,height:900});
-      assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,`overflow at ${width}`);
-      assert(await page.locator('[data-candidate]').first().evaluate(e=>e.getBoundingClientRect().height<360),`card too tall at ${width}`);
-      if(width===390)await page.screenshot({path:'/tmp/real-mobile.png',fullPage:true});
-    }
-    if (process.env.REAL_TEST_IMAGES === '1') {
-      const images=await browser.newPage({viewport:{width:390,height:844}});
-      await images.route('**/*',route=>{
-        const url=new URL(route.request().url());
-        return url.origin===base || ['a.espncdn.com','static.www.nfl.com'].includes(url.hostname) ? route.continue() : route.abort();
-      });
-      await images.goto(base+'/real/');
-      for(const avatar of await images.locator('.real-avatar').all()) {
-        await avatar.scrollIntoViewIfNeeded();
-        await avatar.locator('img').evaluate(img=>new Promise((resolve,reject)=>{
-          const check=()=>img.naturalWidth>0?resolve():reject(new Error('Image failed: '+img.src));
-          if(img.complete)check();else{img.addEventListener('load',check,{once:true});img.addEventListener('error',check,{once:true});}
-        }));
-      }
-      assert.equal(await images.locator('.real-avatar.has-photo').count(),6);
-      assert(await images.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
-      await images.locator('#candidates').scrollIntoViewIfNeeded();
-      await images.screenshot({path:'/tmp/real-headshots-mobile.png',fullPage:true});
-      await images.setViewportSize({width:1440,height:1000});
-      await images.screenshot({path:'/tmp/real-headshots-desktop.png',fullPage:true});
-      await images.route('**/i/headshots/nba/players/full/3975.png',route=>route.abort());
-      await images.reload();await images.locator('.real-avatar').last().scrollIntoViewIfNeeded();
-      await images.waitForFunction(()=>[...document.querySelectorAll('.real-avatar img')].at(-1).complete);
-      assert.equal(await images.locator('.real-avatar').last().evaluate(e=>e.classList.contains('has-photo')),false);
-      assert.equal(await images.locator('.real-avatar').last().locator('span').isVisible(),true);
-      await images.close();
-    }
-    assert.deepEqual(errors,[]);
-    assert.match(await page.locator('meta[name=robots]').getAttribute('content'),/noindex/);
-    for(const file of ['sitemap.xml','index.xml','index.html','sports/index.html'])assert(!fs.readFileSync(path.join(root,file),'utf8').includes('gavinwarner.digital/real'),`discovery in ${file}`);
-    const nojs=await browser.newPage({javaScriptEnabled:false});await nojs.goto(base+'/real/');assert.equal(await nojs.locator('[data-candidate]').count(),6);await nojs.close();
-    console.log('PASS: headshots/fallback, compact cards, disclosures, rarity accents, sale comparisons, filters, budget, reset, empty/stale states, disabled unverified links, noindex/discovery, no-JS fallback and 320/390/768/1440 widths');
-  }finally{await browser.close();server.close();}
-})().catch(e=>{console.error(e);server.close();process.exitCode=1;});
+const fs = require('node:fs');const http = require('node:http');const path = require('node:path');const assert = require('node:assert/strict');
+const root=process.env.REAL_TEST_SITE_DIR||'/tmp/real-refresh-preview';
+const candidates=JSON.parse(fs.readFileSync(path.join(__dirname,'../data/real/candidates.json'),'utf8')).candidates;
+const server=http.createServer((req,res)=>{const url=new URL(req.url,'http://localhost');const file=path.join(root,url.pathname,url.pathname.endsWith('/')?'index.html':'');fs.readFile(file,(err,data)=>{if(err){res.writeHead(404);res.end();return;}res.setHeader('Content-Type',({'.html':'text/html','.js':'text/javascript','.css':'text/css'})[path.extname(file)]||'application/octet-stream');res.end(data);});});
+(async()=>{await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));const base=`http://127.0.0.1:${server.address().port}`;const browser=await chromium.launch({headless:true});try{
+ const page=await browser.newPage({viewport:{width:1440,height:1100},colorScheme:'dark'});const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.route('**/*',r=>r.request().url().startsWith(base)?r.continue():r.abort());await page.clock.setFixedTime(new Date('2026-10-28T08:00:00Z'));await page.goto(base+'/real/');
+ const visible=()=>page.locator('[data-candidate]:visible').count();assert.equal(await visible(),2);
+ assert.equal(await page.getByText('Opening / listed price',{exact:true}).count(),1);assert.match(await page.locator('#snapshot-age').textContent(),/Stale snapshot/);
+ assert.equal(await page.locator('button.real-outbound:disabled').count(),0);assert.deepEqual(await page.locator('a.real-outbound').evaluateAll(links=>links.map(a=>a.href).sort()),candidates.map(c=>c.url).sort());
+ assert.equal(await page.locator('details[open]').count(),0);assert.equal(await page.locator('.real-avatar').count(),2);assert.equal(await page.locator('.real-avatar.has-photo').count(),0);
+ assert.equal(await page.locator('.real-sale').filter({hasText:'Not available'}).count(),1);assert.match(await page.locator('[data-sport=NBA] .real-sale').textContent(),/8,500.*n=4/s);
+ assert.match(await page.locator('.sports-updated').textContent(),/16:16:55–16:18:29 UTC/);
+ assert.match(await page.locator('.real-summary').textContent(),/02.*researched candidates/s);
+ const detail=page.locator('.real-details').first();await detail.locator('summary').click();assert.equal(await detail.getAttribute('open'),'');assert.match(await detail.textContent(),/Nov 8, 2025/);assert.match(await detail.textContent(),/Jul 16, 2026/);assert.match(await detail.textContent(),/Current fair-value estimate unavailable/);await detail.locator('summary').press('Enter');assert.equal(await detail.getAttribute('open'),null);
+ await page.screenshot({path:'/tmp/real-desktop.png',fullPage:true});
+ await page.selectOption('#sport','NFL');assert.equal(await visible(),1);await page.selectOption('#price','9000');assert.equal(await visible(),0);assert.equal(await page.locator('#empty').isVisible(),true);
+ await page.click('#clear-empty');await page.waitForTimeout(20);assert.equal(await visible(),2);await page.selectOption('#tier','Mystic');assert.equal(await visible(),2);await page.selectOption('#price','9000');assert.equal(await visible(),1);await page.selectOption('#price','');
+ await page.selectOption('#status','Fair price');assert.equal(await visible(),0);await page.selectOption('#status','Above budget');assert.equal(await visible(),0);await page.fill('#budget','9500');assert.equal(await visible(),1);assert.match(await page.locator('[data-candidate]:visible').textContent(),/Harrison Butker/);await page.selectOption('#status','');assert.equal(await visible(),2);assert.equal(await page.locator('.above').count(),1);
+ await page.click('button[type=reset]');await page.waitForTimeout(20);assert.equal(await page.locator('.above').count(),0);
+ for(const width of [320,390,768,1440]){await page.setViewportSize({width,height:900});assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`overflow ${width}`);for(const card of await page.locator('[data-candidate]').all())assert(await card.evaluate(e=>e.getBoundingClientRect().height<360),`card too tall ${width}`);if(width===390)await page.screenshot({path:'/tmp/real-mobile.png',fullPage:true});}
+ if(process.env.REAL_TEST_IMAGES==='1'){
+  const images=await browser.newPage({viewport:{width:390,height:844}});await images.route('**/*',r=>{const u=new URL(r.request().url());return u.origin===base||['a.espncdn.com','static.www.nfl.com'].includes(u.hostname)?r.continue():r.abort();});await images.goto(base+'/real/');
+  for(const avatar of await images.locator('.real-avatar').all()){await avatar.scrollIntoViewIfNeeded();await avatar.locator('img').evaluate(img=>new Promise((resolve,reject)=>{const check=()=>img.naturalWidth>0?resolve():reject(new Error('Image failed: '+img.src));if(img.complete)check();else{img.addEventListener('load',check,{once:true});img.addEventListener('error',check,{once:true});}}));}
+  assert.equal(await images.locator('.real-avatar.has-photo').count(),2);assert(await images.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await images.screenshot({path:'/tmp/real-refresh-mobile.png',fullPage:true});await images.setViewportSize({width:1440,height:1000});await images.screenshot({path:'/tmp/real-refresh-desktop.png',fullPage:true});
+  const blocked=await images.locator('.real-avatar img').last().getAttribute('src');await images.route(blocked,r=>r.abort());await images.reload();await images.locator('.real-avatar').last().scrollIntoViewIfNeeded();await images.waitForFunction(()=>[...document.querySelectorAll('.real-avatar img')].at(-1).complete);assert.equal(await images.locator('.real-avatar').last().evaluate(e=>e.classList.contains('has-photo')),false);assert.equal(await images.locator('.real-avatar').last().locator('span').isVisible(),true);await images.close();
+ }
+ assert.deepEqual(errors,[]);assert.match(await page.locator('meta[name=robots]').getAttribute('content'),/noindex/);
+ for(const file of ['sitemap.xml','index.xml','index.html','sports/index.html'])assert(!fs.readFileSync(path.join(root,file),'utf8').includes('gavinwarner.digital/real'));
+ const nojs=await browser.newPage({javaScriptEnabled:false});await nojs.goto(base+'/real/');assert.equal(await nojs.locator('[data-candidate]').count(),2);await nojs.close();
+ console.log('PASS: refreshed two-card snapshot, exact URLs/check times, historical mean and unavailable comp, headshots/fallback, filters/empty/budget, Details, stale state, compact mobile widths and noindex.');
+}finally{await browser.close();server.close();}})().catch(e=>{console.error(e);server.close();process.exitCode=1;});

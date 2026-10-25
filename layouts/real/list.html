@@ -15,19 +15,24 @@
 <body class="colorscheme-dark real-page">
 <a class="real-skip" href="#candidates">Skip to candidates</a>
 <nav class="real-top" aria-label="Auction Finder"><strong>GW <span>/</span> AUCTION FINDER</strong><a class="real-pill" href="{{ "real/predictions/" | relURL }}">Paper predictions ↗</a></nav>
+{{ $snapshot := hugo.Data.real.candidates }}
+{{ $candidates := $snapshot.candidates }}
+{{ $sports := slice }}{{ $tiers := slice }}{{ $linked := 0 }}
+{{ range $candidates }}{{ $sports = $sports | append .sport }}{{ $tiers = $tiers | append .tier }}{{ if .url }}{{ $linked = add $linked 1 }}{{ end }}{{ end }}
+{{ $oldest := $snapshot.checked }}{{ if $candidates }}{{ $oldest = (index (sort $candidates "checked") 0).checked }}{{ end }}
 <main class="sports-home">
-  <header class="sports-home-intro"><div><p class="sports-eyebrow">Real collectibles · NFL + NBA</p><h1>Find your next<br>watchlist pick.</h1></div><p class="sports-updated">Last checked, approximately<br><time datetime="{{ hugo.Data.real.candidates.checked }}">Oct 25, 2026 · 06:40–06:48 UTC</time></p></header>
+  <header class="sports-home-intro"><div><p class="sports-eyebrow">Real collectibles · NFL + NBA</p><h1>Find your next<br>watchlist pick.</h1></div><p class="sports-updated">Last checked, approximately<br><time datetime="{{ $snapshot.checked }}">{{ time.Format "Jan 2, 2006" $snapshot.checked }} · {{ time.Format "15:04:05" $oldest }}–{{ time.Format "15:04:05" $snapshot.checked }} UTC</time></p></header>
   <section class="sports-home-hero real-hero" aria-labelledby="hero-title">
-    <div class="sports-home-hero-copy"><p class="sports-home-hero-eyebrow">Research first. Decide carefully.</p><h2 id="hero-title">The numbers.<br>The context.<br>The caveats.</h2><p class="real-hero-description">Compare observed prices with historical annual Rax and sold context. A shortlist to investigate, not a list of guaranteed deals.</p><a class="real-primary" href="#candidates">Explore candidates <span aria-hidden="true">↗</span></a></div>
-    <div class="real-summary"><div><strong>06</strong><span>researched candidates</span></div><div><strong>02</strong><span>sports in this snapshot</span></div><p>No newly verified superior buy.<br>2 exact auction links captured.</p></div>
+    <div class="sports-home-hero-copy"><p class="sports-home-hero-eyebrow">Research first. Decide carefully.</p><h2 id="hero-title">The numbers.<br>The context.<br>The caveats.</h2><p class="real-hero-description">Compare observed prices with historical season Rax and sold context. A shortlist to investigate, not a list of guaranteed deals.</p><a class="real-primary" href="#candidates">Explore candidates <span aria-hidden="true">↗</span></a></div>
+    <div class="real-summary"><div><strong>{{ printf "%02d" (len $candidates) }}</strong><span>researched candidates</span></div><div><strong>{{ printf "%02d" (len (uniq $sports)) }}</strong><span>sports in this snapshot</span></div><p>No newly verified superior buy.<br>{{ $linked }} exact auction links captured.</p></div>
   </section>
   <p class="real-notice" id="snapshot-notice"><span class="real-dot" aria-hidden="true"></span><strong>Snapshot only — not live.</strong> Listings may be stale, ended or sold. No automatic refresh. <span id="snapshot-age"></span></p>
   <section class="sports-home-section" id="candidates" aria-labelledby="candidate-heading">
-    <div class="sports-section-heading"><div><p class="sports-home-kicker">The shortlist</p><h2 id="candidate-heading">Auction candidates</h2></div><span id="result-count" role="status" aria-live="polite">6 candidates</span></div>
+    <div class="sports-section-heading"><div><p class="sports-home-kicker">The shortlist</p><h2 id="candidate-heading">Auction candidates</h2></div><span id="result-count" role="status" aria-live="polite">{{ len $candidates }} candidates</span></div>
     <form class="real-filters" id="filters" aria-label="Filter candidates">
-      <label>Sport<select id="sport"><option value="">All sports</option><option>NFL</option><option>NBA</option></select></label>
-      <label>Tier<select id="tier"><option value="">All tiers</option><option>Iconic</option><option>Mystic</option></select></label>
-      <label>Observed price<select id="price"><option value="">Any price</option><option value="10000">Up to 10,000</option><option value="15000">Up to 15,000</option><option value="20000">Up to 20,000</option></select></label>
+      <label>Sport<select id="sport"><option value="">All sports</option>{{ range sort (uniq $sports) }}<option>{{ . }}</option>{{ end }}</select></label>
+      <label>Tier<select id="tier"><option value="">All tiers</option>{{ range sort (uniq $tiers) }}<option>{{ . }}</option>{{ end }}</select></label>
+      <label>Observed price<select id="price"><option value="">Any price</option><option value="9000">Up to 9,000</option><option value="10000">Up to 10,000</option><option value="15000">Up to 15,000</option><option value="20000">Up to 20,000</option></select></label>
       <label>Candidate status<select id="status"><option value="">All statuses</option><option>Watchlist</option><option>Fair price</option><option>Above budget</option></select></label>
       <label>Your budget (Rax)<input id="budget" type="number" min="0" step="1" placeholder="Optional" aria-describedby="budget-help"></label>
       <button type="reset" class="real-reset">Reset filters</button>
@@ -35,24 +40,27 @@
     </form>
     <noscript><p class="real-notice">Enable JavaScript to use filters. All researched candidates are shown below.</p></noscript>
     <div class="real-grid">
-    {{ range $index, $card := hugo.Data.real.candidates.candidates }}
+    {{ range $index, $card := $candidates }}
+      {{ $sales := .sold | default slice }}{{ $saleCount := len $sales }}{{ $saleTotal := 0.0 }}
+      {{ range $sales }}{{ $saleTotal = add $saleTotal .price }}{{ end }}
       <article class="real-card" data-candidate data-sport="{{ .sport }}" data-tier="{{ .tier }}" data-price="{{ .price }}" data-status="{{ .status }}">
         <header class="real-card-header"><span class="real-sport"><span class="real-rank" aria-label="Shortlist position {{ add $index 1 }}">#{{ add $index 1 }}</span> {{ .sport }}</span><span class="real-status" data-label>{{ .status }}</span></header>
         <div class="real-identity">{{ with index hugo.Data.real.headshots .id }}<span class="real-avatar" aria-hidden="true"><span>{{ .initials }}</span><img src="{{ .url }}" alt="" width="40" height="40" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>{{ end }}<div class="real-player-name"><h3>{{ .name }}</h3><p>{{ .season }} · <span class="real-rarity">{{ .tier }} {{ .level }}</span></p></div><span class="real-rating"><small>Rating</small>{{ lang.FormatNumber 1 .rating }}</span></div>
-        <dl class="real-values"><div><dt>{{ if eq (int .bids) 0 }}Opening / listed price{{ else }}Current bid at check{{ end }}</dt><dd>{{ lang.FormatNumber 0 .price }} <small>Rax</small></dd></div><div><dt>Observed sale avg.</dt><dd class="real-sale">{{ if eq .id "curry" }}20,000 <small>Rax · 4 sales</small>{{ else }}<span class="real-unavailable">Not available</span>{{ end }}</dd></div></dl>
+        <dl class="real-values"><div><dt>{{ if eq (int .bids) 0 }}Opening / listed price{{ else }}Current bid at check{{ end }}</dt><dd>{{ lang.FormatNumber 0 .price }} <small>Rax</small></dd></div><div><dt>{{ if gt $saleCount 1 }}Historical observed-sales mean{{ else if eq $saleCount 1 }}Historical observed sale{{ else }}Historical sale comparison{{ end }}</dt><dd class="real-sale">{{ if gt $saleCount 0 }}{{ lang.FormatNumber 0 (div $saleTotal $saleCount) }} <small>Rax · n={{ $saleCount }}</small>{{ else }}<span class="real-unavailable">Not available</span>{{ end }}</dd></div></dl>
         {{ if .url }}<a class="real-outbound" href="{{ .url }}" target="_blank" rel="noopener noreferrer nofollow">View exact auction ↗</a>{{ else }}<button class="real-outbound" disabled>Exact auction link unavailable</button>{{ end }}
         <details class="real-details"><summary>Details</summary><div>
-          <p>Historical annual Rax: <strong>{{ lang.FormatNumber 0 .historical }}</strong> · {{ .bids }} {{ if eq (int .bids) 1 }}bid{{ else }}bids{{ end }}</p>
-          {{ with .sold }}<p><strong>Sale observations:</strong> {{ . }} Arithmetic mean of these four observations: 20,000 Rax.</p>{{ end }}
+          <p>{{ .historicalLabel | default "Historical season Rax" }}: <strong>{{ if and (isset . "historical") (ne .historical nil) }}{{ lang.FormatNumber 0 .historical }}{{ else }}Not verified{{ end }}</strong> · {{ .bids }} {{ if eq (int .bids) 1 }}bid{{ else }}bids{{ end }}</p>
+          {{ with .earningsContext }}<p>{{ . }}</p>{{ end }}
+          {{ if gt $saleCount 0 }}<p><strong>Historical sale observations (n={{ $saleCount }}):</strong></p><ul>{{ range sort $sales "date" }}<li>{{ time.Format "Jan 2, 2006" .date }} · {{ lang.FormatNumber 0 .price }} Rax · rating {{ lang.FormatNumber 1 .rating }}</li>{{ end }}</ul>{{ with .soldContext }}<p>{{ . }}</p>{{ end }}{{ end }}
           <p>{{ .note }}</p>
-          <p>Exact end time: not verified{{ with .countdown }}<br>Observed countdown: {{ . }} (not live){{ end }}{{ with .countdownNote }}<br>{{ . }}{{ end }}<br>Checked ≈ <time datetime="{{ .checked }}">{{ .checkedLabel }}</time></p>{{ with .verification }}<p>{{ . }}</p>{{ end }}
+          <p>Exact end time: {{ if .endAt }}<time datetime="{{ .endAt }}">{{ time.Format "Jan 2, 2006 · 15:04 UTC" .endAt }}</time>{{ else }}not verified{{ end }}{{ with .countdown }}<br>Observed countdown: {{ . }} (not live){{ end }}{{ with .countdownNote }}<br>{{ . }}{{ end }}<br>Checked ≈ <time datetime="{{ .checked }}">{{ time.Format "Jan 2, 2006 · 15:04:05 UTC" .checked }}</time></p>{{ with .verification }}<p>{{ . }}</p>{{ end }}
         </div></details>
       </article>
     {{ end }}
     </div>
     <div class="real-empty" id="empty" hidden><h3>No candidates match.</h3><p>Try another sport, tier or price range. “Above budget” needs an optional budget first.</p><button type="button" id="clear-empty">Clear filters</button></div>
   </section>
-  <section class="real-method" aria-labelledby="method-heading"><p class="sports-home-kicker">Read before you act</p><h2 id="method-heading">A snapshot, with limits.</h2><div><p><strong>Prices can move.</strong> A current bid or opening price is not a guaranteed purchase price. Confirm the listing, card attributes, end time and final cost before taking any action.</p><p><strong>History is not a forecast.</strong> Historical annual Rax totals are research snapshots, not current payouts, verified account eligibility or guaranteed future returns. Sale averages use only recorded observations; same-player sales may differ in season, rating and other card attributes.</p><p><strong>Labels are research context.</strong> Numbers show shortlist order, not a return ranking. Watchlist means further review is needed. Fair price reflects the supplied sold range, not a recommendation. Above budget compares only with the number you enter.</p></div></section>
+  <section class="real-method" aria-labelledby="method-heading"><p class="sports-home-kicker">Read before you act</p><h2 id="method-heading">A snapshot, with limits.</h2><div><p><strong>Prices can move.</strong> A current bid or opening price is not a guaranteed purchase price. Confirm the listing, card attributes, end time and final cost before taking any action.</p><p><strong>History is not a forecast.</strong> Historical season Rax totals are gross research snapshots, not current payouts, verified account eligibility or guaranteed future returns. Sale averages use only recorded observations; same-player sales may differ in season, rating and other card attributes.</p><p><strong>Labels are research context.</strong> Numbers show shortlist order, not a return ranking. Watchlist means further review is needed. A historical observed-sales mean is not a current fair-value estimate. Above budget compares only with the number you enter.</p></div></section>
   <footer class="real-footer">Independent research prototype · Not affiliated with Real.<br>This page is public to anyone with the URL. No account or ownership information is included.</footer>
 </main>
 </body></html>
