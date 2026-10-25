@@ -87,3 +87,34 @@
 .real-page .sports-section-heading h2{font-size:2.5rem}
 .real-page .sports-section-heading span{font-size:1.1rem}
 }
+
+/* Compact research cards; rarity color accents require verified official values. */
+.real-grid{align-items:start}
+.real-card{padding:1.6rem;gap:1.3rem}
+.real-card-header{min-height:2.6rem}
+.real-rank{color:#f5f2ff;margin-right:.7rem;font-variant-numeric:tabular-nums}
+.real-identity{margin:0;justify-content:space-between;gap:1rem}
+.real-card h3{font-size:1.8rem}
+.real-identity p{margin:.4rem 0 0;font-size:1.15rem}
+.real-rating{flex:none;text-align:right;font-size:1.2rem;font-weight:750;color:#ded4ed}
+.real-rating small{display:block;font-size:1rem;color:#bcb1cf;font-weight:500}
+.real-values{grid-template-columns:1fr 1fr;gap:1rem}
+.real-values div+div{padding:0 0 0 1rem;border-top:0;border-left:1px solid #ffffff18}
+.real-values dd,.real-values div+div dd{font-size:2.3rem}
+.real-values small{display:block;font-size:1rem;line-height:1.5}
+.real-values dt{font-size:1rem}
+.real-unavailable{font-size:1.35rem;font-weight:500;letter-spacing:0;color:#bcb1cf}
+.real-details{border-top:1px solid #ffffff18;font-size:1.15rem;color:#c7bed5;line-height:1.65}
+.real-details summary{cursor:pointer;min-height:4.4rem;padding:1.2rem 0 .6rem;font-weight:650;color:#dcd2eb}
+.real-details p{margin:.8rem 0}
+.real-details summary:hover{color:#fff}
+@media(max-width:700px){.real-card{padding:1.5rem;gap:1rem}.real-grid{gap:1.2rem}.real-card h3{font-size:1.9rem}.real-values dd,.real-values div+div dd{font-size:2.4rem}}
+/* Visual matches sampled from Real card artwork, not official CSS tokens. */
+.real-card[data-tier="Iconic"]{border-color:#9f4396aa;background:linear-gradient(145deg,#9f43961f,#1d192b 75%)}
+.real-card[data-tier="Mystic"]{border-color:#a77320b3;background:linear-gradient(145deg,#a7732024,#1d192b 75%)}
+.real-card[data-tier="Iconic"] .real-rarity{color:#e8a4df}
+.real-card[data-tier="Mystic"] .real-rarity{color:#e7bf76}
+.real-card{gap:.8rem;padding:1.4rem;line-height:1.5}
+.real-card .real-identity{min-height:5.4rem}
+.real-card .real-values{margin:.3rem 0}
+.real-card .real-details summary{padding-top:1rem}

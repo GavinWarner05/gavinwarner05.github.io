@@ -30,3 +30,16 @@ The existing Deploy GitHub Pages workflow builds from main on its schedule. The 
 branch-based Pages deployment also publishes `docs/`; only `docs/real/` is generated
 for this feature. After changes, copy the built real/index.html and its referenced
 /real/ CSS and JS into docs/real. Do not rewrite unrelated generated pages.
+
+Compact cards keep shortlist position, player, season/tier, rating, price comparison,
+and exact-auction navigation visible. Position is existing shortlist order, not a return
+ranking. Curry's observed sale average is the arithmetic mean of 18,000, 18,000,
+20,000 and 24,000 Rax (20,000; four observations). Others have no supplied sales,
+so their comparison is unavailable. Historical Rax is not a sale price.
+
+Rarity accents are visual matches sampled from Real artwork, not official CSS tokens:
+Mystic #A77320 (Rodgers Mystic background reference supplied by the research task);
+Iconic #9F4396 (historical official Real Obi Toppin Iconic post,
+https://x.com/realapp_/status/1745249532948963683). Borders and subtle background
+opacity derive from these samples; lightened text preserves readability. The historical
+Iconic reference does not establish an exact current palette token.

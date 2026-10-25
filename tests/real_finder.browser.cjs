@@ -25,6 +25,14 @@ const server = http.createServer((req, res) => {
     assert.match(await page.locator('#snapshot-age').textContent(),/Stale snapshot/);
     assert.equal(await page.locator('button.real-outbound:disabled').count(),4);
     assert.deepEqual(await page.locator('a.real-outbound').evaluateAll(links=>links.map(a=>a.href).sort()), ['https://www.realapp.com/xAtWFEFKQmWLQ','https://www.realapp.com/yPt1FvFyDQkGq']);
+    assert.equal(await page.locator('details[open]').count(),0);
+    assert.equal(await page.locator('.real-sale').filter({hasText:'Not available'}).count(),5);
+    assert.match(await page.locator('[data-candidate]').last().locator('.real-sale').textContent(),/20,000/);
+    const detail=page.locator('.real-details').first();
+    await detail.locator('summary').click();assert.equal(await detail.getAttribute('open'),'');
+    assert.equal(await detail.getByText(/Historical annual Rax/).isVisible(),true);
+    await detail.locator('summary').press('Enter');assert.equal(await detail.getAttribute('open'),null);
+    assert.notEqual(await page.locator('[data-tier=Iconic]').first().evaluate(e=>getComputedStyle(e).borderColor),await page.locator('[data-tier=Mystic]').first().evaluate(e=>getComputedStyle(e).borderColor));
     await page.screenshot({path:'/tmp/real-desktop.png',fullPage:true});
     await page.selectOption('#sport','NFL');assert.equal(await visible(),3);
     await page.selectOption('#tier','Mystic');assert.equal(await visible(),0);
@@ -42,12 +50,13 @@ const server = http.createServer((req, res) => {
     for(const width of [320,390,768,1440]){
       await page.setViewportSize({width,height:900});
       assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,`overflow at ${width}`);
+      assert(await page.locator('[data-candidate]').first().evaluate(e=>e.getBoundingClientRect().height<360),`card too tall at ${width}`);
       if(width===390)await page.screenshot({path:'/tmp/real-mobile.png',fullPage:true});
     }
     assert.deepEqual(errors,[]);
     assert.match(await page.locator('meta[name=robots]').getAttribute('content'),/noindex/);
     for(const file of ['sitemap.xml','index.xml','index.html','sports/index.html'])assert(!fs.readFileSync(path.join(root,file),'utf8').includes('gavinwarner.digital/real'),`discovery in ${file}`);
     const nojs=await browser.newPage({javaScriptEnabled:false});await nojs.goto(base+'/real/');assert.equal(await nojs.locator('[data-candidate]').count(),6);await nojs.close();
-    console.log('PASS: filters, budget, reset, empty/stale states, disabled unverified links, noindex/discovery, no-JS fallback and 320/390/768/1440 widths');
+    console.log('PASS: compact cards, disclosures, rarity accents, sale comparisons, filters, budget, reset, empty/stale states, disabled unverified links, noindex/discovery, no-JS fallback and 320/390/768/1440 widths');
   }finally{await browser.close();server.close();}
 })().catch(e=>{console.error(e);server.close();process.exitCode=1;});

@@ -35,21 +35,24 @@
     </form>
     <noscript><p class="real-notice">Enable JavaScript to use filters. All researched candidates are shown below.</p></noscript>
     <div class="real-grid">
-    {{ range hugo.Data.real.candidates.candidates }}
+    {{ range $index, $card := hugo.Data.real.candidates.candidates }}
       <article class="real-card" data-candidate data-sport="{{ .sport }}" data-tier="{{ .tier }}" data-price="{{ .price }}" data-status="{{ .status }}">
-        <header class="real-card-header"><span class="real-sport">{{ .sport }}</span><span class="real-status" data-label>{{ .status }}</span></header>
-        <div class="real-identity"><span class="real-monogram" aria-hidden="true">{{ substr .name 0 1 }}</span><div><h3>{{ .name }}</h3><p>{{ .season }} · {{ .tier }} {{ .level }}</p></div></div>
-        <dl class="real-values"><div><dt>{{ if eq (int .bids) 0 }}Opening / listed price{{ else }}Current bid at check{{ end }}</dt><dd>{{ lang.FormatNumber 0 .price }} <small>Rax</small></dd></div><div><dt>Historical annual Rax</dt><dd>{{ lang.FormatNumber 0 .historical }}</dd></div></dl>
-        <div class="real-meta"><span>Rating <b>{{ lang.FormatNumber 1 .rating }}</b></span><span><b>{{ .bids }}</b> {{ if eq (int .bids) 1 }}bid{{ else }}bids{{ end }}</span></div>
-        <div class="real-context"><p class="real-kicker">{{ if .sold }}Sold comparison{{ else }}Research note{{ end }}</p>{{ with .sold }}<p>{{ . }}</p>{{ end }}<p>{{ .note }}</p></div>
-        <footer><p>Exact end time: not verified{{ with .countdown }}<br>Observed countdown: {{ . }} (not live){{ end }}{{ with .countdownNote }}<br>{{ . }}{{ end }}<br>Checked ≈ <time datetime="{{ .checked }}">{{ .checkedLabel }}</time></p>{{ with .verification }}<p>{{ . }}</p>{{ end }}
-        {{ if .url }}<a class="real-outbound" href="{{ .url }}" target="_blank" rel="noopener noreferrer nofollow">View exact auction ↗</a>{{ else }}<button class="real-outbound" disabled>Exact auction link unavailable</button>{{ end }}</footer>
+        <header class="real-card-header"><span class="real-sport"><span class="real-rank" aria-label="Shortlist position {{ add $index 1 }}">#{{ add $index 1 }}</span> {{ .sport }}</span><span class="real-status" data-label>{{ .status }}</span></header>
+        <div class="real-identity"><div><h3>{{ .name }}</h3><p>{{ .season }} · <span class="real-rarity">{{ .tier }} {{ .level }}</span></p></div><span class="real-rating"><small>Rating</small>{{ lang.FormatNumber 1 .rating }}</span></div>
+        <dl class="real-values"><div><dt>{{ if eq (int .bids) 0 }}Opening / listed price{{ else }}Current bid at check{{ end }}</dt><dd>{{ lang.FormatNumber 0 .price }} <small>Rax</small></dd></div><div><dt>Observed sale avg.</dt><dd class="real-sale">{{ if eq .id "curry" }}20,000 <small>Rax · 4 sales</small>{{ else }}<span class="real-unavailable">Not available</span>{{ end }}</dd></div></dl>
+        {{ if .url }}<a class="real-outbound" href="{{ .url }}" target="_blank" rel="noopener noreferrer nofollow">View exact auction ↗</a>{{ else }}<button class="real-outbound" disabled>Exact auction link unavailable</button>{{ end }}
+        <details class="real-details"><summary>Details</summary><div>
+          <p>Historical annual Rax: <strong>{{ lang.FormatNumber 0 .historical }}</strong> · {{ .bids }} {{ if eq (int .bids) 1 }}bid{{ else }}bids{{ end }}</p>
+          {{ with .sold }}<p><strong>Sale observations:</strong> {{ . }} Arithmetic mean of these four observations: 20,000 Rax.</p>{{ end }}
+          <p>{{ .note }}</p>
+          <p>Exact end time: not verified{{ with .countdown }}<br>Observed countdown: {{ . }} (not live){{ end }}{{ with .countdownNote }}<br>{{ . }}{{ end }}<br>Checked ≈ <time datetime="{{ .checked }}">{{ .checkedLabel }}</time></p>{{ with .verification }}<p>{{ . }}</p>{{ end }}
+        </div></details>
       </article>
     {{ end }}
     </div>
     <div class="real-empty" id="empty" hidden><h3>No candidates match.</h3><p>Try another sport, tier or price range. “Above budget” needs an optional budget first.</p><button type="button" id="clear-empty">Clear filters</button></div>
   </section>
-  <section class="real-method" aria-labelledby="method-heading"><p class="sports-home-kicker">Read before you act</p><h2 id="method-heading">A snapshot, with limits.</h2><div><p><strong>Prices can move.</strong> A current bid or opening price is not a guaranteed purchase price. Confirm the listing, card attributes, end time and final cost before taking any action.</p><p><strong>History is not a forecast.</strong> Historical annual Rax totals are research snapshots, not current payouts, verified account eligibility or guaranteed future returns. Sold comparisons may differ in card attributes.</p><p><strong>Labels are research context.</strong> Watchlist means further review is needed. Fair price reflects the supplied sold range, not a recommendation. Above budget compares only with the number you enter.</p></div></section>
+  <section class="real-method" aria-labelledby="method-heading"><p class="sports-home-kicker">Read before you act</p><h2 id="method-heading">A snapshot, with limits.</h2><div><p><strong>Prices can move.</strong> A current bid or opening price is not a guaranteed purchase price. Confirm the listing, card attributes, end time and final cost before taking any action.</p><p><strong>History is not a forecast.</strong> Historical annual Rax totals are research snapshots, not current payouts, verified account eligibility or guaranteed future returns. Sale averages use only recorded observations; same-player sales may differ in season, rating and other card attributes.</p><p><strong>Labels are research context.</strong> Numbers show shortlist order, not a return ranking. Watchlist means further review is needed. Fair price reflects the supplied sold range, not a recommendation. Above budget compares only with the number you enter.</p></div></section>
   <footer class="real-footer">Independent research prototype · Not affiliated with Real.<br>This page is public to anyone with the URL. No account or ownership information is included.</footer>
 </main>
 </body></html>
